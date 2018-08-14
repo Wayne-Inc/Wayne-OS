@@ -1,0 +1,3 @@
+Batterij niet voldoende opgeladen voor update.
+
+Sluit je Chromebook aan op een stroombron. De update wordt automatisch gestart wanneer de batterij voldoende is opgeladen.

@@ -1,0 +1,5 @@
+Poziom naładowania baterii jest zbyt niski, by zainstalować aktualizację.
+
+Ładuję…
+
+Instalacja aktualizacji rozpocznie się automatycznie, gdy tylko bateria zostanie wystarczająco naładowana.

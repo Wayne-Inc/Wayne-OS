@@ -1,0 +1,6 @@
+Aku on värskendamiseks liiga tühi.
+
+Laadimine …
+
+Värskendamine algab automaatselt kohe, kui aku on
+piisavalt laetud.

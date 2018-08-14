@@ -1,0 +1,4 @@
+Notiek atjauninājuma instalēšana...
+
+Lūdzu, neizslēdziet ierīci. Kad atjaunināšana būs pabeigta,
+ierīce tiks automātiski atkārtoti palaista.

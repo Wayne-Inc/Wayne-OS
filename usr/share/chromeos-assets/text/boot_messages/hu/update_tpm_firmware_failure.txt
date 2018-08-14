@@ -1,0 +1,6 @@
+Valami hiba történt, nem sikerült a frissítés.
+
+Elképzelhető, hogy helyre kell állítania az eszközt. A ChromeOS helyreállításáról
+a következő linken találhat további információt: https://www.google.com/chromeos/recovery
+
+Az újraindításhoz nyomja le a szóközt.

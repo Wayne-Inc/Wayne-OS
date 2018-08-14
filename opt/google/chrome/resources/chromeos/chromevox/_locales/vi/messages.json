@@ -1,0 +1,3082 @@
+﻿{
+  "LOCALE": {
+    "message": "vi"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox - Mang t\u00ednh n\u0103ng Tho\u1ea1i l\u00ean Chrome"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "D\u01b0\u0300ng gio\u0323ng no\u0301i"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "B\u1eadt/t\u1eaft ch\u1ebf \u0111\u1ed9 c\u1ed1 \u0111\u1ecbnh"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "Ph\u00edm ti\u00ea\u0300n t\u00f4\u0301"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "Nh\u1ea3y t\u1edbi m\u1ee5c c\u00f3 th\u1ec3 \u0111\u1eb7t ti\u00eau \u0111i\u1ec3m ti\u1ebfp theo"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "Nh\u1ea3y t\u1edbi m\u1ee5c c\u00f3 th\u1ec3 \u0111\u1eb7t ti\u00eau \u0111i\u1ec3m tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "\u0110i\u1ec1u h\u01b0\u1edbng lui"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "\u0110i\u1ec1u h\u01b0\u1edbng ti\u1ebfn l\u00ean"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Di chuy\u1ec3n sang tr\u00e1i"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "Chuy\u1ec3n quy\u1ec1n"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "L\u00f9i l\u1ea1i \u0111o\u1ea1n tr\u01b0\u1edbc \u0111\u00f3 trong khi ti\u1ebfp t\u1ee5c \u0111\u1ecdc"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "Chuy\u1ec3n \u0111\u1ebfn \u0111o\u1ea1n ti\u1ebfp theo trong khi ti\u1ebfp t\u1ee5c \u0111\u1ecdc"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Gi\u1ea3m m\u1ee9c \u0111\u1ed9 chi ti\u1ebft c\u1ee7a \u0111i\u1ec1u h\u01b0\u1edbng"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "T\u0103ng m\u1ee9c \u0111\u1ed9 chi ti\u1ebft c\u1ee7a \u0111i\u1ec1u h\u01b0\u1edbng"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "Th\u1ef1c hi\u1ec7n t\u00e1c v\u1ee5 tr\u00ean m\u1ee5c hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Nh\u1ea5p v\u00e0o m\u1ee5c hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Th\u00f4ng b\u00e1o URL \u1edf sau li\u00ean k\u1ebft"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Th\u00f4ng b\u00e1o ti\u00eau \u0111\u1ec1 c\u1ee7a trang hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Th\u00f4ng b\u00e1o URL c\u1ee7a trang hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "B\u1eaft \u0111\u1ea7u \u0111\u1ecdc t\u1eeb v\u1ecb tr\u00ed hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "M\u1edf menu ChromeVox"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "\u1ea8n tr\u1ee3 gi\u00fap c\u1ee7a ChromeVox"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Nh\u00e2\u0301n l\u00ean ho\u0103\u0323c xu\u00f4\u0301ng \u0111\u00ea\u0309 xem la\u0323i l\u00ea\u0323nh, nh\u00e2\u0301n enter \u0111\u00ea\u0309 ki\u0301ch hoa\u0323t"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "M\u01a1\u0309 h\u01b0\u01a1\u0301ng d\u00e2\u0303n ChromeVox"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "ChromeVox t\u00ecm trong trang"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "M\u1edf trang t\u00f9y ch\u1ecdn"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "M\u1edf ch\u1ebf \u0111\u1ed9 h\u1ecdc"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Gi\u1ea3m t\u1ed1c \u0111\u1ed9 n\u00f3i"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "T\u0103ng t\u1ed1c \u0111\u1ed9 n\u00f3i"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Gi\u1ea3m \u0111\u1ed9 cao"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "T\u0103ng \u0111\u1ed9 cao"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Gi\u1ea3m \u00e2m l\u01b0\u1ee3ng gi\u1ecdng n\u00f3i"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "T\u0103ng \u00e2m l\u01b0\u1ee3ng gi\u1ecdng n\u00f3i"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "Hi\u1ec3n th\u1ecb danh s\u00e1ch bi\u1ec3u m\u1eabu"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "Hi\u1ec3n th\u1ecb danh s\u00e1ch ti\u00eau \u0111\u1ec1"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "Hi\u1ec3n th\u1ecb danh s\u00e1ch li\u00ean k\u1ebft"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "Hi\u1ec3n th\u1ecb danh s\u00e1ch b\u1ea3ng"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "Hi\u1ec3n th\u1ecb danh s\u00e1ch \u0111i\u1ec3m m\u1ed1c"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "H\u00e0ng tr\u01b0\u1edbc c\u1ee7a b\u1ea3ng"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "H\u00e0ng ti\u1ebfp theo c\u1ee7a b\u1ea3ng"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "C\u1ed9t tr\u01b0\u1edbc c\u1ee7a b\u1ea3ng"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "C\u1ed9t ti\u1ebfp theo c\u1ee7a b\u1ea3ng"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Th\u00f4ng b\u00e1o c\u00e1c ti\u00eau \u0111\u1ec1 c\u1ee7a \u00f4 hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Th\u00f4ng b\u00e1o t\u1ecda \u0111\u1ed9 \u00f4 hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "\u0110o\u00e1n t\u1ea1i ti\u00eau \u0111\u1ec1 h\u00e0ng c\u1ee7a \u00f4 hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "\u0110o\u00e1n t\u1ea1i ti\u00eau \u0111\u1ec1 c\u1ed9t c\u1ee7a \u00f4 hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "\u0110i t\u1edbi \u0111\u1ea7u b\u1ea3ng"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "\u0110i t\u1edbi cu\u1ed1i b\u1ea3ng"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "\u0110i t\u1edbi \u0111\u1ea7u h\u00e0ng hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "\u0110i t\u1edbi cu\u1ed1i h\u00e0ng hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "\u0110i t\u1edbi \u0111\u1ea7u c\u1ed9t hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "\u0110i t\u1edbi cu\u1ed1i c\u1ed9t hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 1 ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 1 tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 2 ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 2 tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 3 ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 3 tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 4 ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 4 tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 5 ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 5 tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 6 ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ea5p 6 tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "H\u1ed9p k\u1ebft h\u1ee3p ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "H\u1ed9p k\u1ebft h\u1ee3p tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "V\u00f9ng v\u0103n b\u1ea3n c\u00f3 th\u1ec3 ch\u1ec9nh s\u1eeda ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "V\u00f9ng v\u0103n b\u1ea3n c\u00f3 th\u1ec3 ch\u1ec9nh s\u1eeda tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "Tr\u01b0\u1eddng bi\u1ec3u m\u1eabu ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "Tr\u01b0\u1eddng bi\u1ec3u m\u1eabu tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "H\u00ecnh ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "H\u00ecnh tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "Ti\u00eau \u0111\u1ec1 ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "Ti\u00eau \u0111\u1ec1 tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "M\u1ee5c danh s\u00e1ch ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "M\u1ee5c danh s\u00e1ch tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "B\u01b0\u1edbc nh\u1ea3y ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "B\u01b0\u1edbc nh\u1ea3y tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "Li\u00ean k\u1ebft ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "Li\u00ean k\u1ebft tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "Danh s\u00e1ch ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "Danh s\u00e1ch tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "Bi\u1ec3u th\u1ee9c to\u00e1n ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "Bi\u1ec3u th\u1ee9c to\u00e1n tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "Ph\u01b0\u01a1ng ti\u1ec7n ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "Ph\u01b0\u01a1ng ti\u1ec7n tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "Kh\u1ed1i tr\u00edch d\u1eabn ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "Kh\u1ed1i tr\u00edch d\u1eabn tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "N\u00fat radio ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "N\u00fat radio tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "Thanh tr\u01b0\u1ee3t ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "Thanh tr\u01b0\u1ee3t tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "B\u1ea3ng ti\u1ebfp theo"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "Li\u00ean k\u1ebft \u0111\u00e3 truy c\u1eadp ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "B\u1ea3ng tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Li\u00ean k\u1ebft \u0111\u00e3 truy c\u1eadp tr\u01b0\u1edbc \u0111\u00f3"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "N\u00fat ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "N\u00fat tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "H\u1ed9p ki\u1ec3m ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "H\u1ed9p ki\u1ec3m tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "\u0110i\u1ec3m m\u1ed1c ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "\u0110i\u1ec3m m\u1ed1c tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "D\u1ea5u g\u1ee1 l\u1ed7i"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Th\u00f4ng b\u00e1o m\u00f4 t\u1ea3 ng\u1eafn c\u1ee7a v\u1ecb tr\u00ed hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Th\u00f4ng b\u00e1o m\u00f4 t\u1ea3 \u0111\u1ea7y \u0111\u1ee7 c\u1ee7a v\u1ecb tr\u00ed hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "T\u00f9y ch\u1ecdn c\u1ee7a ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "M\u00e0n h\u00ecnh ch\u1eef n\u1ed5i Braille \u1ea3o"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "M\u00f4 ph\u1ecfng \u0111\u1ea7u ra c\u1ee7a m\u00e0n h\u00ecnh ch\u1eef n\u1ed5i c\u00f3 th\u1ec3 l\u00e0m m\u1edbi\n        trong b\u1ea3ng \u0111i\u1ec1u khi\u1ec3n ChromeVox \u1edf \u0111\u1ea7u m\u00e0n h\u00ecnh."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "D\u00f2ng:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "S\u1ed1 \u00f4 m\u1ed7i d\u00f2ng:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Ki\u1ec3u hi\u1ec3n th\u1ecb hi\u1ec7n t\u1ea1i l\u00e0 \u0111an xen."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Ki\u1ec3u hi\u1ec3n th\u1ecb hi\u1ec7n t\u1ea1i l\u00e0 song song."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Thay \u0111\u1ed5i ki\u1ec3u hi\u1ec3n th\u1ecb th\u00e0nh \u0111an xen."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Thay \u0111\u1ed5i ki\u1ec3u hi\u1ec3n th\u1ecb th\u00e0nh song song."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "S\u1eed d\u1ee5ng c\u00e1c t\u00f9y ch\u1ecdn b\u00ean d\u01b0\u1edbi \u0111\u1ec3 t\u00f9y ch\u1ec9nh ChromeVox. C\u00e1c thay \u0111\u1ed5i s\u1ebd c\u00f3 hi\u1ec7u l\u1ef1c ngay l\u1eadp t\u1ee9c."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "S\u1eed d\u1ee5ng chu\u1ed9t \u0111\u1ec3 thay \u0111\u1ed5i ti\u00eau \u0111i\u1ec3m."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "Hi\u1ec3n th\u1ecb ng\u1eef c\u1ea3nh c\u1ee7a m\u1ee5c tr\u01b0\u1edbc khi hi\u1ec3n th\u1ecb c\u00e1c th\u00f4ng tin kh\u00e1c (ch\u1eb3ng h\u1ea1n nh\u01b0 t\u00ean c\u1ee7a m\u1ee5c)."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "C\u1ea3i thi\u1ec7n c\u00e1c trang web c\u1ee5 th\u1ec3 (nh\u01b0 Google T\u00ecm ki\u1ebfm)."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "B\u1eadt m\u00f4 t\u1ea3 chi ti\u1ebft."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "T\u1ef1 \u0111\u1ed9ng \u0111\u1ecdc trang sau khi t\u1ea3i xong."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Khi ph\u00e1t \u00e2m thanh\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "Ph\u00e1t \u1edf \u00e2m l\u01b0\u1ee3ng b\u00ecnh th\u01b0\u1eddng ngay c\u1ea3 khi ChromeVox \u0111ang n\u00f3i"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "Ph\u00e1t \u1edf \u00e2m l\u01b0\u1ee3ng th\u1ea5p h\u01a1n khi ChromeVox \u0111ang n\u00f3i"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "T\u1ea1m d\u1eebng ph\u00e1t l\u1ea1i khi ChromeVox \u0111ang n\u00f3i"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "\u0110\u1eb7t con tr\u1ecf gi\u1eefa c\u00e1c k\u00fd t\u1ef1 khi ch\u1ec9nh s\u1eeda v\u0103n b\u1ea3n (nh\u01b0 Mac OS X)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Gi\u1ecdng n\u00f3i"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Ch\u1ecdn gi\u1ecdng n\u00f3i hi\u1ec7n t\u1ea1i:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Ch\u1eef n\u1ed5i"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "Chuy\u1ec3n sang ch\u1eef n\u1ed5i 8 ch\u1ea5m"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "Chuy\u1ec3n sang ch\u1eef n\u1ed5i 6 ch\u1ea5m"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "Ch\u1ecdn b\u1ea3ng ch\u1eef n\u1ed5i 6 ch\u1ea5m:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, H\u1ea1ng $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), L\u1edbp $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "Ch\u1ecdn b\u1ea3ng ch\u1eef n\u1ed5i 8 ch\u1ea5m:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "B\u1eadt xu\u1ed1ng d\u00f2ng t\u1ef1 \u0111\u1ed9ng"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Ph\u00edm t\u1eaft"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "Thay \u0111\u1ed5i s\u01a1 \u0111\u1ed3 b\u00e0n ph\u00edm hi\u1ec7n t\u1ea1i b\u1eb1ng c\u00e1ch ch\u1ecdn m\u1ed9t t\u00f9y ch\u1ecdn t\u1eeb danh s\u00e1ch b\u00ean d\u01b0\u1edbi."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "\u0110\u1eb7t l\u1ea1i s\u01a1 \u0111\u1ed3 b\u00e0n ph\u00edm hi\u1ec7n t\u1ea1i"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "T\u00f9y ch\u1ec9nh ph\u00edm t\u1eaft cho c\u00e1c l\u1ec7nh \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng th\u01b0\u1eddng xuy\u00ean b\u1eb1ng c\u00e1ch nh\u1eadp ch\u00fang v\u00e0o tr\u01b0\u1eddng t\u01b0\u01a1ng \u1ee9ng b\u00ean d\u01b0\u1edbi."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "Ph\u00edm b\u1ed5 tr\u1ee3"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "Ph\u00edm b\u1ed5 tr\u1ee3 ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "Ch\u1ebf \u0111\u1ed9 h\u1ecdc ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Nh\u1ea5n ph\u00edm b\u1ea5t k\u1ef3 \u0111\u1ec3 bi\u1ebft t\u00ean c\u1ee7a ph\u00edm. Nh\u1ea5n Ctrl+W s\u1ebd \u0111\u00f3ng ch\u1ebf \u0111\u1ed9 h\u1ecdc."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "tab \u0111a\u0303 \u0111\u01b0\u1ee3c t\u1ea1o"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$, tab",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "tab $1$ trong c\u01b0\u0309a s\u00f4\u0309",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "tab $1$ trong c\u1eeda s\u1ed5 \u1ea9n danh",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "Menu $1$ \u0111\u00e3 \u0111\u01b0\u1ee3c m\u1edf",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "\u0111\u00e3 \u0111\u00f3ng menu"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "H\u00f4\u0323p ki\u00ea\u0309m $1$ \u0111\u00e3 \u0111\u01b0\u1ee3c ch\u1ecdn",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "\u0111\u00e3 ch\u1ecdn"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, h\u1ed9p ki\u1ec3m kh\u00f4ng \u0111\u01b0\u1ee3c ch\u1ecdn",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "ch\u01b0a ch\u1ecdn"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "N\u00fat g\u1ea1t, $1$, \u0111\u01b0\u1ee3c b\u1eadt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "N\u00fat g\u1ea1t, $1$, b\u1ecb t\u1eaft",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, n\u00fat radio \u0111\u00e3 \u0111\u01b0\u1ee3c ch\u1ecdn",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "\u0111\u00e3 ch\u1ecdn"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, n\u00fat radio b\u1ecb b\u1ecf ch\u1ecdn",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "\u0111\u00e3 b\u1ecf ch\u1ecdn"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, menu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, m\u1ee5c menu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, m\u1ee5c menu, c\u00f3 menu con",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, c\u1eeda s\u1ed5",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, h\u1ed9p v\u0103n b\u1ea3n",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, h\u1ed9p v\u0103n b\u1ea3n",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, h\u1ed9p v\u0103n b\u1ea3n nh\u1eadp m\u1eadt kh\u1ea9u",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, h\u1ed9p v\u0103n b\u1ea3n nh\u1eadp m\u1eadt kh\u1ea9u",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, n\u00fat",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, h\u1ed9p k\u1ebft h\u1ee3p",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, h\u1ed9p k\u1ebft h\u1ee3p",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, h\u1ed9p danh s\u00e1ch",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, h\u1ed9p danh s\u00e1ch",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, li\u00ean k\u1ebft",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, tab",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "Thanh tr\u01b0\u1ee3t $1$ $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", \u0111\u00e3 \u0111\u01b0\u1ee3c ch\u1ecdn"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", kh\u00f4ng \u0111\u01b0\u1ee3c ch\u1ecdn"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$ / $2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " c\u1ea5p $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "T\u1ed1c \u0111\u1ed9 $1$ ph\u1ea7n tr\u0103m",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "Cao \u0111\u1ed9 $1$ ph\u1ea7n tr\u0103m",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "\u00c2m l\u01b0\u1ee3ng $1$ ph\u1ea7n tr\u0103m",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "\u0110\u00e3 tho\u00e1t kh\u1ecfi h\u1ed9p tho\u1ea1i."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "\u0110a\u0303 thoa\u0301t $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "\u0110\u00e3 v\u00e0o h\u1ed9p tho\u1ea1i"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "\u0111\u00e3 x\u00f3a:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "\u0110\u00e3 b\u1eadt ch\u1ebf \u0111\u1ed9 c\u1ed1 \u0111\u1ecbnh"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "\u0110\u00e3 t\u1eaft ch\u1ebf \u0111\u1ed9 c\u1ed1 \u0111\u1ecbnh"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Tr\u1ee3 gi\u00fap b\u00e0n ph\u00edm"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Menu ng\u1eef c\u1ea3nh"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "Danh s\u00e1ch $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "S\u1eed d\u1ee5ng ph\u00edm m\u0169i t\u00ean l\u00ean v\u00e0 xu\u1ed1ng \u0111\u1ec3 duy\u1ec7t ho\u1eb7c nh\u1eadp \u0111\u1ec3 t\u00ecm ki\u1ebfm."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "\u0110\u00e3 tho\u00e1t"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "Cu\u1ed1i \u00f4."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "Kh\u00f4ng t\u00ecm th\u1ea5y URL n\u00e0o"
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "Tho\u00e1t kh\u1ecfi b\u1ea3ng."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "Tho\u00e1t kh\u1ecfi l\u01b0\u1edbi."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "B\u00ean trong b\u1ea3ng"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Kh\u00f4ng t\u00ecm th\u1ea5y b\u1ea3ng n\u00e0o."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Kh\u00f4ng ph\u1ea3i b\u00ean trong b\u1ea3ng."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Hi\u1ec7n kh\u00f4ng \u1edf ch\u1ebf \u0111\u1ed9 b\u1ea3ng."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "Kh\u00f4ng c\u00f3 \u00f4 n\u00e0o b\u00ean d\u01b0\u1edbi."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Kh\u00f4ng c\u00f3 \u00f4 n\u00e0o ph\u00eda tr\u00ean."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Kh\u00f4ng c\u00f3 \u00f4 n\u00e0o b\u00ean ph\u1ea3i."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "Kh\u00f4ng c\u00f3 \u00f4 n\u00e0o b\u00ean tr\u00e1i."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "\u00d4 tr\u1ed1ng."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "\u0110\u01b0\u1ee3c m\u1edf r\u1ed9ng."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Ti\u00eau \u0111\u1ec1 h\u00e0ng:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Ti\u00eau \u0111\u1ec1 h\u00e0ng tr\u1ed1ng"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ed9t:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ed9t tr\u1ed1ng"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Ti\u00eau \u0111\u1ec1 tr\u1ed1ng"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "H\u00e0ng $1$ / $2$, c\u1ed9t $3$ / $4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "B\u1ea3ng $1$, $2$ x $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "b\u1ea3ng $1$ $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "h\u00e0ng $1$ c\u1ed9t $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "h$1$c$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "Kh\u00f4ng c\u00f3 h\u1ed9p ki\u1ec3m n\u00e0o ti\u1ebfp theo."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "Kh\u00f4ng c\u00f3 h\u1ed9p ki\u1ec3m tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "Kh\u00f4ng c\u00f3 tr\u01b0\u1eddng v\u0103n b\u1ea3n c\u00f3 th\u1ec3 ch\u1ec9nh s\u1eeda ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "Kh\u00f4ng c\u00f3 tr\u01b0\u1eddng v\u0103n b\u1ea3n c\u00f3 th\u1ec3 ch\u1ec9nh s\u1eeda tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 n\u00e0o ti\u1ebfp theo."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 1 ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 1 tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 2 ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 2 tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 3 ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 3 tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 4 ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 4 tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 5 ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 5 tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 6 ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 c\u1ea5p 6 tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "Kh\u00f4ng c\u00f3 m\u1ee5c ti\u1ebfp theo n\u00e0o kh\u00f4ng ph\u1ea3i l\u00e0 li\u00ean k\u1ebft."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "Kh\u00f4ng c\u00f3 m\u1ee5c tr\u01b0\u1edbc n\u00e0o kh\u00f4ng ph\u1ea3i l\u00e0 li\u00ean k\u1ebft."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "Kh\u00f4ng c\u00f3 k\u00fd t\u1ef1 li\u00ean k\u1ebft ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "Kh\u00f4ng c\u00f3 k\u00fd t\u1ef1 li\u00ean k\u1ebft tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "Kh\u00f4ng c\u00f3 li\u00ean k\u1ebft ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "Kh\u00f4ng c\u00f3 li\u00ean k\u1ebft tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "Kh\u00f4ng c\u00f3 b\u1ea3ng ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "Kh\u00f4ng c\u00f3 b\u1ea3ng tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "Kh\u00f4ng c\u00f3 li\u00ean k\u1ebft \u0111\u00e3 truy c\u1eadp ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "Kh\u00f4ng c\u00f3 li\u00ean k\u1ebft \u0111\u00e3 truy c\u1eadp tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "Kh\u00f4ng co\u0301 bi\u00ea\u0309u th\u01b0\u0301c toa\u0301n ti\u00ea\u0301p theo na\u0300o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "Kh\u00f4ng co\u0301 bi\u00ea\u0309u th\u01b0\u0301c toa\u0301n h\u1ecdc tr\u01b0\u01a1\u0301c na\u0300o."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u1ec7n \u00edch ph\u01b0\u01a1ng ti\u1ec7n ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u1ec7n \u00edch ph\u01b0\u01a1ng ti\u1ec7n tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "Kh\u00f4ng c\u00f3 danh s\u00e1ch ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "Kh\u00f4ng c\u00f3 danh s\u00e1ch tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "Kh\u00f4ng c\u00f3 m\u1ee5c danh s\u00e1ch ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "Kh\u00f4ng c\u00f3 m\u1ee5c danh s\u00e1ch tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "Kh\u00f4ng c\u00f3 khung tr\u00edch d\u1eabn ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "Kh\u00f4ng c\u00f3 khung tr\u00edch d\u1eabn tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "Kh\u00f4ng c\u00f3 tr\u01b0\u1eddng bi\u1ec3u m\u1eabu ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "Kh\u00f4ng c\u00f3 tr\u01b0\u1eddng bi\u1ec3u m\u1eabu tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "Kh\u00f4ng c\u00f3 \u0111i\u1ec3m nh\u1ea3y ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "Kh\u00f4ng c\u00f3 \u0111i\u1ec3m nh\u1ea3y tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "Kh\u00f4ng c\u00f3 m\u1ed1c ARIA ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "Kh\u00f4ng c\u00f3 m\u1ed1c ARIA tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "Kh\u00f4ng c\u00f3 h\u1ed9p k\u1ebft h\u1ee3p ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "Kh\u00f4ng c\u00f3 h\u1ed9p k\u1ebft h\u1ee3p tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "Kh\u00f4ng c\u00f3 n\u00fat ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "Kh\u00f4ng c\u00f3 n\u00fat tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "Kh\u00f4ng c\u00f3 h\u00ecnh n\u00e0o ti\u1ebfp theo."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "Kh\u00f4ng c\u00f3 h\u00ecnh tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "Kh\u00f4ng c\u00f3 thanh tr\u01b0\u1ee3t ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "Kh\u00f4ng c\u00f3 thanh tr\u01b0\u1ee3t tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "Kh\u00f4ng c\u00f3 n\u00fat radio ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "Kh\u00f4ng c\u00f3 n\u00fat radio tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "Kh\u00f4ng co\u0301 ph\u00e2\u0300n ti\u00ea\u0301p theo na\u0300o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "Kh\u00f4ng co\u0301 ph\u00e2\u0300n tr\u01b0\u01a1\u0301c na\u0300o."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "Kh\u00f4ng co\u0301 \u0111i\u00ea\u0300u khi\u00ea\u0309n ti\u00ea\u0301p theo na\u0300o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "Kh\u00f4ng co\u0301 \u0111i\u00ea\u0300u khi\u00ea\u0309n tr\u01b0\u01a1\u0301c na\u0300o."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "\u0110\u01b0\u1ee3c nh\u1ea5p"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "\u0111\u01b0\u1ee3c nh\u1ea5p \u0111\u00fap"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1 n\u00e0o."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "Kh\u00f4ng c\u00f3 li\u00ean k\u1ebft n\u00e0o."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "Kh\u00f4ng c\u00f3 bi\u1ec3u m\u1eabu n\u00e0o."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "Kh\u00f4ng c\u00f3 b\u1ea3ng n\u00e0o."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "Kh\u00f4ng c\u00f3 m\u1ed1c ARIA n\u00e0o."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "Kh\u00f4ng c\u00f3 \u0111i\u1ec3m nh\u1ea3y n\u00e0o."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$ / $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "c\u00f3 menu con"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "c\u00f3 c\u1eeda s\u1ed5 b\u1eadt l\u00ean"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+c\u1eeda s\u1ed5 b\u1eadt l\u00ean"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "T\u1ed1i thi\u1ec3u $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "t\u1ed1i thi\u1ec3u:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "T\u1ed1i \u0111a $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "t\u1ed1i \u0111a:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "Th\u00f4ng b\u00e1o"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "alrt"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "H\u1ed9p tho\u1ea1i th\u00f4ng b\u00e1o"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "alrt dlg"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "N\u00fat"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "btn"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "H\u1ed9p ki\u1ec3m"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "H\u1ed9p combo"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "H\u1ed9p tho\u1ea1i"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "dlg"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "L\u01b0\u1edbi"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "grd"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "\u00d4"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "h\u00e0ng $1$ c\u1ed9t $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Li\u00ean k\u1ebft"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "lnk"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "H\u1ed9p danh s\u00e1ch"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "lstbx"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "Nh\u1eadt k\u00fd"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "nh\u1eadt k\u00fd"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "B\u1ea3ng ch\u1eef ch\u1ea1y"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "b\u1ea3ng ch\u1eef ch\u1ea1y"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Menu"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "mnu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Thanh menu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "M\u1ee5c menu"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "H\u1ed9p ki\u1ec3m m\u1ee5c menu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "N\u00fat radio m\u1ee5c menu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "N\u00fat c\u1eeda s\u1ed5 b\u1eadt l\u00ean"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Thanh ti\u1ebfn \u0111\u1ed9"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Ch\u1ec9 b\u00e1o ti\u1ebfn tr\u00ecnh"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "N\u00fat radio"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Nh\u00f3m n\u00fat radio"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Thanh cu\u1ed9n"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Thanh tr\u01b0\u1ee3t"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "sldr"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "N\u00fat quay tr\u00f2n"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "Tr\u1ea1ng th\u00e1i"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "sts"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Tab"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "tab"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "B\u1ea3ng"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "ba\u0309ng"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "Danh s\u00e1ch tab"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "B\u1ea3ng \u0111i\u1ec1u khi\u1ec3n tab"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "H\u1ed9p v\u0103n b\u1ea3n"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "B\u1ed9 t\u00ednh gi\u1edd"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "tmr"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "Thanh c\u00f4ng c\u1ee5"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "M\u1eb9o s\u1eed d\u1ee5ng c\u00f4ng c\u1ee5"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "C\u00e2y"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "c\u00e2y"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "M\u1ee5c c\u00e2y"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "B\u00e0i vi\u1ebft"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "b\u00e0i vi\u1ebft"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "\u1ee8ng d\u1ee5ng"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "app"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Bi\u1ec3u ng\u1eef"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "bnr"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Ti\u00eau \u0111\u1ec1 c\u1ed9t"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "B\u1ed5 sung"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "b\u1ed5 sung"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Th\u00f4ng tin n\u1ed9i dung"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "\u0110\u1ecbnh ngh\u0129a"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "def"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Th\u01b0 m\u1ee5c"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "dir"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "T\u00e0i li\u1ec7u"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "doc"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Bi\u1ec3u m\u1eabu"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "bi\u1ec3u m\u1eabu"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Nh\u00f3m"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "grp"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Ti\u00eau \u0111\u1ec1"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "H\u00ecnh \u1ea3nh"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "img"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "Danh s\u00e1ch"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "M\u1ee5c danh s\u00e1ch"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Ch\u00ednh"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "ch\u00ednh"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "To\u00e1n h\u1ecdc"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "to\u00e1n h\u1ecdc"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "\u0110i\u1ec1u h\u01b0\u1edbng"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "\u0111i\u1ec1u h\u01b0\u1edbng"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "L\u01b0u \u00fd"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "ghi ch\u00fa"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Khu v\u1ef1c"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "rgn"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Ti\u00eau \u0111\u1ec1 h\u00e0ng"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "T\u00ecm ki\u1ebfm"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "search"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "D\u1ea5u ph\u00e2n t\u00e1ch"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "Th\u01b0\u1edbc \u0111o"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "th\u01b0\u1edbc \u0111o"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "T\u1ef1 \u0111\u1ed9ng ho\u00e0n th\u00e0nh n\u1ed9i d\u00f2ng"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "T\u1ef1 \u0111\u1ed9ng ho\u00e0n th\u00e0nh danh s\u00e1ch"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "T\u1ef1 \u0111\u1ed9ng ho\u00e0n th\u00e0nh n\u1ed9i d\u00f2ng v\u00e0 danh s\u00e1ch"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "\u0110\u00e3 ch\u1ecdn"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "Ch\u01b0a ch\u1ecdn"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "\u0110\u00e3 ki\u1ec3m tra m\u1ed9t ph\u1ea7n"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "\u0110\u00e3 b\u1ecb v\u00f4 hi\u1ec7u"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "\u0110\u01b0\u1ee3c m\u1edf r\u1ed9ng"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "\u0110\u00e3 thu g\u1ecdn"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "Nh\u1eadp v\u00e0o kh\u00f4ng h\u1ee3p l\u1ec7"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "\u0110\u00e3 ph\u00e1t hi\u1ec7n l\u1ed7i ng\u1eef ph\u00e1p"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "l\u1ed7i ng\u1eef ph\u00e1p"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "\u0110\u00e3 ph\u00e1t hi\u1ec7n l\u1ed7i ch\u00ednh t\u1ea3"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "sai ch\u00ednh t\u1ea3"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "Nhi\u1ec1u d\u00f2ng"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "\u0110a ch\u1ecdn"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "\u0111a ch\u1ecdn"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "\u0110\u00e3 nh\u1ea5n"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Ch\u01b0a nh\u1ea5n"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "\u0110\u01b0\u1ee3c nh\u1ea5n m\u1ed9t ph\u1ea7n"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Ch\u1ec9 \u0111\u1ecdc"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "rdonly"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "B\u1eaft bu\u1ed9c"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "\u0110\u00e3 ch\u1ecdn"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Ch\u01b0a ch\u1ecdn"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Li\u00ean k\u1ebft \u0111\u00e3 truy c\u1eadp"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "\u0110\u00e3 truy c\u1eadp"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "Ti\u00eau \u0111\u1ec1 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "Ti\u00eau \u0111\u1ec1 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "Ti\u00eau \u0111\u1ec1 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "Ti\u00eau \u0111\u1ec1 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "Ti\u00eau \u0111\u1ec1 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "Ti\u00eau \u0111\u1ec1 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "M\u1ee5c danh s\u00e1ch"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "Danh s\u00e1ch theo th\u1ee9 t\u1ef1"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "H\u1ed9p combo"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "V\u00f9ng v\u0103n b\u1ea3n"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "ba\u0309ng"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tbl"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "Danh s\u00e1ch"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Ph\u1ea7n"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "\u0110i\u1ec1u h\u01b0\u1edbng"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "\u0111i\u1ec1u h\u01b0\u1edbng"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "B\u00e0i vi\u1ebft"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "b\u00e0i vi\u1ebft"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "Lo\u1ea1i tr\u1eeb"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "lo\u1ea1i tr\u1eeb"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Nh\u00f3m ti\u00eau \u0111\u1ec1"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Ti\u00eau \u0111\u1ec1"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "ti\u00eau \u0111\u1ec1"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "Ch\u00e2n trang"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "ftr"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Th\u1eddi gian"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "\u0110\u00e1nh d\u1ea5u"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "\u0111\u00e1nh d\u1ea5u"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Video"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "video"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "\u00c2m thanh"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "\u00e2m thanh"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "C\u00f4ng c\u1ee5 ch\u1ecdn m\u00e0u"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "c\u00f4ng c\u1ee5 ch\u1ecdn m\u00e0u"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "Ki\u1ec3m so\u00e1t ng\u00e0y gi\u1edd"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "ng\u00e0y gi\u1edd"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Ki\u1ec3m so\u00e1t th\u1eddi gian"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "th\u1eddi gian"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "Ki\u1ec3m so\u00e1t ng\u00e0y gi\u1edd"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "ng\u00e0y gi\u1edd"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "Ki\u1ec3m so\u00e1t ng\u00e0y"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "ng\u00e0y"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Chi\u0309nh s\u01b0\u0309a v\u0103n ba\u0309n, mu\u0323c nh\u00e2\u0323p email"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@s\u1eeda tr\u01b0\u1eddng 8 ch\u1ea5m"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "Ch\u1ecdn t\u1ec7p"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "t\u1ec7p"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "Ki\u1ec3m so\u00e1t th\u00e1ng"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "th\u00e1ng"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "Ch\u1ec9nh s\u1eeda v\u0103n b\u1ea3n ch\u1ec9 d\u00e0nh cho s\u1ed1"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "V\u0103n b\u1ea3n ch\u1ec9nh s\u1eeda m\u1eadt kh\u1ea9u"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "\u0110\u1eb7t l\u1ea1i"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "\u0111\u1eb7t l\u1ea1i"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Chi\u0309nh s\u01b0\u0309a v\u0103n ba\u0309n, mu\u0323c nh\u00e2\u0323p ti\u0300m ki\u00ea\u0301m"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Ch\u1ec9nh s\u1eeda v\u0103n b\u1ea3n"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Chi\u0309nh s\u01b0\u0309a v\u0103n ba\u0309n, mu\u0323c nh\u00e2\u0323p URL"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "s\u1eeda url tr\u01b0\u1eddng 8 ch\u1ea5m"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Ki\u1ec3m so\u00e1t tu\u00e2\u0300n trong n\u0103m"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "tu\u1ea7n"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Li\u00ean k\u1ebft b\u00ean trong"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Tr\u1ed1ng"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "D\u1ea5u c\u00e1ch"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "c\u00f3 $1$ m\u1ee5c",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "v\u1edbi {COUNT,plural, =1{# m\u1ee5c}other{# m\u1ee5c}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "c\u00f3 menu con"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "c\u00f3 c\u1eeda s\u1ed5 b\u1eadt l\u00ean"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "c\u00f3 c\u1eeda s\u1ed5 b\u1eadt l\u00ean"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "B\u1ed9 s\u01b0u t\u1eadp $1$ c\u00f3 $2$ m\u1ee5c",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "D\u1ea5u c\u00e1ch"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Backspace"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Tab"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Tr\u00e1i"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "L\u00ean"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "Ph\u1ea3i"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Xu\u1ed1ng"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Li\u00ean k\u1ebft kh\u00f4ng x\u00e1c \u0111\u1ecbnh"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "Chuy\u1ec3n \u0111\u1ed5i ChromeVox gi\u1eefa tr\u1ea1ng th\u00e1i ho\u1ea1t \u0111\u1ed9ng ho\u1eb7c kh\u00f4ng ho\u1ea1t \u0111\u1ed9ng."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "ChromeVox hi\u1ec7n kh\u00f4ng ho\u1ea1t \u0111\u1ed9ng."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "Chuy\u1ec3n \u0111\u1ed5i sang ChromeVox c\u1ed5 \u0111i\u1ec3n."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "Ph\u1ea7n t\u1eed kh\u00e1c tr\u01b0\u1edbc."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "Ph\u1ea7n t\u1eed kh\u00e1c ti\u1ebfp theo."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "Ph\u1ea7n t\u1eed t\u01b0\u01a1ng t\u1ef1 tr\u01b0\u1edbc."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "Ph\u1ea7n t\u1eed t\u01b0\u01a1ng t\u1ef1 ti\u1ebfp theo."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "Kh\u00f4ng c\u00f3 ph\u1ea7n t\u1eed t\u01b0\u01a1ng t\u1ef1 n\u00e0o kh\u00e1c."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "Kh\u00f4ng c\u00f3 ph\u1ea7n t\u1eed kh\u00e1c n\u00e0o n\u1eefa."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "Nh\u1eadp th\u0103m d\u00f2 nh\u00f3m"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Th\u0103m d\u00f2 nh\u00f3m"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "\u0110\u1ed1i t\u01b0\u1ee3ng"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Nh\u00f3m"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "B\u1ea3ng"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Ha\u0300ng"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "C\u00f4\u0323t"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Ha\u0300ng"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "C\u00f4\u0323t"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "h\u00e0ng"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "c\u1ed9t"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "C\u00e2y toa\u0301n ho\u0323c ML"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "B\u00f4\u0301 cu\u0323c toa\u0301n ho\u0323c ML"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "Ma\u0303 th\u00f4ng ba\u0301o toa\u0301n ho\u0323c ML"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "La\u0301 toa\u0301n ho\u0323c ML"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "H\u00ecnh \u1ea3nh"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "T\u00f9y ch\u1ec9nh"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "D\u00f2ng"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "C\u00e2u"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "T\u1eeb"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "K\u00fd t\u1ef1"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "T\u00ecm trong trang."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Nh\u1eadp truy v\u1ea5n t\u00ecm ki\u1ebfm."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "\u0110\u00e3 tho\u00e1t kh\u1ecfi ti\u1ec7n \u00edch t\u00ecm trong trang."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "Kh\u00f4ng c\u00f2n k\u1ebft qu\u1ea3 n\u00e0o n\u1eefa."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "Ph\u00edm b\u1ed5 tr\u1ee3"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "\u0110i\u1ec1u h\u01b0\u1edbng ChromeVox"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Th\u00f4ng tin"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "L\u1ec7nh tr\u1ee3 gi\u00fap"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "\u0110i\u1ec1u ch\u1ec9nh gi\u1ecdng n\u00f3i"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "T\u1ed5ng quan"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "B\u1ea3ng"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "Chuy\u1ec3n l\u1ec7nh"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Ch\u1eef n\u1ed5i"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Nh\u00e0 ph\u00e1t tri\u1ec3n"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "S\u01a1 \u0111\u1ed3 b\u00e0n ph\u00edm c\u1ed5 \u0111i\u1ec3n"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "S\u01a1 \u0111\u1ed3 b\u00e0n ph\u00edm ti\u1ebfp theo"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "S\u01a1 \u0111\u1ed3 b\u00e0n ph\u00edm ph\u1eb3ng"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "S\u01a1 \u0111\u1ed3 b\u00e0n ph\u00edm th\u1eed nghi\u1ec7m"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "B\u1eadt ghi nh\u1eadt k\u00fd TTS"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "B\u1eaft \u0111\u1ea7u ch\u1ecdn"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "K\u1ebft th\u00fac ch\u1ecdn"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "L\u1ef1a ch\u1ecdn hi\u1ec7n t\u1ea1i l\u00e0 "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "L\u1ef1a ch\u1ecdn b\u1eaft \u0111\u1ea7u ho\u1eb7c k\u1ebft th\u00fac."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "sao ch\u00e9p $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "c\u1eaft $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "d\u00e1n $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "\u0111\u00e3 ch\u1ecdn"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "\u0111\u00e3 b\u1ecf ch\u1ecdn"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "\u0111\u00e3 th\u00eam v\u00e0o l\u1ef1a ch\u1ecdn"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "\u0111\u00e3 x\u00f3a kh\u1ecfi l\u1ef1a ch\u1ecdn"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "sau \u0111\u00f3"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "theo sau l\u00e0"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "Ph\u00edm b\u1ed5 tr\u1ee3 ChromeVox"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "$1$ \u0111\u00e3 \u0111\u01b0\u1ee3c g\u00e1n cho m\u1ed9t l\u1ec7nh.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "To\u00e1n h\u1ecdc"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "to\u00e1n h\u1ecdc"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Kh\u00f4ng c\u00f3 trong to\u00e1n h\u1ecdc"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "SA CH"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "gi\u1edd"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "ph\u00fat"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "gi\u00e2y"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "mili gi\u00e2y"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "SA"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "CH"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "tu\u1ea7n"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "Th\u00e1ng 1"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "Th\u00e1ng 2"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "Th\u00e1ng 3"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "Th\u00e1ng 4"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "Th\u00e1ng 5"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "Tha\u0301ng 6"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "Th\u00e1ng 7"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "Tha\u0301ng 8"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "Th\u00e1ng 9"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "Th\u00e1ng 10"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "Th\u00e1ng 11"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "Th\u00e1ng 12"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "Kh\u00f4ng c\u00f3 d\u1ea5u c\u00e2u"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "M\u1ed9t s\u1ed1 d\u1ea5u c\u00e2u"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "T\u1ea5t c\u1ea3 d\u1ea5u c\u00e2u"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Nh\u1ea5n enter \u0111\u1ec3 ch\u1ea5p nh\u1eadn ho\u1eb7c escape \u0111\u1ec3 h\u1ee7y, m\u0169i t\u00ean xu\u1ed1ng \u0111\u1ec3 chuy\u1ec3n sang k\u1ebft qu\u1ea3 ti\u1ebfp theo v\u00e0 m\u0169i t\u00ean l\u00ean \u0111\u1ec3 chuy\u1ec3n sang k\u1ebft qu\u1ea3 tr\u01b0\u1edbc."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "c\u00f3 th\u1ec3 nh\u1ea5p \u0111\u01b0\u1ee3c"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "K\u00fd t\u1ef1 tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "K\u00fd t\u1ef1 ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "T\u1eeb tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "T\u1eeb ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "C\u00e2u tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "C\u00e2u ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "D\u00f2ng tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "D\u00f2ng ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "\u0110\u1ed1i t\u01b0\u1ee3ng tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "\u0110\u1ed1i t\u01b0\u1ee3ng ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "Nh\u00f3m tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "Nh\u00f3m ti\u1ebfp theo"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "M\u1ed1c"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Kh\u00f4ng c\u00f3 ph\u00edm b\u1ed5 tr\u1ee3 n\u00e0o \u0111\u01b0\u1ee3c nh\u1ea5n; vui l\u00f2ng nh\u1ea5n v\u00e0 gi\u1eef m\u1ed9t ho\u1eb7c nhi\u1ec1u ph\u00edm b\u1ed5 tr\u1ee3; nh\u1ea5c ng\u00f3n tay khi ho\u00e0n t\u1ea5t v\u00e0 b\u1ea1n s\u1ebd nghe th\u1ea5y ph\u00edm \u0111\u01b0\u1ee3c \u0111\u1eb7t. Nh\u1ea5n tab \u0111\u1ec3 tho\u00e1t."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "$1$ gi\u1edd l\u00e0 ph\u00edm b\u1ed5 tr\u1ee3 ChromeVox m\u1edbi.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ \u0111\u00e3 \u0111\u01b0\u1ee3c \u0111\u1eb7t l\u1ea1i.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "\u0110\u01b0\u1ee3c chuy\u1ec3n th\u00e0nh $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "Chuy\u1ec3n \u0111\u1ebfn \u0111\u1ea7u trang"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "Chuy\u1ec3n \u0111\u1ebfn cu\u1ed1i trang"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "\u0110a\u0303 bao g\u00f4\u0300m ca\u0309 \u0111\u00e2\u0300u trang"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "\u0110a\u0303 bao g\u00f4\u0300m ca\u0309 cu\u00f4\u0301i trang"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "No\u0301i d\u00e2\u0301u c\u00e2u theo chu tr\u00ecnh"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "No\u0301i khi nh\u00e2\u0323p theo chu tr\u00ecnh"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "T\u1ea1m d\u1eebng t\u1ea5t c\u1ea3 c\u00e1c ti\u1ec7n \u00edch con ph\u01b0\u01a1ng ti\u1ec7n hi\u1ec7n \u0111ang ph\u00e1t"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "M\u01a1\u0309 m\u00f4 ta\u0309 da\u0300i trong tab m\u01a1\u0301i"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "Kh\u00f4ng co\u0301 m\u00f4 ta\u0309 da\u0300i na\u0300o"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Hi\u0300nh a\u0309nh co\u0301 m\u00f4 ta\u0309 da\u0300i"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$ t\u01a1\u0301i $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$-$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "\u0111a\u0303 cho\u0323n $1$ mu\u0323c",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "sld $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "\u0111a\u0303 xo\u0301a l\u1ef1a cho\u0323n"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "\u00e2m ky\u0301 t\u01b0\u0323"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "no\u0301i t\u01b0\u0300"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "no\u0301i ky\u0301 t\u01b0\u0323 va\u0300 t\u01b0\u0300"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "kh\u00f4ng no\u0301i khi nh\u00e2\u0323p"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "va\u0300o n\u00f4\u0323i dung co\u0301 c\u00e2\u0301u tru\u0301c, ch\u0103\u0309ng ha\u0323n nh\u01b0 ba\u0309ng"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "thoa\u0301t n\u00f4\u0323i dung co\u0301 c\u00e2\u0301u tru\u0301c, ch\u0103\u0309ng ha\u0323n nh\u01b0 ba\u0309ng"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "\u0111\u00e3 va\u0300o $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "do\u0300ng c\u00e2\u0301u tru\u0301c"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "d\u00f2ng"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Chuy\u00ea\u0309n \u0111\u00f4\u0309i loa\u0323i do\u0300ng gi\u01b0\u0303a c\u00e2\u0301u tru\u0301c ho\u0103\u0323c b\u00f4\u0301 cu\u0323c"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "ba\u0309ng"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "\u0111i\u1ec1u h\u01b0\u1edbng m\u1eb7c \u0111\u1ecbnh"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "to\u00e1n h\u1ecdc"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "Chuy\u1ec3n \u0111\u1ed5i di\u1ec5n gi\u1ea3i bi\u1ec3u th\u1ee9c to\u00e1n h\u1ecdc gi\u1eefa c\u1ea5u tr\u00fac v\u00e0 ng\u1eef ngh\u0129a"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Di\u1ec5n gi\u1ea3i ng\u1eef ngh\u0129a \u0111\u01b0\u1ee3c b\u1eadt"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Di\u1ec5n gi\u1ea3i ng\u1eef ngh\u0129a b\u1ecb t\u1eaft"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Nh\u1ea5n Alt+Shift+A \u0111\u1ec3 xem l\u1ea1i th\u00f4ng b\u00e1o"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "Kh\u00f4ng c\u00f3 b\u00e0i vi\u1ebft ti\u1ebfp theo n\u00e0o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "Kh\u00f4ng c\u00f3 b\u00e0i vi\u1ebft tr\u01b0\u1edbc n\u00e0o."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "T\u00ednh n\u0103ng ph\u1ea3n h\u1ed3i b\u1eb1ng gi\u1ecdng n\u00f3i ChromeVox \u0111\u00e3 s\u1eb5n s\u00e0ng"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox \u0111\u00e3 s\u1eb5n s\u00e0ng"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "B\u1eadt k\u1ebft n\u1ed1i tai nghe"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "T\u1eaft k\u1ebft n\u1ed1i tai nghe"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "B\u1eadt ho\u1eb7c t\u1eaft ph\u1ea3n h\u1ed3i b\u1eb1ng \u00e2m thanh (k\u1ebft n\u1ed1i tai nghe)."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "N\u00f3i th\u1eddi gian v\u00e0 ng\u00e0y th\u00e1ng hi\u1ec7n t\u1ea1i."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "T:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "\u0110\u00e3 x\u00f3a"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Th\u1ef1c hi\u1ec7n t\u00e1c v\u1ee5 m\u1eb7c \u0111\u1ecbnh"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{d\u1ea5u ch\u1ea5m than}other{# d\u1ea5u ch\u1ea5m than}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{d\u1ea5u c\u00e1ch}other{# d\u1ea5u c\u00e1ch}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{d\u1ea5u huy\u1ec1n}other{# d\u1ea5u huy\u1ec1n}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{D\u1ea4U NG\u00c3}other{# d\u1ea5u ng\u00e3}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{d\u1ea5u @}other{# d\u1ea5u @}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{d\u1ea5u th\u0103ng}other{# d\u1ea5u th\u0103ng}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{d\u1ea5u \u0111\u00f4 la}other{# d\u1ea5u \u0111\u00f4 la}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{d\u1ea5u ph\u1ea7n tr\u0103m}other{# d\u1ea5u ph\u1ea7n tr\u0103m}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{d\u1ea5u m\u0169}other{# d\u1ea5u m\u0169}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{d\u1ea5u v\u00e0}other{# d\u1ea5u v\u00e0}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{d\u1ea5u hoa th\u1ecb}other{# d\u1ea5u hoa th\u1ecb}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{d\u1ea5u m\u1edf ngo\u1eb7c}other{# d\u1ea5u m\u1edf ngo\u1eb7c}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{d\u1ea5u \u0111\u00f3ng ngo\u1eb7c}other{# d\u1ea5u \u0111\u00f3ng ngo\u1eb7c}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{d\u1ea5u g\u1ea1ch ngang}other{# d\u1ea5u g\u1ea1ch ngang}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{d\u1ea5u g\u1ea1ch d\u01b0\u1edbi}other{# d\u1ea5u g\u1ea1ch d\u01b0\u1edbi}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{d\u1ea5u b\u1eb1ng}other{# d\u1ea5u b\u1eb1ng}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{d\u1ea5u c\u1ed9ng}other{# d\u1ea5u c\u1ed9ng}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{d\u1ea5u m\u1edf ngo\u1eb7c vu\u00f4ng}other{# d\u1ea5u m\u1edf ngo\u1eb7c vu\u00f4ng}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{d\u1ea5u \u0111\u00f3ng ngo\u1eb7c vu\u00f4ng}other{# d\u1ea5u \u0111\u00f3ng ngo\u1eb7c vu\u00f4ng}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{d\u1ea5u m\u1edf ngo\u1eb7c nh\u1ecdn}other{# d\u1ea5u m\u1edf ngo\u1eb7c nh\u1ecdn}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{d\u1ea5u \u0111\u00f3ng ngo\u1eb7c nh\u1ecdn}other{# d\u1ea5u \u0111\u00f3ng ngo\u1eb7c nh\u1ecdn}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{d\u1ea5u s\u1ed5 th\u1eb3ng}other{# d\u1ea5u s\u1ed5 th\u1eb3ng}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{d\u1ea5u ch\u1ea5m ph\u1ea9y}other{# d\u1ea5u ch\u1ea5m ph\u1ea9y}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{d\u1ea5u hai ch\u1ea5m}other{# d\u1ea5u hai ch\u1ea5m}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{d\u1ea5u ph\u1ea9y}other{# d\u1ea5u ph\u1ea9y}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{d\u1ea5u ch\u1ea5m}=3{d\u1ea5u ch\u1ea5m l\u1eedng}other{# d\u1ea5u ch\u1ea5m}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{d\u1ea5u nh\u1ecf h\u01a1n}other{# d\u1ea5u nh\u1ecf h\u01a1n}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{d\u1ea5u l\u1edbn h\u01a1n}other{# d\u1ea5u l\u1edbn h\u01a1n}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{d\u1ea5u g\u1ea1ch ch\u00e9o}other{# d\u1ea5u g\u1ea1ch ch\u00e9o}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{d\u1ea5u h\u1ecfi}other{# d\u1ea5u h\u1ecfi}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{d\u1ea5u ngo\u1eb7c k\u00e9p}other{# d\u1ea5u ngo\u1eb7c k\u00e9p}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{d\u1ea5u nh\u00e1y \u0111\u01a1n}other{# d\u1ea5u nh\u00e1y \u0111\u01a1n}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{d\u1ea5u tab}other{# d\u1ea5u tab}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{d\u1ea5u g\u1ea1ch ch\u00e9o ng\u01b0\u1ee3c}other{# d\u1ea5u g\u1ea1ch ch\u00e9o ng\u01b0\u1ee3c}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{d\u1ea5u ch\u1ea5m tr\u00f2n}other{# d\u1ea5u ch\u1ea5m tr\u00f2n}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "Nh\u1ea5p v\u00e0o m\u1ee5c b\u00ean d\u01b0\u1edbi ph\u00edm \u0111\u1ecbnh tuy\u1ebfn $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "Xoay v\u1ec1 ph\u00eda sau"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "Xoay v\u1ec1 ph\u00eda tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "D\u00f2ng ch\u1eef n\u1ed5i tr\u01b0\u1edbc"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "D\u00f2ng ch\u1eef n\u1ed5i ti\u1ebfp theo"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "Di chuy\u1ec3n m\u00e0n h\u00ecnh ch\u1eef n\u1ed5i v\u1ec1 \u0111\u1ea7u trang"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "Di chuy\u1ec3n m\u00e0n h\u00ecnh ch\u1eef n\u1ed5i xu\u1ed1ng cu\u1ed1i trang"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "ch\u1ea5m $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "ch\u1ea5m $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ d\u00e2y cung",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "Xem \u0111\u1ed3 th\u1ecb d\u01b0\u1edbi d\u1ea1ng ch\u1eef n\u1ed5i"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "c\u00f3 kh\u00f3a truy c\u1eadp, $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "kh\u00f3a truy c\u1eadp:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"ti\u1ebfng \u1ea2 R\u1eadp\",\n        \"bg\": \"ti\u1ebfng Bungari\",\n        \"ca\": \"ti\u1ebfng Catalan\",\n        \"cs\": \"ti\u1ebfng S\u00e9c\",\n        \"da\": \"ti\u1ebfng \u0110an M\u1ea1ch\",\n        \"de\": \"ti\u1ebfng \u0110\u1ee9c\",\n        \"de_CH\": \"ti\u1ebfng \u0110\u1ee9c (Th\u1ee5y S\u0129)\",\n        \"de_DE\": \"ti\u1ebfng \u0110\u1ee9c (\u0110\u1ee9c)\",\n        \"el\": \"ti\u1ebfng Hy L\u1ea1p\",\n        \"en\": \"ti\u1ebfng Anh\",\n        \"en_CA\": \"ti\u1ebfng Anh (Canada)\",\n        \"en_GB\": \"ti\u1ebfng Anh (Anh)\",\n        \"en_US\": \"ti\u1ebfng Anh (M\u1ef9)\",\n        \"es\": \"ti\u1ebfng T\u00e2y Ban Nha\",\n        \"et\": \"ti\u1ebfng Estonia\",\n        \"fr\": \"ti\u1ebfng Ph\u00e1p\",\n        \"fr_CA\": \"ti\u1ebfng Ph\u00e1p (Canada)\",\n        \"fr_FR\": \"ti\u1ebfng Ph\u00e1p (Ph\u00e1p)\",\n        \"fi\": \"ti\u1ebfng Ph\u1ea7n Lan\",\n        \"he\": \"ti\u1ebfng Do Th\u00e1i\",\n        \"hi\": \"ti\u1ebfng Hindi\",\n        \"hr\": \"ti\u1ebfng Croatia\",\n        \"hu\": \"ti\u1ebfng Hungary\",\n        \"is\": \"ti\u1ebfng Iceland\",\n        \"it\": \"ti\u1ebfng \u00dd\",\n        \"ko\": \"ti\u1ebfng H\u00e0n\",\n        \"lt\": \"ti\u1ebfng Lithuania\",\n        \"lv\": \"ti\u1ebfng Latvia\",\n        \"nb\": \"ti\u1ebfng Bokm\u00e5l Na Uy\",\n        \"nl\": \"ti\u1ebfng H\u00e0 Lan\",\n        \"pl\": \"ti\u1ebfng Ba Lan\",\n        \"pt\": \"ti\u1ebfng B\u1ed3 \u0110\u00e0o Nha\",\n        \"ro\": \"ti\u1ebfng Rumani\",\n        \"ru\": \"ti\u1ebfng Nga\",\n        \"sk\": \"ti\u1ebfng Slovak\",\n        \"sl\": \"ti\u1ebfng Slovenia\",\n        \"sr\": \"ti\u1ebfng Serbia\",\n        \"sv\": \"ti\u1ebfng Th\u1ee5y \u0110i\u1ec3n\",\n        \"tr\": \"ti\u1ebfng Th\u1ed5 Nh\u0129 K\u1ef3\",\n        \"vi\": \"ti\u1ebfng Vi\u1ec7t\",\n        \"zh\": \"ti\u1ebfng Trung\",\n        \"zh_TW\": \"ti\u1ebfng Trung (ti\u1ebfng Trung ph\u1ed3n th\u1ec3)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Cu\u1ed1i v\u0103n b\u1ea3n"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "End"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "d\u00f2ng m\u1edbi"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "quay l\u1ea1i"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "B\u1ecf qua nh\u1ea5n ph\u00edm ti\u1ebfp theo"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Ph\u00edm truy\u1ec1n qua"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "Hi\u1ec3n th\u1ecb menu ng\u1eef c\u1ea3nh"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Chuy\u1ec3n \u0111\u1ed5i ph\u1ee5 \u0111\u1ec1 ch\u1eef n\u1ed5i"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Ph\u1ee5 \u0111\u1ec1 ch\u1eef n\u1ed5i \u0111\u00e3 \u0111\u01b0\u1ee3c b\u1eadt."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Ph\u1ee5 \u0111\u1ec1 ch\u1eef n\u1ed5i \u0111\u00e3 b\u1ecb t\u1eaft."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "Kh\u00f4ng ph\u00e2n bi\u1ec7t ch\u1eef hoa / ch\u1eef th\u01b0\u1eddng."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "Ph\u00e2n bi\u1ec7t ch\u1eef hoa / ch\u1eef th\u01b0\u1eddng."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "quay l\u1ea1i"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "chuy\u1ec3n ti\u1ebfp"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "l\u00e0m m\u1edbi"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "chuy\u1ec3n \u0111\u1ed5i ch\u1ebf \u0111\u1ed9 to\u00e0n m\u00e0n h\u00ecnh"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "t\u1ed5ng quan v\u1ec1 c\u1eeda s\u1ed5"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "Gi\u1ea3m \u0111\u1ed9 s\u00e1ng"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "T\u0103ng \u0111\u1ed9 s\u00e1ng"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "t\u1eaft ti\u1ebfng"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "gi\u1ea3m \u00e2m l\u01b0\u1ee3ng"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "t\u0103ng \u00e2m l\u01b0\u1ee3ng"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "B\u1ea3ng \u0111i\u1ec1u khi\u1ec3n ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "Menu ChromeVox"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "H\u01b0\u1edbng d\u1eabn v\u1ec1 ChromeVox"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "Menu ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "T\u00f9y ch\u1ecdn c\u1ee7a ChromeVox"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "T\u1eaft ChromeVox"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(hi\u1ec7n ho\u1ea1t)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Nh\u1ea3y"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Gi\u1ecdng n\u00f3i"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "Tab"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "T\u00e1c v\u1ee5"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "Kh\u00f4ng c\u00f3 m\u1ee5c n\u00e0o."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "B\u00e1o c\u00e1o s\u1ef1 c\u1ed1"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "\u0110\u00e3 c\u1eadp nh\u1eadt ChromeVox"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "B\u1ea1n c\u00f3 th\u1ec3 t\u00ecm hi\u1ec3u t\u00ednh n\u0103ng m\u1edbi b\u1eb1ng c\u00e1ch nh\u1ea5n ChromeVox, o, n"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "Hi\u1ec3n th\u1ecb ghi ch\u00fa c\u1eadp nh\u1eadt"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "\u0110\u00f3ng h\u01b0\u1edbng d\u1eabn ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "Tr\u01b0\u1edbc \u0111\u00f3"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "Ti\u1ebfp theo"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "Ch\u00e0o m\u1eebng b\u1ea1n \u0111\u1ebfn v\u1edbi ChromeVox!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "\u0110\u00e2y l\u00e0 l\u1ea7n \u0111\u1ea7u ti\u00ean b\u1ea1n s\u1eed d\u1ee5ng t\u00ednh n\u0103ng ph\u1ea3n h\u1ed3i b\u1eb1ng gi\u1ecdng n\u00f3i c\u1ee7a ChromeVox? H\u01b0\u1edbng d\u1eabn nhanh n\u00e0y s\u1ebd gi\u1ea3i th\u00edch c\u00e1c th\u00f4ng tin c\u01a1 b\u1ea3n \u0111\u1ec3 b\u1eaft \u0111\u1ea7u v\u1edbi ChromeVox."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "\u0110\u1ec3 chuy\u1ec3n t\u1edbi trang ti\u1ebfp theo, nh\u1ea5n enter; \u0111\u1ec3 quay l\u1ea1i trang tr\u01b0\u1edbc, nh\u1ea5n ph\u00edm x\u00f3a l\u00f9i."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "B\u1eadt, t\u1eaft v\u00e0 d\u1eebng"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "\u0110\u1ec3 ChromeVox t\u1ea1m th\u1eddi ng\u1eebng n\u00f3i, nh\u1ea5n ph\u00edm Control."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "\u0110\u1ec3 b\u1eadt ho\u1eb7c t\u1eaft ChromeVox, s\u1eed d\u1ee5ng ph\u00edm Control+Alt+Z."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "Ph\u00edm b\u1ed5 tr\u1ee3 ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "Trong ChromeVox, ph\u00edm T\u00ecm ki\u1ebfm l\u00e0 ph\u00edm b\u1ed5 tr\u1ee3. H\u1ea7u h\u1ebft c\u00e1c ph\u00edm t\u1eaft tr\u00ean ChromeVox \u0111\u1ec1u b\u1eaft \u0111\u1ea7u b\u1eb1ng ph\u00edm T\u00ecm ki\u1ebfm. Ngo\u00e0i ra, b\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng c\u00e1c ph\u00edm m\u0169i t\u00ean \u0111\u1ec3 di chuy\u1ec3n."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "Tr\u00ean Chromebook, ph\u00edm T\u00ecm ki\u1ebfm \u1edf ngay ph\u00eda tr\u00ean ph\u00edm Shift b\u00ean tr\u00e1i."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "Trong h\u01b0\u1edbng d\u1eabn n\u00e0y, h\u00e3y nh\u1ea5n ph\u00edm b\u1ea5t k\u1ef3 \u0111\u1ec3 nghe t\u00ean ph\u00edm."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "\u0110i\u1ec1u h\u01b0\u1edbng c\u01a1 b\u1ea3n"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "\u0110\u1ec3 chuy\u1ec3n ti\u1ebfp gi\u1eefa c\u00e1c m\u1ee5c tr\u00ean trang, nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm + M\u0169i t\u00ean ph\u1ea3i ho\u1eb7c \u0111\u1ec3 quay l\u1ea1i, nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm + M\u0169i t\u00ean tr\u00e1i. \u0110\u1ec3 chuy\u1ec3n t\u1edbi d\u00f2ng ti\u1ebfp theo, nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm + M\u0169i t\u00ean xu\u1ed1ng. \u0110\u1ec3 chuy\u1ec3n v\u1ec1 d\u00f2ng tr\u01b0\u1edbc, s\u1eed d\u1ee5ng ph\u00edm T\u00ecm ki\u1ebfm + M\u0169i t\u00ean l\u00ean. N\u1ebfu t\u1edbi m\u1ed9t m\u1ee5c m\u00e0 b\u1ea1n mu\u1ed1n nh\u1ea5p v\u00e0o, nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm + D\u1ea5u c\u00e1ch."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "B\u00e2y gi\u1edd, h\u00e3y th\u1eed s\u1eed d\u1ee5ng ph\u00edm T\u00ecm ki\u1ebfm + M\u0169i t\u00ean ph\u1ea3i \u0111\u1ec3 t\u00ecm n\u00fat Ti\u1ebfp theo, sau \u0111\u00f3 nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm + D\u1ea5u c\u00e1ch \u0111\u1ec3 nh\u1ea5p v\u00e0o n\u00fat \u0111\u00f3."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "Chuy\u1ec3n l\u1ec7nh"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "S\u1eed d\u1ee5ng c\u00e1c l\u1ec7nh chuy\u1ec3n \u0111\u1ec3 b\u1ecf qua c\u00e1c lo\u1ea1i th\u00e0nh ph\u1ea7n c\u1ee5 th\u1ec3. \u0110\u1ec3 chuy\u1ec3n ti\u1ebfp gi\u1eefa c\u00e1c ti\u00eau \u0111\u1ec1, nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm + H ho\u1eb7c \u0111\u1ec3 quay l\u1ea1i, nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm + Shift + H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "\u0110\u00e2y l\u00e0 ti\u00eau \u0111\u1ec1 th\u1ee9 hai. Ti\u1ebfp t\u1ee5c; nh\u1ea5n Search+H ho\u1eb7c Search+Shift+H"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "\u0110\u00e2y l\u00e0 ti\u00eau \u0111\u1ec1 cu\u1ed1i c\u00f9ng. Nh\u1ea5n Search+H \u0111\u1ec3 bao g\u1ed3m ti\u00eau \u0111\u1ec1 \u0111\u1ea7u ti\u00ean ho\u1eb7c Search+Shift+H \u0111\u1ec3 chuy\u1ec3n t\u1edbi ti\u00eau \u0111\u1ec1 th\u1ee9 hai tr\u00ean trang n\u00e0y."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Menu l\u1ec7nh"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "\u0110\u1ec3 kh\u00e1m ph\u00e1 t\u1ea5t c\u1ea3 ph\u00edm t\u1eaft v\u00e0 l\u1ec7nh c\u1ee7a ChromeVox, h\u00e3y nh\u1ea5n Search + D\u1ea5u ch\u1ea5m, sau \u0111\u00f3 s\u1eed d\u1ee5ng c\u00e1c ph\u00edm M\u0169i t\u00ean \u0111\u1ec3 \u0111i\u1ec1u h\u01b0\u1edbng trong menu v\u00e0 ph\u00edm Enter \u0111\u1ec3 k\u00edch ho\u1ea1t l\u1ec7nh. Quay l\u1ea1i \u0111\u00e2y b\u1eb1ng c\u00e1ch nh\u1ea5n Search+o r\u1ed3i nh\u1ea5n t."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Ph\u00edm t\u1eaft h\u1eefu \u00edch c\u1ee7a Chrome"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "M\u1ed9t s\u1ed1 ph\u00edm t\u1eaft ti\u1ebfp theo kh\u00f4ng ph\u1ea3i l\u00e0 c\u00e1c ph\u00edm l\u1ec7nh c\u1ee7a ChromeVox nh\u01b0ng ch\u00fang v\u1eabn r\u1ea5t h\u1eefu \u00edch \u0111\u1ec3 khai th\u00e1c t\u1ed1i \u0111a l\u1ee3i \u00edch c\u1ee7a Chrome.\n\u0110\u1ec3 chuy\u1ec3n ti\u1ebfp qua c\u00e1c m\u1ee5c c\u00f3 th\u1ec3 nh\u1ea5p v\u00e0o nh\u01b0 n\u00fat v\u00e0 li\u00ean k\u1ebft, nh\u1ea5n ph\u00edm Tab. \u0110\u1ec3 quay l\u1ea1i, nh\u1ea5n ph\u00edm Shift+Tab. \n\u0110\u1ec3 t\u1edbi h\u1ed9p \u0111\u1ecba ch\u1ec9 c\u1ee7a tr\u00ecnh duy\u1ec7t Chrome, c\u00f2n \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 thanh \u0111\u1ecba ch\u1ec9, nh\u1ea5n ph\u00edm Control + L. \n\u0110\u1ec3 m\u1edf v\u00e0 t\u1ef1 \u0111\u1ed9ng chuy\u1ec3n sang tab m\u1edbi, nh\u1ea5n ph\u00edm Control+T. Con tr\u1ecf c\u1ee7a b\u1ea1n s\u1ebd n\u1eb1m trong thanh \u0111\u1ecba ch\u1ec9. \n\u0110\u1ec3 \u0111\u00f3ng tab, nh\u1ea5n ph\u00edm Control+W. \n\u0110\u1ec3 chuy\u1ec3n ti\u1ebfp gi\u1eefa c\u00e1c tab \u0111ang m\u1edf, s\u1eed d\u1ee5ng ph\u00edm Control+Tab. \n\u0110\u1ec3 m\u1edf menu c\u1ee7a tr\u00ecnh duy\u1ec7t Chrome, nh\u1ea5n ph\u00edm Alt+F."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "\u0110\u1ec3 chuy\u1ec3n t\u1edbi c\u00e1c ph\u1ea7n kh\u00e1c c\u1ee7a m\u00e0n h\u00ecnh, nh\u01b0 thanh c\u00f4ng c\u1ee5 ho\u1eb7c khay h\u1ec7 th\u1ed1ng, nh\u1ea5n ph\u00edm Control+Forward. Tr\u00ean Chromebook, ph\u00edm Forward \u1edf ngay ph\u00eda tr\u00ean ph\u00edm s\u1ed1 2."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "T\u00ecm hi\u1ec3u th\u00eam"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Xin ch\u00fac m\u1eebng! B\u1ea1n \u0111\u00e3 t\u00ecm hi\u1ec3u xong th\u00f4ng tin c\u01a1 b\u1ea3n \u0111\u1ec3 s\u1eed d\u1ee5ng ChromeVox m\u1ed9t c\u00e1ch hi\u1ec7u qu\u1ea3. H\u00e3y nh\u1edb r\u1eb1ng b\u1ea1n c\u00f3 th\u1ec3 m\u1edf menu l\u1ec7nh ChromeVox b\u1ea5t c\u1ee9 l\u00fac n\u00e0o b\u1eb1ng c\u00e1ch nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm+D\u1ea5u ch\u1ea5m. \u0110\u1ec3 t\u00ecm hi\u1ec3u th\u00eam v\u1ec1 ChromeVox v\u00e0 Chrome OS, h\u00e3y truy c\u1eadp v\u00e0o c\u00e1c b\u00e0i vi\u1ebft d\u01b0\u1edbi \u0111\u00e2y.\nN\u1ebfu b\u1ea1n \u0111\u00e3 \u0111\u1ecdc xong h\u01b0\u1edbng d\u1eabn, h\u00e3y s\u1eed d\u1ee5ng ChromeVox \u0111\u1ec3 \u0111i t\u1edbi n\u00fat \u0110\u00f3ng v\u00e0 nh\u1ea5p v\u00e0o n\u00fat \u0111\u00f3."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "B\u1ea1n \u0111\u00e3 c\u1eadp nh\u1eadt l\u00ean ChromeVox 63!"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "Ch\u00fang t\u00f4i c\u00f3 m\u1ed9t s\u1ed1 thay \u0111\u1ed5i th\u00fa v\u1ecb trong b\u1ea3n ph\u00e1t h\u00e0nh m\u1edbi n\u00e0y. D\u01b0\u1edbi \u0111\u00e2y l\u00e0 nh\u1eefng t\u00ednh n\u0103ng m\u1edbi:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "\u0110\u00e3 x\u00f3a phi\u00ean b\u1ea3n c\u1ed5 \u0111i\u1ec3n. Ph\u00edm chuy\u1ec3n \u0111\u1ed5i tr\u00ean b\u00e0n ph\u00edm \u0111\u1ec3 quay v\u1ec1 phi\u00ean b\u1ea3n ChromeVox c\u1ed5 \u0111i\u1ec3n \u0111\u00e3 b\u1ecb x\u00f3a."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "H\u1ed7 tr\u1ee3 v\u0103n b\u1ea3n \u0111a d\u1ea1ng th\u1ee9c. ChromeVox hi\u1ec7n h\u1ed7 tr\u1ee3 c\u00e1c tr\u01b0\u1eddng v\u0103n b\u1ea3n \u0111a d\u1ea1ng th\u1ee9c, bao g\u1ed3m c\u1ea3 l\u1ec7nh di chuy\u1ec3n, \u0111\u1ecbnh tuy\u1ebfn con tr\u1ecf ch\u1eef n\u1ed5i, l\u1ef1a ch\u1ecdn v\u00e0 c\u00e1c tr\u01b0\u1eddng kh\u00e1c."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "\u1ee8ng d\u1ee5ng Android d\u00e0nh cho Chrome. N\u1ebfu thi\u1ebft b\u1ecb c\u1ee7a b\u1ea1n c\u00f3 C\u1eeda h\u00e0ng Play, h\u00e3y d\u00f9ng th\u1eed ChromeVox v\u1edbi c\u00e1c \u1ee9ng d\u1ee5ng Android. \u0110\u1ec3 d\u00f9ng th\u1eed c\u00e1c t\u00ednh n\u0103ng th\u1eed nghi\u1ec7m \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3, h\u00e3y t\u1ea3i Google Chrome Canary xu\u1ed1ng t\u1eeb C\u1eeda h\u00e0ng Play."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Nh\u01b0 th\u01b0\u1eddng l\u1ec7, b\u1ea1n c\u00f3 th\u1ec3 g\u1eedi ph\u1ea3n h\u1ed3i tr\u1ef1c ti\u1ebfp cho ch\u00fang t\u00f4i b\u1eb1ng c\u00e1ch nh\u1ea5n ph\u00edm T\u00ecm ki\u1ebfm+a, sau \u0111\u00f3 nh\u1ea5n ph\u00edm i. Ch\u00fang t\u00f4i r\u1ea5t mong nh\u1eadn \u0111\u01b0\u1ee3c \u00fd ki\u1ebfn t\u1eeb b\u1ea1n."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "Tham chi\u1ebfu l\u1ec7nh d\u00e0nh cho ChromeVox"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Ph\u00edm t\u1eaft Chromebook"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "S\u1eed d\u1ee5ng t\u00ednh n\u0103ng tr\u1ee3 n\u0103ng c\u1ee7a m\u00e0n h\u00ecnh c\u1ea3m \u1ee9ng Chromebook"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "b\u1eadn r\u1ed9n"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "b\u1eadn r\u1ed9n"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "m\u1eb7c \u0111\u1ecbnh"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "m\u1eb7c \u0111\u1ecbnh"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "\u00c2m thanh"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox s\u1eed d\u1ee5ng \u00e2m thanh \u0111\u1ec3 cung c\u1ea5p cho b\u1ea1n th\u00f4ng tin b\u1ed5 sung v\u00e0 c\u1ea7n thi\u1ebft. B\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng nh\u1eefng \u00e2m thanh n\u00e0y \u0111\u1ec3 \u0111i\u1ec1u h\u01b0\u1edbng nhanh h\u01a1n b\u1eb1ng c\u00e1ch t\u00ecm hi\u1ec3u \u00fd ngh\u0129a c\u1ee7a m\u1ed7i \u00e2m thanh. Khi c\u1ea3m th\u1ea5y tho\u1ea3i m\u00e1i h\u01a1n, b\u1ea1n c\u00f3 th\u1ec3 t\u1eaft m\u00f4 t\u1ea3 d\u00e0i d\u00f2ng trong b\u00e0i ph\u00e1t bi\u1ec3u v\u00e0 d\u1ef1a v\u00e0o ch\u00fang \u0111\u1ec3 bi\u1ebft th\u00f4ng tin c\u1ea7n thi\u1ebft v\u1ec1 trang. D\u01b0\u1edbi \u0111\u00e2y l\u00e0 danh s\u00e1ch \u0111\u1ea7y \u0111\u1ee7 c\u00e1c \u00e2m thanh v\u00e0 \u00fd ngh\u0129a c\u1ee7a ch\u00fang."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Th\u00f4ng b\u00e1o theo th\u1ec3 th\u1ee9c"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Th\u00f4ng b\u00e1o phi th\u1ec3 th\u1ee9c"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "N\u00fat"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "H\u1ed9p ki\u1ec3m \u0111\u01b0\u1ee3c b\u1ecf ch\u1ecdn"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "H\u1ed9p ki\u1ec3m \u0111\u00e3 ch\u1ecdn"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Tr\u01b0\u1eddng v\u0103n b\u1ea3n c\u00f3 th\u1ec3 ch\u1ec9nh s\u1eeda"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "Nh\u1ea5n ph\u00edm kh\u00f4ng h\u1ee3p l\u1ec7"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Li\u00ean k\u1ebft"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "H\u1ed9p danh s\u00e1ch ho\u1eb7c h\u1ed9p k\u1ebft h\u1ee3p"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "Trang \u0111ang t\u1ea3i"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "N\u00fat b\u1eadt l\u00ean"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "Thanh tr\u01b0\u1ee3t"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Cu\u1ed9n t\u1eeb \u0111\u1ea7u \u0111\u1ebfn cu\u1ed1i ho\u1eb7c t\u1eeb cu\u1ed1i \u0111\u1ebfn \u0111\u1ea7u b\u00ean trong m\u1ed9t trang, h\u1ed9p tho\u1ea1i ho\u1eb7c v\u00f9ng ch\u1ee9a kh\u00e1c"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "L\u00e0m t\u1ed1i m\u00e0n h\u00ecnh"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "L\u00e0m s\u00e1ng m\u00e0n h\u00ecnh"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "T\u1eaft gi\u1ecdng n\u00f3i"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "B\u1eadt gi\u1ecdng n\u00f3i"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "B\u1eadt ho\u1eb7c t\u1eaft gi\u1ecdng n\u00f3i"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "Chuy\u1ec3n \u0111\u1ed5i gi\u1eefa ch\u1eef n\u1ed5i 6 v\u00e0 8 ch\u1ea5m"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "\u0110\u1ea7u t\u1eeb sai ch\u00ednh t\u1ea3"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Cu\u1ed1i t\u1eeb sai ch\u00ednh t\u1ea3"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "\u0110\u1ea7u l\u1ed7i ng\u1eef ph\u00e1p"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Cu\u1ed1i l\u1ed7i ng\u1eef ph\u00e1p"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "\u0110\u1ea7u v\u0103n b\u1ea3n ph\u00f9 h\u1ee3p"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Cu\u1ed1i v\u0103n b\u1ea3n ph\u00f9 h\u1ee3p"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "\u0110\u1ea7u ch\u1eef in \u0111\u1eadm"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Cu\u1ed1i ch\u1eef in \u0111\u1eadm"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "\u0110\u1ea7u ch\u1eef in nghi\u00eang"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "Cu\u1ed1i ch\u1eef in nghi\u00eang"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "\u0110\u1ea7u ch\u1eef \u0111\u01b0\u1ee3c g\u1ea1ch ch\u00e2n"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Cu\u1ed1i ch\u1eef \u0111\u01b0\u1ee3c g\u1ea1ch ch\u00e2n"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "\u0110\u1ea7u ch\u1eef b\u1ecb g\u1ea1ch ngang"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "Cu\u1ed1i ch\u1eef b\u1ecb g\u1ea1ch ngang"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "B\u1eaft \u0111\u1ea7u li\u00ean k\u1ebft"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "K\u1ebft th\u00fac li\u00ean k\u1ebft"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "Vui l\u00f2ng b\u1eadt b\u00e0n ph\u00edm \u1ea3o b\u00ean d\u01b0\u1edbi khay tr\u1ea1ng th\u00e1i, tr\u1ee3 n\u0103ng \u0111\u1ec3 s\u1eed d\u1ee5ng l\u1ec7nh ch\u1eef n\u1ed5i m\u1edf r\u1ed9ng."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111\u1ec1"
+  },
+  "CHROMEVOX_WARNING_NO_CURRENT_RANGE": {
+    "message": "Kh\u00f4ng c\u00f3 ti\u00eau \u0111i\u1ec3m. H\u00e3y nh\u1ea5n t\u1ed5 h\u1ee3p ph\u00edm Ctrl+T \u0111\u1ec3 m\u1edf tab m\u1edbi."
+  },
+  "CHROMEVOX_HINT_CHECKABLE": {
+    "message": "Nh\u1ea5n t\u1ed5 h\u1ee3p ph\u00edm T\u00ecm ki\u1ebfm+D\u1ea5u c\u00e1ch \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed5i."
+  },
+  "CHROMEVOX_HINT_CLICKABLE": {
+    "message": "Nh\u1ea5n t\u1ed5 h\u1ee3p ph\u00edm T\u00ecm ki\u1ebfm+D\u1ea5u c\u00e1ch \u0111\u1ec3 k\u00edch ho\u1ea1t."
+  },
+  "CHROMEVOX_HINT_AUTOCOMPLETE_LIST": {
+    "message": "Nh\u1ea5n ph\u00edm m\u0169i t\u00ean l\u00ean ho\u1eb7c xu\u1ed1ng \u0111\u1ec3 t\u1ef1 \u0111\u1ed9ng ho\u00e0n t\u1ea5t."
+  },
+  "CHROMEVOX_HINT_AUTOCOMPLETE_INLINE": {
+    "message": "Nh\u1eadp \u0111\u1ec3 t\u1ef1 \u0111\u1ed9ng ho\u00e0n t\u1ea5t."
+  },
+  "CHROMEVOX_HINT_TABLE": {
+    "message": "Nh\u1ea5n t\u1ed5 h\u1ee3p ph\u00edm T\u00ecm ki\u1ebfm+Ctrl+Alt c\u00f9ng v\u1edbi c\u00e1c m\u0169i t\u00ean \u0111\u1ec3 \u0111i\u1ec1u h\u01b0\u1edbng theo \u00f4."
+  },
+  "CHROMEVOX_HINT_MENU": {
+    "message": "Nh\u1ea5n ph\u00edm m\u0169i t\u00ean l\u00ean ho\u1eb7c xu\u1ed1ng \u0111\u1ec3 \u0111i\u1ec1u h\u01b0\u1edbng; nh\u1ea5n Enter \u0111\u1ec3 k\u00edch ho\u1ea1t."
+  }
+}

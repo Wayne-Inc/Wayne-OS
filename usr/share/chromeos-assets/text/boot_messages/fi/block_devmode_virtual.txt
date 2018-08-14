@@ -1,0 +1,5 @@
+﻿
+Laitteen omistaja on poistanut kehittäjätilan käytöstä tällä laitteella. Pyydä laitteen omistajaa poistamaan rajoitus, jos haluat käyttää kehittäjätilaa.
+
+
+Järjestelmä käynnistetään uudelleen vahvistetussa tilassa.

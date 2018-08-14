@@ -1,0 +1,114 @@
+{
+  "name": "Chrome OS built-in text-to-speech extension",
+  "version": "3.0.5",
+  "description": "This is a high-quality text-to-speech (TTS) voice extension that runs in your browser using Native Client technology.",
+  "manifest_version": 2,
+  "default_locale": "en",
+  "background": {
+    "persistent":false,
+    "scripts": [
+      "voice_lstm_hi-IN.js",
+      "voice_lstm_id-ID.js",
+      "voice_lstm_nl-NL.js",
+      "voice_lstm_en-IN.js",
+      "voice_lstm_ko-KR.js",
+      "voice_lstm_it-IT.js",
+      "voice_lstm_fr-FR.js",
+      "voice_lstm_es-US.js",
+      "voice_lstm_es-ES.js",
+      "voice_lstm_pt-BR.js",
+      "voice_lstm_de-DE.js",
+      "voice_lstm_en-US.js",
+      "voice_lstm_en-GB.js",
+      "tts_controller.js",
+      "tts_main.js"
+    ]
+  },
+  "permissions": [
+    "ttsEngine",
+    "unlimitedStorage"
+  ],
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDlKEJseIIbKFyX0BCWNYOWlPEUt1IxBvIoW1PI7DTmipbwyVr3s2EprewYdtr9hCO5Yzs5w/ai1Xnhet5PLAsMje6ZP0Kvq0tlVfaYF8oQHBPF+ifx31RBT7Cn+ZVKLq1fxrwzY063GVhW+CAr06Ar8YRFXtFoC4FHlUNDIoSb4wIDAQAB",
+  "tts_engine": {
+    "voices": [
+      {
+        "voice_name": "Chrome OS Deutsch",
+        "lang": "de-DE",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS UK English",
+        "lang": "en-GB",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS Indian English",
+        "lang": "en-IN",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS US English",
+        "lang": "en-US",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS español",
+        "lang": "es-ES",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS español de Estados Unidos",
+        "lang": "es-US",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS français",
+        "lang": "fr-FR",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS Bahasa Indonesia",
+        "lang": "id-ID",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS हिन्दी",
+        "lang": "hi-IN",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS italiano",
+        "lang": "it-IT",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS 한국의",
+        "lang": "ko-KR",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS Nederlands",
+        "lang": "nl-NL",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      },
+      {
+        "voice_name": "Chrome OS português do Brasil",
+        "lang": "pt-BR",
+        "event_types": [ "start", "word", "end", "error" ],
+        "gender": "female"
+      }
+    ]
+  }
+}

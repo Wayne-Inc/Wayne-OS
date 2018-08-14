@@ -1,0 +1,6 @@
+發生錯誤，造成更新失敗。
+
+你可能需要還原裝置。如要進一步瞭解 Chrome 作業系統還原，
+請參閱：https://www.google.com/chromeos/recovery
+
+按下空格鍵即可重新啟動裝置。

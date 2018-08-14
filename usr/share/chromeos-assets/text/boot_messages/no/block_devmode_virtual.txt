@@ -1,0 +1,5 @@
+﻿
+Eieren av enheten har deaktivert utviklermodus for denne enheten. Be eieren om å oppheve begrensningen hvis du ønsker å bruke utviklermodusen.
+
+
+Systemet startes på nytt i bekreftet modus.

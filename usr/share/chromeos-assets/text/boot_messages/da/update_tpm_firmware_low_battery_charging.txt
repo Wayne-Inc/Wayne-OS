@@ -1,0 +1,6 @@
+Batteriniveauet er for lavt til at opdatere.
+
+Oplader...
+
+Opdateringen starter automatisk, så snart batteriet er
+tilstrækkeligt opladet.

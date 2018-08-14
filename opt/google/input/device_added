@@ -1,0 +1,12 @@
+#!/bin/sh
+# Copyright (c) 2014 The Chromium OS Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+# Log all calls, with arguments, to /var/log/messages
+logger -- "$0" "$@" "$DEVNAME"
+
+# inputcontrol can't configure devices without xinput yet
+test -x /usr/bin/xinput || exit 0
+
+/opt/google/input/inputcontrol --add="$DEVNAME" &

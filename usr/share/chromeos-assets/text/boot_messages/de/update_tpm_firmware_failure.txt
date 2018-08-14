@@ -1,0 +1,6 @@
+Ein Fehler ist aufgetreten und das Update konnte nicht durchgeführt werden.
+
+Sie müssen Ihr Gerät möglicherweise wiederherstellen. Weitere Informationen
+zur Wiederherstellung des Chrome OS finden Sie unter: https://www.google.com/chromeos/recovery.
+
+Drücken Sie zum Neustart die Leertaste.

@@ -1,0 +1,4 @@
+Der Akku ist für ein Update zu schwach.
+
+Bitte schließen Sie Ihr Chromebook an eine Stromquelle an.
+Das Update beginnt automatisch, sobald der Akku ausreichend geladen ist.

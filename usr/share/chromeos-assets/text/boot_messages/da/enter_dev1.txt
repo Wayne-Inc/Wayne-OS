@@ -1,0 +1,9 @@
+﻿
+Dit system er ved at skifte til udviklertilstand.
+Lokale data vil blive slettet.
+
+Ændringer, du foretager i systemet, understøttes ikke af Google og kan forårsage
+problemer med hardware og kan ugyldiggøre garantien.
+
+Hvis du vil annullere, skal du slukke for computeren nu og skifte kontakten til udviklertilstand tilbage til
+tilstanden Bekræftet.

@@ -1,0 +1,5 @@
+Bateria demasiado fraca para atualizar.
+
+A carregar...
+
+A atualização começará automaticamente quando a bateria tiver carga suficiente.

@@ -1,0 +1,5 @@
+出了点问题，更新失败。
+
+您可能需要恢复您的设备。若想详细了解如何恢复 Chrome 操作系统，请访问：https://www.google.com/chromeos/recovery
+
+按空格键即可重新启动设备。

@@ -1,0 +1,89 @@
+﻿{
+  "LOCALE": {
+    "message": "id"
+  },
+  "SELECT_TO_SPEAK_NAME": {
+    "message": "Klik untuk diucapkan"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PAGE_TITLE": {
+    "message": "Setelan Klik untuk Diucapkan"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_SPEECH": {
+    "message": "Ucapan"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Pilih suara:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_DESCRIPTION": {
+    "message": "Pilih kecepatan ucapan:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOWEST": {
+    "message": "Paling lambat"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOW": {
+    "message": "Lambat"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_NORMAL": {
+    "message": "Normal"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FAST": {
+    "message": "Cepat"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTER": {
+    "message": "Lebih cepat"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTEST": {
+    "message": "Tercepat"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT": {
+    "message": "Menyoroti"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DESCRIPTION": {
+    "message": "Soroti setiap kata saat kata tersebut diucapkan"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_DESCRIPTION": {
+    "message": "Warna untuk highlight kata:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_BLUE": {
+    "message": "Biru"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_ORANGE": {
+    "message": "Oranye"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_YELLOW": {
+    "message": "Kuning"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_GREEN": {
+    "message": "Hijau"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_PINK": {
+    "message": "Pink"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DARK": {
+    "message": "Latar belakang gelap"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_LIGHT": {
+    "message": "Latar belakang terang"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_DESCRIPTION": {
+    "message": "Pilih tinggi nada ucapan:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWEST": {
+    "message": "Terendah"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWER": {
+    "message": "Agak rendah"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOW": {
+    "message": "Rendah"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_NORMAL": {
+    "message": "Normal"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGH": {
+    "message": "Tinggi"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGHEST": {
+    "message": "Tertinggi"
+  }
+}

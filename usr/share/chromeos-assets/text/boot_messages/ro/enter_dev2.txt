@@ -1,0 +1,4 @@
+﻿
+Se pregătește sistemul pentru Modul pentru dezvoltatori.
+Procesul poate dura un anumit timp.
+Nu opriți computerul până când nu repornește.

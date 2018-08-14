@@ -1,0 +1,3 @@
+Poziom naładowania baterii jest zbyt niski, by zainstalować aktualizację.
+
+Podłącz Chromebooka do źródła zasilania. Instalacja aktualizacji rozpocznie się automatycznie, gdy tylko bateria zostanie wystarczająco naładowana.

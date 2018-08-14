@@ -1,0 +1,5 @@
+Masyadong mababa ang charge ng baterya para sa update.
+
+Nagcha-charge...
+
+Awtomatikong magsisimula ang pag-update sa sandaling magkaroon ng sapat na charge ang baterya.

@@ -1,0 +1,8 @@
+﻿
+La habilitación del Modo de programador en tu sistema está en curso.
+Se borraron los datos locales.
+
+Las modificaciones que realizas en el sistema no son compatibles con Google, pueden causar
+problemas de hardware y dejar sin efecto la garantía.
+
+Para cancelar el proceso, apaga tu computadora ahora.

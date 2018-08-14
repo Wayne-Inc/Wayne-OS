@@ -1,0 +1,89 @@
+﻿{
+  "LOCALE": {
+    "message": "vi"
+  },
+  "SELECT_TO_SPEAK_NAME": {
+    "message": "Ch\u1ecdn \u0111\u1ec3 n\u00f3i"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PAGE_TITLE": {
+    "message": "C\u00e0i \u0111\u1eb7t ch\u1ecdn \u0111\u1ec3 n\u00f3i"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_SPEECH": {
+    "message": "Gi\u1ecdng n\u00f3i"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Ch\u1ecdn m\u1ed9t gi\u1ecdng n\u00f3i:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_DESCRIPTION": {
+    "message": "Ch\u1ecdn t\u1ed1c \u0111\u1ed9 n\u00f3i:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOWEST": {
+    "message": "Ch\u1eadm nh\u1ea5t"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOW": {
+    "message": "Ch\u1eadm"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_NORMAL": {
+    "message": "B\u00ecnh th\u01b0\u1eddng"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FAST": {
+    "message": "Nhanh"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTER": {
+    "message": "Nhanh h\u01a1n"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTEST": {
+    "message": "Nhanh nh\u1ea5t"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT": {
+    "message": "\u0110\u00e1nh d\u1ea5u"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DESCRIPTION": {
+    "message": "\u0110\u00e1nh \u0111\u1ea5u t\u1eebng t\u1eeb khi t\u1eeb \u0111\u01b0\u1ee3c \u0111\u1ecdc"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_DESCRIPTION": {
+    "message": "M\u00e0u \u0111\u00e1nh d\u1ea5u cho t\u1eeb:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_BLUE": {
+    "message": "Xanh lam"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_ORANGE": {
+    "message": "M\u00e0u cam"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_YELLOW": {
+    "message": "V\u00e0ng"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_GREEN": {
+    "message": "Xanh l\u1ee5c"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_PINK": {
+    "message": "M\u00e0u h\u1ed3ng"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DARK": {
+    "message": "N\u1ec1n t\u1ed1i"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_LIGHT": {
+    "message": "N\u1ec1n s\u00e1ng"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_DESCRIPTION": {
+    "message": "Ch\u1ecdn cao \u0111\u1ed9 gi\u1ecdng n\u00f3i:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWEST": {
+    "message": "Th\u1ea5p nh\u1ea5t"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWER": {
+    "message": "Th\u1ea5p h\u01a1n"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOW": {
+    "message": "Th\u1ea5p"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_NORMAL": {
+    "message": "B\u00ecnh th\u01b0\u1eddng"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGH": {
+    "message": "Cao"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGHEST": {
+    "message": "Cao nh\u1ea5t"
+  }
+}

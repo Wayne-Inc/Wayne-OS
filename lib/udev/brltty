@@ -1,0 +1,62 @@
+#!/bin/sh
+
+# Copyright (c) 2013 The Chromium OS Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+# This script starts brltty in a minijail sandbox.
+
+BRLTTY_RUNDIR=/var/run/brltty
+BRLAPI_SOCKETDIR="${BRLTTY_RUNDIR}"/BrlAPI
+# The number (0) must be kept in sync with the Host api parameter in
+# brltty.conf.
+BRLAPI_SOCKETFILE="${BRLAPI_SOCKETDIR}/0"
+
+log() {
+  logger -t brltty_udev "$@"
+}
+
+# Kill any stale brltty processes that might be holding on to the
+# BrlAPI socket.  We try hard, because failure to free up the socket will lock
+# the braille user out from the machine!
+kill_stale_brltty() {
+  local SIGTERM_MAX_TRIES=5
+  if fuser -s -k -TERM "${BRLAPI_SOCKETFILE}"; then
+    log "Waiting for stale brltty process to terminate"
+    local i=0
+    while [ ${i} -lt ${SIGTERM_MAX_TRIES} ]; do
+      sleep .1
+      if ! fuser -s -k -TERM "${BRLAPI_SOCKETFILE}"; then
+        return
+      fi
+      : $(( i += 1 ))
+    done
+    log "Sending SIGKILL to stale brltty process"
+    fuser -s -k -KILL "${BRLAPI_SOCKET_FILE}"
+  fi
+}
+kill_stale_brltty
+
+# Ensure that the directories exist and have the right permissions.
+# NOTE: Chrome is observing ${BRLAPI_SOCKETDIR} for changes.
+# It is important to only remove world-readability *after* setting the
+# group ownership so that the browser doesn't lose read access.
+# This is a race that would cause chrome to stop observing the directory
+# and therefore not get notified when a braille display is connected.
+mkdir -p -m 0755 "${BRLTTY_RUNDIR}" "${BRLAPI_SOCKETDIR}"
+chown -R brltty:brltty "${BRLTTY_RUNDIR}" "${BRLAPI_SOCKETDIR}"
+chmod 750 "${BRLTTY_RUNDIR}" "${BRLAPI_SOCKETDIR}"
+
+# Files created by the daemon shouldn't be accessible by users not in the
+# brltty group.
+umask 0007
+
+log "Starting brltty, device: ${BRLTTY_BRAILLE_DEVICE}, " \
+    "driver: ${BRLTTY_BRAILLE_DRIVER}"
+
+# Start brltty in the jail.
+# The options are:
+# - -q: No startup announcement of brltty's version on the braille display.
+# - -E: Get some arguments (driver, device, etc) from the environment.
+exec /sbin/minijail0 -u brltty -g brltty -G -- \
+  /bin/brltty -q -E -P${BRLTTY_PID_FILE}

@@ -1,0 +1,89 @@
+﻿{
+  "LOCALE": {
+    "message": "fil"
+  },
+  "SELECT_TO_SPEAK_NAME": {
+    "message": "Select to Speak"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PAGE_TITLE": {
+    "message": "Mga Setting ng Select to Speak"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_SPEECH": {
+    "message": "Pananalita"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Pumili ng boses:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_DESCRIPTION": {
+    "message": "Pumili ng rate ng pananalita:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOWEST": {
+    "message": "Pinakamabagal"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOW": {
+    "message": "Mabagal"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_NORMAL": {
+    "message": "Normal"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FAST": {
+    "message": "Mabilis"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTER": {
+    "message": "Mas mabilis"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTEST": {
+    "message": "Pinakamabilis"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT": {
+    "message": "Pag-highlight"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DESCRIPTION": {
+    "message": "I-highlight ang bawat salita habang binibigkas ito"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_DESCRIPTION": {
+    "message": "Kulay para sa mga pag-highlight ng salita:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_BLUE": {
+    "message": "Asul"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_ORANGE": {
+    "message": "Orange"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_YELLOW": {
+    "message": "Dilaw"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_GREEN": {
+    "message": "Berde"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_PINK": {
+    "message": "Pink"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DARK": {
+    "message": "Madilim na background"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_LIGHT": {
+    "message": "Maliwanag na background"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_DESCRIPTION": {
+    "message": "Pumili ng pitch ng pananalita:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWEST": {
+    "message": "Pinakamababa"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWER": {
+    "message": "Mas Mababa"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOW": {
+    "message": "Mababa"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_NORMAL": {
+    "message": "Normal"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGH": {
+    "message": "Mataas"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGHEST": {
+    "message": "Pinakamataas"
+  }
+}

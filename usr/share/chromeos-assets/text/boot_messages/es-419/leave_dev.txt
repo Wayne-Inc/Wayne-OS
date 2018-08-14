@@ -1,0 +1,4 @@
+﻿
+Tu sistema estaba en Modo de programador la última vez que se inició.
+Volviendo al Modo normal (verificado)...
+El sistema se reiniciará luego de volver al Modo verificado.

@@ -1,0 +1,4 @@
+﻿
+L'ultimo avvio del sistema è avvenuto in Modalità Sviluppatore.
+Riattivazione della Modalità Normale (Verificata)...
+Al termine dell'operazione il sistema verrà riavviato.

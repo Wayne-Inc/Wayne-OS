@@ -1,0 +1,4 @@
+Baterai terlalu lemah untuk mengupdate.
+
+Sambungkan Chromebook ke sumber listrik. Update akan
+otomatis dimulai segera setelah baterai memiliki daya yang cukup.

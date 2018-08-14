@@ -1,0 +1,8 @@
+﻿
+Il sistema sta passando alla Modalità Sviluppatore.
+I dati locali sono stati cancellati.
+
+Le modifiche apportate al sistema non sono supportate da Google, potrebbero causare
+problemi all'hardware e invalidare la garanzia.
+
+Per annullare, spegni subito il computer.

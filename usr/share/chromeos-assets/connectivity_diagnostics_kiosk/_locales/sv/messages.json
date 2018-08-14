@@ -1,0 +1,1098 @@
+{
+  "appname": {
+    "message": "Diagnostiseringsverktyg för Chrome-anslutn.",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Diagnostiseringsv. för Chrome-anslutn (beta)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "Diagn.verktyg för Chrome-ansl. (utvecklare)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "Anslutningsdiagnostik",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "Anslutningsdiagnostik",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "Inställningar",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "Maximera",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "Återställ",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "Stäng",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "Rulla upp",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "Rulla ned",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_connection": {
+    "message": "Anslutning",
+    "description": "Attribute label for network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "Signalstyrka",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "MAC-adress",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "IP-adress",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "Nätmask",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "Gateway",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "all_test_groups_summary_title": {
+    "message": "Nätverksanslutningstester",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "Captive-portal",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "Lokalt nätverk",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "Brandvägg",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "Google-tjänster",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "Test körs. Det kan ta några minuter …",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "Ett fel uppstod när diagnostikanslutningstesterna kördes. Klicka på kugghjulsikonen och välj Kör test på nytt. Om felet kvarstår klickar du på länken Skicka feedback och beskriver problemet.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "Skicka feedback",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "Nätverksinställningar",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "Kör diagnostik",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "Kör diagnostik på nytt",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "Tillbaka",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "Din nätverksanslutning verkar fungera som den ska.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "Visa godkända test",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "Dölj godkända test",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "Kör diagnostik på nytt",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "Skicka feedback …",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "Om",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "Om appen",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "Version: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "Godkända test",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "Godkänt test",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "Varningar",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "Varning",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "Testnamn: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "Test-id: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "Testresultat: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "Inget problem identifierat",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "Problem identifierat",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "Eventuellt problem identifierat",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "Testet kan inte köras",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "Visa loggar …",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "Dölj loggar ",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "Kopiera resultatloggar",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "SAMMANFATTNING",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "KRITERIER",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "INFORMATION",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "SUPPORTINFORMATION",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "Godkänd",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "Misslyckades",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "I kö",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "Varning",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "Körs",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "Avbröts",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "Det finns inga testresultat för närvarande.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "Ytterligare tester pågår. Resultaten visas när de är klara.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "tester",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "Rådata från UDP-socket har tagits emot: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "Data lästes in från UDP-socket med storleken (byte): ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "Det gick inte att läsa UDP-data. Felkod: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "Data skickades med storleken (byte): ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "Förbereder för att skicka UDP-socketdata med storleken (byte): ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "Skapar nummer/värd/port för UDP-socket: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "Anger tidsgräns för UDP (ms): ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "Rådata från TCP-socket har tagits emot: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "Data lästes in från TCP-socket med storleken (byte): ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "Fel vid inläsning av TCP-data. Felkod: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "Data skickades med storleken (byte): ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "Förbereder sändning av data med storleken (byte): ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "Upprättad TCP-anslutning med värd/port/statuskod: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "Misslyckad TCP-anslutning med värd/port/statuskod: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "Orsak till anslutningsfel: okänd",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "Upprättad TCP-anslutning med värd/port: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "Orsak till anslutningsfel: tidsgränsen överskreds",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "Orsak till anslutningsfel: anslutning nekades",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "Skapar nummer/värd/port för TCP-socket: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "Anger tidsgräns för TCP (ms): ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "Test: Frånkopplad internetanslutning för Chrome",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "Ingen anslutning till nätverket",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "Internetanslutning finns",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "Chrome är inte anslutet till ett nätverk. Kontrollera nätverksinställningarna i operativsystemet.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Det finns en internetanslutning för webbläsaren Chrome.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "Procentuell andel av antalet TCP-socketförbindelser som returnerar statuskoder för frånkopplad internetanslutning. Bedömningen är att det inte finns några fel när detta värde underskrids: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "Procentuell andel av TCP-socketförbindelser som returnerar statuskoder för frånkopplad internetanslutning. Bedömningen är att det finns fel när värdet överskrids eller är lika högt: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " En TCP-statuskod returnerades för Chromes testanslutning till internet: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " Försöker med TCP-anslutning till nr/värdnamn/port: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "Test: Frånkopplad internetanslutning för Chrome OS",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "Ingen anslutning till nätverket",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "Internetanslutning finns",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "Chromebook är inte ansluten till ett nätverk. Öppna statusfältet och anslut till ett tillgängligt nätverk.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Det finns en internetanslutning.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "Ett resultat utan indikationer på problem returneras när gränssnittet för det anslutna nätverket returnerar en statuskod som visar att en anslutning har upprättats",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "Ett resultat med indikationer på problem returneras när gränssnittet för det anslutna nätverket returnerar en statuskod som visar att en anslutning har kopplats från ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "Antal tillgängliga nätverk som har identifierats: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "Test: Chrome-version",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "Den senaste versionen av Google Chrome används inte",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "Den senaste versionen av Google Chrome används",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "Du använder inte den senaste versionen av Google Chrome, vilket innebär att du inte har alla kända felkorrigeringar och kan ha problem med anslutningen. Klicka på Chrome-menyn i webbläsarens verktygsfält och välj Uppdatera Google Chrome.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "Du använder den senaste versionen av Google Chrome och har därför alla kända korrigeringar för eventuella anslutningsfel.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "Webbläsarens user-agent-sträng i råformat: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "Webbläsarens versionsnummer (kort): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "Webbläsarens versionsnummer (fullständigt): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "Tröskelvärde för versionsnumret för Chrome. Bedömningen är att det inte finns några problem när numret är större än eller lika med detta värde: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "Tröskelvärde för versionsnumret för Chrome. Bedömningen är att det finns problem när detta värde underskrids: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "Chrome OS-versionens namn",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "Chrome OS är inaktuellt",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "Chrome OS är aktuellt",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "Du använder inte den senaste versionen av Google OS. Du har därmed inte tillgång till alla kända felkorrigeringar och har kanske därför anslutningsproblem.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "Du använder en aktuell version av Google OS och har därmed tillgång till alla kända felkorrigeringar för anslutningsfel.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Ett problem upptäcktes vid test av Chrome OS-versionen. Chrome OS-versionen är inaktuell. Nu krävs minst version: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Inget problem upptäcktes i Chrome OS-versionen. Chrome OS-versionen är aktuell. Nu krävs minst version: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "Webbläsarens user-agent-sträng i råformat: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "Plattformsnummer för Chrome OS (kort): ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "Plattformsnummer för Chrome OS (fullständigt): ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "Tröskelvärde för plattformsnumret för Chrome OS. Bedömningen är att det inte finns några problem när numret är större än eller lika med detta värde: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "Tröskelvärde för plattformsnumret för Chrome OS. Bedömningen är att det finns problem när detta värde underskrids: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "Test: förekomst av resolver",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "Det finns ingen fungerande DNS-server",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "DNS-server tillgänglig",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "En DNS-server översätter ett värdnamn (t.ex. www.google.com) till en IP-adress. En webbläsare måste ha en IP-adress för att kunna läsa in en webbplats. Chrome kan inte avgöra IP-adressen till webbplatsen som du vill besöka eftersom DNS-servern inte fungerar. Kontakta internetleverantören eller nätverksadministratören.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "Chrome hittade en DNS-server som översatte ett värdnamn (t.ex. www.google.com) till en IP-adress.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "Försöker matcha värdnamnet: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "DNS-servern returnerade DNS-frågeresultat.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "DNS-servern returnerade inte något resultat.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "Värdnamnet matchades med IP-adressen: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "DNS-matchningstestet utför en DNS-sökning och skickar bedömningen att det inte finns något problem om ett giltigt svar returneras.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "DNS-matchningstestet utför en DNS-sökning och skickar bedömningen att det finns ett problem om ett giltigt svar inte returneras.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "DNS-servern returnerade en statuskod: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "DNS-servern returnerade en felstatuskod: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "Latenstest för DNS-matchare",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "DNS-matchningen tog för lång tid",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "DNS-matchningen tog längre tid än genomsnittet",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "Snabba DNS-svar har mottagits",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "DNS-servern returnerade inte svar snabbt. En DNS-server översätter ett värdnamn (t.ex. www.google.com) till en IP-adress. En webbläsare måste ha en IP-adress att ansluta till för att kunna läsa in en webbsida.",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "DNS-servern returnerade inte svar tillräckligt snabbt. En DNS-server översätter ett värdnamn (t.ex. www.google.com) till en IP-adress. En webbläsare måste ha en IP-adress att ansluta till för att läsa in en webbsida.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "DNS-servern returnerade snabbt svar på din begäran! En DNS-server översätter ett värdnamn (t.ex. www.google.com) till en IP-adress. En webbläsare måste ha en IP-adress att ansluta till för att läsa in en webbsida.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "Försöker matcha värdnamn nr: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "Mottagna resultat för DNS-matchning. Testnummer/aktuell tid/använd tid (ms)/starttid (ms): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "Total tid för DNS-matchning för alla test (ms): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "Totalt antal DNS-värdar som matchats: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "Genomsnittlig tid för DNS-matchning (ms): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "Tröskelvärde för den genomsnittliga tiden för DNS-matchning (ms). Bedömningen är att det inte finns några problem när detta värde underskrids: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "Intervall för den genomsnittliga tiden för DNS-matchning (ms). Bedömningen är att det kan finns problem när tiden håller sig inom detta intervall: ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "Tröskelvärde för den genomsnittliga tiden för DNS-matchning (ms). Bedömningen är att det finns problem när detta värde överskrids: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "Test: DNS-förgiftning Poisoning Test",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "DNS-servern returnerade förväntade resultat",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "DNS-resultaten var förväntade och verkar korrekta",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "DNS-resultaten var inte förväntade och kan vara förgiftade",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "Ett förgiftat DNS-svar returnerades. En förgiftad DNS-server kan returnera en felaktig IP-adress och avleda din trafik till en annan värd än avsett.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "DNS-resultat anses vara förgiftade när matcharen inte returnerar den förväntade IP-adressen.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "DNS-resultat anses inte vara förgiftade när matcharen returnerar den förväntade IP-adressen.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "Nr/värdnamn för test: ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " test returnerades utan DNS-adressfält (inställt på noll)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " test: inget statuskodresultat. Testet avbryts på grund av testfel.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " test returnerade statuskod: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " returnerad matchande DNS-adress: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "Test: TCP-brandvägg",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "Internettrafiken blockerades vid port ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "Internettrafiken verkar vara blockerad vid port ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "Internettrafik tillåts vid port ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "Det finns en begränsning i nätverket för en ofta använd internetanslutning.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "Det verkar finnas en begränsning i nätverket för en ofta använd internetanslutning.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "Vi upprättade en anslutning vid port ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " Försöker upprätta en TCP-anslutning nummer/värdnamn/port: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " Test av TCP-brandvägg returnerade TCP-statuskod: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "Testresultat för brandvägg: Genomförda tester/kontrollerade portar/antal misslyckade anslutningar: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "Försök att testa anslutningen misslyckades och TCP-statuskoden returnerades inte från nätverksstacken för Chrome. I stället returnerades statuskoden: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "Den identifierade DNS-matcharen är inte tillgänglig, så vi kan inte avgöra om det finns någon brandvägg",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "Det identifierade nätverket är inte tillgängligt, så vi kan inte avgöra om det finns någon brandvägg",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "Bedömningen är att det inte finns några problem när procentandelen av testresultaten för misslyckade TCP-anslutningar är lägre än eller lika med: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "Bedömningen är att problem finns när procentandelen av testresultaten för misslyckade TCP-anslutningar är lika med: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "Bedömningen är att det kan finnas problem när antalet testresultat för misslyckade TCP-anslutningar är mellan: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "Test: Captive-portal (HTTP)",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "Internettrafiken blockerades av en captive-portal",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "Det går inte att testa för en captive-portal (HTTP)",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "En öppen internetanslutning har upptäckts",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "En captive-portal är en webbplats som nätverket kräver att användarna visar och interagerar med innan de kan surfa fritt på internet. En captive-portal har hittats i nätverket, vilket innebär att den fria åtkomsten till internet har blockerats.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "Det har uppstått ett problem som förhindrar testning av en captive-portal (HTTP). Den vanligaste orsaken till att detta sker är att all nätverkstrafik nekas eller blockeras.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "Öppen internetanslutning hittades. En captive-portal är en webbplats som ett nätverk kräver att användare visar och interagerar med innan de beviljas fri åtkomst till internet.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "Testet av captive-portal för HTTP ger som resultat att det inte finns några problem om alla HTTP-begäranden returnerar HTTP-statuskoden 204",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "Testet av captive-portal för HTTP ger som resultat att det kan finnas problem om fler än följande procentandel av HTTP-begärandena leder till problem i nätverksstacken: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "Testet av captive-portal för HTTP ger som resultat att det finns problem om något av HTTP-begärandena inte returnerar HTTP-statuskoden 204",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "Fel i begäran nr/felstatus: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "Svarsnummer/HTTP-svarets kod: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "Svarsnummer/HTTP-svarshuvud: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "Nummer på begäran/fullständig svarslängd: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "Test: HTTP-latens för Googles webbplatser",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "Webbegäranden till Google tog för lång tid",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "Webbegäranden till Google tog längre tid än väntat",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "Snabba svar från Googles webbplatser",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Det tar längre tid än väntat att ta emot ett svar från Googles webbplatser, vilket tyder på ett långsamt nätverk.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Det tar lite längre tid än väntat att ta emot ett svar från Googles webbplatser, vilket tyder på ett långsamt nätverk.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "Webbegäranden till Google tas emot snabbt.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "Fel i begäran nr/felstatus: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "Genomsnittlig HTTP-svarstid (ms): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "Totalt antal HTTP-begäranden: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "Total HTTP-svarstid (ms): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "HTTP-svarsnr/tid för mottagning (tidsstämpel i ms)/förfluten tid (ms): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "Tröskelvärde för den genomsnittliga tiden för HTTP-latens (ms). Bedömningen är att det inte finns några problem när detta värde underskrids: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "Intervall för den genomsnittliga tiden för HTTP-latens (ms). Bedömningen är att det kan finnas problem när tiden håller sig inom detta intervall: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "Tröskelvärde för den genomsnittliga tiden för HTTP-latens (ms). Bedömningen är att det finns problem när detta värde överskrids: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "Test: Wi-Fi-signalstyrka för Chrome OS",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "Wi-Fi-signalstyrketestet har avbrutits",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "Det gick inte att köra testet. Det finns ingen Wi-Fi-anslutning.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "Låg signalstyrka i nätverk",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "Signalstyrkan i Wi-Fi-nätverket är svag.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "Stark signalstyrka i nätverk",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "Signalstyrkan i Wi-Fi-nätverket är stark.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "Namn på nätverkssignal/signalstyrka: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "Tröskelvärde för signalstyrka för Chrome OS. Bedömningen är att det inte finns några problem när detta värde överskrids: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "Tröskelvärde för signalstyrka för Chrome OS. Bedömningen är att det finns några problem när detta värde underskrids: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "Test: pinga gateway",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "Det går inte att pinga gateway",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "När gateway pingas skickas inte ett snabbt svar.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "Gateway kan nås",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "När gateway pingas skickas ett snabbt svar.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "Tröskel för fördröjning (ms) för att pinga gatewayen. Bedömningen är att det inte finns något problem: ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "Tröskel för fördröjning (ms) för att pinga gatewayen. Bedömningen är att det finns ett problem: ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "ICMP-frågan direkt till IP-adressen till gatewayen fick aldrig något svarspaket.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "Fördröjning för ICMP-paket (ms): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "IP-adressen till gatewayen kunde inte avgöras",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "IP-adressen till gatewayen ska vara: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "IP-adressen som returnerades från sändningen av ett ICMP-paket till en fjärrvärd med ett TTL på 1 var densamma som IP-adressen till fjärrvärden: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "Test: anlutning till Hangouts",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "Anslutning till Hangouts tillgänglig",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "Ansluten till Hangouts-tjänsten.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Anslutningen till Hangouts verkar ha försämrats delvis",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "Det gick inte att ansluta till medietjänsten Hangouts på UDP-portarna 19302–19309.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Det gick inte att upprätta anslutningen till Hangouts",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Portarna och värdarna som krävs för att ansluta till Hangouts verkar vara blockerade.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "Det gick inte att ansluta till medietjänsten Hangouts på TCP-port 443 eller UDP-portarna 19302–19309.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Det gick inte att ansluta till chattjänsten Hangouts.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "Det gick inte att ansluta till chattjänsten Hangouts eller medietjänsten Hangouts på TCP-port 443.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "TCP-anslutningen lyckades på port 443 för värd ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "TCP-anslutningen misslyckades och blockeras på port 443 för värd ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "UDP-anslutningen misslyckades och blockeras på destinationsporten ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "UDP-anslutningen lyckades på destinationsporten ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "Hangouts blockeringstest returnerar inget problem om: (1) en anslutning kan upprättas på stun.l.google.com på en UDP-port från 19302 till 19309 (2) en TCP-anslutning kan upprättas på apis.google.com, clients6.google.com, plus.google.com och talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "Hangouts blockeringstest returnerar ett problem om: (1) alla UDP-destinationsportar från 19302 till 19309 blockeras för stun.l.google.com (2) en TCP-anslutning till någon av följande värdar misslyckas på port 443: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "Test: Wi-Fi-kryptering",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "Wi-Fi-krypteringstestet har avbrutits",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "Det gick inte att köra Wi-Fi-krypteringstestet. Det finns inget Wi-Fi-nätverk.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "Krypteringsmetoden för Wi-Fi är stark",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "Krypteringsmetoden för Wi-Fi som används av datorn är stark.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "Krypteringsmetoden för Wi-Fi är endast delvis säker",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "Krypteringsmetoden för Wi-Fi som används av nätverksanslutningen är inte så stark som den skulle kunna vara.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "Nätverkskrypteringsmetoden för Wi-Fi är inte säker",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "Nätverkskrypteringsmetoden för Wi-Fi som används av nätverksanslutningen är inte säker.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "Bedömningen är att följande krypteringsmetoder för Wi-Fi innehåller problem: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "Bedömningen är att följande krypteringsmetoder för Wi-Fi inte innehåller problem: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "Bedömningen att det kan finnas ett potentiellt problem görs om vi är osäkra på krypteringsmetoden för Wi-Fi",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "Antal tillgängliga nätverk som har identifierats: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "Krypteringsmetod som används av det Wi-Fi-nätverk som är anslutet för tillfället: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "Test: Slutpunkt till slutpunkt för Googles webbplatser",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "Googles webbplatser är tillgängliga",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "Googles webbplatser verkar läsas in ordentligt utan anslutningsproblem.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Googles webbplatser kunde inte hämtas och läsas in ordentligt.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "Ett problem uppstod vid försöket att nå Googles webbplatser. Det kan ha en rad olika orsaker, till exempel en captive-portal, DNS-förgiftning, ett MITM-angrepp (man-in-the-middle) och andra typer av nätverksmanipulering.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "Tillgången till Googles webbplatser bedöms som oproblematisk ur perspektivet slutpunkt till slutpunkt om det gick att upprätta en HTTPS-anslutning till var och en av de webbplatser för Googles tjänster som testats",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "Tillgången till Googles webbplatser bedöms som ett problem ur perspektivet slutpunkt till slutpunkt om det inte gick att upprätta en HTTPS-anslutning till en eller flera av de webbplatser för Googles tjänster som testades",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "Nr/värdnamn för test: ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "Ett fel uppstod vid anslutningen till följande värdnamn. Vi försöker igen: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "Bestående fel uppstod vid anslutningen till följande värdnamn. Detta värdnamn tycks ha anslutningsproblem: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "Begäran om följande värdnamn slutfördes med följande statuskod: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

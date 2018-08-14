@@ -1,0 +1,4 @@
+Batéria je príliš slabá na aktualizáciu.
+
+Pripojte Chromebook k zdroju napájania. Aktualizácia
+sa automaticky spustí, keď bude batéria dostatočne nabitá.

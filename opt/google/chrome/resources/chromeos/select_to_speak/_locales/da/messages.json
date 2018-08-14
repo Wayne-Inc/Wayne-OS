@@ -1,0 +1,89 @@
+﻿{
+  "LOCALE": {
+    "message": "da"
+  },
+  "SELECT_TO_SPEAK_NAME": {
+    "message": "Tekstopl\u00e6sning"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PAGE_TITLE": {
+    "message": "Indstillinger for Tekstopl\u00e6sning"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_SPEECH": {
+    "message": "Tale"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "V\u00e6lg en stemme:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_DESCRIPTION": {
+    "message": "V\u00e6lg talehastighed:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOWEST": {
+    "message": "Langsomst"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOW": {
+    "message": "Langsom"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_NORMAL": {
+    "message": "Normal"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FAST": {
+    "message": "Hurtig"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTER": {
+    "message": "Hurtigere"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTEST": {
+    "message": "Hurtigst"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT": {
+    "message": "Fremh\u00e6vning"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DESCRIPTION": {
+    "message": "Fremh\u00e6v hvert ord, n\u00e5r det siges"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_DESCRIPTION": {
+    "message": "Farve til markering af ord:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_BLUE": {
+    "message": "Bl\u00e5"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_ORANGE": {
+    "message": "Orange"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_YELLOW": {
+    "message": "Gul"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_GREEN": {
+    "message": "Gr\u00f8n"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_PINK": {
+    "message": "Lyser\u00f8d"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DARK": {
+    "message": "M\u00f8rk baggrund"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_LIGHT": {
+    "message": "Lys baggrund"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_DESCRIPTION": {
+    "message": "V\u00e6lg et stemmeleje:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWEST": {
+    "message": "Laveste"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWER": {
+    "message": "Lavere"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOW": {
+    "message": "Lav"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_NORMAL": {
+    "message": "Normal"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGH": {
+    "message": "H\u00f8jt"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGHEST": {
+    "message": "H\u00f8jeste"
+  }
+}

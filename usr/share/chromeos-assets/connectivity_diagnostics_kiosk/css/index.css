@@ -1,0 +1,480 @@
+/* Copyright 2013 The Chromium Authors. All rights reserved.
+
+   Use of this source code is governed by a BSD-style license that can be
+   found in the LICENSE file.
+*/
+
+/* Styling for body */
+
+body {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font-family: 'Helvetica Neue Medium', HelveticaNeue-Medium, Helvetica, sans-serif;
+  font-size: initial;
+}
+
+body.no-focus-outline * {
+  outline: none;
+}
+
+html, body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+#ccd-app {
+  background-color: #ffffff;
+}
+
+/**** Header ****/
+
+#ccd-status-bar {
+  position: fixed;
+  background: white;
+  top: 50px;
+  border: 0px;
+  margin: 0px;
+  margin-top: -9px;
+  margin-bottom: 2px;
+  padding: 0px;
+  width: 100%;
+  z-index: 0;
+}
+
+#ccd-status-bar-elem {
+  width: 100%;
+  height: 7px;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+#ccd-status-bar-elem::-webkit-progress-value {
+  background-color: #4285F4;
+  width: 100%;
+  height: 4px;
+}
+
+#ccd-status-bar-elem::-webkit-progress-bar {
+  background-color: #ccc;
+  width: 100%;
+  height: 4px;
+}
+
+#ccd-header {
+  position: fixed;
+  background: white;
+  height: 50px !important;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  padding: 0;
+  display: -webkit-box;
+  -webkit-box-align: center;
+  -webkit-box-pack: justify;
+  width: 100%;
+  -webkit-app-region: drag;
+  z-index: 50;
+}
+
+#ccd-header a,
+#ccd-header img,
+#ccd-header button {
+  cursor: pointer;
+  -webkit-app-region: no-drag;
+}
+
+#header-title-container {
+  width: 60%;
+  font-size: 16px;
+  color: #969696;
+  padding-left: 1em;
+}
+
+#header-options-container {
+  font-size: 0px;
+  height: 32px;
+}
+
+#header-options-container button {
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 10px;
+  border: none transparent;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 32px;
+  height: 32px;
+  background-color: transparent;
+}
+
+#header-options-container button:hover,
+#header-options-container button:focus,
+#header-options-container button:active,
+.settings-menu-link-expanded {
+  background-color: #ededed;
+}
+
+#top-settings-btn {
+  background-image: -webkit-image-set(
+    url('../../img/100/topbar_button_settings.png') 1x,
+    url('../../img/200/topbar_button_settings.png') 2x);
+}
+
+#top-maximize-btn {
+  background-image: -webkit-image-set(
+    url('../../img/100/topbar_button_maximize.png') 1x,
+    url('../../img/200/topbar_button_maximize.png') 2x);
+}
+
+#top-close-btn {
+  background-image: -webkit-image-set(
+    url('../../img/100/topbar_button_close.png') 1x,
+    url('../../img/200/topbar_button_close.png') 2x);
+}
+
+#settings-container,
+#about-container {
+  background-color: rgb(250,250,250);
+  border: 1px solid rgb(255,255,255);
+  border-radius: 3px;
+  box-shadow: 0 1px 4px 0 rgba(0,0,0,.5);
+  padding: 0.2em 0em 0.2em 0em;
+}
+
+#settings-container a,
+#about-container a {
+  box-sizing: border-box;
+  display: block;
+  font-family: 'Noto Sans UI', sans-serif;
+  line-height: 30px;
+  padding: 0 20px;
+  width: 100%;
+}
+
+#settings-container a:hover,
+#about-container a:hover,
+#settings-container a:focus,
+#about-container a:focus,
+#settings-container a:active,
+#about-container a:active {
+  color: white;
+  background-color: rgb(66, 129, 244);
+}
+
+.settings-visible {
+  display: inline;
+  position: fixed;
+  top: 48px;
+  right: 94px;
+  width: 180px;
+  z-index: 10000;
+  background: #d3d3d3;
+  border-radius: 10px;
+  font-size: 12px;
+}
+
+.about-visible {
+  background: #d3d3d3;
+  border-radius: 10px;
+  display: inline;
+  font-size: 12px;
+  position: fixed;
+  right: 94px;
+  top: 48px;
+  width: 150px;
+  z-index: 10000;
+  padding: 0.75em !important;
+}
+
+.settings-visible,
+.about-visible a {
+  cursor: pointer;
+}
+
+.element-hidden {
+  display: none;
+}
+
+.element-block {
+  display: block;
+}
+
+/**** Styling Used on All Partials ****/
+.test-status-failed {
+  background-image: -webkit-image-set(
+      url('../../img/100/test_failed.png') 1x,
+      url('../../img/200/test_failed.png') 2x);
+  background-position: center;
+  background-repeat: no-repeat;
+  min-width: 30px;
+  min-height: 30px;
+}
+
+.test-status-passed {
+  background-image: -webkit-image-set(
+      url('../../img/100/test_passed.png') 1x,
+      url('../../img/200/test_passed.png') 2x);
+  background-position: center;
+  background-repeat: no-repeat;
+  min-width: 30px;
+  min-height: 30px;
+}
+
+.test-status-warning {
+  background-image: -webkit-image-set(
+      url('../../img/100/test_warning.png') 1x,
+      url('../../img/200/test_warning.png') 2x);
+  background-position: center;
+  background-repeat: no-repeat;
+  min-width: 30px;
+  min-height: 30px;
+}
+
+.test-status-canceled {
+    background-image: -webkit-image-set(
+        url('../../img/100/test_canceled.png') 1x,
+        url('../../img/200/test_canceled.png') 2x);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-width: 30px;
+    min-height: 30px;
+}
+
+.test-status-not-run {
+  background-image: -webkit-image-set(
+      url('../../img/100/test_not_run.png') 1x,
+      url('../../img/200/test_not_run.png') 2x);
+  background-position: center;
+  background-repeat: no-repeat;
+  min-width: 30px;
+  min-height: 30px;
+}
+
+/**** Main Content View ****/
+#page-body-container {
+  padding-top: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  min-width: 600px;
+  margin-top: 50px; /* Account for banner/header bar */
+  margin-bottom: 70px; /* Account for footer */
+}
+
+.angular-view {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+/**** Network Summary ****/
+.img-col {
+  width: 130px;
+}
+
+.network-img-icon {
+  position: absolute;
+  top: 0px;
+  z-index: 900;
+  background-position: left;
+  background-repeat: no-repeat;
+  width: 130px;
+  min-height: 100px;
+  overflow-y: visible;
+}
+
+.network-img-icon-disconnected {
+  background-image: -webkit-image-set(
+      url('../../img/100/wifi-0.png') 1x,
+      url('../../img/200/wifi-0.png') 2x);
+}
+
+.network-img-icon-strong {
+    background-image: -webkit-image-set(
+        url('../../img/100/wifi-4.png') 1x,
+        url('../../img/200/wifi-4.png') 2x);
+}
+
+.network-img-icon-strong {
+    background-image: -webkit-image-set(
+        url('../../img/100/wifi-3.png') 1x,
+        url('../../img/200/wifi-3.png') 2x);
+}
+
+.network-img-icon-strong {
+    background-image: -webkit-image-set(
+        url('../../img/100/wifi-2.png') 1x,
+        url('../../img/200/wifi-2.png') 2x);
+}
+
+.attribute-col {
+  width: 165px;
+}
+
+.flex {
+  flex: 1;
+}
+
+/**** All Groups / Subgroup List****/
+.view-title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.test-result-list-item {
+  font-size: 16px;
+}
+
+.test-result-list-item:focus {
+  outline: 2px solid #4285F4;
+
+}
+
+.test-result-list-item:hover {
+  cursor: pointer;
+}
+
+.flex-container {
+  display: flex;
+  display: -webkit-flex;
+  padding: 0.25em;
+  align-items: center;
+  min-height: 30px;
+}
+
+.group-status-icon,
+.test-status-icon {
+  width: 75px;
+}
+
+.test-status-icon-left {
+ background-position: left !important;
+ width: 45px !important;
+}
+
+.group-status-text,
+.test-status-text{
+  text-align: right;
+  flex: 1;
+}
+
+.arrow-more {
+  background-image: -webkit-image-set(
+      url('../../img/100/arrow_right.png') 1x,
+      url('../../img/200/arrow_right.png') 2x);
+  background-position: right;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+}
+
+/**** Test Log ****/
+.test-log-details {
+  font-size: 14px;
+}
+
+.test-log-details > div {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.show-logs-link {
+  margin: 1em 1em 1em 0em;
+  font-size: 80%;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.show-logs-link-a {
+  cursor: pointer;
+  color: rgb(17, 85, 204) !important;
+}
+
+.show-logs-link-a:hover {
+  text-decoration: underline;
+}
+
+/**
+ * Hack to put the <textarea> with the connectivity test logs off the screen.
+ * We need a <textarea> in order to copy the test logs and it must be live in
+ * DOM for document.execCommand('copy') to work.
+ **/
+.test-logs-wrapper {
+  position: fixed;
+  right: -200px;
+  top: -200px;
+}
+
+/**** Footer ****/
+#ccd-footer {
+  position: fixed;
+  bottom: 0px;
+  background: white;
+  min-height: 60px !important;
+  border-top: 1px solid #ededed;
+  padding: 0px;
+  width: 100%;
+}
+
+#ccd-footer button {
+  height: 29px;
+  min-width: 78px;
+  padding: 0 7px;
+  margin-left: 10px;
+  border: solid 1px #ddd;
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: 11px;
+  border: 1px solid #dcdcdc;
+  background-color: #f5f5f5;
+  color: #444;
+  cursor: pointer;
+  -webkit-app-region: no-drag;
+}
+
+.button-arrow-down {
+  background-image: -webkit-image-set(
+      url('../../img/100/arrow_down.png') 1x,
+      url('../../img/200/arrow_down.png') 2x);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.button-arrow-up {
+  background-image: -webkit-image-set(
+      url('../../img/100/arrow_up.png') 1x,
+      url('../../img/200/arrow_up.png') 2x);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.ccd-footer-container {
+  display: -webkit-flex;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 0.7em;
+  padding-right: 0.7em;
+  align-items: center;
+}
+
+.ccd-footer-item {
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+}
+
+.ccd-footer-left {
+  -webkit-flex: initial;
+  flex: initial;
+}
+
+.ccd-footer-right {
+  text-align: right;
+  flex: 1;
+}
+
+#ccd-footer a {
+  color: rgb(17, 85, 204);
+  cursor: pointer;
+  font-size: 13px;
+}

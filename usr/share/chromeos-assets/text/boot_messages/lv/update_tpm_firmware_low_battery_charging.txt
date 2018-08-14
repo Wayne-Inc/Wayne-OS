@@ -1,0 +1,6 @@
+Nepietiek akumulatora jaudas, lai veiktu atjauninājumu.
+
+Notiek uzlāde...
+
+Atjauninājums tiks sākts automātiski, tiklīdz akumulatorā būs pietiekami daudz
+jaudas.

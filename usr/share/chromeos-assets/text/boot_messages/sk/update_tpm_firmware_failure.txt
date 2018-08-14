@@ -1,0 +1,6 @@
+Vyskytol sa problém a aktualizácia nebola úspešná.
+
+Zrejme bude potrebné obnoviť zariadenie. Ďalšie informácie o obnovení systému
+ChromeOS nájdete na adrese https://www.google.com/chromeos/recovery
+
+Reštartuje stlačením medzerníka.

@@ -1,0 +1,3 @@
+No hi ha prou bateria per fer l'actualització.
+
+Connecta Chromebook a una font d'alimentació. L'actualització començarà automàticament quan la bateria estigui prou carregada.

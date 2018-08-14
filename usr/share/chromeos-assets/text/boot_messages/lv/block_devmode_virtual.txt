@@ -1,0 +1,5 @@
+﻿
+Ierīces īpašnieks šajā ierīcē ir atspējojis izstrādātāja režīmu. Ja vēlaties izmantot izstrādātāja režīmu, lūdziet, lai ierīces īpašnieks noņem ierobežojumu.
+
+
+Sistēma tiks atkārtoti palaista verificētajā režīmā.

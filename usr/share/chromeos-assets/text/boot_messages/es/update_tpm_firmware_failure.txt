@@ -1,0 +1,5 @@
+No se ha podido instalar la actualización.
+
+Es posible que debas recuperar el dispositivo. Para obtener más información sobre la recuperación de Chrome OS, consulta: https://www.google.com/chromeos/recovery
+
+Pulsa la barra espaciadora para reiniciar.

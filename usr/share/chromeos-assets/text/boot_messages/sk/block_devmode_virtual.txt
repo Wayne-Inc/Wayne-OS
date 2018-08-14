@@ -1,0 +1,5 @@
+﻿
+Vlastník zariadenia zakázal na tomto zariadení režim vývojára. Ak chcete použiť režim vývojára, požiadajte vlastníka zariadenia, aby obmedzenie odstránil.
+
+
+Systém sa reštartuje v overenom režime.

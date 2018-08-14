@@ -1,0 +1,4 @@
+Bateria este prea descărcată pentru actualizare.
+
+Conectează Chromebookul la o sursă de alimentare. Actualizarea va
+începe automat de îndată ce bateria este încărcată suficient.

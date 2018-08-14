@@ -1,0 +1,3 @@
+S'està instal·lant l'actualització...
+
+No apaguis el dispositiu. Es reiniciarà automàticament un cop finalitzi l'actualització.

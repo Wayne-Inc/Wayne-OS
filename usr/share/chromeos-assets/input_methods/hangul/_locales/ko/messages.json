@@ -1,0 +1,17 @@
+{
+  "Hangul_3_Set_Final": {
+    "message": "세벌식(최종)"
+  },
+  "Hangul_Romaja": {
+    "message": "로마자"
+  },
+  "Hangul_2_Set": {
+    "message": "두벌식"
+  },
+  "Hangul_3_Set_No_Shift": {
+    "message": "세벌식(shift 없음)"
+  },
+  "Hangul_3_Set_390": {
+    "message": "세벌식(390)"
+  }
+}

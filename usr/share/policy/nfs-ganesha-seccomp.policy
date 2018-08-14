@@ -1,0 +1,111 @@
+# Copyright 2017 The Chromium OS Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+# system calls used in syslog debugging
+
+connect: 1
+sendto: 1
+sendmsg: 1
+
+# mmap should not be allowed in WRITE+EXECUTE mode
+mmap: arg2 in 0xfffffffb || arg2 in 0xfffffffd
+mprotect: arg2 in 0xfffffffb || arg2 in 0xfffffffd
+open: 1
+close: 1
+fstat: 1
+read: 1
+stat: 1
+rt_sigaction: 1
+brk: 1
+getrandom: 1
+access: 1
+restart_syscall: 1
+exit: 1
+rt_sigreturn: 1
+lseek: 1
+uname: 1
+exit_group: 1
+rt_sigprocmask: 1
+arch_prctl: 1
+write: 1
+getrlimit: 1
+set_tid_address: 1
+clone: 1
+set_robust_list: 1
+execve: 1
+munmap: 1
+fcntl: 1
+# ioctl only needs FIONBIO and TCGETS
+ioctl: arg1 == 0x5421 || arg1 == 0x5401
+futex: 1
+statfs: 1
+umask: 1
+setrlimit: 1
+openat: 1
+name_to_handle_at: 1
+socketpair: 1
+epoll_create1: 1
+epoll_ctl: 1
+socket: arg0 == 1 && arg1 == 1 || arg0 == 2 && arg1 == 1 || arg0 == 2 && arg1 == 2 || arg0 == 2 && arg1 == 0x802 || arg0 == 3 && arg1 == 1000 || arg0 == 0xa && arg1 == 2 || arg0 == 0xa && arg1 == 1 || arg0 == 0x10 && arg1 == 3
+setsockopt: 1
+getsockname: 1
+getsockopt: 1
+bind: 1
+
+getpeername: 1
+
+listen: 1
+lstat: 1
+tgkill: 1
+geteuid: 1
+poll: 1
+setfsuid: 1
+setfsgid: 1
+getgroups: 1
+mkdir: 1
+recvmsg: 1
+recvfrom: 1
+rt_sigtimedwait: 1
+epoll_wait: 1
+accept: 1
+
+# nfs client mount syscalls
+
+writev: 1
+open_by_handle_at: 1
+newfstatat: 1
+
+# nfs client file/io system calls
+
+getdents64: 1
+setgroups: 1
+utimensat: 1
+fchmod: 1
+pread64: 1
+unlinkat: 1
+ftruncate: 1
+pwrite64: 1
+fsync: 1
+mkdirat: 1
+renameat: 1
+symlinkat: 1
+readlinkat: 1
+fchown: 1
+fchownat: 1
+linkat: 1
+
+# long-term syscalls (called after a while of being idle)
+
+madvise: 1
+rmdir: 1
+nanosleep: 1
+
+# daemon mode system calls (-F)
+setsid: 1
+chdir: 1
+dup2: 1
+
+# jail system calls
+setresgid: 1
+setresuid: 1

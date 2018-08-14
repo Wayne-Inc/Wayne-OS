@@ -1,0 +1,118 @@
+<div id="ccd-footer">
+  <div ng-switch on="footerCtrl.currentViewId">
+
+    <div class="ccd-footer-container" ng-switch-when="0">
+      <div class="ccd-footer-item ccd-footer-left">
+        <button ng-click="footerCtrl.runDiagnosticsBtnTriggered($event)"
+          ng-disabled="footerCtrl.isRerunButtonActive()"
+          ng-keyup="footerCtrl.runDiagnosticsBtnTriggered($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_run_diagnostics')"></button>
+      </div>
+      <div class="ccd-footer-item"
+          ng-show="footerCtrl.isNetworkSettingsAvailable">
+        <a ng-click="footerCtrl.showNetworkSettings($event)"
+          ng-keyup="footerCtrl.showNetworkSettings($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_network_settings')"></a>
+      </div>
+      <div class="ccd-footer-item ccd-footer-right"
+          ng-show="footerCtrl.showSendFeedback">
+        <a ng-click="footerCtrl.sendFeedbackBtnTriggered($event)"
+          ng-keyup="footerCtrl.sendFeedbackBtnTriggered($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_send_feedback')"></a>
+      </div>
+    </div>
+
+    <div class="ccd-footer-container" ng-switch-when="1">
+      <div class="ccd-footer-item ccd-footer-left"
+          ng-show="footerCtrl.showBackBtnOnAllTestGroupPage">
+        <button ng-click="footerCtrl.goBackBtnTriggered($event)"
+          ng-keyup="footerCtrl.goBackBtnTriggered($event)"
+          ng-disabled="footerCtrl.isRerunButtonActive()"
+          ng-bind="footerCtrl.i18n.getMsg('footer_go_back')"></button>
+      </div>
+      <div class="ccd-footer-item">
+        <button ng-click="footerCtrl.runDiagnosticsBtnTriggered($event)"
+          ng-keyup="footerCtrl.runDiagnosticsBtnTriggered($event)"
+          ng-disabled="footerCtrl.isRerunButtonActive()"
+          ng-bind="footerCtrl.i18n.getMsg('footer_rerun_diagnostics')"></button>
+      </div>
+      <div class="ccd-footer-item"
+          ng-show="footerCtrl.isNetworkSettingsAvailable">
+        <a ng-click="footerCtrl.showNetworkSettings($event)"
+          ng-keyup="footerCtrl.showNetworkSettings($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_network_settings')"></a>
+      </div>
+      <div class="ccd-footer-item ccd-footer-right"
+          ng-show="footerCtrl.showSendFeedback">
+        <a ng-click="footerCtrl.sendFeedbackBtnTriggered($event)"
+          ng-keyup="footerCtrl.sendFeedbackBtnTriggered($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_send_feedback')"></a>
+      </div>
+    </div>
+
+    <div class="ccd-footer-container" ng-switch-when="2">
+      <div class="ccd-footer-item ccd-footer-left">
+        <button ng-click="footerCtrl.goBackBtnTriggered($event)"
+          ng-keyup="footerCtrl.goBackBtnTriggered($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_go_back')"></button>
+      </div>
+      <div class="ccd-footer-item">
+        <button ng-click="footerCtrl.runDiagnosticsBtnTriggered($event)"
+          ng-keyup="footerCtrl.runDiagnosticsBtnTriggered($event)"
+          ng-disabled="footerCtrl.isRerunButtonActive()"
+          ng-bind="footerCtrl.i18n.getMsg('footer_rerun_diagnostics')"></button>
+      </div>
+      <div class="ccd-footer-item"
+          ng-show="footerCtrl.isNetworkSettingsAvailable">
+        <a ng-click="footerCtrl.showNetworkSettings($event)"
+          ng-keyup="footerCtrl.showNetworkSettings($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_network_settings')"></a>
+      </div>
+      <div class="ccd-footer-item ccd-footer-right"
+          ng-show="footerCtrl.showSendFeedback">
+        <a ng-click="footerCtrl.sendFeedbackBtnTriggered($event)"
+          ng-keyup="footerCtrl.sendFeedbackBtnTriggered($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_send_feedback')"></a>
+      </div>
+    </div>
+
+    <div class="ccd-footer-container" ng-switch-when="3">
+      <div class="ccd-footer-item ccd-footer-left">
+        <button ng-click="footerCtrl.goBackBtnTriggered($event)"
+          ng-keyup="footerCtrl.goBackBtnTriggered($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_go_back')"></button>
+      </div>
+      <div class="ccd-footer-item">
+        <button ng-click="footerCtrl.runDiagnosticsBtnTriggered($event)"
+          ng-keyup="footerCtrl.runDiagnosticsBtnTriggered($event)"
+          ng-disabled="footerCtrl.isRerunButtonActive()"
+          ng-bind="footerCtrl.i18n.getMsg('footer_rerun_diagnostics')"></button>
+      </div>
+      <div class="ccd-footer-item">
+        <button class="button-arrow-up"
+            aria-label="headerCtrl.i18n.getMsg('aria_label_scroll_up')"
+            ng-click="footerCtrl.scrollUpBtnTriggered($event)"
+            ng-keyup="footerCtrl.scrollUpBtnTriggered($event)"></button>
+      </div>
+      <div class="ccd-footer-item">
+        <button class="button-arrow-down"
+            aria-label="headerCtrl.i18n.getMsg('aria_label_scroll_down')"
+            ng-click="footerCtrl.scrollDownBtnTriggered($event)"
+            ng-keyup="footerCtrl.scrollDownBtnTriggered($event)"></button>
+      </div>
+      <div class="ccd-footer-item"
+          ng-show="footerCtrl.isNetworkSettingsAvailable">
+        <a ng-click="footerCtrl.showNetworkSettings($event)"
+          ng-keyup="footerCtrl.showNetworkSettings($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_network_settings')"></a>
+      </div>
+      <div class="ccd-footer-item ccd-footer-right"
+          ng-show="footerCtrl.showSendFeedback">
+        <a ng-click="footerCtrl.sendFeedbackBtnTriggered($event)"
+          ng-keyup="footerCtrl.sendFeedbackBtnTriggered($event)"
+          ng-bind="footerCtrl.i18n.getMsg('footer_send_feedback')"></a>
+      </div>
+    </div>
+
+  </div>
+</div>

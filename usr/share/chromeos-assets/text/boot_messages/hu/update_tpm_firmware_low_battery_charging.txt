@@ -1,0 +1,6 @@
+Az akkumulátor töltöttségi szintje túl alacsony a frissítéshez.
+
+Töltés…
+
+A frissítés automatikusan elkezdődik, amint az akkumulátor eléri
+a megfelelő töltöttségi szintet.

@@ -1,0 +1,54 @@
+#!/bin/sh
+
+if [ -n "$new_broadcast_address" ]; then
+    new_broadcast_arg="broadcast $new_broadcast_address"
+fi
+if [ -n "$new_subnet_mask" ]; then
+    new_subnet_arg="netmask $new_subnet_mask"
+fi
+
+
+case "$reason" in
+    MEDIUM|ARPCHECK|ARPSEND)
+        # Do nothing
+        ;;
+    PREINIT)
+        # The DHCP client is requesting that an interface be
+        # configured as required in order to send packets prior to
+        # receiving an actual address. - dhclient-script(8)
+
+        ifconfig $interface inet 0 up
+
+        # We need to give the kernel some time to get the interface up.
+        sleep 1
+        ;;
+
+    BOUND|RENEW|REBIND|REBOOT|TIMEOUT)
+        if [ -n "$old_ip_address" -a              "$old_ip_address" != "$new_ip_address" ]; then
+            # IP address changed. Bringing down the interface will delete all routes,
+            # and clear the ARP cache.
+            ifconfig $interface inet 0
+
+        fi
+
+        if [ -z "$old_ip_address" -o "$old_ip_address" != "$new_ip_address" -o             "$reason" = "BOUND" -o "$reason" = "REBOOT" ]; then
+
+            ifconfig $interface inet $new_ip_address $new_subnet_arg                 $new_broadcast_arg $mtu_arg
+
+            # Since this script is for the backchannel testing interface,
+            # we don't set the default route from here, but we do stash
+            # it for possible later use in setting up a host route.
+            cp /dev/null /run/dhclient-${interface}.routers
+            for router in $new_routers; do
+                echo $router >> /run/dhclient-${interface}.routers
+            done
+        fi
+        ;;
+
+    EXPIRE|FAIL|RELEASE|STOP)
+        if [ -n "$old_ip_address" ]; then
+            # Shut down interface, which will delete routes and clear arp cache.
+            ifconfig $interface inet 0
+        fi
+        ;;
+esac

@@ -1,0 +1,5 @@
+Er is iets misgegaan en de update is mislukt.
+
+Je moet je apparaat mogelijk herstellen. Voor meer informatie over ChromeOS-herstel ga je naar: https://www.google.com/chromeos/recovery
+
+Druk op de spatiebalk om opnieuw op te starten.

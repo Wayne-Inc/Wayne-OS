@@ -1,0 +1,8 @@
+﻿
+Votre système passe en mode développeur.
+Les données locales ont été effacées.
+
+Les modifications non acceptées par Google que vous apportez au système peuvent provoquer
+des problèmes matériels et annuler la garantie.
+
+Pour annuler, éteignez votre ordinateur maintenant.

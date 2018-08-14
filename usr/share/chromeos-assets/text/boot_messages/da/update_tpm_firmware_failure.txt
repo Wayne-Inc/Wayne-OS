@@ -1,0 +1,6 @@
+Der opstod en fejl, og opdateringen blev ikke gennemført.
+
+Du skal muligvis gendanne din enhed. Få flere oplysninger om
+gendannelse af ChromeOS ved at gå til: https://www.google.com/chromeos/recovery
+
+Tryk på mellemrumstasten for at genstarte.

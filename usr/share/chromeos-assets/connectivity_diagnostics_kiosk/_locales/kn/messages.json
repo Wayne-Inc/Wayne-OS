@@ -1,0 +1,1098 @@
+{
+  "appname": {
+    "message": "Chrome ಸಂಪರ್ಕದ ವಿಶ್ಲೇಷಣಾತ್ಮಕ",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Chrome ಸಂಪರ್ಕದ ವಿಶ್ಲೇಷಣಾತ್ಮಕ (ಬೀಟಾ)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "Chrome ಸಂಪರ್ಕದ ವಿಶ್ಲೇಷಣಾತ್ಮಕ (ಡೆವ)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "ಸಂಪರ್ಕದ ವಿಶ್ಲೇಷಣಾತ್ಮಕ",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "ಸಂಪರ್ಕದ ವಿಶ್ಲೇಷಣಾತ್ಮಕ",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "ಗರಿಷ್ಠಗೊಳಿಸು",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "ಮರುಸ್ಥಾಪಿಸು",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "ಮುಚ್ಚು",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "ಮೇಲಕ್ಕೆ ಸ್ಕ್ರಾಲ್ ಮಾಡು",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "ಕೆಳಗೆ ತನ್ನಿ",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_connection": {
+    "message": "ಸಂಪರ್ಕ",
+    "description": "Attribute label for network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "ಸಿಗ್ನಲ್ ಸಾಮರ್ಥ್ಯ",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "MAC ವಿಳಾಸ",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "IP ವಿಳಾಸ",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "ಸಬ್‌ನೆಟ್ ಮಾಸ್ಕ್",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "ಗೇಟ್‌ವೇ",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "all_test_groups_summary_title": {
+    "message": "ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕ ಟೆಸ್ಟ್‌ಗಳು",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "ಬಂಧಿತ ಪೋರ್ಟಲ್",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "ಸ್ಥಳೀಯ ನೆಟ್‌ವರ್ಕ್",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "ಅಗ್ನಿರೋಧಕ",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "Google‌ ಸೇವೆಗಳು",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "ಟೆಸ್ಟ್‌ಗಳು ರನ್‌ ಆಗುತ್ತಿವೆ. ಇದಕ್ಕೆ ಕೆಲವು ನಿಮಿಷಗಳ ಕಾಲಾವಕಾಶ ಬೇಕಾಗಬಹುದು...",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "ಸಂಪರ್ಕದ ವಿಶ್ಲೇಷಣಾತ್ಮಕಗಳ ಟೆಸ್ಟ್‌‌ಗಳು ರನ್ ಆಗುತ್ತಿರುವಾಗ ಯಾವುದೋ ದೋಷ ಸಂಭವಿಸಿದೆ. ಗೇರ್ ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ ತದನಂತರ 'ಟೆಸ್ಟ್‌‌ಗಳನ್ನು ಮರುಚಾಲನೆ ಮಾಡು' ಕ್ಲಿಕ್ ಮಾಡಿ. ಈ ದೋಷ ಹೀಗೆಯೇ ಮುಂದುವರಿದರೆ, ದಯವಿಟ್ಟು ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸು ಲಿಂಕ್ ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಸಮಸ್ಯೆಯ ಕುರಿತು ವಿವರಿಸಿ.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸಿ",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "ನೆಟ್‌ವರ್ಕ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "ವಿಶ್ಲೇಷಣಾತ್ಮಕಗಳನ್ನು ರನ್ ಮಾಡಿ",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "ವಿಶ್ಲೇಷಣಾತ್ಮಕಗಳನ್ನು ಮರುರನ್ ಮಾಡಿ",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "ಹಿಂತಿರುಗು",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್‌ ಸಂಪರ್ಕವು ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿರುವಂತಿದೆ.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "ಪೂರೈಸಬೇಕಾದ ಟೆಸ್ಟ್‌‌ ತೋರು",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "ಪೂರೈಸಬೇಕಾದ ಟೆಸ್ಟ್ ಮರೆಮಾಡು",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "ವಿಶ್ಲೇಷಣಾತ್ಮಕ ಮರುರನ್ ಮಾಡಿ",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸಿ...",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "ಕುರಿತು",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "ಅಪ್ಲಿಕೇಶನ್ ಕುರಿತು",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "ಆವೃತ್ತಿ: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "ಪೂರೈಸಬೇಕಾದ ಟೆಸ್ಟ್‌‌ಗಳು",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "ಪೂರೈಸಬೇಕಾದ ಟೆಸ್ಟ್‌‌",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "ಎಚ್ಚರಿಕೆಗಳು",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "ಎಚ್ಚರಿಕೆ",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "ಟೆಸ್ಟ್‌ ಹೆಸರು: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "ಟೆಸ್ಟ್‌ ID: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "ಪರೀಕ್ಷೆ ಫಲಿತಾಂಶ: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆ ಪತ್ತೆಯಾಗಲಿಲ್ಲ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "ಸಮಸ್ಯೆ ಪತ್ತೆಯಾಗಿದೆ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "ಸಂಭಾವ್ಯ ಸಮಸ್ಯೆ ಪತ್ತೆಯಾಗಿದೆ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "ಟೆಸ್ಟ್ ರನ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "ಲಾಗ್‌ಗಳನ್ನು ತೋರಿಸು...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "ಲಾಗ್‌ಗಳನ್ನು ಮರೆಮಾಡು...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "ಫಲಿತಾಂಶದ ಲಾಗ್‌ಗಳನ್ನು ನಕಲಿಸು",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "ಸಾರಾಂಶ",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "ಮಾನದಂಡ",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "ವಿವರಗಳು",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "ಬೆಂಬಲಿತ ವಿವರಗಳು",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "ಸಫಲವಾಗಿದೆ",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "ವಿಫಲವಾಗಿದೆ",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "ಸರತಿಯಲ್ಲಿದೆ",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "ಎಚ್ಚರಿಕೆ",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "ರನ್ನಿಂಗ್‌‌...",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "ರದ್ದುಗೊಂಡಿದೆ",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "ಸದ್ಯಕ್ಕೆ ಯಾವುದೇ ಟೆಸ್ಟ್ ಫಲಿತಾಂಶಗಳು ಲಭ್ಯವಿಲ್ಲ.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "ಹೆಚ್ಚುವರಿ ಟೆಸ್ಟ್‌ಗಳು ಬಾಕಿ ಉಳಿದಿವೆ. ಪೂರ್ಣಗೊಂಡ ಬಳಿಕ ಫಲಿತಾಂಶಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "ಟೆಸ್ಟ್‌ಗಳು",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "UDP ಸಾಕೆಟ್‌ನಿಂದ ಸ್ವೀಕರಿಸಿರುವ ಕಚ್ಚಾ ಡೇಟಾ: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "UDP ಸಾಕೆಟ್‌ನಿಂದ ಅದರ ಗಾತ್ರದೊಂದಿಗೆ (ಬೈಟ್‌ಗಳು) ಯಶಸ್ವಿಯಾಗಿ ಡೇಟಾ ರೀಡ್ ಮಾಡಲಾಗಿದೆ: ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "UDP ಡೇಟಾ ರೀಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ. ದೋಷದ ಕೋಡ್‌: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "ಡೇಟಾವನ್ನು ಅದರ ಗಾತ್ರದ ಸಮೇತ (ಬೈಟ್‌ಗಳು) ಯಶಸ್ವಿಯಾಗಿ ಕಳುಹಿಸಲಾಗಿದೆ: ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "UDP ಸಾಕೆಟ್ ಡೇಟಾವನ್ನು ಅದರ ಗಾತ್ರದ ಸಮೇತ (ಬೈಟ್‌ಗಳು) ಕಳುಹಿಸಲು ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ: ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "UDP ಸಾಕೆಟ್‌, ಸಂಖ್ಯೆ / ಹೋಸ್ಟ್‌ / ಪೋರ್ಟ್ ರಚಿಸಲಾಗುತ್ತಿದೆ: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "UDP ಅವಧಿ ಮೀರುವಿಕೆಯ ಅಳತೆ (ಮಿಸೆಕೆಂ) ಹೊಂದಿಸಲಾಗುತ್ತಿದೆ: ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "TCP ಸಾಕೆಟ್‌ನಿಂದ ಸ್ವೀಕರಿಸಿರುವ ಕಚ್ಛಾ ಡೇಟಾ: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "TCP ಸಾಕೆಟ್‌ನಿಂದ ಅದರ ಗಾತ್ರದ ಸಮೇತ (ಬೈಟ್‌ಗಳು) ಯಶಸ್ವಿಯಾಗಿ ಡೇಟಾ ರೀಡ್‌ ಮಾಡಲಾಗಿದೆ: ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "TCP ಡೇಟಾ ರೀಡ್‌‌ ಮಾಡುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ. ದೋಷದ ಕೋಡ್‌: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "ಡೇಟಾವನ್ನು ಅದರ ಗಾತ್ರದ ಸಮೇತ (ಬೈಟ್‌ಗಳು) ಯಶಸ್ವಿಯಾಗಿ ಕಳುಹಿಸಲಾಗಿದೆ: ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "ಡೇಟಾವನ್ನು ಅದರ ಗಾತ್ರದೊಂದಿಗೆ (ಬೈಟ್‌ಗಳು) ಕಳುಹಿಸಲು ಸಿದ್ಧಪಡಿಸಲಾಗುತ್ತಿದೆ: ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "ಹೋಸ್ಟ್‌ / ಪೋರ್ಟ್‌ / ಸ್ಥಿತಿ ಕೋಡ್‌ನೊಂದಿಗೆ TCP ಸಂಪರ್ಕ ಸ್ಥಾಪಿಸಲಾಗಿದೆ: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "ಹೋಸ್ಟ್‌ / ಪೋರ್ಟ್‌ / ಸ್ಥಿತಿ ಕೋಡ್‌ನೊಂದಿಗೆ TCP ಸಂಪರ್ಕ ವಿಫಲವಾಗಿದೆ: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "ಸಂಪರ್ಕ ವಿಫಲವಾಗಲು ಕಾರಣ: ತಿಳಿದುಬಂದಿಲ್ಲ",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "ಹೋಸ್ಟ್‌ / ಪೋರ್ಟ್‌ನೊಂದಿಗೆ TCP ಸಂಪರ್ಕವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "ಸಂಪರ್ಕ ವಿಫಲವಾಗಲು ಕಾರಣ: ಸಮಯಮೀರಿದೆ",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "ಸಂಪರ್ಕ ವಿಫಲವಾಗಲು ಕಾರಣ: ಸಂಪರ್ಕವನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "TCP ಸಾಕೆಟ್‌, ಸಂಖ್ಯೆ / ಹೋಸ್ಟ್‌ / ಪೋರ್ಟ್ ರಚಿಸಲಾಗುತ್ತಿದೆ: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "TCP ಅವಧಿ ಮೀರುವಿಕೆ ಅಳತೆ (ಮಿಸೆಕೆಂ) ಹೊಂದಿಸಲಾಗುತ್ತಿದೆ: ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "Chrome ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಕಡಿದುಕೊಂಡ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿಲ್ಲ",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಲಭ್ಯವಿದೆ",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "Chrome ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿಲ್ಲ. ನಿಮ್ಮ ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್‌ನ ನೆಟ್‌ವರ್ಕ್‌ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Chrome ಬ್ರೌಸರ್‌ಗೆ ಇಂಟರ್ನೆಟ್‌ ಸಂಪರ್ಕ ಲಭ್ಯವಿದೆ.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆಯ ತೀರ್ಪು ಪ್ರದರ್ಶನದ ಕೆಳಭಾಗದಲ್ಲಿ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡ ಸ್ಥಿತಿ ಕೋಡ್‌ಗಳನ್ನು ಹಿಂತಿರುಗಿಸುವ TCP ಸಾಕೆಟ್‌ಗಳ ಪ್ರತಿಶತ: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆಯ ತೀರ್ಪನ್ನು ಪ್ರದರ್ಶನಗೊಳಿಸುವಾಗ ಸಮನಾದ ಅಥವಾ ಹೆಚ್ಚಾಗಿರುವ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡ ಸ್ಥಿತಿ ಕೋಡ್‌ಗಳನ್ನು ಹಿಂತಿರುಗಿಸುವ TCP ಸಾಕೆಟ್‌ಗಳ ಪ್ರತಿಶತ: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " Chrome ಇಂಟರ್ನೆಟ್‌‌ ಸಂಪರ್ಕ ಟೆಸ್ಟ್‌‌ TCP ಸ್ಥಿತಿ ಕೋಡ್‌ ಹಿಂತಿರುಗಿಸಿದೆ: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " TCP ಸಂಪರ್ಕ # / ಹೋಸ್ಟ್‌ಹೆಸರು / ಪೋರ್ಟ್‌ ಪ್ರಯತ್ನಿಸುವ ಹಂತದಲ್ಲಿದೆ : ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "ChromeOS ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿಲ್ಲ",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಲಭ್ಯವಿದೆ",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "ಈ Chromebook ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿಲ್ಲ. ಸ್ಥಿತಿ ಟ್ರೇಗೆ ತೆರಳಿ ಮತ್ತು ಲಭ್ಯವಿರುವ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಗೊಳಿಸಿ.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "ಇಂಟರ್ನೆಟ್‌ ಸಂಪರ್ಕ ಲಭ್ಯವಿದೆ.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "ಸಂಪರ್ಕಿತ ನೆಟ್‌ವರ್ಕ್ ಇಂಟರ್ಫೇಸ್ ಒಂದು ಸಂಪರ್ಕಿತ ಸ್ಥಿತಿ ಕೋಡ್ ಹಿಂತಿರುಗಿಸಿದಾಗ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇಲ್ಲವೆಂಬ ಫಲಿತಾಂಶವನ್ನು ಹಿಂತಿರುಗಿಸಿದೆ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "ಸಂಪರ್ಕಿತ ನೆಟ್‌ವರ್ಕ್ ಇಂಟರ್ಫೇಸ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡ ಸ್ಥಿತಿ ಕೋಡ್ ಹಿಂತಿರುಗಿಸುವಾಗ ಒಂದು ಸಮಸ್ಯೆ ಫಲಿತಾಂಶವನ್ನು ಹಿಂತಿರುಗಿಸಿದೆ: ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "ಪತ್ತೆಯಾದ ಲಭ್ಯವಿರುವ ನೆಟ್‌ವರ್ಕ್‌‌ಗಳ ಸಂಖ್ಯೆ: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "Chrome ಆವೃತ್ತಿ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "Google Chrome ತೀರಾ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯಲ್ಲ",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "Google Chrome ತೀರಾ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯಾಗಿದೆ",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "Google Chrome ನ ತೀರಾ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿ ನಿಮ್ಮ ಬಳಿ ಇಲ್ಲ. ಅಂದರೆ, ನಿಮಗೆ ತಿಳಿದಿರುವ ಎಲ್ಲಾ ದೋಷಗಳನ್ನೂ ನಿವಾರಿಸಲಾಗಿಲ್ಲ ಮತ್ತು ಸಂಪರ್ಕ ಸಮಸ್ಯೆಗಳು ಮತ್ತೆ ಎದುರಾಗಬಹುದು ಎಂದರ್ಥ. ಬ್ರೌಸರ್ ಪರಿಕರಪಟ್ಟಿಯಲ್ಲಿರುವ Chrome ಮೆನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು Google Chrome ನವೀಕರಿಸು ಆಯ್ಕೆಮಾಡಿ.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "ನಿಮ್ಮ ಬಳಿ ಇರುವುದು Google Chrome ನ ತೀರಾ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿ. ಆದ್ದರಿಂದ ಯಾವುದೇ ಸಂಪರ್ಕ ಸಂಬಂಧಿ ದೋಷಗಳನ್ನು ಸರಿಪಡಿಸಲಾಗಿದೆ.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "ಕಚ್ಚಾ ಬ್ರೌಸರ್ ಬಳಕೆದಾರರ-ಏಜೆಂಟ್‌: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "ಬ್ರೌಸರ್‌ ಆವೃತ್ತಿಯ ಸಂಖ್ಯೆ (ಚಿಕ್ಕದಾಗಿ): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "ಬ್ರೌಸರ್‌ ಆವೃತ್ತಿಯ ಸಂಖ್ಯೆ (ಪೂರ್ಣವಾಗಿ): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "ನಾವು ತೋರಿಸುವ ಯಾವುದೇ ಸಮಸ್ಯೆ-ರಹಿತ ತೀರ್ಪಿಗೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತಲೂ ಹೆಚ್ಚಾಗಿರುವ Chrome ಆವೃತ್ತಿ ಸಂಖ್ಯೆಗಾಗಿ ಥ್ರೆಶ್‌ಹೋಲ್ಡ್: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "ನಾವು ತೋರಿಸುವ ಯಾವುದೇ ಸಮಸ್ಯೆ ತೀರ್ಪಿಗೆ ಸಮನಾದ ಅಥವಾ ಅದಕ್ಕಿಂತಲೂ ಹೆಚ್ಚಾಗಿರುವ Chrome ಆವೃತ್ತಿ ಸಂಖ್ಯೆಗಾಗಿ ಥ್ರೆಶ್‌ಹೋಲ್ಡ್: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "ChromeOS ಆವೃತ್ತಿ ಹೆಸರು",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "Chrome OS ಅವಧಿ ಮೀರಿದೆ",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "Chrome OS ನವೀಕರಣಗೊಂಡಿದೆ",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "ನೀವು Google OS ನ ತೀರಾ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿಲ್ಲ. ಇದರ ಪರಿಣಾಮ, ನಿಮಗೆ ತಿಳಿದ ಎಲ್ಲಾ ದೋಷಗಳನ್ನೂ ಸರಿಪಡಿಸಲಾಗಿರುವುದಿಲ್ಲ. ಹೀಗಾಗಿ ನೀವು ಸಂಪರ್ಕ ಸಮಸ್ಯೆ ಎದುರಿಸಬಹುದು.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "ನೀವು Google OS ನ ತೀರಾ ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಬಳಸುತ್ತಿರುವಿರಿ. ಪರಿಣಾಮ ನಿಮಗೆ ತಿಳಿದ ಎಲ್ಲಾ ದೋಷಗಳನ್ನೂ ಸರಿಪಡಿಸಲಾಗಿದೆ.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Chrome OS ಆವೃತ್ತಿಯ ಟೆಸ್ಟ್‌‌ ಒಂದು ಸಮಸ್ಯೆಯನ್ನು ಪತ್ತೆಹಚ್ಚಿದೆ. Chrome OS ಆವೃತ್ತಿಯ ಅವಧಿ ಮೀರಿದೆ. ಈಗಿನ ಕನಿಷ್ಟ ಆವೃತ್ತಿ: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Chrome OS ಆವೃತ್ತಿಯ ಟೆಸ್ಟ್‌‌ಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆ ಕಂಡುಬರಲಿಲ್ಲ.Chrome OS ಆವೃತ್ತಿಯು ನವೀಕೃತಗೊಂಡಿದೆ. ಈಗಿನ ಕನಿಷ್ಟ ಆವೃತ್ತಿ: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "ಕಚ್ಚಾ ಬ್ರೌಸರ್ ಬಳಕೆದಾರರ-ಏಜೆಂಟ್‌: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "ಸಣ್ಣ Chrome OS ಪ್ಲ್ಯಾಟ್‌ಫಾರ್ಮ್‌ ಸಂಖ್ಯೆ: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "ಪೂರ್ಣ Chrome OS ಪ್ಲ್ಯಾಟ್‌ಫಾರ್ಮ್‌ ಸಂಖ್ಯೆ: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆ-ರಹಿತ ತೀರ್ಪಿಗೆ ನಾವು ಪ್ರದರ್ಶಿಸುವ ಸಮನಾದ ಅಥವಾ ಹೆಚ್ಚಾಗಿರುವ ChromeOS ಪ್ಲ್ಯಾಟ್‌ಫಾರ್ಮ್ ಆವೃತ್ತಿ ಸಂಖ್ಯೆಗಾಗಿ ಥ್ರೆಶ್‌ಹೋಲ್ಡ್: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "ನಾವು ಪ್ರದರ್ಶನಗೊಳಿಸುವ ಸಮಸ್ಯೆ ತೀರ್ಪಿಗೆ ಕೆಳಗಿನ ChromeOS ಪ್ಲಾಟ್‌ಫಾರ್ಮ್ ಸಂಖ್ಯೆಗಾಗಿ ಥ್ರೆಶ್‌ಹೋಲ್ಡ್: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "ಪರಿಹಾರಕ ಪ್ರಸ್ತುತಿ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "ಯಾವುದೇ ಕಾರ್ಯನಿರ್ವಹಿಸುವ DNS ಸರ್ವರ್ ಲಭ್ಯವಿಲ್ಲ",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "DNS ಸರ್ವರ್ ಲಭ್ಯವಿದೆ",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "DNS ಸರ್ವರ್ ಹೋಸ್ಟ್ ಹೆಸರನ್ನು (ಉದಾ. www.google.com) IP ವಿಳಾಸವಾಗಿ ಪರಿಗಣಿಸುತ್ತದೆ. ವೆಬ್‌ಸೈಟ್‌ವೊಂದನ್ನು ಲೋಡ್‌ ಮಾಡಲೋಸುಗ ಸಂಪರ್ಕಿಸಲು ಬ್ರೌಸರ್‌ ಕಡ್ಡಾಯವಾಗಿ IP ವಿಳಾಸ ಹೊಂದಿರಬೇಕು. ನಿಮ್ಮ DNS ಸರ್ವರ್ ಕಾರ್ಯನಿರ್ವಹಿಸದಿರುವ ಕಾರಣ, ನೀವು ಭೇಟಿ ನೀಡಲು ಬಯಸುವ ವೆಬ್‌ಸೈಟ್‌ನ IP ಅನ್ನು ಪತ್ತೆಹಚ್ಚಲು Chrome ಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ISP ಅಥವಾ ನೆಟ್‌ವರ್ಕ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "ಹೋಸ್ಟ್‌ ಹೆಸರನ್ನು (ಉದಾ. www.google.com) IP ವಿಳಾಸವಾಗಿ ಯಶಸ್ವಿಯಾಗಿ ಅನುವಾದಿಸಿದ DNS ಸರ್ವರ್‌ವೊಂದನ್ನು Chrome ಪತ್ತೆಹಚ್ಚಿದೆ.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "ಹೋಸ್ಟ್‌ಹೆಸರನ್ನು ರೂಪಾಂತರಿಸಲು ಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "DNS ಸರ್ವರ್ DNS ಪ್ರಶ್ನೆಯ ಫಲಿತಾಂಶಗಳನ್ನು ಹಿಂತಿರುಗಿಸಿದೆ.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "DNS ಸರ್ವರ್ ಯಾವುದೇ ಫಲಿತಾಂಶವನ್ನು ಹಿಂತಿರುಗಿಸಲಿಲ್ಲ.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "ಹೋಸ್ಟ್‌ಹೆಸರನ್ನು IP ವಿಳಾಸವಾಗಿ ರೂಪಾಂತರಿಸಲಾಗಿದೆ: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "DNS ಪರಿಹಾರಕಟೆಸ್ಟ್‌‌ ಏಕೈಕ DNS ಪ್ರಶ್ನೆಯನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ಮಾನ್ಯ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಹಿಂತಿರುಗಿಸಿದರೆ ಪೂರೈಸಬೇಕಾದ ಫಲಿತಾಂಶಗಳನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "DNS ಪರಿಹಾರಕ ಟೆಸ್ಟ್‌‌ ಏಕೈಕ DNS ಪ್ರಶ್ನೆಯನ್ನು ನಿರ್ವಹಿಸುತ್ತದೆ ಮತ್ತು ಮಾನ್ಯ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಹಿಂತಿರುಗಿಸದಿದ್ದರೆ ವಿಫಲಗೊಳ್ಳುವ ಫಲಿತಾಂಶವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "DNS ಸರ್ವರ್ ಯಶಸ್ವಿ ಸ್ಥಿತಿಯ ಕೋಡ್‌ ಹಿಂತಿರುಗಿಸಿದೆ: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "DNS ಸರ್ವರ್‌ ಸಮಸ್ಯೆ ಸ್ಥಿತಿಯ ಕೋಡ್‌ ಹಿಂತಿರುಗಿಸಿದೆ: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "ಪರಿಹಾರಕ ಸುಪ್ತತೆ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "DNS ರೆಸಲ್ಯೂಷನ್‌‌ ದೀರ್ಘ ಸಮಯ ತೆಗೆದುಕೊಂಡಿತು",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "DNS ರೆಸಲ್ಯೂಷನ್‌ ಸರಾಸರಿಗಿಂತ ಹೆಚ್ಚಿನ ಸಮಯ ತೆಗೆದುಕೊಂಡಿದೆ",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "ವೇಗವಾದ DNS ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "ನಿಮ್ಮ DNS ಸರ್ವರ್ ತ್ವರಿತವಾಗಿ ಉತ್ತರಗಳನ್ನು ಹಿಂತಿರುಗಿಸಲಿಲ್ಲ. DNS ಸರ್ವರ್ ಹೋಸ್ಟ್ ಹೆಸರನ್ನು (ಉದಾ. www.google.com) IP ವಿಳಾಸವಾಗಿ ಪರಿಗಣಿಸುತ್ತದೆ. ವೆಬ್‌ಸೈಟ್‌ವೊಂದನ್ನು ಲೋಡ್‌ ಮಾಡುವುದಕ್ಕಾಗಿ ಸಂಪರ್ಕಿಸಲು ಬ್ರೌಸರ್‌ ಕಡ್ಡಾಯವಾಗಿ IP ವಿಳಾಸವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "ನಿಮ್ಮ DNS ಸರ್ವರ್ ಸಾಕಷ್ಟು ತ್ವರಿತವಾಗಿ ಉತ್ತರಗಳನ್ನು ಹಿಂತಿರುಗಿ ನೀಡಲಿಲ್ಲ. DNS ಸರ್ವರ್ ಹೋಸ್ಟ್‌ಹೆಸರನ್ನು (ಉದಾ. www.google.com) IP ವಿಳಾಸವಾಗಿ ಅನುವಾದಿಸುತ್ತದೆ. ಬ್ರೌಸರ್ ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಲೋಡ್ ಮಾಡುವುದಕ್ಕಾಗಿ ಸಂಪರ್ಕಗೊಳ್ಳಲು  IP ವಿಳಾಸವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "ನಿಮ್ಮ DNS ಸರ್ವರ್ ನಿಮ್ಮ ವಿನಂತಿಗಳಿಗೆ ತ್ವರಿತವಾಗಿ ಉತ್ತರಗಳನ್ನು ಹಿಂತಿರುಗಿಸಿದೆ! DNS ಸರ್ವರ್ ಹೋಸ್ಟ್‌ಹೆಸರನ್ನು (ಉದಾ. www.google.com) IP ವಿಳಾಸವಾಗಿ ಅನುವಾದಿಸುತ್ತದೆ. ಬ್ರೌಸರ್ ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಲೋಡ್ ಮಾಡುವುದಕ್ಕಾಗಿ ಸಂಪರ್ಕಗೊಳ್ಳಲು  IP ವಿಳಾಸವನ್ನು ಹೊಂದಿರಬೇಕು.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "# ಹೋಸ್ಟ್‌ಹೆಸರನ್ನು ರೂಪಾಂತರಿಸಲು ಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "DNS ರೆಸಲ್ಯೂಷನ್‌ಗೆ ಫಲಿತಾಂಶವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ. ಟೆಸ್ಟ್‌‌ ಸಂಖ್ಯೆ / ಪ್ರಸ್ತುತ ಸಮಯ / ತೆಗೆದುಕೊಂಡ ಸಮಯ (ಮಿಸೆಂ) / ಪ್ರಾರಂಭವಾದ ಸಮಯ (ಮಿಸೆಂ): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "ಎಲ್ಲಟೆಸ್ಟ್‌‌ಗಳಿಗಾಗಿ ಒಟ್ಟು DNS ರೆಸಲ್ಯೂಷನ್‌ (ಮಿಸೆಂ): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "ರೂಪಾಂತರಿಸಲಾದ ಒಟ್ಟು DNS ಹೋಸ್ಟ್‌ಗಳು: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "ಸರಾಸರಿ DNS ರೆಸಲ್ಯೂಷನ್‌ ಸಮಯ (ಮಿಸೆಂ): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆ ಇಲ್ಲ ಎಂಬ ತೀರ್ಪಿನ ಅಡಿಯಲ್ಲಿ ಸರಾಸರಿ DNS ರೆಸಲ್ಯೂಷನ್ ಸಮಯದ (ಮಿಸೆಂ) ಬೆಂಚ್‌ಮಾರ್ಕ್: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "ಸಂಭವನೀಯ ಸಮಸ್ಯೆಯ ತೀರ್ಪನ್ನು ಪ್ರದರ್ಶಿತಗೊಳಿಸುವುದರ ನಡುವಿನ ಸರಾಸರಿ DNS ರೆಸಲ್ಯೂಷನ್ ಸಮಯದ (ಮಿಸೆಂ) ಬೆಂಚ್‌ಮಾರ್ಕ್: ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "ಸಮಸ್ಯೆಯ ತೀರ್ಪನ್ನು ಪ್ರದರ್ಶನಗೊಳಿಸುವ ಮೇಲಿನ ಸರಾಸರಿ DNS ರೆಸಲ್ಯೂಷನ್ ಸಮಯದ (ಮಿಸೆಂ) ಬೆಂಚ್‌ಮಾರ್ಕ್: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "DNS ಹಾನಿಕಾರಕ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "DNS ಸರ್ವರ್‌ ನಿರೀಕ್ಷಿತ ಫಲಿತಾಂಶಗಳನ್ನು ಹಿಂತಿರುಗಿಸಿದೆ",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "DNS ಫಲಿತಾಂಶಗಳನ್ನು ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ ಮತ್ತು ನಿಖರವಾಗಿರುವಂತೆ ಕಾಣುತ್ತಿದೆ",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "DNS ಫಲಿತಾಂಶಗಳು ಅನಿರೀಕ್ಷಿತವಾಗಿತ್ತು ಮತ್ತು ಹಾನಿಕರವಾಗಿರಬಹುದು",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "ಒಂದು ಹಾನಿಕಾರಕ DNS ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಹಿಂತಿರುಗಿಸಿದೆ. ಹಾನಿಕಾರಕ DNS ಸರ್ವರ್ ತಪ್ಪಾದ IP ವಿಳಾಸವನ್ನು ಹಿಂತಿರುಗಿಸಬಹುದು ಮತ್ತು ಉದ್ದೇಶಿತ ಹೋಸ್ಟ್‌ಗೆ ಬದಲಾಗಿ ವಿಭಿನ್ನ ಹೋಸ್ಟ್‌ಗೆ ನಿಮ್ಮ ಸಂಚಾರ ದಿಕ್ಕನ್ನು ಬದಲಿಸಬಹುದು.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "ಪರಿಹಾರಕವು ನಿರೀಕ್ಷಿತ IP ವಿಳಾಸವನ್ನು ಹಿಂತಿರುಗಿಸದಿದ್ದಾಗ DNS ಫಲಿತಾಂಶಗಳನ್ನು ಹಾನಿಕಾರಕ ಎಂಬುದಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "ಪರಿಹಾರಕವು ನಿರೀಕ್ಷಿತ IP ವಿಳಾಸವನ್ನು ಹಿಂತಿರುಗಿಸಿದಾಗ DNS ಫಲಿತಾಂಶಗಳನ್ನು ಹಾನಿಕಾರಕವಲ್ಲ ಎಂಬುದಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "ಟೆಸ್ಟ್‌ # /ಟೆಸ್ಟ್‌‌ಯ ಹೋಸ್ಟ್‌ಹೆಸರು : ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " ಟೆಸ್ಟ್‌ಯು ಯಾವುದೇ DNS ವಿಳಾಸದ ಕ್ಷೇತ್ರವನ್ನು ಹಿಂತಿರುಗಿಸಿಲ್ಲ (ಶೂನ್ಯಕ್ಕೆ ಹೊಂದಿಸಲಾಗಿದೆ)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " ಟೆಸ್ಟ್‌; ಫಲಿತಾಂಶ ಸ್ಥಿತಿ ಕೋಡ್‌ ಇಲ್ಲ;ಟೆಸ್ಟ್‌‌ ವೈಫಲ್ಯದಿಂದಾಗಿ ಟೆಸ್ಟ್‌‌ಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುತ್ತಿದೆ.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " ಟೆಸ್ಟ್‌ ಹಿಂತಿರುಗಿಸಿದ ಸ್ಥಿತಿಯ ಕೋಡ್‌: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " ಹಿಂತಿರುಗಿಸಿದ ಬಗೆಹರಿಸಲಾದ DNS ವಿಳಾಸ: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "TCP ಫೈರ್‌ವಾಲ್‌ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "ಪೋರ್ಟ್‌ನಲ್ಲಿ ಇಂಟರ್ನೆಟ್‌‌ ಟ್ರಾಫಿಕ್‌ ಅನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "ಪೋರ್ಟ್‌ನಲ್ಲಿ ಇಂಟರ್ನೆಟ್‌‌ ಟ್ರಾಫಿಕ್‌ ಅನ್ನು ನಿರ್ಬಂಧಿಸಿರುವಂತೆ ತೋರುತ್ತಿದೆ ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "ಪೋರ್ಟ್‌ನಲ್ಲಿ ಇಂಟರ್ನೆಟ್‌‌ ಟ್ರಾಫಿಕ್‌ ಅನ್ನು ಅನುಮತಿಸಲಾಗಿದೆ ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸಲಾಗುವ ಇಂಟರ್ನೆಟ್‌‌ ಸಂಪರ್ಕಕ್ಕಾಗಿ ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿ ಒಂದು ನಿರ್ಬಂಧವಿದೆ.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "ಸಾಮಾನ್ಯವಾಗಿ ಬಳಸಲಾಗುವ ಇಂಟರ್ನೆಟ್‌‌ ಸಂಪರ್ಕಕ್ಕಾಗಿ ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿ ನಿರ್ಬಂಧವಿರುವಂತೆ ತೋರುತ್ತಿದೆ.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "ನಾವು ಪೋರ್ಟ್‌ನಲ್ಲಿ ಸಂಪರ್ಕ ಸಾಧಿಸುವಲ್ಲಿ ಸಫಲರಾಗಿದ್ದೇವೆ ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " ಪೋರ್ಟ್/ಹೋಸ್ಟ್‌ಹೆಸರು/#TCP ಸಂಪರ್ಕವನ್ನು ಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ : ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " TCP ಫೈರ್‌ವಾಲ್‌ ಟೆಸ್ಟ್‌‌ ಹಿಂತಿರುಗಿಸಿದ TCP ಸ್ಥಿತಿ ಕೋಡ್‌: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "ಫೈರ್‌ವಾಲ್‌‌ ಟೆಸ್ಟ್‌‌ ಫಲಿತಾಂಶಗಳು: ನಡೆಸಿರುವ ಟೆಸ್ಟ್‌‌ಗಳು / ಪರೀಕ್ಷಿಸಿರುವ ಪೋರ್ಟ್ / ವಿಫಲ ಸಂಪರ್ಕಗಳ ಸಂಖ್ಯೆ: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "ಸಂಪರ್ಕ ಟೆಸ್ಟ್‌‌ ಪ್ರಯತ್ನ ವಿಫಲವಾಗಿದೆ ಮತ್ತು Chrome ನೆಟ್‌‌ವರ್ಕ್‌ ಸ್ಟ್ಯಾಕ್‌ನಿಂದ TCP ಯಶಸ್ವಿಯಾದ ಸ್ಥಿತಿ ಕೋಡ್‌ ಅನ್ನು ಹಿಂತಿರುಗಿಸಲಿಲ್ಲ. ಅದರ ಬದಲಾಗಿ ಸ್ಥಿತಿಯ ಕೋಡ್‌ ಹಿಂತಿರುಗಿಸಿದೆ: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "ಪತ್ತೆಯಾದ DNS ಪರಿಹಾರಕ ಲಭ್ಯವಿಲ್ಲ, ಹೀಗಾಗಿ ಫೈರ್‌ವಾಲ್‌ ಅಸ್ತಿತ್ವದಲ್ಲಿಯೇ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "ಪತ್ತೆಯಾದ ನೆಟ್‌ವರ್ಕ್‌ ಲಭ್ಯವಿಲ್ಲ, ಹೀಗಾಗಿ ಫೈರ್‌ವಾಲ್‌ ಅಸ್ತಿತ್ವದಲ್ಲಿಯೇ ಎಂಬುದನ್ನು ನಿರ್ಧರಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "ವಿಫಲಗೊಂಡ TCP ಸಂಪರ್ಕಟೆಸ್ಟ್‌‌ಯ ಫಲಿತಾಂಶಗಳ ಪ್ರತಿಶತವು ಇದಕ್ಕಿಂತಲೂ ಕಡಿಮೆ ಅಥವಾ ಇದಕ್ಕೆ ಸಮನಾಗಿದ್ದರೆ ಯಾವುದೇ ಸಮಸ್ಯೆಯಿಲ್ಲದಿರುವ ತೀರ್ಪನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "ವಿಫಲಗೊಂಡ TCP ಸಂಪರ್ಕ ಟೆಸ್ಟ್‌‌ ಫಲಿತಾಂಶಗಳ ಪ್ರತಿಶತವು ಇದಕ್ಕೆ ಸಮನಾಗಿದ್ದರೆ ಸಮಸ್ಯೆಯ ತೀರ್ಪನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "ವಿಫಲಗೊಂಡ TCP ಸಂಪರ್ಕ ಟೆಸ್ಟ್‌‌ಯ ಫಲಿತಾಂಶಗಳ ಸಂಖ್ಯೆಯು ಇದರ ನಡುವಿನಲ್ಲಿದ್ದರೆ, ಸಂಭವನೀಯ ಸಮಸ್ಯೆಯ ತೀರ್ಪನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "HTTP ಕ್ಯಾಪ್ಟೀವ್ ಪೋರ್ಟಲ್‌ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "ಇಂಟರ್ನೆಟ್‌‌ ಟ್ರಾಫಿಕ್‌ ಅನ್ನು ಕ್ಯಾಪ್ಟಿವ್‌ ಪೋರ್ಟಲ್‌ನಿಂದ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "HTTP ಕ್ಯಾಪ್ಟಿವ್‌ ಪೋರ್ಟಲ್‌‌ಗಾಗಿ ಸರಿಯಾಗಿ ಟೆಸ್ಟ್‌ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "ತೆರೆದ ಇಂಟರ್ನೆಟ್ ಪ್ರವೇಶವನ್ನು ಪತ್ತೆಮಾಡಲಾಗಿದೆ",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "ಕ್ಯಾಪ್ಟಿವ್‌ ಪೋರ್ಟಲ್‌ ಒಂದು ವೆಬ್‌ಸೈಟ್‌, ಮುಕ್ತವಾಗಿ ಇಂಟರ್ನೆಟ್‌‌ ಬ್ರೌಸ್‌ ಮಾಡಲು ಪ್ರವೇಶ ಪಡೆಯುವುದಕ್ಕೂ ಮುನ್ನ ಈ ವೆಬ್‌ಸೈಟ್‌ ನೋಡಲು ಹಾಗೂ ಅದರೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸುವ ಅಗತ್ಯತೆಯನ್ನು ನೆಟ್‌ವರ್ಕ್‌ ತನ್ನ ಬಳಕೆದಾರರಿಗೆ ಸೃಷ್ಟಿಸುತ್ತದೆ. ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್‌ನಲ್ಲಿ ಕ್ಯಾಪ್ಟಿವ್‌ ಪೋರ್ಟಲ್‌ ಪತ್ತೆಯಾಗಿದೆ, ಅಂದರೆ ನಿರ್ಬಂಧರಹಿತವಾಗಿ ಇಂಟರ್ನೆಟ್‌‌ ಪ್ರವೇಶಿಸುವಿಕೆಯನ್ನು ನಿರ್ಬಂಧಿಸಿದೆ.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "HTTP ಕ್ಯಾಪ್ಟಿವ್‌ ಪೋರ್ಟಲ್‌ ಟೆಸ್ಟ್‌‌ಯನ್ನು ತಡೆಯುವಂತಹ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ. ನಿಮ್ಮ ಎಲ್ಲಾ ನೆಟ್‌ವರ್ಕ್ ಟ್ರಾಫಿಕ್‌ ಅನ್ನು ನಿರಾಕರಿಸುವ ಇಲ್ಲವೇ ನಿರ್ಬಂಧಿಸುವ ತೀರಾ ಸಾಮಾನ್ಯ ಕಾರಣದಿಂದ ಇದು ಸಂಭವಿಸುತ್ತದೆ.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "ಮುಕ್ತ ಇಂಟರ್ನೆಟ್ ಪ್ರವೇಶ ಕಂಡುಬಂದಿದೆ. ಕ್ಯಾಪ್ಟಿವ್‌ ಪೋರ್ಟಲ್‌ ಒಂದು ವೆಬ್‌ಸೈಟ್‌ ಮುಕ್ತವಾಗಿ ಇಂಟರ್ನೆಟ್‌‌ ಬ್ರೌಸ್‌ ಮಾಡಲು ಪ್ರವೇಶ ಪಡೆಯುವುದಕ್ಕೂ ಮುನ್ನ ಈ ವೆಬ್‌ಸೈಟ್‌ ನೋಡಲು ಹಾಗೂ ಅದರೊಂದಿಗೆ ಸಂವಹನ ನಡೆಸುವ ಅಗತ್ಯತೆಯನ್ನು ನೆಟ್‌ವರ್ಕ್ ತನ್ನ ಬಳಕೆದಾರರಿಗೆ ಸೃಷ್ಟಿಸುತ್ತದೆ.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "ಎಲ್ಲ HTTP ವಿನಂತಿಗಳು 204 HTTP ಸ್ಥಿತಿ ಕೋಡ್ ಹಿಂತಿರುಗಿಸಿದರೆ ಯಾವುದೇ ಸಮಸ್ಯೆಯಿಲ್ಲದ ತೀರ್ಪನ್ನು HTTP ಕ್ಯಾಪ್ಟಿವ್ ಪೋರ್ಟಲ್‌ ಟೆಸ್ಟ್‌ ಹಿಂತಿರುಗಿಸುತ್ತದೆ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "ಈ ಮುಂದಿನ HTTP ವಿನಂತಿಗಳ ಪ್ರತಿಶತಕ್ಕಿಂತಲೂ ಹೆಚ್ಚಿನ ನೆಟ್‌ವರ್ಕ್ ಸ್ಟ್ಯಾಕ್ ಸಮಸ್ಯೆಗಳು ಕಂಡುಬಂದರೆ, ಸಂಭವನೀಯ ಸಮಸ್ಯೆಯ ತೀರ್ಪನ್ನು HTTP ಕ್ಯಾಪ್ಟಿವ್ ಪೊರ್ಟಲ್‌ ಟೆಸ್ಟ್‌ ಹಿಂತಿರುಗಿಸುತ್ತದೆ: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "ಯಾವುದೇ HTTP ವಿನಂತಿಗಳು 204 HTTP ಸ್ಥಿತಿ ಕೋಡ್ ಹಿಂತಿರುಗಿಸದಿದ್ದರೆ ಸಮಸ್ಯೆಯಿರುವ ತೀರ್ಪನ್ನು HTTP ಕ್ಯಾಪ್ಟಿವ್‌ ಪೋರ್ಟಲ್‌ ಟೆಸ್ಟ್‌‌ ಹಿಂತಿರುಗಿಸುತ್ತದೆ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "ವಿನಂತಿಯಲ್ಲಿ ದೋಷವಿದೆ # / ದೋಷದ ಸ್ಥಿತಿ: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "ಪ್ರತಿಕ್ರಿಯೆ ಸಂಖ್ಯೆ / HTTP ಪ್ರತಿಕ್ರಿಯೆ ಕೋಡ್‌: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "ಪ್ರತಿಕ್ರಿಯೆ ಸಂಖ್ಯೆ / HTTP ಪ್ರತಿಕ್ರಿಯೆ ಶಿರೋನಾಮೆಗಳು: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "ವಿನಂತಿಯ ಸಂಖ್ಯೆ / ಪೂರ್ಣ ಪ್ರತಿಕ್ರಿಯೆ ಉದ್ದ: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "Google ವೆಬ್‌ಸೈಟ್‌ಗಳ HTTP ಲೆಟೆನ್ಸಿ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "Google ಗೆ ವೆಬ್‌ ವಿನಂತಿಗಳು ಹೆಚ್ಚು ಸಮಯವನ್ನು ತೆಗೆದುಕೊಂಡಿವೆ",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "Google ಗೆ ವೆಬ್‌ ವಿನಂತಿಗಳು ನಿರೀಕ್ಷಿತ ಸಮಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಮಯವನ್ನು ತೆಗೆದುಕೊಂಡಿವೆ",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "Google ವೆಬ್‌ಸೈಟ್‌ಗಳಿಂದ ತ್ವರಿತಗತಿಯ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Google ವೆಬ್‌ಸೈಟ್‌ಗಳಿಂದ ಪ್ರತಿಕ್ರಿಯೆ ಸ್ವೀಕರಿಸಲು ತೆಗೆದುಕೊಳ್ಳಬೇಕಾದ ಸಮಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಮಯವನ್ನು ಇದು ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ, ಆ ಮೂಲಕ ನೆಟ್‌ವರ್ಕ್‌ ನಿಧಾನವಾಗಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತಿದೆ.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Google ವೆಬ್‌ಸೈಟ್‌ಗಳಿಂದ ಪ್ರತಿಕ್ರಿಯೆ ಸ್ವೀಕರಿಸಲು ಅಗತ್ಯ ಸಮಯಕ್ಕಿಂತ ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಸಮಯವನ್ನು ಇದು ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ, ಆ ಮೂಲಕ ನೆಟ್‌ವರ್ಕ್‌ ನಿಧಾನವಾಗಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತಿದೆ.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "Google ಗೆ ವೆಬ್ ವಿನಂತಿಗಳನ್ನು ತ್ವರಿತವಾಗಿ ಸ್ವೀಕರಿಸಲಾಗುತ್ತಿದೆ.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "ವಿನಂತಿಯಲ್ಲಿ ದೋಷ ಇದೆ # / ದೋಷದ ಸ್ಥಿತಿ: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "ಸರಾಸರಿ HTTP ಪ್ರತಿಕ್ರಿಯೆ ಸಮಯ (ಮಿಸೆಂ): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "HTTP ವಿನಂತಿಗಳ ಒಟ್ಟು ಸಂಖ್ಯೆ: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "ಒಟ್ಟು HTTP ಪ್ರತಿಕ್ರಿಯೆ ಸಮಯ (ಮಿಸೆಂ): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "HTTP ಪ್ರತಿಕ್ರಿಯೆ # / ಸ್ವೀಕರಿಸಿದ ಸಮಯ (ಮೈಕ್ರೊ ಸಮಯ ಸ್ಟಾಂಪ್‌) / ಕಳೆದ ಸಮಯ(ಮಿಸೆಂ): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆಯ ತೀರ್ಪು ಪ್ರದರ್ಶಿತಗೊಳ್ಳದಿರುವ ಅಡಿಯಲ್ಲಿ ಸರಾಸರಿ HTTP ಲೆಟೆನ್ಸಿ ಸಮಯದ (ಮಿಸೆಂ) ಬೆಂಚ್‌ಮಾರ್ಕ್: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "ಸಂಭವನೀಯ ಸಮಸ್ಯೆಯ ತೀರ್ಪು ಪ್ರದರ್ಶಿತಗೊಳ್ಳುವುದರ ನಡುವಿನ ಸರಾಸರಿ HTTP ಲೆಟೆನ್ಸಿಪ್ತತೆ ಸಮಯದ (ಮಿಸೆಂ) ಬೆಂಚ್‌ಮಾರ್ಕ್: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆಯ ತೀರ್ಪು ಪ್ರದರ್ಶಿತಗೊಳ್ಳುವುದರ ಮೇಲೆ ಸರಾಸರಿ HTTP ಲೆಟೆನ್ಸಿ ಸಮಯದ (ಮಿಸೆಂ) ಬೆಂಚ್‌ಮಾರ್ಕ್: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "ChromeOS WiFi ಸಿಗ್ನಲ್‌ ಸಾಮರ್ಥ್ಯ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "WiFi ಸಿಗ್ನಲ್ ಸಾಮರ್ಥ್ಯ ಟೆಸ್ಟ್ ಸ್ಥಗಿತಗೊಂಡಿದೆ",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "ಟೆಸ್ಟ್ ರನ್ ಆಗುತ್ತಿಲ್ಲ, Wi-Fi ಸಂಪರ್ಕ ಪತ್ತೆಯಾಗಿಲ್ಲ.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "ನೆಟ್‌ವರ್ಕ್‌ ಸಂಕೇತ ಸಾಮರ್ಥ್ಯ ಕಡಿಮೆಯಿದೆ",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "WiFi ನೆಟ್‌ವರ್ಕ್‌ನ ಸಂಕೇತ ಸಾಮರ್ಥ್ಯ ದುರ್ಬಲವಾಗಿದೆ.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "ನೆಟ್‌ವರ್ಕ್‌ ಸಂಕೇತ ಸಾಮರ್ಥ್ಯ ಬಲಿಷ್ಠವಾಗಿದೆ",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "WiFi ನೆಟ್‌ವರ್ಕ್ ಸಂಕೇತ ಸಾಮರ್ಥ್ಯ ಬಲಿಷ್ಠವಾಗಿದೆ.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "ನೆಟ್‌ವರ್ಕ್‌ ಸಂಕೇತದ ಹೆಸರು / ಸಂಕೇತದ ಸಾಮರ್ಥ್ಯ: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆ-ರಹಿತ ತೀರ್ಪು ಪ್ರದರ್ಶನದ ಮೇಲೆ ChromeOS ಸಂಕೇತ ಸಾಮರ್ಥ್ಯದ ಬೆಂಚ್‌ಮಾರ್ಕ್: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆ ತೀರ್ಪು ಪ್ರದರ್ಶನದ ಕೆಳಗೆ ChromeOS ಸಂಕೇತ ಸಾಮರ್ಥ್ಯದ ಬೆಂಚ್‌ಮಾರ್ಕ್: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "ಪಿಂಗ್ ಗೇಟ್‌ವೇ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "ಗೇಟ್‌ವೇಗೆ ಪಿಂಗ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "ಗೇಟ್‌ವೇ ಪಿಂಗ್ ಮಾಡುವುದರಿಂದ ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆ ದೊರೆಯುತ್ತಿಲ್ಲ.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "ಗೇಟ್‌ವೇ ತಲುಪಬಹುದಾಗಿದೆ",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "ಗೇಟ್‌ವೇ ಗೆ ಪಿಂಗ್ ಮಾಡುವುದರಿಂದ ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ನೀಡುತ್ತಿದೆ.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "ನಾವು ಯಾವುದೇ ಸಮಸ್ಯೆ ತೀರ್ಪು ಪ್ರದರ್ಶನಗೊಳಿಸದಿರುವ ಕೆಳಗಿನ ಗೇಟ್‌ವೇ ಪಿಂಗ್ ಮಾಡಲು ಅಪ್ರಕಟಿತ ಸಲ್ಯೂಷನ್‌ಗಾಗಿ (ಮಿಸೆಂ) ಥ್ರೆಶ್‌ಹೋಲ್ಡ್: ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "ನಾವು ಸಮಸ್ಯೆ ತೀರ್ಪು ಪ್ರದರ್ಶನಗೊಳಿಸುವುದರ ಮೇಲಿನ ಗೇಟ್‌ವೇ ಪಿಂಗ್ ಮಾಡಲು ಅಪ್ರಕಟಿತ ಸಲ್ಯೂಷನ್‌ಗಾಗಿ (ಮಿಸೆಂ) ಥ್ರೆಶ್‌ಹೋಲ್ಡ್: ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "ಗೇಟ್‌ವೇ IP ಗೆ ನೇರವಾಗಿ ಮಾಡುವ ICMP ಪ್ರಶ್ನೆಯು ಎಂದಿಗೂ ಪ್ರತಿಕ್ರಿಯೆ ಪ್ಯಾಕೆಟ್ ಸ್ವೀಕರಿಸುವುದಿಲ್ಲ.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "ICMP ಪ್ಯಾಕೆಟ್ ಲೆಟೆನ್ಸಿ (ಮಿಸೆಂ): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "ಗೇಟ್‌ವೇ IP ಅನ್ನು ಪತ್ತೆಹಚ್ಚಲಾಗಲಿಲ್ಲ",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "ಗೇಟ್‌ವೇ IP ಅನ್ನು ಹೀಗೆ ಪತ್ತೆ ಹಚ್ಚಲಾಗಿದೆ: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "1 ರ TTL ಮೂಲಕ ರಿಮೋಟ್ ಹೋಸ್ಟ್‌ಗೆ ICMP ಪ್ಯಾಕೆಟ್ ಕಳುಹಿಸುವುದರಿಂದ ಹಿಂತಿರುಗಿಸಲಾದ IP ಯು ರಿಮೋಟ್ ಹೋಸ್ಟ್ IP ಯ ಅದೇ ರೂಪದಲ್ಲಿದೆ: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "Hangouts ಸಂಪರ್ಕ ಟೆಸ್ಟ್‌‌",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "Hangouts ಸಂಪರ್ಕ ಲಭ್ಯವಿದೆ",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "Hangouts ಸೇವೆಗಳಿಗೆ ಯಶಸ್ವಿಯಾಗಿ ಸಂಪರ್ಕಗೊಳಿಸಲಾಗಿದೆ.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Hangouts ಸಂಪರ್ಕವು ಕೆಳದರ್ಜೆಯದ್ದಾಗಿದೆ ಎಂದು ತೋರುತ್ತಿದೆ",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "19309 ಮೂಲಕ UDP ಪೋರ್ಟ್‌ಗಳ 19302 ನಲ್ಲಿ Hangouts ಮಾಧ್ಯಮ ಸೇವೆಗೆ ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Hangout ಸಂಪರ್ಕ ಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Hangouts ಗೆ ಸಂಪರ್ಕ ಹೊಂದಲು ಅಗತ್ಯವಿರುವ ಪೋರ್ಟ್‌ಗಳು ಮತ್ತು ಹೋಸ್ಟ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿರುವಂತೆ ತೋರುತ್ತಿದೆ.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "19309 ಮೂಲಕ TCP ಪೋರ್ಟ್‌ 443 ಮತ್ತು UDP ಪೋರ್ಟ್‌ಗಳ 19302 ನಲ್ಲಿ Hangouts ಮಾಧ್ಯಮ ಸೇವೆಗೆ ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Hangouts ಚಾಟ್‌ ಸೇವೆಗೆ ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "TCP ಪೋರ್ಟ್‌ 443 ರಲ್ಲಿ Hangouts ಚಾಟ್‌ ಸೇವೆ ಅಥವಾ Hangouts ಮಾಧ್ಯಮ ಸೇವೆಗೆ ಸಂಪರ್ಕ ಹೊಂದಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "ಹೋಸ್ಟ್‌ಗಾಗಿ ಪೋರ್ಟ್‌ 443 ರಲ್ಲಿ TCP ಸಂಪರ್ಕ ಯಶಸ್ವಿಯಾಗಿದೆ ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "TCP ಸಂಪರ್ಕ ವಿಫಲಗೊಂಡಿದೆ ಮತ್ತು ಹೋಸ್ಟ್‌ಗಾಗಿ ಪೋರ್ಟ್‌ 443 ರಲ್ಲಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "UDP ಸಂಪರ್ಕ ವಿಫಲಗೊಂಡಿದೆ ಮತ್ತು ಗಮ್ಯಸ್ಥಾನ ಪೋರ್ಟ್‌ನಲ್ಲಿ ಇದನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "ಗಮ್ಯಸ್ಥಾನ ಪೋರ್ಟ್‌ನಲ್ಲಿ UDP ಸಂಪರ್ಕ ಯಶಸ್ವಿಯಾಗಿದೆ ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "Hangouts ನಿರ್ಬಂಧಿಸಿದ ಟೆಸ್ಟ್‌‌ ಸಮಸ್ಯೆಯಿಲ್ಲದ ತೀರ್ಪನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ, ಏಕೆಂದರೆ: (1) ಸಂಪರ್ಕವನ್ನು stun.l.google.com ಗೆ 19302 ನಿಂದ 19309 ವರೆಗಿನ ಯಾವುದೇ UDP ಪೋರ್ಟ್‌ನಲ್ಲಿ ಸ್ಥಾಪಿಸಬಹುದಾಗಿದೆ (2) TCP ಸಂಪರ್ಕವನ್ನು apis.google.com, clients6.google.com, plus.google.com ಮತ್ತು talkgadget.google.com ನಲ್ಲಿ ಸ್ಥಾಪಿಸಬಹುದಾಗಿದೆ",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "Hangouts ನಿರ್ಬಂಧಿಸಿದ ಟೆಸ್ಟ್‌‌ ಸಮಸ್ಯೆಯ ತೀರ್ಪನ್ನು ಈ ಸಂದರ್ಭಗಳಲ್ಲಿ ಹಿಂತಿರುಗಿಸುತ್ತದೆ: (1) stun.l.google.com ಗಾಗಿ 19302 ನಿಂದ 19309 ವರೆಗಿನ ಎಲ್ಲಾ UDP ಗಮ್ಯಸ್ಥಾನದ ಪೋರ್ಟ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ (2) ಈ ಮುಂದಿನ ಯಾವುದೇ ಹೋಸ್ಟ್‌ಗಳಿಗೆ ಸಂಪರ್ಕ ಹೊಂದಿರುವ TCP ಸಂಪರ್ಕ ಪೋರ್ಟ್‌ 443 ರಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಟೆಸ್ಟ್",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಟೆಸ್ಟ್ ಸ್ಥಗಿತಗೊಂಡಿದೆ",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ಟೆಸ್ಟ್ ರನ್ ಆಗುತ್ತಿಲ್ಲ, ಯಾವುದೇ WiFi ನೆಟ್‌ವರ್ಕ್ ಇಲ್ಲ.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ವಿಧಾನವು ಪ್ರಬಲವಾಗಿದೆ",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "ನಿಮ್ಮ ಮೆಷಿನ್ ಬಳಸಲಾದ WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ವಿಧಾನವು ಪ್ರಬಲವಾಗಿದೆ.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ವಿಧಾನವು ಕೇವಲ ಭಾಗಶಃ ಸುರಕ್ಷಿತವಾಗಿದೆ",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವು ಬಳಸಲಾದ WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ವಿಧಾನವು ಅದು ಪ್ರಬಲವಾಗಿರಬೇಕಾದಷ್ಟು ಪ್ರಬಲವಾಗಿಲ್ಲ.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "WiFi ನೆಟ್‌ವರ್ಕ್ ವಿಧಾನವು ಅಸುರಕ್ಷಿತವಾಗಿದೆ",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವು ಬಳಸಲಾದ WiFi ನೆಟ್‌ವರ್ಕ್ ವಿಧಾನವು ಅಸುರಕ್ಷಿತವಾಗಿದೆ.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "ಸಮಸ್ಯೆ ತೀರ್ಮಾನವನ್ನು ಪ್ರದರ್ಶಿಸುವುದಕ್ಕಾಗಿ WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ವಿಧಾನಗಳೆಂದರೆ: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆ ತೀರ್ಮಾನವನ್ನು ಪ್ರದರ್ಶಿಸದಿರುವುದಕ್ಕಾಗಿ WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ವಿಧಾನಗಳೆಂದರೆ: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "WiFi ಎನ್‌ಕ್ರಿಪ್ಶನ್ ವಿಧಾನದ ಕುರಿತು ನಾವು ಅಸುರಕ್ಷಿತವಾಗಿದ್ದರೆ ಸಂಭವನೀಯ ಸಮಸ್ಯೆ ತೀರ್ಮಾನವನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "ಪತ್ತೆಯಾದ ಲಭ್ಯವಿರುವ ನೆಟ್‌ವರ್ಕ್‌‌ಗಳ ಸಂಖ್ಯೆ: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "ಪ್ರಸ್ತುತ ಸಂಪರ್ಕಗೊಂಡಿರುವ WiFi ನೆಟ್‌ವರ್ಕ್‌ನಿಂದ ಬಳಸಲಾದ ಎನ್‌ಕ್ರಿಪ್ಶನ್ ವಿಧಾನ: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "ಅಂತ್ಯದಿಂದ ಅಂತ್ಯಕ್ಕೆ Google ವೆಬ್‌ಸೈಟ್ ಪರೀಕ್ಷೆ",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "Google ವೆಬ್‌ಸೈಟ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "Google ವೆಬ್‌ಸೈಟ್‌ಗಳು ಯಾವುದೇ ಪ್ರಕಾರದ ಸಂಪರ್ಕ ಸಮಸ್ಯೆ ಇಲ್ಲದೆ ಲೋಡ್ ಆಗುವುದು ಕಾಣಿಸುತ್ತದೆ.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Google ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಸರಿಯಾಗಿ ಹಿಂಪಡೆಯಲು ಮತ್ತು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "Google ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವಾಗ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ. ಇದಕ್ಕೆ ವಶಪಡಿಸಿಕೊಳ್ಳಲಾದ ಪೋರ್ಟಲ್, ಡಿಎನ್‌ಎಸ್ ಪಾಯ್ಸನಿಂಗ್, ದಾಳಿಯ ಮಧ್ಯದಲ್ಲಿರುವ ವ್ಯಕ್ತಿ, ಮತ್ತು ನೆಟ್‌ವರ್ಕ್ ಟ್ಯಾಂಪರಿಂಗ್‌ನ ಇತರ ಪ್ರಕಾರಗಳು ಸೇರಿದಂತೆ ಹಲವಾರು ಸಮಸ್ಯೆಗಳು ಕಾರಣವಾಗಿರಬಹುದು.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "ಪರೀಕ್ಷಿಸಲಾದ ಎಲ್ಲ ನಿರ್ದಿಷ್ಟ Google ಸೇವೆಗಳ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ HTTPS ಸಂಪರ್ಕವನ್ನು ಪೂರೈಸಲು ಸಾಧ್ಯವಾದಲ್ಲಿ Google ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಅಂತ್ಯ-ದಿಂದ-ಅಂತ್ಯದ ದೃಷ್ಟಿಕೋನದಲ್ಲಿ ಪ್ರವೇಶಿಸಲು ಯಶಸ್ವಿಯಾಗಿದೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "ಪರೀಕ್ಷಿಸಲಾದ ಎಲ್ಲ ನಿರ್ದಿಷ್ಟ Google ಸೇವೆಗಳ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ HTTPS ಸಂಪರ್ಕವನ್ನು ಪೂರೈಸಲು ಸಾಧ್ಯವಾಗದಿದ್ದಲ್ಲಿ Google ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಅಂತ್ಯ-ದಿಂದ-ಅಂತ್ಯದ ದೃಷ್ಟಿಕೋನದಲ್ಲಿ ಪ್ರವೇಶಿಸಲು ಸಮಸ್ಯೆಯಿದೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "ಟೆಸ್ಟ್‌ # /ಟೆಸ್ಟ್‌‌ನ ಹೋಸ್ಟ್‌ಹೆಸರು : ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "ಈ ಮುಂದಿನ ಹೋಸ್ಟ್‌ಹೆಸರಿಗೆ ಸಂಪರ್ಕಪಡಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವಾಗ ದೋಷ ಕಂಡುಬಂದಿದೆ, ಮತ್ತೆ ಮರುಪ್ರಯತ್ನಿಸಲಾಗುತ್ತದೆ: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "ಈ ಮುಂದಿನ ಹೋಸ್ಟ್‌ಹೆಸರಿಗೆ ಸಂಪರ್ಕಪಡಿಸುತ್ತಿರುವಾಗ ನಿರಂತರವಾದ ದೋಷಗಳು ಕಂಡುಬಂದವು, ಇದು ಸಂಪರ್ಕ ಸಮಸ್ಯೆಯಾಗಿರಬಹುದು: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "ಈ ಮುಂದಿನ ಸ್ಥಿತಿ ಕೋಡ್‌ ಹೊಂದಿರುವ ಈ ಹೋಸ್ಟ್‌ಹೆಸರು ಯಶಸ್ವಿಯಾಗಿ ಪೂರೈಸುವಂತೆ ವಿನಂತಿಸಿ: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

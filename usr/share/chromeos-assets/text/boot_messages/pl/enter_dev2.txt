@@ -1,0 +1,4 @@
+﻿
+System jest przygotowywany do działania w trybie programisty.
+Może to chwilę potrwać.
+Nie wyłączaj komputera, zanim sam nie uruchomi się ponownie.

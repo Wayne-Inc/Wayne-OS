@@ -1,0 +1,4 @@
+Asennetaan päivitystä…
+
+Älä sammuta laitetta. Se käynnistyy automaattisesti,
+kun päivitys päättyy.

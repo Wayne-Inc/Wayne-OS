@@ -1,0 +1,8 @@
+﻿
+El vostre sistema està fent la transició al mode desenvolupador.
+Les dades locals s'han esborrat.
+
+Google no admet les modificacions al sistema; és possible que provoquin
+problemes amb el maquinari i que anul·lin la validesa de la garantia.
+
+Per cancel·lar aquest procés, apagueu l'ordinador ara.

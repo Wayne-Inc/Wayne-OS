@@ -1,0 +1,4 @@
+﻿
+Süvapuhastamine on pooleli ...
+
+Funktsioon Powerwash rakendub siis, kui tuvastatakse kriitilised vead või otsustate seadme lähtestada. Chrome OS on pärast seda nagu uus ja saate kasutamist jätkata juba minuti pärast.

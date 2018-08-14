@@ -1,0 +1,4 @@
+﻿
+Rendszer előkészítése fejlesztői módra.
+Ez eltarthat egy ideig.
+Ne kapcsolja ki a számítógépet mielőtt az újraindulna.

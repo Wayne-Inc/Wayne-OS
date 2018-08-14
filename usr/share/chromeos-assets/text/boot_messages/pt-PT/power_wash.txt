@@ -1,0 +1,4 @@
+﻿
+Powerwash em curso...
+
+O Powerwash ocorre quando são detetados erros críticos ou quando o utilizador opta por repor o seu dispositivo. Esta operação repõe o SO Chrome para ficar como novo, e voltará a ficar operacional num minuto.

@@ -1,0 +1,5 @@
+S'ha produït un problema i l'actualització no s'ha fet correctament.
+
+És possible que hagis de recuperar el dispositiu. Per obtenir més informació sobre com recuperar ChromeOS, visita la pàgina https://www.google.com/chromeos/recovery
+
+Prem la barra d'espai per reiniciar.

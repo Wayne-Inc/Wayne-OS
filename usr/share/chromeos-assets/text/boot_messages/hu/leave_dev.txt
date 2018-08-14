@@ -1,0 +1,4 @@
+﻿
+A rendszer legutóbb fejlesztő módban indult el.
+Visszatérés a normál (ellenőrzött) módra...
+A folyamat befejeztével a rendszer újraindul.

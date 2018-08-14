@@ -1,0 +1,28 @@
+IW=/usr/sbin/iw
+
+if [ ! -x $IW ]; then
+    log "VERBOSE" "No $IW program, WiFi power setting is disabled."
+elif [ x$CONTROL_WIFI_POWER = x1 ] ; then
+    if [ x$FORCE_WIFI_POWERSAVE = x1 ] ; then
+        power_mgmt="on"
+    elif [ $ON_AC -eq 1 ] ; then
+        power_mgmt="off"
+    else
+        power_mgmt="on"
+    fi
+
+    for DEVICE in /sys/class/net/* ; do
+        if [ -d $DEVICE/phy80211 ]; then
+            dev=`basename $DEVICE`
+            $IW $dev set power_save $power_mgmt
+            ret=$?
+            if [ "$ret" = "0" ]; then
+               log "VERBOSE" "Power Management set to $power_mgmt for $dev."
+            else
+                log "VERBOSE" "Failed to set Power Management to $power_mgmt for $dev."
+            fi
+        fi
+    done
+else
+    log "VERBOSE" "WiFi power setting is disabled."
+fi

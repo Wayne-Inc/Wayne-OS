@@ -1,0 +1,4 @@
+﻿
+Powerwash in corso...
+
+I powerwash vengono effettuati quando sono rilevati errori critici o quando scegli di reimpostare il dispositivo. Chrome OS verrà reimpostato e sarà come nuovo. Potrai tornare operativo tra un minuto.

@@ -1,0 +1,5 @@
+﻿
+﻿O proprietário do dispositivo desativou o modo de programador para este dispositivo. Solicite ao proprietário do dispositivo para remover a restrição se pretender utilizar o modo de programador.
+
+
+O sistema será reiniciado no modo validado.

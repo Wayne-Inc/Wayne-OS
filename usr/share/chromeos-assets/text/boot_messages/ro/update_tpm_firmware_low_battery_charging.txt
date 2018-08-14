@@ -1,0 +1,6 @@
+Bateria este prea descărcată pentru actualizare.
+
+Se încarcă...
+
+Actualizarea va începe automat de îndată ce bateria
+este încărcată suficient.

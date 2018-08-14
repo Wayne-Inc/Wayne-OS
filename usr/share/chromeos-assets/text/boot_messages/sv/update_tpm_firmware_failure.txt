@@ -1,0 +1,6 @@
+Något gick fel och uppdateringen misslyckades.
+
+Du kan behöva återställa enheten. Mer information om återställning
+av ChromeOS finns här: https://www.google.com/chromeos/recovery
+
+Starta om enheten genom att trycka på blankstegstangenten.

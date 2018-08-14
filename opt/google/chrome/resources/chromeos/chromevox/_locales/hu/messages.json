@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "hu"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox \u2013 A Chrome megsz\u00f3laltat\u00e1sa"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Besz\u00e9d le\u00e1ll\u00edt\u00e1sa"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "R\u00f6gz\u00edtett m\u00f3d enged\u00e9lyez\u00e9se/tilt\u00e1sa"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "El\u0151tagkulcs"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "Ugr\u00e1s a k\u00f6vetkez\u0151 f\u00f3kusz\u00e1lhat\u00f3 elemre"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "Ugr\u00e1s k\u00f6vetkez\u0151 f\u00f3kusz\u00e1lhat\u00f3 elemre"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "Navig\u00e1l\u00e1s visszafel\u00e9"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "Navig\u00e1l\u00e1s el\u0151re"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Mozgat\u00e1s balra"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "Mozgat\u00e1s jobbra"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "Ugr\u00e1s vissza folyamatos olvas\u00e1skor"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "Ugr\u00e1s el\u0151re folyamatos olvas\u00e1skor"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Navig\u00e1ci\u00f3 r\u00e9szletezetts\u00e9g\u00e9nek cs\u00f6kkent\u00e9se"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "Navig\u00e1ci\u00f3 r\u00e9szletezetts\u00e9g\u00e9nek n\u00f6vel\u00e9se"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "M\u0171velet v\u00e9grehajt\u00e1sa az aktu\u00e1lis elemen"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Kattint\u00e1s az aktu\u00e1lis elemre"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Link URL-j\u00e9nek felolvas\u00e1sa"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Aktu\u00e1lis oldal c\u00edm\u00e9nek felolvas\u00e1sa"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Aktu\u00e1lis oldal URL-j\u00e9nek felolvas\u00e1sa"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "Olvas\u00e1s megkezd\u00e9se az aktu\u00e1lis helyr\u0151l"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "ChromeVox-men\u00fck megnyit\u00e1sa"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "ChromeVox s\u00fag\u00f3j\u00e1nak elrejt\u00e9se"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Nyomja meg felfel\u00e9 vagy lefel\u00e9 a parancsok megtekint\u00e9s\u00e9hez, majd az Entert az aktiv\u00e1l\u00e1sukhoz"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "A ChromeVox \u00fatmutat\u00f3j\u00e1nak megnyit\u00e1sa"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "ChromeVox-keres\u00e9s az oldalon"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "A be\u00e1ll\u00edt\u00e1sok oldal\u00e1nak megnyit\u00e1sa"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "Tanul\u00f3 m\u00f3d megnyit\u00e1sa"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Besz\u00e9dsebess\u00e9g cs\u00f6kkent\u00e9se"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "Besz\u00e9dsebess\u00e9g n\u00f6vel\u00e9se"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Hangsz\u00edn cs\u00f6kkent\u00e9se"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "Hangsz\u00edn n\u00f6vel\u00e9se"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Besz\u00e9d hangerej\u00e9nek cs\u00f6kkent\u00e9se"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "Besz\u00e9d hangerej\u00e9nek n\u00f6vel\u00e9se"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "\u0170rlaplista megjelen\u00edt\u00e9se"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "Fejl\u00e9clista megjelen\u00edt\u00e9se"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "Linklista megjelen\u00edt\u00e9se"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "T\u00e1bl\u00e1zatlista megjelen\u00edt\u00e9se"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "Hat\u00e1rjelek list\u00e1j\u00e1nak megjelen\u00edt\u00e9se"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "El\u0151z\u0151 t\u00e1bl\u00e1zatsor"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "K\u00f6vetkez\u0151 t\u00e1bl\u00e1zatsor"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "El\u0151z\u0151 t\u00e1bl\u00e1zatoszlop"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "K\u00f6vetkez\u0151 t\u00e1bl\u00e1zatoszlop"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Aktu\u00e1lis cella fejl\u00e9ceinek felolvas\u00e1sa"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Aktu\u00e1lis cella koordin\u00e1t\u00e1inak kimond\u00e1sa"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Aktu\u00e1lis cella sorfejl\u00e9c\u00e9nek tippel\u00e9se"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Aktu\u00e1lis cella oszlopfejl\u00e9c\u00e9nek tippel\u00e9se"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "Ugr\u00e1s a t\u00e1bl\u00e1zat elej\u00e9re"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "Ugr\u00e1s a t\u00e1bl\u00e1zat v\u00e9g\u00e9re"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "Ugr\u00e1s az aktu\u00e1lis sor elej\u00e9re"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "Ugr\u00e1s az aktu\u00e1lis sor v\u00e9g\u00e9re"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "Ugr\u00e1s az aktu\u00e1lis oszlop elej\u00e9re"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "Ugr\u00e1s az aktu\u00e1lis oszlop v\u00e9g\u00e9re"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "K\u00f6vetkez\u0151 1. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "El\u0151z\u0151 1. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "K\u00f6vetkez\u0151 2. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "El\u0151z\u0151 2. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "K\u00f6vetkez\u0151 3. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "El\u0151z\u0151 3. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "K\u00f6vetkez\u0151 4. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "El\u0151z\u0151 4. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "K\u00f6vetkez\u0151 5. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "El\u0151z\u0151 5. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "K\u00f6vetkez\u0151 6. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "El\u0151z\u0151 6. szint\u0171 fejl\u00e9c"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "K\u00f6vetkez\u0151 leg\u00f6rd\u00fcl\u0151 lista"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "El\u0151z\u0151 leg\u00f6rd\u00fcl\u0151 lista"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "K\u00f6vetkez\u0151 szerkeszthet\u0151 sz\u00f6vegter\u00fclet"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "El\u0151z\u0151 szerkeszthet\u0151 sz\u00f6vegter\u00fclet"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "K\u00f6vetkez\u0151 \u0171rlapmez\u0151"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "El\u0151z\u0151 \u0171rlap mez\u0151"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "K\u00f6vetkez\u0151 grafika"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "El\u0151z\u0151 grafika"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "K\u00f6vetkez\u0151 fejl\u00e9c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "El\u0151z\u0151 fejl\u00e9c"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "K\u00f6vetkez\u0151 listaelem"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "El\u0151z\u0151 listaelem"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "K\u00f6vetkez\u0151 ugr\u00e1s"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "El\u0151z\u0151 ugr\u00e1s"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "K\u00f6vetkez\u0151 link"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "El\u0151z\u0151 link"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "K\u00f6vetkez\u0151 lista"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "El\u0151z\u0151 lista"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "K\u00f6vetkez\u0151 m\u0171velet"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "El\u0151z\u0151 m\u0171velet"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "K\u00f6vetkez\u0151 m\u00e9diaelem"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "El\u0151z\u0151 m\u00e9diaelem"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "K\u00f6vetkez\u0151 id\u00e9zetblokk"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "El\u0151z\u0151 id\u00e9zetblokk"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "K\u00f6vetkez\u0151 v\u00e1laszt\u00f3gomb"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "El\u0151z\u0151 v\u00e1laszt\u00f3gomb"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "K\u00f6vetkez\u0151 dia"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "El\u0151z\u0151 dia"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "K\u00f6vetkez\u0151 t\u00e1bl\u00e1zat"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "A k\u00f6vetkez\u0151 felkeresett link"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "El\u0151z\u0151 t\u00e1bl\u00e1zat"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "El\u0151z\u0151 felkeresett link"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "Tov\u00e1bb gomb"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "El\u0151z\u0151 gomb"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "K\u00f6vetkez\u0151 jel\u00f6l\u0151n\u00e9gyzet"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "El\u0151z\u0151 jel\u00f6l\u0151n\u00e9gyzet"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "K\u00f6vetkez\u0151 hat\u00e1rjel"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "El\u0151z\u0151 hat\u00e1rjel"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "\u00d6sszehasonl\u00edt\u00e1s hibajav\u00edt\u00e1sa"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "R\u00f6viden elmondja, hogy mi az aktu\u00e1lis poz\u00edci\u00f3"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Pontosan elmondja, hogy mi az aktu\u00e1lis poz\u00edci\u00f3"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "ChromeVox-opci\u00f3k"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Virtu\u00e1lis Braille-kijelz\u0151"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "A friss\u00edthet\u0151 Braille-kijelz\u0151 kimenet\u00e9t szimul\u00e1lja\n        a k\u00e9perny\u0151 tetej\u00e9n elhelyezked\u0151 ChromeVox-panelen."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "Sorok:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "Az egyes sorokban tal\u00e1lhat\u00f3 cell\u00e1k sz\u00e1ma:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Az aktu\u00e1lis megjelen\u00edt\u00e9si m\u00f3d be\u00e9kelt."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Az aktu\u00e1lis megjelen\u00edt\u00e9si m\u00f3d egym\u00e1s melletti."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "A megjelen\u00edt\u00e9si m\u00f3d m\u00f3dos\u00edt\u00e1sa be\u00e9keltre."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "A megjelen\u00edt\u00e9si m\u00f3d m\u00f3dos\u00edt\u00e1sa egym\u00e1s mellettire."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "Haszn\u00e1lja az al\u00e1bbi lehet\u0151s\u00e9geket a ChromeVox szem\u00e9lyre szab\u00e1s\u00e1hoz. A v\u00e1ltoz\u00e1sok azonnal \u00e9letbe l\u00e9pnek."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "A f\u00f3kusz megv\u00e1ltoztat\u00e1s\u00e1hoz haszn\u00e1lja az egeret."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "Az elem kontextus\u00e1nak megjelen\u00edt\u00e9se m\u00e1s inform\u00e1ci\u00f3k (p\u00e9ld\u00e1ul az elem neve) el\u0151tt."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "Bizonyos oldalak jav\u00edt\u00e1sa (p\u00e9ld\u00e1ul Google Keres\u00e9s)"
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "Terjedelmesebb le\u00edr\u00e1sok enged\u00e9lyez\u00e9se."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Oldal automatikus felolvas\u00e1sa a bet\u00f6lt\u00e9s befejez\u00e9se ut\u00e1n."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Hang lej\u00e1tsz\u00e1sakor\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "Lej\u00e1tsz\u00e1s norm\u00e1l hanger\u0151n akkor is, ha a ChromeVox besz\u00e9l"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "Lej\u00e1tsz\u00e1s alacsonyabb hanger\u0151n, amikor a ChromeVox besz\u00e9l"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "Lej\u00e1tsz\u00e1s sz\u00fcneteltet\u00e9se, amikor a ChromeVox besz\u00e9l"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "A sz\u00f6veg szerkeszt\u00e9s\u00e9hez vigye a kurzort a karakterek k\u00f6z\u00e9 (mint a Mac OS X-n\u00e9l)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Hangok"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Az aktu\u00e1lis hang kiv\u00e1laszt\u00e1sa:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Braille"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "V\u00e1lt\u00e1s 8 pontos braille-t\u00e1bl\u00e1zatra"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "V\u00e1lt\u00e1s 6 pontos braille-t\u00e1bl\u00e1zatra"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "6 pontos Braille-t\u00e1bl\u00e1zat kiv\u00e1laszt\u00e1sa:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, $2$. oszt\u00e1ly",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), Grade $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "8 pontos Braille-t\u00e1bl\u00e1zat kiv\u00e1laszt\u00e1sa:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "Szavak egyben tart\u00e1s\u00e1nak enged\u00e9lyez\u00e9se"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Billenty\u0171k\u00f3dok"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "A jelenlegi billenty\u0171zetkioszt\u00e1st az al\u00e1bbi list\u00e1r\u00f3l v\u00e1lasztva v\u00e1ltoztathatja meg."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Jelenlegi billenty\u0171zetkioszt\u00e1s vissza\u00e1ll\u00edt\u00e1sa"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "G\u00e9pelje be a megfelel\u0151 mez\u0151be a billenty\u0171parancsokat a gyakran haszn\u00e1lt parancsok szem\u00e9lyre szab\u00e1s\u00e1hoz."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "M\u00f3dos\u00edt\u00f3billenty\u0171k"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "ChromeVox-m\u00f3dos\u00edt\u00f3billenty\u0171"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "ChromeVox Tanul\u00f3 m\u00f3d"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Nyomja meg b\u00e1rmelyik gombot, hogy megtudja a nev\u00e9t. A Ctrl+W billenty\u0171paranccsal bez\u00e1rhatja a tanul\u00f3 m\u00f3dot."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "lap l\u00e9trehozva"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$ lap",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "ablak, $1$ lap",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "inkognit\u00f3ablak, $1$ lap",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "$1$ men\u00fc megnyitva",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "men\u00fc bez\u00e1rva"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "$1$ n\u00e9gyzet bejel\u00f6lve",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "bejel\u00f6lve"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, jel\u00f6l\u0151n\u00e9gyzet nincs bejel\u00f6lve",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "nincs bejel\u00f6lve"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$, bekapcsol\u00e1s",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$, kikapcsol\u00e1s",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, kiv\u00e1lasztott v\u00e1laszt\u00f3gomb",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "kijel\u00f6lve"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, nem kiv\u00e1lasztott v\u00e1laszt\u00f3gomb",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "nincs kijel\u00f6lve"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, men\u00fc",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, men\u00fcelem",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, men\u00fcelem almen\u00fcvel",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, ablak",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, sz\u00f6vegmez\u0151",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, sz\u00f6vegmez\u0151",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, jelsz\u00f3mez\u0151",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, jelsz\u00f3mez\u0151",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, gomb",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, leg\u00f6rd\u00fcl\u0151 lista",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, kombin\u00e1lt mez\u0151",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, listamez\u0151",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, lista",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, link",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, lap",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "$1$ $2$ cs\u00faszka",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", kiv\u00e1lasztva"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", nincs kiv\u00e1lasztva"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$/$2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " $1$. szint ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "Sebess\u00e9g: $1$ sz\u00e1zal\u00e9k",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "Hangmagass\u00e1g: $1$ sz\u00e1zal\u00e9k",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "Hanger\u0151: $1$ sz\u00e1zal\u00e9k",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "Kil\u00e9pett a p\u00e1rbesz\u00e9dpanelb\u0151l."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "$1$ bez\u00e1rva.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "Bel\u00e9pett a p\u00e1rbesz\u00e9dbe"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "elt\u00e1vol\u00edtva:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "Beragad\u00f3 m\u00f3d bekapcsolva"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "Beragad\u00f3 m\u00f3d kikapcsolva"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Billenty\u0171zet S\u00fag\u00f3"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Helyi men\u00fc"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "$1$ lista.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "A fel \u00e9s le ny\u00edlbillenty\u0171kkel b\u00f6ng\u00e9szhet, vagy kezdjen el g\u00e9pelni a keres\u00e9shez."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "Kil\u00e9pett"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "Cella v\u00e9ge."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "Nem tal\u00e1lhat\u00f3 URL"
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "T\u00e1bl\u00e1zat elhagy\u00e1sa."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "R\u00e1cs elhagy\u00e1sa."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "Bels\u0151 t\u00e1bl\u00e1zat"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Nem tal\u00e1lhat\u00f3 t\u00e1bl\u00e1zat."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Nem t\u00e1bl\u00e1zatban van."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Nem t\u00e1bl\u00e1zat m\u00f3dban van."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "Nincs t\u00f6bb cella lefel\u00e9."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Nincs t\u00f6bb cella felfel\u00e9."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Nincs t\u00f6bb cella jobbra."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "Nincs t\u00f6bb cella balra."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "\u00dcres cella."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Egyes\u00edtve."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Sorfejl\u00e9c:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "\u00dcres sorfejl\u00e9c"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Oszlopfejl\u00e9c:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "\u00dcres oszlopfejl\u00e9c"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "Nincsenek fejl\u00e9cek"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "\u00dcres fejl\u00e9cek"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "$1$/$2$. sor, $3$/$4$. oszlop",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "$1$ t\u00e1bl\u00e1zat \u2013 $2$ \u00d7 $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "$1$ t\u00e1bl\u00e1zat \u2013 $2$ \u00d7 $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "$1$. sor $2$. oszlop",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "r$1$c$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "Nincs k\u00f6vetkez\u0151 jel\u00f6l\u0151n\u00e9gyzet."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "Nincs el\u0151z\u0151 jel\u00f6l\u0151n\u00e9gyzet."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "Nincs k\u00f6vetkez\u0151 szerkeszthet\u0151 sz\u00f6vegmez\u0151."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "Nincs el\u0151z\u0151 szerkeszthet\u0151 sz\u00f6vegmez\u0151."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "Nincs k\u00f6vetkez\u0151 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "Nincs el\u0151z\u0151 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "Nincs k\u00f6vetkez\u0151 1-es szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "Nincs el\u0151z\u0151 1-es szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "Nincs k\u00f6vetkez\u0151 2-es szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "Nincs el\u0151z\u0151 2-es szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "Nincs k\u00f6vetkez\u0151 3-as szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "Nincs el\u0151z\u0151 3-as szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "Nincs k\u00f6vetkez\u0151 4-es szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "Nincs el\u0151z\u0151 4-es szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "Nincs k\u00f6vetkez\u0151 5-\u00f6s szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "Nincs el\u0151z\u0151 5-\u00f6s szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "Nincs k\u00f6vetkez\u0151 6-os szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "Nincs el\u0151z\u0151 6-os szint\u0171 c\u00edmsor."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "Nincs k\u00f6vetkez\u0151 elem, amely ne lenne link."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "Nincs el\u0151z\u0151 elem, amely ne lenne link."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "Nincs k\u00f6vetkez\u0151 horgony."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "Nincs el\u0151z\u0151 horgony."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "Nincs k\u00f6vetkez\u0151 link."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "Nincs el\u0151z\u0151 link."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "Nincs k\u00f6vetkez\u0151 t\u00e1bl\u00e1zat."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "Nincs el\u0151z\u0151 t\u00e1bl\u00e1zat."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "Nincs k\u00f6vetkez\u0151 felkeresett link."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "Nincs el\u0151z\u0151 felkeresett link."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "Nincs k\u00f6vetkez\u0151 matematikai kifejez\u00e9s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "Nincs el\u0151z\u0151 matematikai kifejez\u00e9s."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "Nincs k\u00f6vetkez\u0151 m\u00e9diamodul."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "Nincs el\u0151z\u0151 m\u00e9diamodul."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "Nincs k\u00f6vetkez\u0151 lista."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "Nincs el\u0151z\u0151 lista."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "Nincs k\u00f6vetkez\u0151 listaelem."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "Nincs el\u0151z\u0151 listaelem."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "Nincs k\u00f6vetkez\u0151 bekezd\u00e9sszint\u0171 id\u00e9zet."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "Nincs el\u0151z\u0151 bekezd\u00e9sszint\u0171 id\u00e9zet."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "Nincs k\u00f6vetkez\u0151 \u0171rlap mez\u0151."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "Nincs el\u0151z\u0151 \u0171rlap mez\u0151."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "Nincs k\u00f6vetkez\u0151 ugr\u00f3pont."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "Nincs el\u0151z\u0151 ugr\u00f3pont."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "Nincs k\u00f6vetkez\u0151 ARIA hat\u00e1rjel."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "Nincs el\u0151z\u0151 ARIA hat\u00e1rjel."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "Nincs k\u00f6vetkez\u0151 leg\u00f6rd\u00fcl\u0151 lista."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "Nincs el\u0151z\u0151 leg\u00f6rd\u00fcl\u0151 lista."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "Nincs k\u00f6vetkez\u0151 gomb."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "Nincs el\u0151z\u0151 gomb."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "Nincs k\u00f6vetkez\u0151 \u00e1bra."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "Nincs el\u0151z\u0151 \u00e1bra."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "Nincs k\u00f6vetkez\u0151 dia."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "Nincs el\u0151z\u0151 dia."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "Nincs k\u00f6vetkez\u0151 v\u00e1laszt\u00f3gomb."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "Nincs el\u0151z\u0151 v\u00e1laszt\u00f3gomb."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "Nincs k\u00f6vetkez\u0151 panel."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "Nincs el\u0151z\u0151 panel."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "Nincs k\u00f6vetkez\u0151 vez\u00e9rl\u0151."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "Nincs el\u0151z\u0151 vez\u00e9rl\u0151."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "R\u00e1kattintott"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "dupl\u00e1n kattintva"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "Nincsenek c\u00edmsorok."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "Nincsenek linkek."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "Nincsenek \u0171rlapok."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "Nincsenek t\u00e1bl\u00e1zatok."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "Nincsenek ARIA hat\u00e1rjelek."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "Nincs ugr\u00e1s."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "almen\u00fcvel rendelkezik"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "pop-uppal rendelkezik"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+el\u0151ugr"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "Maximum $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "min.: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "Max $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "max.: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "\u00c9rtes\u00edt\u00e9s"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "riaszt"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "\u00c9rtes\u00edt\u0151 p\u00e1rbesz\u00e9dpanel"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "riaszt pnl"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "Gomb"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "gmb"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "Jel\u00f6l\u0151n\u00e9gyzet"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "jel\u00f6l\u0151n\u00e9gyzet"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Leg\u00f6rd\u00fcl\u0151 lista"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "kombin\u00e1lt sz\u00f6vegbeviteli mez\u0151"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "P\u00e1rbesz\u00e9dpanel"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "pnl"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "R\u00e1cs"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "r\u00e1cs"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "Mobil"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cella"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "$1$. sor, $2$. oszlop",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Link"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "link"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "Lista mez\u0151"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "lstmez"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "Napl\u00f3"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "napl\u00f3"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Fut\u00f3sz\u00f6veg"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "f\u00e9ny\u00fajs\u00e1g"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Men\u00fc"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "mn\u00fc"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Men\u00fcsor"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "men\u00fcsor"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Men\u00fcelem"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "men\u00fcelem"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Men\u00fcelem \u2013 jel\u00f6l\u0151n\u00e9gyzet"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "jel\u00f6l\u0151n\u00e9gyzet men\u00fcelem"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Men\u00fcelem v\u00e1laszt\u00f3gomb"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "r\u00e1di\u00f3gomb men\u00fcelem"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "El\u0151ugr\u00f3 gomb"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "el\u0151ugr\u00f3 ablak gombja"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Folyamatjelz\u0151"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "folyamatjelz\u0151 s\u00e1v"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Folyamatjelz\u0151"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "folyamatjelz\u0151 s\u00e1v"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "V\u00e1laszt\u00f3gomb"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "r\u00e1di\u00f3gomb"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "V\u00e1laszt\u00f3gombcsoport"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "r\u00e1di\u00f3gombcsoport"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "G\u00f6rget\u0151s\u00e1v"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "g\u00f6rget\u0151s\u00e1v"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Cs\u00faszka"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "cs\u00fasz"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "L\u00e9ptet\u0151ny\u00edl"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "l\u00e9ptet\u0151gomb"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "\u00c1llapot"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "\u00e1llpt"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Lap"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "tab"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "T\u00e1bl\u00e1zat"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "t\u00e1bl\u00e1zat"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "Laplista"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "f\u00fcllista"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "Lappanel"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "f\u00fclpanel"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Sz\u00f6vegmez\u0151"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "sz\u00f6vegmez\u0151"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "Id\u0151z\u00edt\u0151"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "id\u0151z"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "Eszk\u00f6zt\u00e1r"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "eszk\u00f6zsor"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "Elemle\u00edr\u00e1s"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "helyi s\u00fag\u00f3"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "Fa"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "fa"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "Faelem"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "faelem"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "Cikk"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "cikk"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "Alkalmaz\u00e1s"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "alk"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Szalaghirdet\u00e9s"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "szlghird"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Oszlopfejl\u00e9c"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "oszlopfejl\u00e9c"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "Kieg\u00e9sz\u00edt\u0151"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "kieg\u00e9sz\u00edt\u0151"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Tartalominform\u00e1ci\u00f3"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "tartalominform\u00e1ci\u00f3"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "Defin\u00edci\u00f3"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "megh"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "C\u00edmt\u00e1r"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "k\u00f6nyvt"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Dokumentum"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "dok"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "\u0170rlap"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "\u0171rlap"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Csoport"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "csop"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "C\u00edmsor"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "c\u00edmsor"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "K\u00e9p"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "k\u00e9p"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "Lista"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "list"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "Listaelem"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "lstelem"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "F\u0151"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "f\u0151"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Matematika"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Navig\u00e1l\u00e1s"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Jegyzet"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "jegyzet"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Ter\u00fclet"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "r\u00e9gi\u00f3"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Sorfejl\u00e9c"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "sorfejl\u00e9c"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "Keres\u00e9s"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "search"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Elv\u00e1laszt\u00f3"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "elv\u00e1laszt\u00f3"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "M\u00e9r\u0151"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "m\u00e9r\u0151"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Automatikus kieg\u00e9sz\u00edt\u00e9s soron bel\u00fcl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "sz\u00f6vegk\u00f6zi automatikus kieg\u00e9sz\u00edt\u00e9s"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "Automatikus kieg\u00e9sz\u00edt\u00e9s listak\u00e9nt"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "automatikus kieg\u00e9sz\u00edt\u00e9s lista"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Automatikus kieg\u00e9sz\u00edt\u00e9s soron bel\u00fcl \u00e9s listak\u00e9nt"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "automatikus kieg\u00e9sz\u00edt\u00e9s (sz\u00f6vegk\u00f6zi \u00e9s lista)"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "Bejel\u00f6lve"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "Nincs bejel\u00f6lve"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "R\u00e9szben bejel\u00f6lve"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Kikapcsolva"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "Kibontott"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "\u00d6sszecsukott"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "\u00c9rv\u00e9nytelen adat"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "\u00c9szlelt nyelvtani hiba"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "nyelvtani hiba"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "\u00c9szlelt helyes\u00edr\u00e1si hiba"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "elg\u00e9pel\u00e9s"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "T\u00f6bbsoros"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "t\u00f6bbsoros"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "T\u00f6bbsz\u00f6r\u00f6s kiv\u00e1laszt\u00e1s"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "t\u00f6bbkijel"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Megnyomva"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Nincs megnyomva"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "R\u00e9szben megnyomva"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Csak olvashat\u00f3"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "csak olv"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "K\u00f6telez\u0151"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "k\u00f6telez\u0151"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Kijel\u00f6lt"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Nincs kiv\u00e1lasztva"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Felkeresett link"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "felkeresett link"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "Felkeresett"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "felkeresett"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "1-es c\u00edmsor"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "2-es c\u00edmsor"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "3-as c\u00edmsor"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "4-es c\u00edmsor"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "5-\u00f6s c\u00edmsor"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "6-os c\u00edmsor"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "Listaelem"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "lstelem"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "Rendezett lista"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "list"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Leg\u00f6rd\u00fcl\u0151 lista"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "kombin\u00e1lt sz\u00f6vegbeviteli mez\u0151"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "Sz\u00f6vegter\u00fclet"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "sz\u00f6vegter\u00fclet"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "t\u00e1bl\u00e1zat"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "t\u00e1bl"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "Lista"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "list"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Szakasz"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "szakasz"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Navig\u00e1l\u00e1s"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "Cikk"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "cikk"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "Oldaltartalom"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "oldaltartalom"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "C\u00edmsorcsoport"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "c\u00edmsorcsoport"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Fejl\u00e9c"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "fejl"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "L\u00e1bl\u00e9c"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "l\u00e1bl"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Id\u0151"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "Kiemel\u00e9s"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "kiemel\u00e9s"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Vide\u00f3"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "video"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "Audio"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "audio"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "Sz\u00ednv\u00e1laszt\u00f3"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "sz\u00ednv\u00e1laszt\u00f3"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "D\u00e1tum \u00e9s id\u0151 be\u00e1ll\u00edt\u00e1sa"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "d\u00e1tum id\u0151"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Id\u0151 szab\u00e1lyoz\u00e1sa"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "id\u0151"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "D\u00e1tum \u00e9s id\u0151 be\u00e1ll\u00edt\u00e1sa"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "d\u00e1tum id\u0151"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "D\u00e1tum be\u00e1ll\u00edt\u00e1sa"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "d\u00e1tum"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Sz\u00f6vegszerkeszt\u00e9s, e-mail bevitel"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@szerk 8pont"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "F\u00e1jl kiv\u00e1laszt\u00e1sa"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "f\u00e1jl"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "H\u00f3nap be\u00e1ll\u00edt\u00e1sa"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "h\u00f3nap"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "Sz\u00f6vegszerkeszt\u00e9s \u2013 csak numerikus"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#beviteli mez\u0151"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "Jelsz\u00f3 \u2013 sz\u00f6vegszerkeszt\u00e9s"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "jelsz\u00f3bevitel"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "Vissza\u00e1ll\u00edt\u00e1s"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "vissza\u00e1ll"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Sz\u00f6vegszerkeszt\u00e9s, keres\u00e9si bevitel"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "keres\u00e9s"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Sz\u00f6veg szerkeszt\u00e9se"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "sz\u00f6vegmez\u0151"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Sz\u00f6vegszerkeszt\u00e9s, URL-bevitel"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "urlszerk 8pont"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Az \u00e9v het\u00e9nek be\u00e1ll\u00edt\u00e1sa"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "h\u00e9t"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Bels\u0151 link"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "bels\u0151 link"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "\u00dcres"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "Sz\u00f3k\u00f6z"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "$1$ elemmel",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "{COUNT,plural, =1{# elemmel}other{# elemmel}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "almen\u00fcvel"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "el\u0151ugr\u00f3val rendelkezik"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "el\u0151ugr\u00f3val rendelkezik"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "$1$ gy\u0171jtem\u00e9ny $2$ elemmel",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "Sz\u00f3k\u00f6z"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Backspace"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Lap"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Balra"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Fel"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "Jobbra"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Le"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Ismeretlen link"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "V\u00e1lt\u00e1s a ChromeVox akt\u00edv \u00e9s inakt\u00edv \u00e1llapota k\u00f6z\u00f6tt."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "A ChromeVox most inakt\u00edv."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "V\u00e1lt\u00e1s a klasszikus ChromeVox akt\u00edv \u00e9s inakt\u00edv \u00e1llapota k\u00f6z\u00f6tt"
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "El\u0151z\u0151 elt\u00e9r\u0151 elem."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "K\u00f6vetkez\u0151 elt\u00e9r\u0151 elem."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "El\u0151z\u0151 hasonl\u00f3 elem."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "K\u00f6vetkez\u0151 hasonl\u00f3 elem."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "Nincs t\u00f6bb hasonl\u00f3 elem."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "Nincs t\u00f6bb elt\u00e9r\u0151 elem."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "Csoportfelfedez\u00e9s megad\u00e1sa"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Csoportok felfedez\u00e9se"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Objektum"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Csoport"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "T\u00e1bl\u00e1zat"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Sor"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "Oszlop"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Sor"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "Oszlop"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "sor"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "oszlop"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "Matematikai \u201eML Tree\u201d"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "Matematikai \u201eML\u201d elrendez\u00e9s"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "Matematikai \u201eML\u201d token"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "Matematikai \u201eML Leaf\u201d"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "Vizu\u00e1lis"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "Egy\u00e9ni"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "Sor"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "Mondat"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "Sz\u00f3"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Karakter"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "Keres\u00e9s az oldalon."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Adjon meg egy keres\u00e9si lek\u00e9rdez\u00e9st."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "Kil\u00e9pett az oldalon t\u00f6rt\u00e9n\u0151 keres\u00e9sb\u0151l."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "Nincsenek tov\u00e1bbi tal\u00e1latok."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "M\u00f3dos\u00edt\u00f3billenty\u0171k"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "Navig\u00e1ci\u00f3 a ChromeVoxban"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Inform\u00e1ci\u00f3"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "S\u00fag\u00f3parancsok"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Besz\u00e9d vez\u00e9rl\u00e9se"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "\u00c1ttekint\u00e9s"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "T\u00e1bl\u00e1zatok"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "Ugr\u00e1s parancsai"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Braille"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Fejleszt\u0151knek"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Hagyom\u00e1nyos billenty\u0171zetkioszt\u00e1s"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Next-billenty\u0171zetkioszt\u00e1s"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "Sima billenty\u0171zetkioszt\u00e1s"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "K\u00eds\u00e9rleti billenty\u0171zetkioszt\u00e1s"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "TTS napl\u00f3z\u00e1s\u00e1nak enged\u00e9lyez\u00e9se"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "Kijel\u00f6l\u00e9s eleje"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "Kijel\u00f6l\u00e9s v\u00e9ge"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "A kijel\u00f6l\u00e9s: "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "Kijel\u00f6l\u00e9s vagy kijel\u00f6l\u00e9s v\u00e9ge."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "$1$ m\u00e1sol\u00e1sa.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "$1$ kiv\u00e1g\u00e1sa.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "$1$ beilleszt\u00e9se.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "kijel\u00f6lve"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "nincs kijel\u00f6lve"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "hozz\u00e1ad\u00e1s a kijel\u00f6l\u00e9shez"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "elt\u00e1vol\u00edtva a kiv\u00e1lasztottak k\u00f6z\u00fcl"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "majd"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "azut\u00e1n"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "ChromeVox m\u00f3dos\u00edt\u00f3gomb"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "A(z) $1$ billenty\u0171 m\u00e1r hozz\u00e1 van rendelve egy parancshoz.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Matematika"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Nincs math elemben"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "DE DU"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "\u00f3ra"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "perc"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "m\u00e1sodperc"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "ezredm\u00e1sodperc"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "de."
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "du."
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "h\u00e9t"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "janu\u00e1r"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "febru\u00e1r"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "m\u00e1rcius"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "\u00e1prilis"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "m\u00e1jus"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "j\u00fanius"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "j\u00falius"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "augusztus"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "szeptember"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "okt\u00f3ber"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "november"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "december"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "\u00cdr\u00e1sjelek mell\u0151z\u00e9se"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "Bizonyos \u00edr\u00e1sjelek"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "Minden \u00edr\u00e1sjellel"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Nyomja le az entert az elfogad\u00e1shoz vagy az escape-et a visszavon\u00e1shoz, a le gombot a k\u00f6vetkez\u0151h\u00f6z, a fel gombot az el\u0151z\u0151h\u00f6z."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "r\u00e1kattinthat\u00f3"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "kattinthat\u00f3"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "El\u0151z\u0151 karakter"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "K\u00f6vetkez\u0151 karakter"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "El\u0151z\u0151 sz\u00f3"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "K\u00f6vetkez\u0151 sz\u00f3"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "El\u0151z\u0151 mondat"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "K\u00f6vetkez\u0151 mondat"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "El\u0151z\u0151 sor"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "K\u00f6vetkez\u0151 sor"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "El\u0151z\u0151 objektum"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "K\u00f6vetkez\u0151 objektum"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "El\u0151z\u0151 csoport"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "K\u00f6vetkez\u0151 csoport"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "Hat\u00e1rjel"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Nincs lenyomva m\u00f3dos\u00edt\u00f3billenty\u0171. K\u00e9rj\u00fck, nyomjon le egy vagy t\u00f6bb m\u00f3dos\u00edt\u00f3billenty\u0171t, majd engedje fel, ha k\u00e9sz. Hallani fogja, hogy a billenty\u0171k be lettek \u00e1ll\u00edtva. A Tab seg\u00edts\u00e9g\u00e9vel l\u00e9phet ki."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "A ChromeVox m\u00f3dos\u00edt\u00f3billenty\u0171je mostant\u00f3l a k\u00f6vetkez\u0151: $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ vissza\u00e1ll\u00edtva.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "A rendszer \u00e1tv\u00e1lt a k\u00f6vetkez\u0151re: $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "Ugr\u00e1s az oldal tetej\u00e9re"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "Ugr\u00e1s az oldal alj\u00e1ra"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "A tetej\u00e9re ker\u00fcl"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "Az alj\u00e1ra ker\u00fcl"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "K\u00f6zpontoz\u00e1s visszaolvas\u00e1s\u00e1nak be- vagy kikapcsol\u00e1sa"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Ciklikus g\u00e9pel\u00e9si visszaolvas\u00e1s"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "A jelenleg m\u0171k\u00f6d\u0151 \u00f6sszes m\u00e9diamodul sz\u00fcneteltet\u00e9se"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "Hossz\u00fa le\u00edr\u00e1s megnyit\u00e1sa \u00faj lapon"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "Nincs hossz\u00fa le\u00edr\u00e1s"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "K\u00e9p hossz\u00fa le\u00edr\u00e1ssal"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$ \u2013 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$\u2013$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "$1$ elem kiv\u00e1lasztva",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "$1$. dia",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "kijel\u00f6l\u00e9s t\u00f6r\u00f6lve"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "karakterek visszaolvas\u00e1sa"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "szavak visszaolvas\u00e1sa"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "karakterek \u00e9s szavak visszaolvas\u00e1sa"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "nincs g\u00e9pel\u00e9si visszaolvas\u00e1s"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "bel\u00e9p\u00e9s a struktur\u00e1lt tartalmakba, p\u00e9ld\u00e1ul t\u00e1bl\u00e1zatokba"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "kil\u00e9p\u00e9s a struktur\u00e1lt tartalmakb\u00f3l, p\u00e9ld\u00e1ul t\u00e1bl\u00e1zatokb\u00f3l"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "bevitte ezt: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "struktur\u00e1lis vonal"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "sor"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "V\u00e1lt\u00e1s a struktur\u00e1lis \u00e9s elrendez\u00e9si vonalak k\u00f6z\u00f6tt"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "t\u00e1bl\u00e1zat"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "alap\u00e9rtelmezett navig\u00e1ci\u00f3"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "V\u00e1lt\u00e1s a matematikai kifejez\u00e9sek struktur\u00e1lis \u00e9s szemantikai \u00e9rtelmez\u00e9se k\u00f6z\u00f6tt"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Szemantikai \u00e9rtelmez\u00e9s bekapcsolva"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Szemantikai \u00e9rtelmez\u00e9s kikapcsolva"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alad\u00e1r\", \"\u00e1\": \"\u00e1kos\" \"b\": \"b\u00e9la\", \"c\": \"cecil\", \"cs\": \"csaba\", \"d\": \"d\u00e9nes\", \"dz\": \"edz\u00e9s\", \"dzs\": \"dzsungel\", \"e\": \"elem\u00e9r\", \"\u00e9\": \"\u00e9va\", \"f\": \"ferenc\", \"g\": \"g\u00e9za\", \"gy\": \"gy\u00f6rgy\", \"h\": \"hug\u00f3\", \"i\": \"ilona\", \"\u00ed\": \"\u00edr\u00e1s\", \"j\": \"j\u00f3zsef\",\"k\": \"katalin\", \"l\": \"l\u00e1szl\u00f3\", \"ly\": \"lyuk\", \"m\": \"m\u00e1rton\", \"n\": \"n\u00e1ndor\", \"ny\": \"ny\u00e1r\", \"o\": \"ott\u00f3\", \"\u00f3\": \"\u00f3ri\u00e1s\", \"\u00f6\": \"\u00f6d\u00f6n\", \"\u0151\": \"\u0151rs\u00e9g\", \"p\": \"p\u00e9ter\", \"q\": \"quebec\", \"r\": \"r\u00f3bert\", \"s\": \"s\u00e1ndor\", \"sz\": \"szil\u00e1rd\", \"t\": \"tibor\", \"ty\": \"ty\u00fak\", \"u\": \"ubul\", \"\u00fa\": \"\u00fajs\u00e1g\", \"\u00fc\": \"\u00fcnnep\", \"\u0171\": \"\u0171rhaj\u00f3\", \"v\": \"viktor\", \"w\": \"waterloo\",\"x\": \"xilofon\", \"y\": \"youtube\", \"z\": \"zolt\u00e1n\", \"zs\": \"zsuzsanna\",}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Az \u00e9rtes\u00edt\u00e9sek megtekint\u00e9s\u00e9hez nyomja meg az Alt+Shift+A kombin\u00e1ci\u00f3t"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "Nincs k\u00f6vetkez\u0151 cikk."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "Nincs el\u0151z\u0151 cikk."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "A ChromeVox hangos visszajelz\u00e9s k\u00e9szen \u00e1ll"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "A ChromeVox k\u00e9szen \u00e1ll"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "be\u00e1ll\u00edt\u00e1si oldal"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Hangjelz\u00e9sek kikapcsolva"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "Hangjelz\u00e9sek be- \u00e9s kikapcsol\u00e1sa."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "A pontos id\u0151 \u00e9s d\u00e1tum kimond\u00e1sa."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "K:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "T\u00f6r\u00f6lve"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Alap\u00e9rtelmezett m\u0171velet v\u00e9grehajt\u00e1sa"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{felki\u00e1lt\u00f3jel}other{# felki\u00e1lt\u00f3jel}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{sz\u00f3k\u00f6z}other{# sz\u00f3k\u00f6z}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{egyszeres nyit\u00f3 id\u00e9z\u0151jel}other{# egyszeres nyit\u00f3 id\u00e9z\u0151jel}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{HULL\u00c1MVONAL}other{# hull\u00e1mvonal}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{kukac}other{# kukac}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{kett\u0151s kereszt}other{# kett\u0151s kereszt jel}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{doll\u00e1rjel}other{# doll\u00e1rjel}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{sz\u00e1zal\u00e9kjel}other{# sz\u00e1zal\u00e9kjel}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{cs\u00facsos \u00e9kezet}other{# cs\u00facsos \u00e9kezet}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{\u00c9S jel}other{# \u00c9S jel}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{csillag}other{# csillag}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{nyit\u00f3 z\u00e1r\u00f3jel}other{# nyit\u00f3 z\u00e1r\u00f3jel}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{berekeszt\u0151 z\u00e1r\u00f3jel}other{# berekeszt\u0151 z\u00e1r\u00f3jel}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{k\u00f6t\u0151jel}other{# k\u00f6t\u0151jel}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{alulvon\u00e1s}other{# alulvon\u00e1s}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{egyenl\u0151s\u00e9gjel}other{# egyenl\u0151s\u00e9gjel}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{pluszjel}other{# pluszjel}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{sz\u00f6gletes nyit\u00f3 z\u00e1r\u00f3jel}other{# sz\u00f6gletes nyit\u00f3 z\u00e1r\u00f3jel}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{sz\u00f6gletes berekeszt\u0151 z\u00e1r\u00f3jel}other{# sz\u00f6gletes berekeszt\u0151 z\u00e1r\u00f3jel}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{kapcsos nyit\u00f3 z\u00e1r\u00f3jel}other{# kapcsos nyit\u00f3 z\u00e1r\u00f3jel}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{kapcsos berekeszt\u0151 z\u00e1r\u00f3jel}other{# kapcsos berekeszt\u0151 z\u00e1r\u00f3jel}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{f\u00fcgg\u0151leges vonal}other{# f\u00fcgg\u0151leges vonal karakter}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{pontosvessz\u0151}other{# pontosvessz\u0151}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{kett\u0151spont}other{# kett\u0151spont}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{vessz\u0151}other{# vessz\u0151}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{pont}=3{h\u00e1rom pont}other{# pont}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{kisebb jel}other{# kisebb jel}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{nagyobb jel}other{# nagyobb jel}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{t\u00f6rtvonal}other{# t\u00f6rtvonal}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{k\u00e9rd\u0151jel}other{# k\u00e9rd\u0151jel}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{id\u00e9z\u0151jel}other{# id\u00e9z\u0151jel}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{aposztr\u00f3f}other{# aposztr\u00f3f}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{tabul\u00e1tor}other{# tabul\u00e1tor}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{ford\u00edtott t\u00f6rtvonal}other{# ford\u00edtott t\u00f6rtvonal}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{felsorol\u00e1st jelz\u0151 pont}other{# felsorol\u00e1st jelz\u0151 pont}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "Kattintson a(z) $1$ \u00e1tir\u00e1ny\u00edt\u00e1si kulcs alatti elemre",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "P\u00e1szt\u00e1z\u00e1s h\u00e1trafel\u00e9"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "P\u00e1szt el\u0151re"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "El\u0151z\u0151 sor Braille-\u00edr\u00e1sa"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "K\u00f6vetkez\u0151 sor Braille-\u00edr\u00e1sa"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "A Braille-kijelz\u0151 \u00e1thelyez\u00e9se az oldal tetej\u00e9re"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "A Braille-kijelz\u0151 \u00e1thelyez\u00e9se az oldal alj\u00e1ra"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "$1$ pont",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "$1$ pont",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ akkord",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "K\u00e9p megtekint\u00e9se Braille-form\u00e1tumban"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "hozz\u00e1f\u00e9r\u00e9si kulccsal rendelkezik: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "hozz\u00e1f\u00e9r\u00e9si kulcs: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"arab\",\n        \"bg\": \"bolg\u00e1r\",\n        \"ca\": \"katal\u00e1n\",\n        \"cs\": \"cseh\",\n        \"da\": \"d\u00e1n\",\n        \"de\": \"n\u00e9met\",\n        \"de_CH\": \"n\u00e9met (Sv\u00e1jc)\",\n        \"de_DE\": \"n\u00e9met (N\u00e9metorsz\u00e1g)\",\n        \"el\": \"g\u00f6r\u00f6g\",\n        \"en\": \"angol\",\n        \"en_CA\": \"angol (Kanada)\",\n        \"en_GB\": \"angol (Egyes\u00fclt Kir\u00e1lys\u00e1g)\",\n        \"en_US\": \"angol (Amerikai Egyes\u00fclt \u00c1llamok)\",\n        \"es\": \"spanyol\",\n        \"et\": \"\u00e9szt\",\n        \"fr\": \"francia\",\n        \"fr_CA\": \"francia (Kanada)\",\n        \"fr_FR\": \"francia (Franciaorsz\u00e1g)\",\n        \"fi\": \"finn\",\n        \"he\": \"h\u00e9ber\",\n        \"hi\": \"hindi\",\n        \"hr\": \"horv\u00e1t\",\n        \"hu\": \"magyar\",\n        \"is\": \"izlandi\",\n        \"it\": \"olasz\",\n        \"ko\": \"koreai\",\n        \"lt\": \"litv\u00e1n\",\n        \"lv\": \"lett\",\n        \"nb\": \"norv\u00e9g bokm\u00e5l\",\n        \"nl\": \"holland\",\n        \"pl\": \"lengyel\",\n        \"pt\": \"portug\u00e1l\",\n        \"ro\": \"rom\u00e1n\",\n        \"ru\": \"orosz\",\n        \"sk\": \"szlov\u00e1k\",\n        \"sl\": \"szlov\u00e9n\",\n        \"sr\": \"szerb\",\n        \"sv\": \"sv\u00e9d\",\n        \"tr\": \"t\u00f6r\u00f6k\",\n        \"vi\": \"vietnami\",\n        \"zh\": \"k\u00ednai\",\n        \"zh_TW\": \"k\u00ednai (hagyom\u00e1nyos han)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Sz\u00f6veg v\u00e9ge"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "Befejez\u00e9s"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "\u00faj sor"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "ugr\u00e1s a sor elej\u00e9re"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "A k\u00f6vetkez\u0151 gombnyom\u00e1s figyelmen k\u00edv\u00fcl hagy\u00e1sa"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "\u00c1tugr\u00e1s gomb"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "Helyi men\u00fc megjelen\u00edt\u00e9se"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Braille-feliratok bekapcsol\u00e1sa"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Braille-feliratok enged\u00e9lyezve."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Braille-feliratok letiltva."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "A kis- \u00e9s nagybet\u0171k nem k\u00fcl\u00f6nb\u00f6z\u0151k."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "A kis- \u00e9s nagybet\u0171 k\u00fcl\u00f6nb\u00f6z\u0151."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "vissza"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "k\u00f6vetkez\u0151"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "friss\u00edt\u00e9s"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "v\u00e1lt\u00e1s teljes k\u00e9perny\u0151s m\u00f3dra"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "ablak\u00e1ttekint\u00e9si m\u00f3d"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "f\u00e9nyer\u0151 cs\u00f6kkent\u00e9se"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "f\u00e9nyer\u0151 n\u00f6vel\u00e9se"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "n\u00e9m\u00edt\u00e1s"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "hanger\u0151 cs\u00f6kkent\u00e9se"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "hanger\u0151 n\u00f6vel\u00e9se"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "ChromeVox-panel"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "ChromeVox-men\u00fck"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "ChromeVox-\u00fatmutat\u00f3"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "ChromeVox-men\u00fck"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "ChromeVox-opci\u00f3k"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "A ChromeVox kikapcsol\u00e1sa"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(akt\u00edv)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Ugr\u00e1s"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Besz\u00e9d"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "Lapok"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "M\u0171veletek"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "Nincsenek elemek."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Probl\u00e9ma bejelent\u00e9se"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox friss\u00edtve"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Nyomja meg a ChromeVox o, n billenty\u0171ket, ha t\u00f6bbet szeretne megtudni az \u00fajdons\u00e1gokr\u00f3l"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "Friss\u00edt\u00e9si jegyzetek megjelen\u00edt\u00e9se"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "ChromeVox-\u00fatmutat\u00f3 bez\u00e1r\u00e1sa"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "El\u0151z\u0151"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "K\u00f6vetkez\u0151"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "\u00dcdv\u00f6zli a ChromeVox!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "El\u0151sz\u00f6r haszn\u00e1lja a ChromeVox hangos visszajelz\u00e9s\u00e9t? Ez a r\u00f6vid \u00fatmutat\u00f3 elmagyar\u00e1zza a ChromeVox legfontosabb kezd\u0151 l\u00e9p\u00e9seit."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "Tov\u00e1bbl\u00e9p\u00e9shez nyomja le az Enter, visszal\u00e9p\u00e9shez a Backspace billenty\u0171t."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "Be, Ki \u00e9s Le\u00e1ll\u00edt\u00e1s"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "A ChromeVox besz\u00e9d\u00e9nek \u00e1tmeneti le\u00e1ll\u00edt\u00e1s\u00e1hoz nyomja le a Control billenty\u0171t."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "A ChromeVox be- vagy kikapcsol\u00e1s\u00e1hoz haszn\u00e1lja a Control + Alt + Z billenty\u0171parancsot."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "A ChromeVox-m\u00f3dos\u00edt\u00f3billenty\u0171"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "A ChromeVox szolg\u00e1ltat\u00e1sban a keres\u0151gomb a m\u00f3dos\u00edt\u00f3 billenty\u0171. A legt\u00f6bb ChromeVox-billenty\u0171parancs a keres\u0151gombbal kezd\u0151dik. A navig\u00e1ci\u00f3hoz a ny\u00edlbillenty\u0171ket is haszn\u00e1lnia kell."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "A Chromebookon a keres\u0151billenty\u0171 k\u00f6zvetlen\u00fcl a Shift billenty\u0171 felett tal\u00e1lhat\u00f3."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "Az \u00fatmutat\u00f3 sor\u00e1n b\u00e1rmelyik billenty\u0171t lenyomhatja annak nev\u00e9nek meghallgat\u00e1s\u00e1hoz."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Alapvet\u0151 navig\u00e1ci\u00f3"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "Az oldal elemei k\u00f6z\u00f6tti tov\u00e1bbl\u00e9p\u00e9shez nyomja le a Keres\u00e9s + jobbra ny\u00edl billenty\u0171kombin\u00e1ci\u00f3t, a visszal\u00e9p\u00e9shez pedig a Keres\u00e9s + balra ny\u00edl billenty\u0171kombin\u00e1ci\u00f3t. Ha a k\u00f6vetkez\u0151 sorra k\u00edv\u00e1n l\u00e9pni, nyomja le a Keres\u00e9s + a lefel\u00e9 ny\u00edl billenty\u0171kombin\u00e1ci\u00f3t. Az el\u0151z\u0151 sorra l\u00e9p\u00e9shez haszn\u00e1lja a Keres\u00e9s + a felfel\u00e9 ny\u00edl billenty\u0171kombin\u00e1ci\u00f3t. Ha olyan elemhez \u00e9r, amelyre r\u00e1 k\u00edv\u00e1n kattintani, nyomja le a Keres\u00e9s + sz\u00f3k\u00f6z billenty\u0171kombin\u00e1ci\u00f3t."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "A Keres\u00e9s + jobbra ny\u00edl billenty\u0171kombin\u00e1ci\u00f3t haszn\u00e1lva pr\u00f3b\u00e1lja megtal\u00e1lni a K\u00f6vetkez\u0151 gombot, majd nyomja le a Keres\u00e9s + sz\u00f3k\u00f6z billenty\u0171kombin\u00e1ci\u00f3t a r\u00e1kattint\u00e1shoz."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "Ugr\u00e1s parancsai"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Az egyes elemt\u00edpusok kihagy\u00e1s\u00e1hoz haszn\u00e1lja az ugr\u00f3parancsokat. A c\u00edmsorok k\u00f6z\u00f6tti el\u0151re ugr\u00e1shoz nyomja le a Keres\u00e9s + H, a visszaugr\u00e1shoz pedig a Keres\u00e9s + Shift + H billenty\u0171kombin\u00e1ci\u00f3t."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "Ez a m\u00e1sodik c\u00edmsor. L\u00e9pjen tov\u00e1bb; nyomja le a Keres\u00e9s+H vagy a Keres\u00e9s+Shift+H billenty\u0171parancsot"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "Ez az utols\u00f3 c\u00edmsor. Nyomja le a Keres\u00e9s+H billenty\u0171kombin\u00e1ci\u00f3t az els\u0151 c\u00edmsorra ugr\u00e1shoz, vagy a Keres\u00e9s+Shift+H-t az oldalon tal\u00e1lhat\u00f3 m\u00e1sodik c\u00edmsorra l\u00e9p\u00e9shez."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Parancsmen\u00fck"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "A ChromeVox \u00f6sszes parancs\u00e1nak \u00e9s billenty\u0171parancs\u00e1nak felfedez\u00e9s\u00e9hez nyomja le a Keres\u00e9s + \u201epont\u201d billenty\u0171kombin\u00e1ci\u00f3t, majd a ny\u00edlbillenty\u0171k seg\u00edts\u00e9g\u00e9vel navig\u00e1ljon a men\u00fck k\u00f6z\u00f6tt, v\u00e9g\u00fcl az Enter billenty\u0171vel aktiv\u00e1lja a parancsot. Ha vissza szeretne ide t\u00e9rni, nyomja le a Keres\u00e9s+O, majd a T gombot."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Hasznos Chrome-billenty\u0171parancsok"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "A k\u00f6vetkez\u0151 n\u00e9h\u00e1ny billenty\u0171parancs nem ChromeVox-parancs, de nagyon hasznosak, ha a lehet\u0151 legt\u00f6bbet szeretn\u00e9 kihozni a Chrome-b\u00f3l.\nA kattinthat\u00f3 elemek (p\u00e9ld\u00e1ul a gombok \u00e9s linkek) k\u00f6z\u00f6tti el\u0151re t\u00f6rt\u00e9n\u0151 navig\u00e1ci\u00f3hoz nyomja le a Tab billenty\u0171t. A visszafel\u00e9 t\u00f6rt\u00e9n\u0151 navig\u00e1l\u00e1shoz nyomja le a Shift + Tab billenty\u0171kombin\u00e1ci\u00f3t.\nA Chrome b\u00f6ng\u00e9sz\u0151 c\u00edms\u00e1vj\u00e1ba vagy m\u00e1s n\u00e9ven c\u00edm- \u00e9s keres\u0151s\u00e1vj\u00e1ba l\u00e9p\u00e9shez nyomja le a Control + L billenty\u0171kombin\u00e1ci\u00f3t.\nA megnyit\u00e1shoz \u00e9s egy \u00faj lap automatikus megnyit\u00e1s\u00e1hoz nyomja le a Control + T billenty\u0171kombin\u00e1ci\u00f3t. A kurzor a c\u00edm- \u00e9s keres\u0151s\u00e1vba ker\u00fcl.\nAz adott lap bez\u00e1r\u00e1s\u00e1hoz nyomja le a Control + W billenty\u0171kombin\u00e1ci\u00f3t.\nA megnyitott lapok k\u00f6z\u00f6tti el\u0151rel\u00e9p\u00e9shez haszn\u00e1lja a Control + Tab billenty\u0171kombin\u00e1ci\u00f3t.\nA Chrome b\u00f6ng\u00e9sz\u0151 men\u00fcj\u00e9nek megnyit\u00e1s\u00e1hoz nyomja le az Alt + F billenty\u0171kombin\u00e1ci\u00f3t."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "A k\u00e9perny\u0151 m\u00e1s r\u00e9szeihez, p\u00e9ld\u00e1ul az eszk\u00f6zt\u00e1rakhoz vagy a t\u00e1lc\u00e1hoz val\u00f3 ugr\u00e1shoz nyomja le a Control + \u201eel\u0151re\u201d billenty\u0171kombin\u00e1ci\u00f3t. A Chromebookokon az \u201eel\u0151re\u201d billenty\u0171 k\u00f6zvetlen\u00fcl a 2-es gomb felett tal\u00e1lhat\u00f3."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "Tov\u00e1bbi inform\u00e1ci\u00f3"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Gratul\u00e1lunk! Sikeresen elsaj\u00e1t\u00edtotta a ChromeVox haszn\u00e1lat\u00e1nak alapjait. Ne feledje, hogy a ChromeVox parancsmen\u00fcj\u00e9t b\u00e1rmikor megnyithatja a Keres\u00e9s+pont billenty\u0171kombin\u00e1ci\u00f3 lenyom\u00e1s\u00e1val. Ha m\u00e9g t\u00f6bbet szeretne megtudni a ChromeVox \u00e9s a Chrome OS haszn\u00e1lat\u00e1r\u00f3l, olvassa el az al\u00e1bbi cikkeket.\nHa v\u00e9gzett az \u00fatmutat\u00f3val, navig\u00e1ljon a ChromeVox seg\u00edts\u00e9g\u00e9vel a Bez\u00e1r\u00e1s gombhoz, \u00e9s kattintson r\u00e1."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "Sikeresen friss\u00edtett a ChromeVox 63-as verzi\u00f3j\u00e1ra"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "\u00c9rdekes m\u00f3dos\u00edt\u00e1sokat hajtottunk v\u00e9gre ebben az \u00faj kiad\u00e1sban; \u00edme az \u00fajdons\u00e1gok:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "A hagyom\u00e1nyos verzi\u00f3 elt\u00e1vol\u00edtva. A ChromeVox hagyom\u00e1nyos verzi\u00f3j\u00e1ra val\u00f3 v\u00e1lt\u00e1sra alkalmas billenty\u0171zetkapcsol\u00f3t elt\u00e1vol\u00edtottuk."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "Form\u00e1zott sz\u00f6veg t\u00e1mogat\u00e1sa. A ChromeVox m\u00e1r t\u00e1mogatja a form\u00e1zott sz\u00f6veget tartalmaz\u00f3 mez\u0151ket, bele\u00e9rtve az \u201eugr\u00e1s\u201d parancsokat, a Braille-kurzor ir\u00e1ny\u00edt\u00e1s\u00e1t, a kiv\u00e1laszt\u00e1st \u00e9s egyebeket."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Android-alkalmaz\u00e1sok Chrome-ra. Ha eszk\u00f6z\u00e9n telep\u00edtve van a Play \u00c1ruh\u00e1z, el\u0151zetes betekint\u00e9st kaphat a ChromeVox Android-alkalmaz\u00e1sokkal val\u00f3 haszn\u00e1lat\u00e1ba. T\u00f6ltse le a Google Chrome Canary verzi\u00f3j\u00e1t a Play \u00c1ruh\u00e1zb\u00f3l, \u00e9s pr\u00f3b\u00e1lja ki a k\u00eds\u00e9rleti t\u00e1mogat\u00e1st."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Mint mindig, a Keres\u00e9s+a billenty\u0171kombin\u00e1ci\u00f3, majd az i billenty\u0171 lenyom\u00e1sa ut\u00e1n k\u00fcldhet nek\u00fcnk k\u00f6zvetlen visszajelz\u00e9st. K\u00edv\u00e1ncsian v\u00e1rjuk v\u00e9lem\u00e9ny\u00e9t."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "ChromeVox-parancsreferencia"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Chromebook-billenty\u0171parancsok"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "A Chromebook-\u00e9rint\u0151k\u00e9perny\u0151 kiseg\u00edt\u0151 lehet\u0151s\u00e9geinek haszn\u00e1lata"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "elfoglalt"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "elfoglalt"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "alapbe\u00e1ll\u00edt\u00e1s"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "alapbe\u00e1ll\u00edt\u00e1s"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "Hangok"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "A ChromeVox hangok haszn\u00e1lat\u00e1val t\u00e1j\u00e9koztat a l\u00e9nyeges \u00e9s a kieg\u00e9sz\u00edt\u0151 inform\u00e1ci\u00f3kr\u00f3l. Ha megtanulja az egyes hangok jelent\u00e9s\u00e9t, gyorsabban navig\u00e1lhat azok alapj\u00e1n. Ha megszokja a visszajelz\u00e9seket, kikapcsolhatja a b\u0151v\u00edtett hangos le\u00edr\u00e1sokat, \u00e9s a hangok alapj\u00e1n megtudhatja az oldallal kapcsolatos l\u00e9nyeges inform\u00e1ci\u00f3kat. Megmutatjuk a hangok \u00e9s jelent\u00e9s\u00fck teljes list\u00e1j\u00e1t."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Mod\u00e1lis riaszt\u00e1s"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Nem mod\u00e1lis riaszt\u00e1s"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Gomb"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "Nem bejel\u00f6lt n\u00e9gyzet"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "Bejel\u00f6lt n\u00e9gyzet"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Szerkeszthet\u0151 sz\u00f6vegmez\u0151"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "\u00c9rv\u00e9nytelen billenty\u0171 lenyom\u00e1sa"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Link"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "Listamez\u0151 vagy kombin\u00e1lt mez\u0151"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "Weboldal bet\u00f6lt\u00e9se folyamatban"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "El\u0151ugr\u00f3 gomb"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "Cs\u00faszka"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Csomagol\u00e1s az elej\u00e9t\u0151l a v\u00e9g\u00e9ig vagy a v\u00e9g\u00e9t\u0151l az elej\u00e9ig egy oldalon, p\u00e1rbesz\u00e9dpanelen vagy m\u00e1s t\u00e1rol\u00f3n bel\u00fcl"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "K\u00e9perny\u0151 s\u00f6t\u00e9t\u00edt\u00e9se"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "K\u00e9perny\u0151 s\u00f6t\u00e9t\u00edt\u00e9s\u00e9nek visszavon\u00e1sa"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Sz\u00f6vegfelolvas\u00e1s kikapcsol\u00e1sa"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Sz\u00f6vegfelolvas\u00e1s bekapcsol\u00e1sa"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "Sz\u00f6vegfelolvas\u00e1s be- \u00e9s kikapcsol\u00e1sa"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "V\u00e1lt\u00e1s 6 \u00e9s 8 pontos Braille-t\u00e1bl\u00e1zat k\u00f6z\u00f6tt"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "Helyes\u00edr\u00e1si hiba kezd\u0151dik"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Helyes\u00edr\u00e1si hiba v\u00e9ge"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "Nyelvtani hiba kezd\u0151dik"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Nyelvtani hiba v\u00e9ge"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "Sz\u00f6veges egyez\u00e9s kezd\u0151dik"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Sz\u00f6veges egyez\u00e9s v\u00e9ge"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "F\u00e9lk\u00f6v\u00e9r kezd\u0151dik"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "F\u00e9lk\u00f6v\u00e9r v\u00e9ge"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "D\u0151lt bet\u0171 kezd\u0151dik"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "D\u0151lt bet\u0171 v\u00e9ge"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "Al\u00e1h\u00faz\u00e1s kezd\u0151dik"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Al\u00e1h\u00faz\u00e1s v\u00e9ge"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "\u00c1th\u00faz\u00e1s kezd\u0151dik"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "\u00c1th\u00faz\u00e1s v\u00e9ge"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "Link eleje"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Link v\u00e9ge"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "Enged\u00e9lyezze a k\u00e9perny\u0151-billenty\u0171zetet az \u00e1llapott\u00e1lca kiseg\u00edt\u0151 lehet\u0151s\u00e9geiben, hogy haszn\u00e1lhassa a b\u0151v\u00edtett braille-parancsokat."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "Nincs c\u00edm"
+  }
+}

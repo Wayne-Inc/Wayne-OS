@@ -1,0 +1,4 @@
+Memasang kemas kini...
+
+Jangan matikan peranti. Peranti ini akan mengebut semula secara automatik
+apabila kemas kini selesai.

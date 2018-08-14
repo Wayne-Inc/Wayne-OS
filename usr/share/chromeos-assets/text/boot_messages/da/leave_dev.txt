@@ -1,0 +1,4 @@
+﻿
+Dit system blev sidst startet i udviklertilstand.
+Vender tilbage til tilstanden Normal (Bekræftet)...
+Systemet vil blive genstartet, når ændringen er fuldført.

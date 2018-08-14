@@ -1,0 +1,4 @@
+﻿
+System uruchomił się ostatnio w trybie programisty.
+Wracam do trybu normalnego (zweryfikowanego)...
+Po zakończeniu system uruchomi się ponownie.

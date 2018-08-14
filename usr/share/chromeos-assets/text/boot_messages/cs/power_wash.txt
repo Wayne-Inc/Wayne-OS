@@ -1,0 +1,4 @@
+﻿
+Probíhá čištění Powerwash...
+
+Čištění Powerwash se provádí, když systém objeví kritické chyby nebo když zařízení resetujete. Systém Chrome OS bude resetován a za chvíli budete moci znovu pracovat.

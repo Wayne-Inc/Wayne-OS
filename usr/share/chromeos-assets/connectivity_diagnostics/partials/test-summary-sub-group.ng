@@ -1,0 +1,21 @@
+<div class="view-title">{{testSummarySubGroupCtrl.displayTestGroupName}} {{testSummarySubGroupCtrl.i18nService.getMsg('tests_summary_sub_group_tests_title')}}</div>
+<div ng-show="testSummarySubGroupCtrl.testGroupResults.length < 1">
+  {{testSummarySubGroupCtrl.i18nService.getMsg('tests_summary_sub_group_no_results')}}
+</div>
+<div ng-repeat="testResult in testSummarySubGroupCtrl.testGroupResults track by $index">
+  <div class="flex-container test-result-list-item"
+      ng-click="testSummarySubGroupCtrl.navigateToTestLogs($event, testResult.getTestId())"
+      ng-keyup="testSummarySubGroupCtrl.navigateToTestLogs($event, testResult.getTestId())"
+      tabindex="{{ (100 + $index) }}">
+    <div ng-class="{'test-status-icon': true}"
+          class="{{testSummarySubGroupCtrl.getTestStatusClassname($index)}}">
+    </div>
+    <div>
+      {{testResult.getTitle()}}
+    </div>
+    <div class="test-status-text arrow-more">&nbsp;</div>
+  </div>
+</div>
+<div style="padding-top: 20px; font-style: italic;" ng-show="testSummarySubGroupCtrl.areTestsRunning() && testSummarySubGroupCtrl.testGroupResults.length > 0">
+  {{testSummarySubGroupCtrl.i18nService.getMsg('tests_summary_sub_group_tests_still_running')}}
+</div>

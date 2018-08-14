@@ -1,0 +1,5 @@
+Ocorreu um erro e a atualização não teve êxito.
+
+Pode ter de recuperar o dispositivo. Para mais informações acerca da recuperação do SO Chrome, aceda a https://www.google.com/chromeos/recovery
+
+Prima a barra de espaço para reiniciar.

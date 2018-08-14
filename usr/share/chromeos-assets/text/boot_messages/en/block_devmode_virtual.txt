@@ -1,0 +1,5 @@
+The device owner has disabled Developer Mode for this device. Please ask
+the device owner to remove the restriction if you want to use Developer
+Mode.
+
+The system will reboot in Verified Mode.

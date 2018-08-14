@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "gu"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox - Chrome \u0aa8\u0ac7 \u0ab5\u0ac9\u0a87\u0ab8 \u0a86\u0aaa\u0ab5\u0acb"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "\u0aad\u0abe\u0ab7\u0aa3 \u0ab0\u0acb\u0a95\u0acb"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "\u0ab8\u0acd\u0a9f\u0ac0\u0a95\u0ac0 \u0aae\u0acb\u0aa1 \u0ab8\u0a95\u0acd\u0ab7\u0aae/\u0a85\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "\u0aaa\u0acd\u0ab0\u0ac0\u0aab\u0abf\u0a95\u0acd\u0ab8 \u0a95\u0ac0"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0aab\u0acb\u0a95\u0ab8 \u0a95\u0ab0\u0ab5\u0abe \u0aaf\u0acb\u0a97\u0acd\u0aaf \u0a86\u0a87\u0a9f\u0aae \u0aaa\u0ab0 \u0a9c\u0aae\u0acd\u0aaa \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac0 \u0aab\u0acb\u0a95\u0ab8 \u0a95\u0ab0\u0ab5\u0abe \u0aaf\u0acb\u0a97\u0acd\u0aaf \u0a86\u0a87\u0a9f\u0aae \u0aaa\u0ab0 \u0a9c\u0aae\u0acd\u0aaa \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "\u0aaa\u0abe\u0a9b\u0ab3 \u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0a9f \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "\u0a86\u0a97\u0ab3 \u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0a9f \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "\u0aa1\u0abe\u0aac\u0ac7 \u0a96\u0ab8\u0ac7\u0aa1\u0acb"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "\u0a9c\u0aae\u0aa3\u0ac0 \u0aac\u0abe\u0a9c\u0ac1\u0a8f \u0a96\u0ab8\u0ac7\u0aa1\u0acb"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "\u0ab8\u0aa4\u0aa4 \u0ab5\u0abe\u0a82\u0a9a\u0aa8 \u0aa6\u0ab0\u0aae\u0abf\u0aaf\u0abe\u0aa8 \u0aaa\u0abe\u0a9b\u0ab3 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "\u0ab8\u0aa4\u0aa4 \u0ab5\u0abe\u0a82\u0a9a\u0aa8 \u0aa6\u0ab0\u0aae\u0abf\u0aaf\u0abe\u0aa8 \u0a86\u0a97\u0ab3 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "\u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0ab6\u0aa8 \u0a97\u0acd\u0ab0\u0ac7\u0aa8\u0acd\u0aaf\u0ac1\u0ab2\u0ac7\u0ab0\u0abf\u0a9f\u0ac0 \u0a98\u0a9f\u0abe\u0aa1\u0acb"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "\u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0ab6\u0aa8 \u0a97\u0acd\u0ab0\u0ac7\u0aa8\u0acd\u0aaf\u0ac1\u0ab2\u0ac7\u0ab0\u0abf\u0a9f\u0ac0 \u0ab5\u0aa7\u0abe\u0ab0\u0acb"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0a86\u0a87\u0a9f\u0aae \u0aaa\u0ab0 \u0aaa\u0a97\u0ab2\u0abe \u0ab2\u0acb"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0a86\u0a87\u0a9f\u0aae \u0aaa\u0ab0 \u0a95\u0acd\u0ab2\u0abf\u0a95 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "\u0ab2\u0abf\u0a82\u0a95\u0aa8\u0ac0 \u0aaa\u0abe\u0a9b\u0ab3\u0aa8\u0abe\u0a82 URL \u0aa8\u0ac0 \u0a98\u0acb\u0ab7\u0aa3\u0abe \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aa8\u0abe \u0ab6\u0ac0\u0ab0\u0acd\u0ab7\u0a95\u0aa8\u0ac0 \u0a98\u0acb\u0ab7\u0aa3\u0abe \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aa8\u0abe URL \u0aa8\u0ac0 \u0a98\u0acb\u0ab7\u0aa3\u0abe \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0ab8\u0acd\u0aa5\u0abe\u0aa8\u0aa5\u0ac0 \u0ab5\u0abe\u0a82\u0a9a\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0ab6\u0ab0\u0ac2 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "ChromeVox \u0aae\u0ac7\u0aa8\u0ac2 \u0a96\u0acb\u0ab2\u0acb"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "ChromeVox \u0ab8\u0ab9\u0abe\u0aaf \u0a9b\u0ac1\u0aaa\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "\u0a86\u0aa6\u0ac7\u0ab6\u0acb\u0aa8\u0ac0 \u0ab8\u0aae\u0ac0\u0a95\u0acd\u0ab7\u0abe \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0a89\u0aaa\u0ab0 \u0a85\u0aa5\u0ab5\u0abe \u0aa8\u0ac0\u0a9a\u0ac7 \u0aa6\u0aac\u0abe\u0ab5\u0acb, \u0ab8\u0a95\u0acd\u0ab0\u0abf\u0aaf \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 enter \u0aa6\u0aac\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "ChromeVox \u0a9f\u0acd\u0aaf\u0ac2\u0a9f\u0acb\u0ab0\u0abf\u0aaf\u0ab2 \u0a96\u0acb\u0ab2\u0acb"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "ChromeVox \u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aae\u0abe\u0a82 \u0ab6\u0acb\u0aa7\u0acb"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "\u0ab5\u0abf\u0a95\u0ab2\u0acd\u0aaa\u0acb\u0aa8\u0ac1\u0a82 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0 \u0a96\u0acb\u0ab2\u0acb"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "\u0a9c\u0abe\u0aa3\u0acb \u0aae\u0acb\u0aa1 \u0a96\u0acb\u0ab2\u0acb"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "\u0aad\u0abe\u0ab7\u0aa3\u0aa8\u0acb \u0ab0\u0ac7\u0a9f \u0a98\u0a9f\u0abe\u0aa1\u0acb"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "\u0aad\u0abe\u0ab7\u0aa3\u0aa8\u0acb \u0ab0\u0ac7\u0a9f \u0ab5\u0aa7\u0abe\u0ab0\u0acb"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "\u0aaa\u0abf\u0a9a \u0a98\u0a9f\u0abe\u0aa1\u0acb"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "\u0aaa\u0abf\u0a9a \u0ab5\u0aa7\u0abe\u0ab0\u0acb"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "\u0aad\u0abe\u0ab7\u0aa3\u0aa8\u0acb \u0a85\u0ab5\u0abe\u0a9c \u0aa7\u0ac0\u0aae\u0acb \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "\u0aad\u0abe\u0ab7\u0aa3\u0aa8\u0acb \u0a85\u0ab5\u0abe\u0a9c \u0ab5\u0aa7\u0abe\u0ab0\u0acb"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "\u0aab\u0acb\u0ab0\u0acd\u0aae\u0acd\u0ab8\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0aac\u0aa4\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0abe\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0aac\u0aa4\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "\u0ab2\u0abf\u0a82\u0a95\u0acd\u0ab8\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0aac\u0aa4\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0acb\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0aac\u0aa4\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "\u0ab8\u0acd\u0aa5\u0ab3\u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0\u0a93\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0aac\u0aa4\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac0 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0a95\u0ac9\u0ab2\u0aae"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0a95\u0ac9\u0ab2\u0aae"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0acb\u0ab7\u0aa8\u0abe \u0aae\u0aa5\u0abe\u0ab3\u0abe\u0aa8\u0ac0 \u0a98\u0acb\u0ab7\u0aa3\u0abe \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0a95\u0acb\u0ab7\u0aa8\u0abe \u0ab8\u0ab9\u0a97\u0ac1\u0aa3\u0abe\u0a82\u0a95\u0acb\u0aa8\u0ac0 \u0a98\u0acb\u0ab7\u0aa3\u0abe \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0acb\u0ab7\u0aa8\u0abe \u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf \u0aae\u0aa5\u0abe\u0ab3\u0abe \u0aaa\u0ab0 \u0a8f\u0a95 \u0a85\u0aa8\u0ac1\u0aae\u0abe\u0aa8 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0acb\u0ab7\u0aa8\u0abe \u0a95\u0ac9\u0ab2\u0aae \u0aae\u0aa5\u0abe\u0ab3\u0abe \u0aaa\u0ab0 \u0a8f\u0a95 \u0a85\u0aa8\u0ac1\u0aae\u0abe\u0aa8 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0aa8\u0ac0 \u0ab6\u0ab0\u0ac2\u0a86\u0aa4 \u0aaa\u0ab0 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0aa8\u0ac0 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4\u0abf \u0aaa\u0ab0 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf\u0aa8\u0ac0 \u0ab6\u0ab0\u0ac2\u0a86\u0aa4 \u0aaa\u0ab0 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf\u0aa8\u0ac0 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4\u0abf \u0aaa\u0ab0 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0ac9\u0ab2\u0aae\u0aa8\u0ac0 \u0ab6\u0ab0\u0ac2\u0a86\u0aa4 \u0aaa\u0ab0 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0ac9\u0ab2\u0aae\u0aa8\u0ac0 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4\u0abf \u0aaa\u0ab0 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0acd\u0aa4\u0ab0 1 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0acd\u0aa4\u0ab0 1 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0acd\u0aa4\u0ab0 2 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0acd\u0aa4\u0ab0 2 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0acd\u0aa4\u0ab0 3 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0abe\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 3 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0acd\u0aa4\u0ab0 4 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0abe\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 4 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0acd\u0aa4\u0ab0 5 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0abe\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 5 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0acd\u0aa4\u0ab0 6 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 6 \u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a95\u0ac9\u0a82\u0aac\u0acb \u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a95\u0acb\u0aae\u0acd\u0aac\u0acb \u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0aa8\u0aaf\u0acb\u0a97\u0acd\u0aaf \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0aa8\u0aaf\u0acb\u0a97\u0acd\u0aaf \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aab\u0acb\u0ab0\u0acd\u0aae \u0aab\u0ac0\u0ab2\u0acd\u0aa1"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0aab\u0acb\u0ab0\u0acd\u0aae \u0aab\u0ac0\u0ab2\u0acd\u0aa1"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a97\u0acd\u0ab0\u0abe\u0aab\u0abf\u0a95"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a97\u0acd\u0ab0\u0abe\u0aab\u0abf\u0a95"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0a86\u0a87\u0a9f\u0aae"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0a86\u0a87\u0a9f\u0aae"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "\u0a86\u0a97\u0ab2\u0acb \u0a9c\u0aae\u0acd\u0aaa"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a9c\u0aae\u0acd\u0aaa"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a97\u0aa3\u0abf\u0aa4"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a97\u0aa3\u0abf\u0aa4"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aae\u0ac0\u0aa1\u0abf\u0aaf\u0abe"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0aae\u0ac0\u0aa1\u0abf\u0aaf\u0abe"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aac\u0acd\u0ab2\u0acb\u0a95 \u0a95\u0acd\u0ab5\u0acb\u0a9f"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0aac\u0acd\u0ab2\u0acb\u0a95 \u0a95\u0acd\u0ab5\u0acb\u0a9f"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab0\u0ac7\u0aa1\u0abf\u0aaf\u0acb \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0ab0\u0ac7\u0aa1\u0abf\u0a93 \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0acd\u0ab2\u0abe\u0a87\u0aa1\u0ab0"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0ab2\u0abe\u0a87\u0aa1\u0ab0"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0aae\u0ac1\u0ab2\u0abe\u0a95\u0abe\u0aa4 \u0ab2\u0ac0\u0aa7\u0ac7\u0ab2\u0ac0 \u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "\u0a85\u0a97\u0abe\u0a89\u0aa8\u0ac1\u0a82 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac0 \u0aae\u0ac1\u0ab2\u0abe\u0a95\u0abe\u0aa4 \u0ab2\u0ac0\u0aa7\u0ac7\u0ab2\u0ac0 \u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "\u0a86\u0a97\u0ab2\u0acb \u0a9a\u0ac7\u0a95\u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a9a\u0ac7\u0a95\u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab8\u0acd\u0aa5\u0ab3\u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab8\u0acd\u0aa5\u0ab3\u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "\u0aac\u0ac7\u0aa8\u0acd\u0a9a\u0aae\u0abe\u0ab0\u0acd\u0a95 \u0aa1\u0ac0\u0aac\u0a97 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0abf\u0aa8\u0ac1\u0a82 \u0ab8\u0a82\u0a95\u0acd\u0ab7\u0abf\u0aaa\u0acd\u0aa4 \u0ab5\u0ab0\u0acd\u0aa3\u0aa8 \u0a9c\u0abe\u0ab9\u0ac7\u0ab0 \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0abf\u0aa8\u0ac1\u0a82 \u0ab8\u0a82\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0ab5\u0ab0\u0acd\u0aa3\u0aa8 \u0a9c\u0abe\u0ab9\u0ac7\u0ab0 \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "ChromeVox \u0ab5\u0abf\u0a95\u0ab2\u0acd\u0aaa\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "\u0ab5\u0ab0\u0acd\u0a9a\u0acd\u0aaf\u0ac1\u0a85\u0ab2 \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "\u0aa4\u0abe\u0a9c\u0ac1\u0a82 \u0a95\u0ab0\u0ac0 \u0ab6\u0a95\u0abe\u0aaf \u0aa4\u0ac7\u0ab5\u0abe \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8\u0aa8\u0abe \u0a86\u0a89\u0a9f\u0aaa\u0ac1\u0a9f\u0aa8\u0ac0 \u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0a95\u0ac3\u0aa4\u0abf\n\u00a0      \u0ab8\u0acd\u0a95\u0acd\u0ab0\u0ac0\u0aa8\u0aa8\u0ac0 \u0a9f\u0acb\u0a9a\u0ac7 \u0a86\u0ab5\u0ac7\u0ab2 ChromeVox \u0aaa\u0ac5\u0aa8\u0ab2\u0aae\u0abe\u0a82 \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "\u0ab2\u0abe\u0a87\u0aa8\u0acb:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "\u0aa6\u0ab0\u0ac7\u0a95 \u0ab2\u0abe\u0a87\u0aa8\u0aae\u0abe\u0a82\u0aa8\u0abe\u0a82 \u0a95\u0acb\u0ab7\u0acb\u0aa8\u0ac0 \u0ab8\u0a82\u0a96\u0acd\u0aaf\u0abe:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8 \u0ab6\u0ac8\u0ab2\u0ac0 \u0a87\u0aa8\u0acd\u0a9f\u0ab0\u0ab2\u0ac0\u0ab5 \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8 \u0ab6\u0ac8\u0ab2\u0ac0 \"\u0ab8\u0abe\u0aa5\u0ac7-\u0ab8\u0abe\u0aa5\u0ac7\" \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8 \u0ab6\u0ac8\u0ab2\u0ac0\u0aa8\u0ac7 \u0a87\u0aa8\u0acd\u0a9f\u0ab0\u0ab2\u0ac0\u0ab5 \u0aaa\u0ab0 \u0aac\u0aa6\u0ab2\u0acb."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "\u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8 \u0ab6\u0ac8\u0ab2\u0ac0\u0aa8\u0ac7 \"\u0ab8\u0abe\u0aa5\u0ac7-\u0ab8\u0abe\u0aa5\u0ac7\" \u0aaa\u0ab0 \u0aac\u0aa6\u0ab2\u0acb."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "ChromeVox \u0aa8\u0ac7 \u0a95\u0ab8\u0acd\u0a9f\u0aae\u0abe\u0a87\u0a9d \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0aa8\u0ac0\u0a9a\u0ac7\u0aa8\u0abe \u0ab5\u0abf\u0a95\u0ab2\u0acd\u0aaa\u0acb\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb. \u0aab\u0ac7\u0ab0\u0aab\u0abe\u0ab0\u0acb \u0aa4\u0ab0\u0aa4\u0a9c \u0aaa\u0acd\u0ab0\u0aad\u0abe\u0ab5\u0ac0 \u0aa5\u0abe\u0aaf \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "\u0aab\u0ac9\u0a95\u0ab8 \u0aac\u0aa6\u0ab2\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0aae\u0abe\u0a89\u0ab8\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "\u0a85\u0aa8\u0acd\u0aaf \u0aae\u0abe\u0ab9\u0abf\u0aa4\u0ac0\u0aa8\u0ac0 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82 \u0a86\u0a87\u0a9f\u0aae\u0aa8\u0acb \u0ab8\u0a82\u0aa6\u0ab0\u0acd\u0aad \u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0abf\u0aa4 \u0a95\u0ab0\u0acb (\u0a9c\u0ac7\u0aae \u0a95\u0ac7 \u0aa4\u0ac7\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae)."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "\u0ab5\u0abf\u0ab6\u0abf\u0ab7\u0acd\u0a9f \u0ab8\u0abe\u0a87\u0a9f\u0acd\u0ab8 (\u0a9c\u0ac7\u0aae \u0a95\u0ac7 Google \u0ab6\u0acb\u0aa7)\u0aa8\u0ac7 \u0ab5\u0abf\u0ab8\u0acd\u0aa4\u0ac3\u0aa4 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aac\u0acb\u0a9d \u0ab5\u0ab0\u0acd\u0aa3\u0aa8\u0acb \u0ab8\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "\u0aaa\u0ac3\u0ab7\u0acd\u0aa0 \u0ab2\u0acb\u0aa1 \u0aa5\u0a88 \u0a9c\u0abe\u0aaf \u0aa4\u0ac7 \u0aaa\u0a9b\u0ac0 \u0a86\u0aaa\u0aae\u0ac7\u0ab3\u0ac7 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aa8\u0ac7 \u0ab5\u0abe\u0a82\u0a9a\u0acb."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "\u0a91\u0aa1\u0abf\u0a93 \u0a9a\u0ab2\u0abe\u0ab5\u0aa4\u0ac0 \u0ab5\u0a96\u0aa4\u0ac7\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "ChromeVox \u0aac\u0acb\u0ab2\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0ac1\u0a82 \u0ab9\u0acb\u0aaf \u0aa4\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0aaa\u0aa3 \u0ab8\u0abe\u0aae\u0abe\u0aa8\u0acd\u0aaf \u0a85\u0ab5\u0abe\u0a9c\u0ac7 \u0a9a\u0ab2\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "ChromeVox \u0aac\u0acb\u0ab2\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0ac1\u0a82 \u0ab9\u0acb\u0aaf \u0aa4\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0a93\u0a9b\u0abe \u0a85\u0ab5\u0abe\u0a9c\u0ac7 \u0a9a\u0ab2\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "ChromeVox \u0aac\u0acb\u0ab2\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0ac1\u0a82 \u0ab9\u0acb\u0aaf \u0aa4\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0aaa\u0acd\u0ab2\u0ac7\u0aac\u0ac7\u0a95 \u0aa5\u0acb\u0aad\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0abf\u0aa4 \u0a95\u0ab0\u0aa4\u0ac0 \u0ab5\u0a96\u0aa4\u0ac7 \u0a95\u0ab0\u0acd\u0ab8\u0ab0\u0aa8\u0ac7 \u0a85\u0a95\u0acd\u0ab7\u0ab0\u0acb\u0aa8\u0ac0 \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0ab0\u0abe\u0a96\u0acb (\u0a9c\u0ac7\u0aae \u0a95\u0ac7 Mac OS X)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "\u0a85\u0ab5\u0abe\u0a9c\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0ab5\u0ac9\u0a87\u0ab8 \u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0acb:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "8 \u0aa1\u0acb\u0a9f \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0aaa\u0ab0 \u0ab8\u0acd\u0ab5\u0abf\u0a9a \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "6 \u0aa1\u0acb\u0a9f \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0aaa\u0ab0 \u0ab8\u0acd\u0ab5\u0abf\u0a9a \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "6-\u0aa1\u0ac9\u0a9f \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0acb:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, \u0a97\u0acd\u0ab0\u0ac7\u0aa1 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), \u0a97\u0acd\u0ab0\u0ac7\u0aa1 $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "8-\u0aa1\u0ac9\u0a9f \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0acb:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "\u0ab6\u0aac\u0acd\u0aa6 \u0ab5\u0ac0\u0a82\u0a9f\u0acb \u0ab8\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "\u0a95\u0ac0\u0aac\u0acb\u0ab0\u0acd\u0aa1 \u0ab6\u0acb\u0ab0\u0acd\u0a9f\u0a95\u0a9f\u0acd\u0ab8"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "\u0aa8\u0ac0\u0a9a\u0ac7\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf\u0aae\u0abe\u0a82\u0aa5\u0ac0 \u0a8f\u0a95 \u0ab5\u0abf\u0a95\u0ab2\u0acd\u0aaa \u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0ac0\u0aa8\u0ac7 \u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0a95\u0ac0\u0aae\u0ac5\u0aaa \u0aac\u0aa6\u0ab2\u0acb."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0a95\u0ac0\u0aae\u0ac7\u0aaa\u0aa8\u0ac7 \u0aab\u0ab0\u0ac0\u0aa5\u0ac0 \u0ab8\u0ac7\u0a9f \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "\u0ab5\u0abe\u0ab0\u0a82\u0ab5\u0abe\u0ab0 \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0aa5\u0aa4\u0abe\u0a82 \u0a95\u0aae\u0abe\u0aa8\u0acd\u0aa1\u0acd\u0ab8 \u0aae\u0abe\u0a9f\u0ac7\u0aa8\u0abe\u0a82 \u0a95\u0ac0\u0aac\u0acb\u0ab0\u0acd\u0aa1 \u0ab6\u0ac9\u0ab0\u0acd\u0a9f\u0a95\u0a9f\u0acd\u0ab8\u0aa8\u0ac7 \u0aa8\u0ac0\u0a9a\u0ac7\u0aa8\u0ac0 \u0a85\u0aa8\u0ac1\u0ab0\u0ac2\u0aaa \u0aab\u0ac0\u0ab2\u0acd\u0aa1\u0acd\u0ab8\u0aae\u0abe\u0a82 \u0ab2\u0a96\u0ac0\u0aa8\u0ac7 \u0aa4\u0ac7\u0aae\u0aa8\u0ac7 \u0a95\u0ab8\u0acd\u0a9f\u0aae\u0abe\u0a87\u0a9d \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "\u0ab8\u0a82\u0ab6\u0acb\u0aa7\u0a95 \u0a95\u0ac0\u0a9d"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "ChromeVox \u0ab8\u0a82\u0ab6\u0acb\u0aa7\u0a95 \u0a95\u0ac0"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "ChromeVox \u0a9c\u0abe\u0aa3\u0acb \u0aae\u0acb\u0aa1"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "\u0a95\u0acb\u0a88\u0aaa\u0aa3 \u0a95\u0ac0\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0a9c\u0abe\u0aa3\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0aa4\u0ac7\u0aa8\u0ac7 \u0aa6\u0aac\u0abe\u0ab5\u0acb. Ctrl+W \u0aa6\u0aac\u0abe\u0ab5\u0ab5\u0abe\u0aa5\u0ac0 \u0a9c\u0abe\u0aa3\u0acb \u0aae\u0acb\u0aa1 \u0aac\u0a82\u0aa7 \u0aa5\u0a87 \u0a9c\u0ab6\u0ac7."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "\u0a9f\u0ac7\u0aac \u0aac\u0aa8\u0abe\u0ab5\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$, \u0a9f\u0ac7\u0aac",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "\u0ab5\u0abf\u0a82\u0aa1\u0acb $1$ \u0a9f\u0ac7\u0aac",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "\u0a9b\u0ac1\u0aaa\u0ac0 \u0ab5\u0abf\u0a82\u0aa1\u0acb $1$ \u0a9f\u0ac7\u0aac",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "$1$ \u0aae\u0ac7\u0aa8\u0ac2 \u0a96\u0acb\u0ab2\u0acd\u0aaf\u0ac1\u0a82",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "\u0aae\u0ac7\u0aa8\u0ac2 \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "$1$ \u0a9a\u0ac7\u0a95\u0aac\u0acb\u0a95\u0acd\u0ab8 \u0a9a\u0ac7\u0a95 \u0a95\u0ab0\u0acd\u0aaf\u0acb \u0a9b\u0ac7",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "\u0aa4\u0aaa\u0abe\u0ab8\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, \u0a9a\u0ac7\u0a95\u0aac\u0ac9\u0a95\u0acd\u0ab8 \u0a9a\u0ac7\u0a95 \u0a95\u0ab0\u0ac7\u0ab2\u0acb \u0aa8\u0aa5\u0ac0",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "\u0a9a\u0ac5\u0a95 \u0a95\u0ab0\u0ac7\u0ab2\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$, \u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0ab0\u0acb",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$, \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0acb",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, \u0ab0\u0ac7\u0aa1\u0abf\u0aaf\u0acb \u0aac\u0a9f\u0aa8 \u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0ac7\u0ab2"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, \u0ab0\u0ac7\u0aa1\u0abf\u0aaf\u0acb \u0aac\u0a9f\u0aa8 \u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0ac7\u0ab2\u0ac1\u0a82",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6 \u0aa8 \u0a95\u0ab0\u0ac7\u0ab2"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, \u0aae\u0ac7\u0aa8\u0ac2",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, \u0aae\u0ac7\u0aa8\u0ac2 \u0a86\u0a87\u0a9f\u0aae",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, \u0aae\u0ac7\u0aa8\u0ac2 \u0a86\u0a87\u0a9f\u0aae, \u0aaa\u0ac7\u0a9f\u0abe\u0aae\u0ac7\u0aa8\u0ac2 \u0ab8\u0abe\u0aa5\u0ac7",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, \u0ab5\u0abf\u0a82\u0aa1\u0acb",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aac\u0ac9\u0a95\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aac\u0acb\u0a95\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, \u0aaa\u0abe\u0ab8\u0ab5\u0ab0\u0acd\u0aa1 \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aac\u0ac9\u0a95\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, \u0aaa\u0abe\u0ab8\u0ab5\u0ab0\u0acd\u0aa1 \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aac\u0ac9\u0a95\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, \u0aac\u0a9f\u0aa8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, \u0a95\u0acb\u0aae\u0acd\u0aac\u0acb \u0aac\u0ac9\u0a95\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, \u0a95\u0ac9\u0aae\u0acd\u0aac\u0acb \u0aac\u0ac9\u0a95\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, \u0ab8\u0ac2\u0a9a\u0abf \u0aac\u0ac9\u0a95\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, \u0ab8\u0ac2\u0a9a\u0abf \u0aac\u0ac9\u0a95\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, \u0ab2\u0abf\u0a82\u0a95",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, \u0a9f\u0ac5\u0aac",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "$1$ $2$ \u0ab8\u0acd\u0ab2\u0abe\u0a87\u0aa1\u0ab0",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", \u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", \u0aaa\u0ab8\u0a82\u0aa6 \u0aa8 \u0a95\u0ab0\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $2$ \u0aae\u0abe\u0a82\u0aa5\u0ac0 $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " \u0ab8\u0acd\u0aa4\u0ab0 $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "\u0aa6\u0ab0 $1$ \u0a9f\u0a95\u0abe",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "\u0aaa\u0ac0\u0a9a $1$ \u0a9f\u0a95\u0abe",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "\u0ab5\u0ac9\u0ab2\u0acd\u0aaf\u0ac1\u0aae $1$ \u0a9f\u0a95\u0abe",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "\u0ab8\u0a82\u0ab5\u0abe\u0aa6\u0aae\u0abe\u0a82\u0aa5\u0ac0 \u0aac\u0ab9\u0abe\u0ab0 \u0aa5\u0aaf\u0abe."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "$1$ \u0aa5\u0ac0 \u0aac\u0ab9\u0abe\u0ab0 \u0aa8\u0ac0\u0a95\u0ab3\u0acd\u0aaf\u0abe\u0a82 \u0a9b\u0ac7.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "\u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0ac7\u0ab2\u0acb \u0ab8\u0a82\u0ab5\u0abe\u0aa6"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "\u0aa6\u0ac2\u0ab0 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "\u0ab8\u0acd\u0a9f\u0ac0\u0a95\u0ac0 \u0aae\u0acb\u0aa1 \u0ab8\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acd\u0aaf\u0acb"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "\u0ab8\u0acd\u0a9f\u0ac0\u0a95\u0ac0 \u0aae\u0acb\u0aa1 \u0a85\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acd\u0aaf\u0acb"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "\u0a95\u0ac0\u0aac\u0acb\u0ab0\u0acd\u0aa1 \u0ab8\u0ab9\u0abe\u0aaf"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "\u0ab8\u0a82\u0aa6\u0ab0\u0acd\u0aad \u0aae\u0ac7\u0aa8\u0ac2"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "$1$ \u0ab8\u0ac2\u0a9a\u0abf.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "\u0aac\u0acd\u0ab0\u0abe\u0a89\u0a9d \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, \u0a85\u0aa5\u0ab5\u0abe \u0ab6\u0acb\u0aa7\u0aa8\u0ac7 \u0ab2\u0a96\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0a89\u0aaa\u0ab0 \u0a85\u0aa8\u0ac7 \u0aa8\u0ac0\u0a9a\u0ac7 \u0a8f\u0ab0\u0acb \u0a95\u0ac0\u0a9d\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "\u0aac\u0ab9\u0abe\u0ab0"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "\u0a95\u0acb\u0ab7\u0aa8\u0ac0 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4\u0abf."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "URL \u0aae\u0ab3\u0acd\u0aaf\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0a9b\u0acb\u0aa1\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe\u0a82 \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "\u0a97\u0acd\u0ab0\u0ac0\u0aa1 \u0a9b\u0acb\u0aa1\u0ab5\u0ac0."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0aa8\u0ac0 \u0a85\u0a82\u0aa6\u0ab0"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0aae\u0ab3\u0acd\u0aaf\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0aa8\u0ac0 \u0a85\u0a82\u0aa6\u0ab0 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0aae\u0acb\u0aa1\u0aae\u0abe\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "\u0aa8\u0ac0\u0a9a\u0ac7 \u0a95\u0acb\u0ab7 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "\u0a89\u0aaa\u0ab0 \u0a95\u0acb\u0ab7 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "\u0a9c\u0aae\u0aa3\u0ac0 \u0aac\u0abe\u0a9c\u0ac1\u0a8f \u0a95\u0acb\u0ab7 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "\u0aa1\u0abe\u0aac\u0ac0 \u0aac\u0abe\u0a9c\u0ac1\u0a8f \u0a95\u0acb\u0ab7 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "\u0a96\u0abe\u0ab2\u0ac0 \u0a95\u0acb\u0ab7."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "\u0ab8\u0acd\u0aaa\u0ac7\u0aa8 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf \u0ab9\u0ac7\u0aa1\u0ab0:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf \u0ab9\u0ac7\u0aa1\u0ab0 \u0a96\u0abe\u0ab2\u0ac0 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "\u0a95\u0ac9\u0ab2\u0aae \u0ab9\u0ac7\u0aa1\u0ab0:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "\u0a95\u0ac9\u0ab2\u0aae \u0ab9\u0ac7\u0aa1\u0ab0 \u0a96\u0abe\u0ab2\u0ac0 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "\u0ab9\u0ac7\u0aa1\u0ab0\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "\u0ab9\u0ac7\u0aa1\u0ab0\u0acd\u0ab8 \u0a96\u0abe\u0ab2\u0ac0 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "$2$ \u0aae\u0abe\u0a82\u0aa5\u0ac0 $1$ \u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf, $4$ \u0aae\u0abe\u0a82\u0aa5\u0ac0 $3$ \u0a95\u0ac9\u0ab2\u0aae",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 $1$, $3$ \u0aaa\u0acd\u0ab0\u0aae\u0abe\u0aa3\u0ac7 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 $1$ $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf $1$ \u0a95\u0ac9\u0ab2\u0aae $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf$1$\u0a95\u0ac9\u0ab2\u0aae$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a9a\u0ac7\u0a95\u0aac\u0ac9\u0a95\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1\u0a82 \u0a9a\u0ac7\u0a95\u0aac\u0ac9\u0a95\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0aa8\u0aaf\u0acb\u0a97\u0acd\u0aaf \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aab\u0ac0\u0ab2\u0acd\u0aa1 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0aa8\u0aaf\u0acb\u0a97\u0acd\u0aaf \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aab\u0ac0\u0ab2\u0acd\u0aa1 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 1 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1 \u0ab8\u0acd\u0aa4\u0ab0 2 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 2 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1 \u0ab8\u0acd\u0aa4\u0ab0 2 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 3 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1 \u0ab8\u0acd\u0aa4\u0ab0 3 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 4 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1 \u0ab8\u0acd\u0aa4\u0ab0 4 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 5 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1 \u0ab8\u0acd\u0aa4\u0ab0 5 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0acd\u0aa4\u0ab0 6 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1 \u0ab8\u0acd\u0aa4\u0ab0 6 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0a86\u0a87\u0a9f\u0aae \u0aa8\u0aa5\u0ac0 \u0aa4\u0ac7 \u0a95\u0acb\u0a88 \u0ab2\u0abf\u0a82\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0a86\u0a87\u0a9f\u0aae \u0aa8\u0aa5\u0ac0 \u0aa4\u0ac7 \u0a95\u0acb\u0a88 \u0ab2\u0abf\u0a82\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a8f\u0aa8\u0acd\u0a95\u0ab0 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a8f\u0aa8\u0acd\u0a95\u0ab0 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab2\u0abf\u0a82\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab2\u0abf\u0a82\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "\u0a95\u0acb\u0a88 \u0a86\u0a97\u0ab2\u0ac0 \u0aae\u0ac1\u0ab2\u0abe\u0a95\u0abe\u0aa4 \u0ab2\u0ac0\u0aa7\u0ac7\u0ab2\u0ac0 \u0ab2\u0abf\u0a82\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "\u0a95\u0acb\u0a88 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac0 \u0aae\u0ac1\u0ab2\u0abe\u0a95\u0abe\u0aa4 \u0ab2\u0ac0\u0aa7\u0ac7\u0ab2\u0ac0 \u0ab2\u0abf\u0a82\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "\u0a95\u0acb\u0a88 \u0a86\u0a97\u0ab2\u0ac0 \u0a97\u0aa3\u0abf\u0aa4 \u0aaa\u0aa6\u0abe\u0ab5\u0ab2\u0abf \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "\u0a95\u0acb\u0a88 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac0 \u0a97\u0aa3\u0abf\u0aa4 \u0aaa\u0aa6\u0abe\u0ab5\u0ab2\u0abf \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "\u0a95\u0acb\u0a88 \u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aae\u0ac0\u0aa1\u0abf\u0aaf\u0abe \u0ab5\u0abf\u0a9c\u0ac7\u0a9f \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "\u0a95\u0acb\u0a88 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0aae\u0ac0\u0aa1\u0abf\u0aaf\u0abe \u0ab5\u0abf\u0a9c\u0ac7\u0a9f \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0a86\u0a87\u0a9f\u0aae \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab8\u0ac2\u0a9a\u0abf \u0a86\u0a87\u0a9f\u0aae \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aac\u0acd\u0ab2\u0ac9\u0a95\u0a95\u0acd\u0ab5\u0ac9\u0a9f \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0aac\u0acd\u0ab2\u0ac9\u0a95\u0a95\u0acd\u0ab5\u0acb\u0a9f \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0aab\u0acb\u0ab0\u0acd\u0aae \u0aab\u0ac0\u0ab2\u0acd\u0aa1 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0aab\u0acb\u0ab0\u0acd\u0aae \u0aab\u0ac0\u0ab2\u0acd\u0aa1 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a9c\u0aae\u0acd\u0aaa \u0aac\u0abf\u0a82\u0aa6\u0ac1 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a9c\u0aae\u0acd\u0aaa \u0aac\u0abf\u0a82\u0aa6\u0ac1 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 ARIA \u0ab8\u0acd\u0aa5\u0ab3 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0\u0a93 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 ARIA \u0ab8\u0acd\u0aa5\u0ab3 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0\u0a93 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a95\u0acb\u0aae\u0acd\u0aac\u0acb \u0aac\u0ac9\u0a95\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a95\u0acb\u0aae\u0acd\u0aac\u0acb \u0aac\u0ac9\u0a95\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aac\u0a9f\u0aa8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1\u0a82 \u0aac\u0a9f\u0aa8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a97\u0acd\u0ab0\u0abe\u0aab\u0abf\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0a97\u0acd\u0ab0\u0abe\u0aab\u0abf\u0a95 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab8\u0acd\u0ab2\u0abe\u0a87\u0aa1\u0ab0 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0ab8\u0acd\u0ab2\u0abe\u0a87\u0aa1\u0ab0 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0a93\u0aa1\u0abf\u0a93 \u0aac\u0a9f\u0aa8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1\u0a82 \u0ab0\u0ac7\u0aa1\u0abf\u0aaf\u0acb \u0aac\u0a9f\u0aa8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "\u0a95\u0acb\u0a88 \u0a86\u0a97\u0ab2\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "\u0a95\u0acb\u0a88 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "\u0a95\u0acb\u0a88 \u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0aa3 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "\u0a95\u0acb\u0a88 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1\u0a82 \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0aa3 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "\u0a95\u0acd\u0ab2\u0abf\u0a95 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "\u0aa1\u0aac\u0ab2 \u0a95\u0acd\u0ab2\u0abf\u0a95 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "\u0a95\u0acb\u0a87 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "\u0ab2\u0abf\u0a82\u0a95\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "\u0a95\u0acb\u0a87 \u0aab\u0acb\u0ab0\u0acd\u0aae\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "\u0a95\u0acb\u0a88 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0acb \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "ARIA \u0ab8\u0acd\u0aa5\u0ab3 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0\u0a93 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "\u0a9c\u0aae\u0acd\u0aaa\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$2$ \u0aae\u0abe\u0a82\u0aa5\u0ac0 $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "\u0aa4\u0ac7\u0aae\u0abe\u0a82 \u0ab8\u0aac\u0aae\u0ac7\u0aa8\u0ac2 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "\u0aa4\u0ac7\u0aae\u0abe\u0a82 \u0aaa\u0ac9\u0aaa \u0a85\u0aaa \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+\u0aaa\u0ac9\u0aaa\u0a85\u0aaa"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "\u0aa8\u0acd\u0aaf\u0ac2\u0aa8\u0aa4\u0aae $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "\u0aa8\u0acd\u0aaf\u0ac2\u0aa8\u0aa4\u0aae: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "\u0aae\u0ab9\u0aa4\u0acd\u0aa4\u0aae $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "\u0aae\u0ab9\u0aa4\u0acd\u0aa4\u0aae: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "\u0a9a\u0ac7\u0aa4\u0ab5\u0aa3\u0ac0"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "alrt"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "\u0a9a\u0ac7\u0aa4\u0ab5\u0aa3\u0ac0 \u0ab8\u0a82\u0ab5\u0abe\u0aa6"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "alrt dlg"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "\u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "btn"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "\u0a9a\u0ac7\u0a95 \u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "\u0a95\u0ac9\u0aae\u0acd\u0aac\u0acb \u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "\u0ab8\u0a82\u0ab5\u0abe\u0aa6"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "dlg"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "\u0a97\u0acd\u0ab0\u0abf\u0aa1"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "grd"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "\u0a95\u0acb\u0ab7"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf $1$ \u0a95\u0ac9\u0ab2\u0aae $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "\u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "lnk"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "\u0ab8\u0ac2\u0a9a\u0abf \u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "lstbx"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "\u0ab2\u0ac9\u0a97"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "\u0ab2\u0ac9\u0a97"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "\u0aae\u0abe\u0ab0\u0acd\u0a95\u0ac0"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "\u0aae\u0abe\u0ab0\u0acd\u0a95\u0ac0"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "\u0aae\u0ac7\u0aa8\u0ac2"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "mnu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "\u0aae\u0ac7\u0aa8\u0ac2 \u0aac\u0abe\u0ab0"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "\u0aae\u0ac7\u0aa8\u0ac2 \u0a86\u0a87\u0a9f\u0aae"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "\u0aae\u0ac7\u0aa8\u0ac2 \u0a86\u0a87\u0a9f\u0aae \u0a9a\u0ac7\u0a95 \u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "\u0aae\u0ac7\u0aa8\u0ac2 \u0a86\u0a87\u0a9f\u0aae \u0ab0\u0ac7\u0aa1\u0abf\u0aaf\u0acb \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "\u0aaa\u0acb\u0aaa-\u0a85\u0aaa \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "\u0aaa\u0acd\u0ab0\u0acb\u0a97\u0acd\u0ab0\u0ac7\u0ab8 \u0aac\u0abe\u0ab0"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "\u0aaa\u0acd\u0ab0\u0a97\u0aa4\u0abf \u0ab8\u0ac2\u0a9a\u0a95"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "\u0ab0\u0ac7\u0aa1\u0abf\u0a93 \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "\u0ab0\u0ac7\u0aa1\u0abf\u0a93 \u0aac\u0a9f\u0aa8 \u0a9c\u0ac2\u0aa5"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "\u0ab8\u0acd\u0a95\u0acd\u0ab0\u0acb\u0ab2 \u0aac\u0abe\u0ab0"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "\u0ab8\u0acd\u0ab2\u0abe\u0a87\u0aa1\u0ab0"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "sldr"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "\u0ab8\u0acd\u0aaa\u0abf\u0aa8 \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "\u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0abf"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "sts"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "\u0a9f\u0ac5\u0aac"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "\u0a9f\u0ac7\u0aac"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "\u0a9f\u0ac7\u0aac\u0ab2"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "\u0a9f\u0ac7\u0aac \u0ab8\u0ac2\u0a9a\u0abf"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "\u0a9f\u0ac7\u0aac \u0aaa\u0ac7\u0aa8\u0ab2"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "\u0a9f\u0abe\u0a87\u0aae\u0ab0"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "tmr"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "\u0a9f\u0ac1\u0ab2 \u0aac\u0abe\u0ab0"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "\u0ab8\u0abe\u0aa7\u0aa8 \u0a9f\u0abf\u0aaa"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "\u0a9f\u0acd\u0ab0\u0ac0"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "\u0a9f\u0acd\u0ab0\u0ac0"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "\u0a9f\u0acd\u0ab0\u0ac0 \u0a86\u0a87\u0a9f\u0aae"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "\u0ab2\u0ac7\u0a96"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "\u0ab2\u0ac7\u0a96"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "\u0a8d\u0aaa\u0acd\u0ab2\u0abf\u0a95\u0ac7\u0ab6\u0aa8"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "app"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "\u0aac\u0ac7\u0aa8\u0ab0"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "bnr"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "\u0a95\u0ac9\u0ab2\u0aae \u0ab9\u0ac7\u0aa1\u0ab0"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "\u0aaa\u0ac2\u0ab0\u0a95"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "\u0aaa\u0ac2\u0ab0\u0a95"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "\u0ab8\u0abe\u0aae\u0a97\u0acd\u0ab0\u0ac0 \u0aae\u0abe\u0ab9\u0abf\u0aa4\u0ac0"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "\u0ab5\u0acd\u0aaf\u0abe\u0a96\u0acd\u0aaf\u0abe"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "def"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "\u0aa8\u0abf\u0ab0\u0acd\u0aa6\u0ac7\u0ab6\u0abf\u0a95\u0abe"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "dir"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "\u0aa6\u0ab8\u0acd\u0aa4\u0abe\u0ab5\u0ac7\u0a9c"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "doc"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "\u0aab\u0acb\u0ab0\u0acd\u0aae"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "\u0aab\u0acb\u0ab0\u0acd\u0aae"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "\u0a9c\u0ac2\u0aa5"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "grp"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "\u0a9b\u0aac\u0ac0"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "img"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "\u0ab8\u0ac2\u0a9a\u0abf"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "\u0ab8\u0ac2\u0a9a\u0abf \u0a86\u0a87\u0a9f\u0aae"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "\u0aae\u0ac1\u0a96\u0acd\u0aaf"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "\u0aae\u0ac1\u0a96\u0acd\u0aaf"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "\u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0ab6\u0aa8"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "\u0aa8\u0acb\u0a82\u0aa7"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "\u0aa8\u0acb\u0a82\u0aa7"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "\u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "rgn"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf \u0ab9\u0ac7\u0aa1\u0ab0"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "\u0ab6\u0acb\u0aa7\u0acb"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "search"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "\u0ab5\u0abf\u0aad\u0abe\u0a9c\u0a95"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "\u0aae\u0ac0\u0a9f\u0ab0"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "\u0aae\u0ac0\u0a9f\u0ab0"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "\u0ab8\u0acd\u0ab5\u0aa4\u0a83\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0a87\u0aa8\u0ab2\u0abe\u0a87\u0aa8"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "\u0ab8\u0acd\u0ab5\u0aa4\u0a83\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0ab8\u0ac2\u0a9a\u0abf"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "\u0ab8\u0acd\u0ab5\u0aa4\u0a83\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0a87\u0aa8\u0ab2\u0abe\u0a87\u0aa8 \u0a85\u0aa8\u0ac7 \u0ab8\u0ac2\u0a9a\u0abf"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "\u0aa4\u0aaa\u0abe\u0ab8\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "\u0aa4\u0aaa\u0abe\u0ab8\u0ac7\u0ab2\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "\u0a86\u0a82\u0ab6\u0abf\u0a95 \u0ab0\u0ac2\u0aaa\u0ac7 \u0aa4\u0aaa\u0abe\u0ab8\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "\u0a85\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "\u0ab5\u0abf\u0ab8\u0acd\u0aa4\u0ac3\u0aa4 \u0a95\u0ab0\u0ac7\u0ab2"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "\u0ab8\u0a82\u0a95\u0ac1\u0a9a\u0abf\u0aa4"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "\u0a85\u0aae\u0abe\u0aa8\u0acd\u0aaf \u0a87\u0aa8\u0aaa\u0ac1\u0a9f"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "\u0ab5\u0acd\u0aaf\u0abe\u0a95\u0ab0\u0aa3\u0aa8\u0ac0 \u0aad\u0ac2\u0ab2 \u0aae\u0ab3\u0ac0"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "\u0ab5\u0acd\u0aaf\u0abe\u0a95\u0ab0\u0aa3\u0aa8\u0ac0 \u0aad\u0ac2\u0ab2"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "\u0a9c\u0acb\u0aa1\u0aa3\u0ac0\u0aa8\u0ac0 \u0aad\u0ac2\u0ab2 \u0aae\u0ab3\u0ac0"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "\u0a96\u0acb\u0a9f\u0ac0\u0a9c\u0acb\u0aa1\u0aa3\u0ac0\u0ab5\u0abe\u0ab3\u0ac1\u0a82"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "\u0aac\u0ab9\u0ac1 \u0ab0\u0ac7\u0a96\u0abe"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "\u0aac\u0ab9\u0ac1 \u0aaa\u0ab8\u0a82\u0aa6"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "multsel"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "\u0aa6\u0aac\u0abe\u0aaf\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "\u0aa6\u0aac\u0abe\u0aaf\u0ac7\u0ab2\u0ac1\u0a82 \u0aa8\u0ab9\u0ac0\u0a82"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "\u0a86\u0a82\u0ab6\u0abf\u0a95 \u0ab0\u0ac2\u0aaa\u0ac7 \u0aa6\u0aac\u0abe\u0aaf\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "\u0aab\u0a95\u0acd\u0aa4 \u0ab5\u0abe\u0a82\u0a9a\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "\u0aab\u0a95\u0acd\u0aa4 \u0ab5\u0abe\u0a82\u0a9a\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "\u0a86\u0ab5\u0ab6\u0acd\u0aaf\u0a95"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0ac7\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0ac7\u0ab2\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "\u0aae\u0ac1\u0ab2\u0abe\u0a95\u0abe\u0aa4 \u0ab2\u0ac0\u0aa7\u0ac7\u0ab2\u0ac0 \u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "\u0aae\u0ac1\u0ab2\u0abe\u0a95\u0abe\u0aa4 \u0ab2\u0ac0\u0aa7\u0ac7\u0ab2"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "\u0ab8\u0ac2\u0a9a\u0abf \u0a86\u0a87\u0a9f\u0aae"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "\u0a95\u0acd\u0ab0\u0aae\u0abe\u0a82\u0a95\u0abf\u0aa4 \u0ab8\u0ac2\u0a9a\u0abf"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "\u0a95\u0ac9\u0aae\u0acd\u0aac\u0acb \u0aac\u0ac9\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tbl"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "\u0ab8\u0ac2\u0a9a\u0abf"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "\u0ab8\u0ac7\u0a95\u0acd\u0ab6\u0aa8"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "\u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0ab6\u0aa8"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "\u0ab2\u0ac7\u0a96"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "\u0ab2\u0ac7\u0a96"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "\u0a8f\u0a95 \u0aa4\u0ab0\u0aab"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "aside"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "\u0aae\u0aa5\u0abe\u0ab3\u0abe \u0a9c\u0ac2\u0aa5"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "\u0ab9\u0ac7\u0aa1\u0ab0"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "hdr"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "\u0aab\u0ac2\u0a9f\u0ab0"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "ftr"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "\u0ab8\u0aae\u0aaf"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "\u0aae\u0abe\u0ab0\u0acd\u0a95 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "\u0aae\u0abe\u0ab0\u0acd\u0a95"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "\u0ab5\u0abf\u0aa1\u0abf\u0a93"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "\u0ab5\u0abf\u0aa1\u0abf\u0a93"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "\u0a91\u0aa1\u0abf\u0a93"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "\u0a91\u0aa1\u0abf\u0a93"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "\u0ab0\u0a82\u0a97 \u0a9a\u0ac2\u0a82\u0a9f\u0aa8\u0abe\u0ab0"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "\u0ab0\u0a82\u0a97 \u0a9a\u0ac2\u0a82\u0a9f\u0aa8\u0abe\u0ab0"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "\u0aa4\u0abe\u0ab0\u0ac0\u0a96 \u0ab8\u0aae\u0aaf\u0aa8\u0ac1\u0a82 \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0aa3"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "\u0aa4\u0abe\u0ab0\u0ac0\u0a96 \u0ab8\u0aae\u0aaf"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "\u0ab8\u0aae\u0aaf \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0aa3"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "\u0ab8\u0aae\u0aaf"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "\u0aa4\u0abe\u0ab0\u0ac0\u0a96 \u0ab8\u0aae\u0aaf\u0aa8\u0ac1\u0a82 \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0aa3"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "\u0aa4\u0abe\u0ab0\u0ac0\u0a96 \u0ab8\u0aae\u0aaf"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "\u0aa4\u0abe\u0ab0\u0ac0\u0a96\u0aa8\u0ac1\u0a82 \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0aa3"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "\u0aa4\u0abe\u0ab0\u0ac0\u0a96"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f, \u0a87\u0aae\u0ac7\u0a87\u0ab2 \u0a8f\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ac0 \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0abf\u0aa4 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "8 \u0aa1\u0acb\u0a9f\u0aa8\u0ac1\u0a82 @ \u0aac\u0aa8\u0abe\u0ab5\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "\u0aab\u0abe\u0a87\u0ab2 \u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "\u0aab\u0abe\u0a87\u0ab2"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "\u0aae\u0ab9\u0abf\u0aa8\u0abe\u0aa8\u0ac1\u0a82 \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0aa3"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "\u0aae\u0ab9\u0abf\u0aa8\u0acb"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "\u0aab\u0a95\u0acd\u0aa4 \u0a86\u0a82\u0a95\u0aa1\u0abe\u0a95\u0ac0\u0aaf \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f\u0aa8\u0ac7 \u0a9c \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0abf\u0aa4 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "\u0aaa\u0abe\u0ab8\u0ab5\u0ab0\u0acd\u0aa1 \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0aa8 \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "\u0ab0\u0ac0\u0ab8\u0ac7\u0a9f \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "\u0aab\u0ab0\u0ac0\u0aa5\u0ac0 \u0ab8\u0ac7\u0a9f \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f, \u0ab6\u0acb\u0aa7 \u0a8f\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ac0 \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0abf\u0aa4 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0abf\u0aa4 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f, URL \u0a8f\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ac0 \u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0abf\u0aa4 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "8\u0aa1\u0acb\u0a9f\u0aa8\u0ac0 url \u0aac\u0aa8\u0abe\u0ab5\u0ac0"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "\u0ab5\u0ab0\u0acd\u0ab7\u0aa8\u0abe \u0ab8\u0aaa\u0acd\u0aa4\u0abe\u0ab9\u0aa8\u0ac1\u0a82 \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0aa3"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "\u0a85\u0aa0\u0ab5\u0abe\u0aa1\u0abf\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "\u0a86\u0a82\u0aa4\u0ab0\u0abf\u0a95 \u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "\u0a96\u0abe\u0ab2\u0ac0"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "\u0a9c\u0a97\u0acd\u0aaf\u0abe"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "$1$ \u0a86\u0a87\u0a9f\u0aae \u0ab8\u0abe\u0aa5\u0ac7",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "\u0a86 \u0ab8\u0abe\u0aa5\u0ac7\u0aa8\u0ac0 {COUNT,plural, =1{# \u0a86\u0a87\u0a9f\u0aae}one{# \u0a86\u0a87\u0a9f\u0aae}other{# \u0a86\u0a87\u0a9f\u0aae}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}one{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "\u0ab8\u0aac\u0aae\u0ac7\u0aa8\u0ac2 \u0ab8\u0abe"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "\u0aa4\u0ac7\u0aae\u0abe\u0a82 \u0aaa\u0ac9\u0aaa\u0a85\u0aaa \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "\u0aa4\u0ac7\u0aae\u0abe\u0a82 \u0aaa\u0ac9\u0aaa\u0a85\u0aaa \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "$2$ \u0a86\u0a87\u0a9f\u0aae\u0acd\u0ab8 \u0ab8\u0abe\u0aa5\u0ac7\u0aa8\u0acb $1$ \u0ab8\u0a82\u0a97\u0acd\u0ab0\u0ab9",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "\u0a9c\u0a97\u0acd\u0aaf\u0abe"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Backspace"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "\u0a9f\u0ac5\u0aac"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "\u0aa1\u0abe\u0aac\u0ac1\u0a82"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Up"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "\u0a9c\u0aae\u0aa3\u0ac7"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Down"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4 \u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "ChromeVox \u0aa8\u0ac7 \u0ab8\u0a95\u0acd\u0ab0\u0abf\u0aaf \u0a85\u0aa5\u0ab5\u0abe \u0aa8\u0abf\u0ab7\u0acd\u0a95\u0acd\u0ab0\u0abf\u0aaf \u0aaa\u0ab0 \u0a9f\u0ac9\u0a97\u0ab2 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "ChromeVox \u0ab9\u0ab5\u0ac7 \u0aa8\u0abf\u0ab7\u0acd\u0a95\u0acd\u0ab0\u0abf\u0aaf \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "ChromeVox \u0a95\u0acd\u0ab2\u0abe\u0ab8\u0abf\u0a95 \u0a9f\u0acb\u0a97\u0ab2 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "\u0aaa\u0abe\u0a9b\u0ab2\u0abe \u0aad\u0abf\u0aa8\u0acd\u0aa8 \u0a98\u0a9f\u0a95."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0aad\u0abf\u0aa8\u0acd\u0aa8 \u0a98\u0a9f\u0a95."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "\u0aaa\u0abe\u0a9b\u0ab2\u0abe \u0ab8\u0aae\u0abe\u0aa8 \u0a98\u0a9f\u0a95."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0ab8\u0aae\u0abe\u0aa8 \u0a98\u0a9f\u0a95."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "\u0a95\u0acb\u0a88 \u0ab5\u0aa7\u0ac1 \u0ab8\u0aae\u0abe\u0aa8 \u0a98\u0a9f\u0a95\u0acb \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "\u0a95\u0acb\u0a88 \u0ab5\u0aa7\u0ac1 \u0a85\u0ab2\u0a97 \u0a98\u0a9f\u0a95\u0acb \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "\u0ab8\u0aae\u0ac2\u0ab9 \u0a85\u0aa8\u0acd\u0ab5\u0ac7\u0ab7\u0aa3 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "\u0a9c\u0ac2\u0aa5\u0acb\u0aa8\u0ac1\u0a82 \u0a85\u0aa8\u0acd\u0ab5\u0ac7\u0ab7\u0aa3 \u0aa5\u0a87 \u0ab0\u0ab9\u0acd\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "\u0a91\u0aac\u0acd\u0a9c\u0ac7\u0a95\u0acd\u0a9f"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "\u0a9c\u0ac2\u0aa5"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "\u0a9f\u0ac7\u0aac\u0ab2"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "\u0a95\u0ac9\u0ab2\u0aae"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "\u0a95\u0ac9\u0ab2\u0aae"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "\u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "\u0a95\u0ac9\u0ab2\u0aae"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4 ML \u0a9f\u0acd\u0ab0\u0ac0"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4 ML \u0ab2\u0ac7\u0a86\u0a89\u0a9f"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4 ML \u0a9f\u0acb\u0a95\u0aa8"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4 ML \u0ab2\u0ac0\u0aab"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "\u0ab5\u0abf\u0a9d\u0acd\u0aaf\u0ac2\u0ab2"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "\u0a95\u0ab8\u0acd\u0a9f\u0aae"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "\u0ab2\u0abe\u0a87\u0aa8"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "\u0ab5\u0abe\u0a95\u0acd\u0aaf"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "\u0ab6\u0aac\u0acd\u0aa6"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "\u0a85\u0a95\u0acd\u0ab7\u0ab0"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "\u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aae\u0abe\u0a82 \u0ab6\u0acb\u0aa7\u0acb."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "\u0ab6\u0acb\u0aa7 \u0a95\u0acd\u0ab5\u0ac7\u0ab0\u0ac0 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "\u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aae\u0abe\u0a82 \u0ab6\u0acb\u0aa7\u0aa5\u0ac0 \u0aac\u0ab9\u0abe\u0ab0 \u0a95\u0abe\u0aa2\u0acd\u0aaf\u0abe\u0a82"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "\u0ab5\u0aa7\u0ac1 \u0aaa\u0ab0\u0abf\u0aa3\u0abe\u0aae\u0acb \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "\u0ab8\u0a82\u0ab6\u0acb\u0aa7\u0a95 \u0a95\u0ac0\u0a9d"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "ChromeVox \u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0ab6\u0aa8\u0acd"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "\u0aae\u0abe\u0ab9\u0abf\u0aa4\u0ac0"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "\u0ab8\u0ab9\u0abe\u0aaf \u0a86\u0aa6\u0ac7\u0ab6\u0acb"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "\u0aad\u0abe\u0ab7\u0aa3\u0aa8\u0ac7 \u0aa8\u0abf\u0aaf\u0a82\u0aa4\u0acd\u0ab0\u0abf\u0aa4 \u0a95\u0ab0\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0ac1\u0a82 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "\u0ab5\u0abf\u0ab9\u0a82\u0a97\u0abe\u0ab5\u0ab2\u0acb\u0a95\u0aa8"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0acb"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "\u0a9c\u0a82\u0aaa \u0a86\u0aa6\u0ac7\u0ab6\u0acb"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "\u0ab5\u0abf\u0a95\u0abe\u0ab8\u0a95\u0ab0\u0acd\u0aa4\u0abe"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "\u0a95\u0acd\u0ab2\u0abe\u0ab8\u0abf\u0a95 \u0a95\u0ac0\u0aae\u0ac5\u0aaa"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "\u0a86\u0a97\u0ab2\u0acb \u0a95\u0ac0\u0aae\u0ac7\u0aaa"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "\u0ab8\u0aaa\u0abe\u0a9f \u0a95\u0abf\u0aae\u0ac7\u0aaa"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "\u0aaa\u0acd\u0ab0\u0abe\u0aaf\u0acb\u0a97\u0abf\u0a95 \u0a95\u0abf\u0aae\u0ac7\u0aaa"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "TTS \u0ab2\u0acb\u0a97\u0abf\u0a82\u0a97\u0aa8\u0ac7 \u0ab8\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0ab0\u0a82\u0aad \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0 \u0a86 \u0a9b\u0ac7 "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0ab0\u0a82\u0aad \u0a95\u0ab0\u0acb \u0a85\u0aa5\u0ab5\u0abe \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "$1$ \u0a95\u0ac9\u0aaa\u0abf \u0a95\u0ab0\u0acb.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "$1$ \u0a95\u0abe\u0aaa\u0acb.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "$1$ \u0aaa\u0ac7\u0ab8\u0acd\u0a9f \u0a95\u0ab0\u0acb.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0ac7\u0ab2"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6 \u0aa8 \u0a95\u0ab0\u0ac7\u0ab2"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0\u0aae\u0abe\u0a82 \u0a89\u0aae\u0ac7\u0ab0\u0abe\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0\u0aae\u0abe\u0a82\u0aa5\u0ac0 \u0aa6\u0ac2\u0ab0 \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "\u0aaa\u0a9b\u0ac0"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "\u0a86\u0aa8\u0abe \u0aa6\u0acd\u0ab5\u0abe\u0ab0\u0abe \u0a85\u0aa8\u0ac1\u0ab8\u0ab0\u0abe\u0aaf\u0ac7\u0ab2"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "ChromeVox \u0ab8\u0a82\u0ab6\u0acb\u0aa7\u0a95"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "$1$ \u0aaa\u0ab9\u0ac7\u0ab2\u0ac7\u0aa5\u0ac0 \u0a9c \u0a8f\u0a95 \u0a95\u0aae\u0abe\u0aa8\u0acd\u0aa1\u0aa8\u0ac7 \u0ab8\u0acb\u0a82\u0aaa\u0ac7\u0ab2\u0ac0 \u0a9b\u0ac7.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4\u0aae\u0abe\u0a82 \u0aa8\u0ab9\u0ac0\u0a82"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "AM PM"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "\u0a95\u0ab2\u0abe\u0a95"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "\u0aae\u0abf\u0aa8\u0abf\u0a9f"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "\u0ab8\u0ac7\u0a95\u0a82\u0aa1"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "\u0aae\u0ac0\u0ab2\u0ac0\u0ab8\u0ac7\u0a95\u0aa8\u0acd\u0aa1"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "AM"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "PM"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "\u0a85\u0aa0\u0ab5\u0abe\u0aa1\u0abf\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "\u0a9c\u0abe\u0aa8\u0acd\u0aaf\u0ac1\u0a86\u0ab0\u0ac0"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "\u0aab\u0ac7\u0aac\u0acd\u0ab0\u0ac1\u0a86\u0ab0\u0ac0"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "\u0aae\u0abe\u0ab0\u0acd\u0a9a"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "\u0a8f\u0aaa\u0acd\u0ab0\u0abf\u0ab2"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "\u0aae\u0ac7"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "\u0a9c\u0ac2\u0aa8"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "\u0a9c\u0ac1\u0ab2\u0abe\u0a88"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "\u0a91\u0a97\u0ab8\u0acd\u0a9f"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "\u0ab8\u0aaa\u0acd\u0a9f\u0ac7\u0aae\u0acd\u0aac\u0ab0"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "\u0a93\u0a95\u0acd\u0a9f\u0acb\u0aac\u0ab0"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "\u0aa8\u0ab5\u0ac7\u0aae\u0acd\u0aac\u0ab0"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "\u0aa1\u0abf\u0ab8\u0ac7\u0aae\u0acd\u0aac\u0ab0"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "\u0a95\u0acb\u0a88 \u0ab5\u0abf\u0ab0\u0abe\u0aae\u0a9a\u0abf\u0ab9\u0acd\u0aa8 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "\u0a95\u0ac7\u0a9f\u0ab2\u0abe\u0a95 \u0ab5\u0abf\u0ab0\u0abe\u0aae\u0a9a\u0abf\u0ab9\u0acd\u0aa8"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "\u0aa4\u0aae\u0abe\u0aae \u0ab5\u0abf\u0ab0\u0abe\u0aae\u0a9a\u0abf\u0ab9\u0acd\u0aa8"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "\u0ab8\u0acd\u0ab5\u0ac0\u0a95\u0abe\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 enter \u0a85\u0aa5\u0ab5\u0abe \u0ab0\u0aa6 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 escape, \u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aae\u0abe\u0a9f\u0ac7 \u0aa8\u0ac0\u0a9a\u0ac7 \u0a85\u0aa8\u0ac7 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0aae\u0abe\u0a9f\u0ac7 \u0a89\u0aaa\u0ab0 \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "\u0a95\u0acd\u0ab2\u0abf\u0a95 \u0a95\u0ab0\u0ac0 \u0ab6\u0a95\u0abe\u0aaf \u0aa4\u0ac7\u0ab5\u0abe"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0acb \u0a85\u0a95\u0acd\u0ab7\u0ab0"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "\u0a86\u0a97\u0ab2\u0acb \u0a85\u0a95\u0acd\u0ab7\u0ab0"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0acb \u0ab6\u0aac\u0acd\u0aa6"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "\u0a86\u0a97\u0ab2\u0acb \u0ab6\u0aac\u0acd\u0aa6"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82 \u0ab5\u0abe\u0a95\u0acd\u0aaf"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0ab5\u0abe\u0a95\u0acd\u0aaf"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac0 \u0ab0\u0ac7\u0a96\u0abe \u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac0 \u0ab0\u0ac7\u0a96\u0abe"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0acb \u0a91\u0aac\u0acd\u0a9c\u0ac7\u0a95\u0acd\u0a9f"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "\u0a86\u0a97\u0ab2\u0acb \u0a91\u0aac\u0acd\u0a9c\u0ac7\u0a95\u0acd\u0a9f"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac1\u0a82 \u0a9c\u0ac2\u0aa5"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0a9c\u0ac2\u0aa5"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "\u0ab8\u0acd\u0aa5\u0ab3\u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "\u0a95\u0acb\u0a88 \u0ab8\u0a82\u0ab6\u0acb\u0aa7\u0a95 \u0aa6\u0aac\u0abe\u0ab5\u0abe\u0aaf\u0ac1\u0a82 \u0aa8\u0aa5\u0ac0; \u0a95\u0ac3\u0aaa\u0abe \u0a95\u0ab0\u0ac0\u0aa8\u0ac7 \u0aa6\u0aac\u0abe\u0ab5\u0acb \u0a85\u0aa8\u0ac7 \u0a8f\u0a95 \u0a85\u0aa5\u0ab5\u0abe \u0ab5\u0aa7\u0ac1 \u0ab8\u0a82\u0ab6\u0acb\u0aa7\u0a95\u0acb\u0aa8\u0ac7 \u0ab9\u0acb\u0ab2\u0acd\u0aa1 \u0a95\u0ab0\u0acb; \u0a8f\u0a95\u0ab5\u0abe\u0ab0 \u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0aa5\u0a88 \u0a9c\u0abe\u0aaf \u0aaa\u0a9b\u0ac0 \u0aa4\u0aae\u0abe\u0ab0\u0ac0 \u0a86\u0a82\u0a97\u0ab3\u0ac0\u0a93\u0aa8\u0ac7 \u0ab2\u0a88 \u0ab2\u0acb \u0a85\u0aa8\u0ac7 \u0aa4\u0aae\u0aa8\u0ac7 \u0a95\u0ac0\u0a9d \u0ab8\u0ac7\u0a9f \u0ab8\u0a82\u0aad\u0ab3\u0abe\u0ab6\u0ac7. \u0aac\u0ab9\u0abe\u0ab0 \u0aa8\u0ac0\u0a95\u0ab3\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0a9f\u0ac7\u0aac \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "$1$ \u0ab9\u0ab5\u0ac7 \u0aa8\u0ab5\u0ac1\u0a82 ChromeVox \u0ab8\u0a82\u0ab6\u0acb\u0aa7\u0a95 \u0a9b\u0ac7.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ \u0aa8\u0ac7 \u0aab\u0ab0\u0ac0\u0aa5\u0ac0 \u0ab8\u0ac7\u0a9f \u0a95\u0ab0\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0ac0 \u0a9b\u0ac7.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "$1$ \u0aaa\u0ab0 \u0ab8\u0acd\u0ab5\u0abf\u0a9a \u0a95\u0ab0\u0acd\u0aaf\u0ac1.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "\u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aa8\u0ac0 \u0a9f\u0acb\u0a9a \u0aaa\u0ab0 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "\u0aaa\u0ac3\u0a9a\u0acd\u0aa0\u0aae\u0abe\u0a82 \u0aa8\u0ac0\u0a9a\u0ac7 \u0a9c\u0abe\u0a93"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "\u0a9f\u0acb\u0a9a \u0aaa\u0ab0 \u0ab0\u0ac5\u0aaa \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "\u0aa8\u0ac0\u0a9a\u0ac7 \u0ab0\u0ac5\u0aaa \u0a95\u0ab0\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "\u0ab5\u0abf\u0ab0\u0abe\u0aae\u0a9a\u0abf\u0ab9\u0acd\u0aa8 \u0aaa\u0aa1\u0a98\u0abe\u0aa8\u0ac1\u0a82 \u0a86\u0ab5\u0ab0\u0acd\u0aa4\u0aa8"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "\u0ab2\u0a96\u0abe\u0aa3 \u0aaa\u0aa1\u0a98\u0abe\u0aa8\u0ac1\u0a82 \u0a86\u0ab5\u0ab0\u0acd\u0aa4\u0aa8"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8\u0aae\u0abe\u0a82 \u0a9a\u0abe\u0ab2\u0ac0 \u0ab0\u0ab9\u0ac7\u0ab2\u0abe \u0aac\u0aa7\u0abe \u0aae\u0ac0\u0aa1\u0abf\u0aaf\u0abe \u0ab5\u0abf\u0a9c\u0ac7\u0a9f\u0acd\u0ab8\u0aa8\u0ac7 \u0aa5\u0acb\u0aad\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "\u0aa8\u0ab5\u0abe \u0a9f\u0ac7\u0aac\u0aae\u0abe\u0a82 \u0ab2\u0abe\u0a82\u0aac\u0ac1\u0a82 \u0ab5\u0ab0\u0acd\u0aa3\u0aa8 \u0a96\u0acb\u0ab2\u0acb"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "\u0a95\u0acb\u0a88 \u0ab2\u0abe\u0a82\u0aac\u0ac1\u0a82 \u0ab5\u0ab0\u0acd\u0aa3\u0aa8 \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "\u0ab2\u0abe\u0a82\u0aac\u0abe \u0ab5\u0ab0\u0acd\u0aa3\u0aa8 \u0ab8\u0abe\u0aa5\u0ac7\u0aa8\u0ac0 \u0a9b\u0aac\u0ac0"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$ \u0aa5\u0ac0 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$-$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6 \u0a95\u0ab0\u0ac7\u0ab2\u0ac0 $1$ \u0a86\u0a87\u0a9f\u0aae\u0acd\u0ab8",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "sld $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "\u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0 \u0ab8\u0abe\u0aab \u0a95\u0ab0\u0ac0"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "\u0a85\u0a95\u0acd\u0ab7\u0ab0 \u0aaa\u0aa1\u0a98\u0acb"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "\u0ab6\u0aac\u0acd\u0aa6 \u0aaa\u0aa1\u0a98\u0acb"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "\u0a85\u0a95\u0acd\u0ab7\u0ab0 \u0a85\u0aa8\u0ac7 \u0ab6\u0aac\u0acd\u0aa6 \u0aaa\u0aa1\u0a98\u0acb"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "\u0a95\u0acb\u0a88 \u0ab2\u0a96\u0abe\u0aa3 \u0aaa\u0aa1\u0a98\u0acb \u0aa8\u0aa5\u0ac0"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "\u0aae\u0abe\u0ab3\u0a96\u0abe\u0a95\u0ac0\u0aaf \u0ab8\u0abe\u0aae\u0a97\u0acd\u0ab0\u0ac0 \u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0acb, \u0a9c\u0ac7\u0aae \u0a95\u0ac7 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0acb"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "\u0aae\u0abe\u0ab3\u0a96\u0abe\u0a95\u0ac0\u0aaf \u0ab8\u0abe\u0aae\u0a97\u0acd\u0ab0\u0ac0\u0aa5\u0ac0 \u0aac\u0ab9\u0abe\u0ab0 \u0aa8\u0ac0\u0a95\u0ab3\u0acb, \u0a9c\u0ac7\u0aae \u0a95\u0ac7 \u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95\u0acb"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "\u0aa6\u0abe\u0a96\u0ab2 \u0a95\u0ab0\u0ac7\u0ab2 $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "\u0aae\u0abe\u0ab3\u0a96\u0abe\u0a95\u0ac0\u0aaf \u0ab0\u0ac7\u0a96\u0abe"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "\u0ab2\u0abe\u0a87\u0aa8"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "\u0aae\u0abe\u0ab3\u0a96\u0abe\u0a95\u0ac0\u0aaf \u0a85\u0aa5\u0ab5\u0abe \u0ab2\u0ac7\u0a86\u0a89\u0a9f \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0ab0\u0ac7\u0a96\u0abe \u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab0 \u0a9f\u0acb\u0a97\u0ab2 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "\u0a95\u0acb\u0ab7\u0acd\u0a9f\u0a95"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "\u0aa1\u0abf\u0aab\u0acb\u0ab2\u0acd\u0a9f \u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0ab6\u0aa8"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "\u0a97\u0aa3\u0abf\u0aa4"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "\u0ab8\u0a82\u0ab0\u0a9a\u0aa8\u0abe\u0a97\u0aa4 \u0a85\u0aa8\u0ac7 \u0ab8\u0abf\u0aae\u0ac7\u0aa8\u0acd\u0a9f\u0abf\u0a95 \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0a97\u0aa3\u0abf\u0aa4 \u0aaa\u0aa6\u0abe\u0ab5\u0ab2\u0abf\u0a93\u0aa8\u0ac0 \u0ab8\u0aae\u0a9c\u0ac2\u0aa4\u0abf\u0aa8\u0ac7 \u0a9f\u0acb\u0a97\u0ab2 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "\u0ab8\u0abf\u0aae\u0ac7\u0aa8\u0acd\u0a9f\u0abf\u0a95\u0acd\u0ab8 \u0a9a\u0abe\u0ab2\u0ac1"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "\u0ab8\u0abf\u0aae\u0ac7\u0aa8\u0acd\u0a9f\u0abf\u0a95\u0acd\u0ab8 \u0aac\u0a82\u0aa7"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "\u0a9a\u0ac7\u0aa4\u0ab5\u0aa3\u0ac0\u0a93\u0aa8\u0ac0 \u0ab8\u0aae\u0ac0\u0a95\u0acd\u0ab7\u0abe \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 Alt+Shift+A \u0aa6\u0aac\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "\u0a95\u0acb\u0a88 \u0a86\u0a97\u0ab2\u0acb \u0ab2\u0ac7\u0a96 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "\u0a95\u0acb\u0a88 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0acb \u0ab2\u0ac7\u0a96 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "ChromeVox \u0aac\u0acb\u0ab2\u0abe\u0aaf\u0ac7\u0ab2 \u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0ab8\u0abe\u0aa6 \u0aa4\u0ac8\u0aaf\u0abe\u0ab0 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox \u0aa4\u0ac8\u0aaf\u0abe\u0ab0"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "\u0a87\u0a85\u0ab0\u0a95\u0acb\u0aa8\u0acd\u0ab8 \u0a9a\u0abe\u0ab2\u0ac1 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "\u0a87\u0a85\u0ab0\u0a95\u0acb\u0aa8\u0acd\u0ab8 \u0aac\u0a82\u0aa7 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "\u0ab8\u0abe\u0a89\u0aa8\u0acd\u0aa1 \u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0ab8\u0abe\u0aa6 (\u0a87\u0a85\u0ab0\u0a95\u0acb\u0aa8\u0acd\u0ab8) \u0a9a\u0abe\u0ab2\u0ac1 \u0a85\u0aa5\u0ab5\u0abe \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "\u0ab5\u0ab0\u0acd\u0aa4\u0aae\u0abe\u0aa8 \u0ab8\u0aae\u0aaf \u0a85\u0aa8\u0ac7 \u0aa4\u0abe\u0ab0\u0ac0\u0a96 \u0aac\u0acb\u0ab2\u0acb."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "S:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "\u0a95\u0abe\u0aa2\u0ac0 \u0aa8\u0abe\u0a96\u0acd\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "\u0aa1\u0abf\u0aab\u0acb\u0ab2\u0acd\u0a9f \u0a95\u0acd\u0ab0\u0abf\u0aaf\u0abe \u0aad\u0a9c\u0ab5\u0acb"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{\u0a89\u0aa6\u0acd\u0a97\u0abe\u0ab0\u0ab5\u0abe\u0a9a\u0a95 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}one{# \u0a89\u0aa6\u0acd\u0a97\u0abe\u0ab0\u0ab5\u0abe\u0a9a\u0a95 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}other{# \u0a89\u0aa6\u0acd\u0a97\u0abe\u0ab0\u0ab5\u0abe\u0a9a\u0a95 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{\u0a9c\u0a97\u0acd\u0aaf\u0abe}one{# \u0a9c\u0a97\u0acd\u0aaf\u0abe}other{# \u0a9c\u0a97\u0acd\u0aaf\u0abe}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{\u0aac\u0ac7\u0a95\u0a9f\u0abf\u0a95}one{# \u0aac\u0ac7\u0a95\u0a9f\u0abf\u0a95}other{# \u0aac\u0ac7\u0a95\u0a9f\u0abf\u0a95}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{\u0a9f\u0abf\u0ab2\u0acd\u0aa1}one{# \u0a9f\u0abf\u0ab2\u0acd\u0aa1}other{# \u0a9f\u0abf\u0ab2\u0acd\u0aa1}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{\u0a8f\u0a9f}one{# \u0a8f\u0a9f\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}other{# \u0a8f\u0a9f\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{\u0aaa\u0abe\u0a89\u0aa8\u0acd\u0aa1}one{# \u0aaa\u0abe\u0a89\u0aa8\u0acd\u0aa1\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}other{# \u0aaa\u0abe\u0a89\u0aa8\u0acd\u0aa1\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{\u0aa1\u0ac9\u0ab2\u0ab0}one{# \u0aa1\u0ac9\u0ab2\u0ab0\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}other{# \u0aa1\u0ac9\u0ab2\u0ab0\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{\u0a9f\u0a95\u0abe\u0ab5\u0abe\u0ab0\u0ac0}one{# \u0a9f\u0a95\u0abe\u0ab5\u0abe\u0ab0\u0ac0\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}other{# \u0a9f\u0a95\u0abe\u0ab5\u0abe\u0ab0\u0ac0\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{\u0a95\u0ac5\u0ab0\u0ac7\u0a9f}one{# \u0a95\u0ac5\u0ab0\u0ac7\u0a9f}other{# \u0a95\u0ac5\u0ab0\u0ac7\u0a9f}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{\u0a8f\u0aae\u0acd\u0aaa\u0ab0\u0ab8\u0ac7\u0a82\u0aa1}one{# \u0a8f\u0aae\u0acd\u0aaa\u0ab0\u0ab8\u0ac7\u0a82\u0aa1\u0acd\u0ab8}other{# \u0a8f\u0aae\u0acd\u0aaa\u0ab0\u0ab8\u0ac7\u0a82\u0aa1\u0acd\u0ab8}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{\u0aa4\u0abe\u0ab0\u0a95 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}one{# \u0aa4\u0abe\u0ab0\u0a95 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}other{# \u0aa4\u0abe\u0ab0\u0a95 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{\u0a96\u0ac1\u0ab2\u0aa4\u0acb \u0a95\u0acc\u0a82\u0ab8}one{# \u0a96\u0ac1\u0ab2\u0aa4\u0abe\u0a82 \u0a95\u0acc\u0a82\u0ab8}other{# \u0a96\u0ac1\u0ab2\u0aa4\u0abe\u0a82 \u0a95\u0acc\u0a82\u0ab8}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{\u0aac\u0a82\u0aa7 \u0aa5\u0aa4\u0acb \u0a95\u0acc\u0a82\u0ab8}one{# \u0aac\u0a82\u0aa7 \u0aa5\u0aa4\u0abe\u0a82 \u0a95\u0acc\u0a82\u0ab8}other{# \u0aac\u0a82\u0aa7 \u0aa5\u0aa4\u0abe\u0a82 \u0a95\u0acc\u0a82\u0ab8}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{\u0aa1\u0ac7\u0ab6}one{# \u0aa1\u0ac7\u0ab6}other{# \u0aa1\u0ac7\u0ab6}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{\u0a85\u0a82\u0aa1\u0ab0\u0ab8\u0acd\u0a95\u0acb\u0ab0}one{# \u0a85\u0a82\u0aa1\u0ab0\u0ab8\u0acd\u0a95\u0acb\u0ab0}other{# \u0a85\u0a82\u0aa1\u0ab0\u0ab8\u0acd\u0a95\u0acb\u0ab0}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{\u0aac\u0ab0\u0abe\u0aac\u0ab0}one{# \u0aac\u0ab0\u0abe\u0aac\u0ab0\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}other{# \u0aac\u0ab0\u0abe\u0aac\u0ab0\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{\u0ab5\u0aa4\u0acd\u0aa4\u0abe}one{# \u0ab5\u0aa4\u0acd\u0aa4\u0abe\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}other{# \u0ab5\u0aa4\u0acd\u0aa4\u0abe\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{\u0aa1\u0abe\u0aac\u0acb \u0aae\u0acb\u0a9f\u0acb \u0a95\u0acc\u0a82\u0ab8}one{# \u0aa1\u0abe\u0aac\u0abe \u0aae\u0acb\u0a9f\u0abe \u0a95\u0acc\u0a82\u0ab8}other{# \u0aa1\u0abe\u0aac\u0abe \u0aae\u0acb\u0a9f\u0abe \u0a95\u0acc\u0a82\u0ab8}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{\u0a9c\u0aae\u0aa3\u0acb \u0aae\u0acb\u0a9f\u0acb \u0a95\u0acc\u0a82\u0ab8}one{# \u0a9c\u0aae\u0aa3\u0abe \u0aae\u0acb\u0a9f\u0abe\u0a82 \u0a95\u0acc\u0a82\u0ab8}other{# \u0a9c\u0aae\u0aa3\u0abe \u0aae\u0acb\u0a9f\u0abe\u0a82 \u0a95\u0acc\u0a82\u0ab8}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{\u0aa1\u0abe\u0aac\u0acb \u0a9b\u0a97\u0aa1\u0abf\u0aaf\u0acb \u0a95\u0acc\u0a82\u0ab8}one{# \u0aa1\u0abe\u0aac\u0abe \u0a9b\u0a97\u0aa1\u0abf\u0aaf\u0abe \u0a95\u0acc\u0a82\u0ab8}other{# \u0aa1\u0abe\u0aac\u0abe \u0a9b\u0a97\u0aa1\u0abf\u0aaf\u0abe \u0a95\u0acc\u0a82\u0ab8}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{\u0a9c\u0aae\u0aa3\u0acb \u0a9b\u0a97\u0aa1\u0abf\u0aaf\u0acb \u0a95\u0acc\u0a82\u0ab8}one{# \u0a9c\u0aae\u0aa3\u0abe \u0a9b\u0a97\u0aa1\u0abf\u0aaf\u0abe \u0a95\u0acc\u0a82\u0ab8}other{# \u0a9c\u0aae\u0aa3\u0abe \u0a9b\u0a97\u0aa1\u0abf\u0aaf\u0abe \u0a95\u0acc\u0a82\u0ab8}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{\u0aaa\u0abe\u0a87\u0aaa}one{# \u0ab5\u0ab0\u0acd\u0a9f\u0abf\u0a95\u0ab2 \u0aaa\u0abe\u0a87\u0aaa}other{# \u0ab5\u0ab0\u0acd\u0a9f\u0abf\u0a95\u0ab2 \u0aaa\u0abe\u0a87\u0aaa}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{\u0a85\u0ab0\u0acd\u0aa7\u0ab5\u0abf\u0ab0\u0abe\u0aae}one{# \u0a85\u0ab0\u0acd\u0aa7\u0ab5\u0abf\u0ab0\u0abe\u0aae}other{# \u0a85\u0ab0\u0acd\u0aa7\u0ab5\u0abf\u0ab0\u0abe\u0aae}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{\u0aae\u0ab9\u0abe\u0ab5\u0abf\u0ab0\u0abe\u0aae}one{# \u0aae\u0ab9\u0abe\u0ab5\u0abf\u0ab0\u0abe\u0aae}other{# \u0aae\u0ab9\u0abe\u0ab5\u0abf\u0ab0\u0abe\u0aae}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{\u0a85\u0ab2\u0acd\u0aaa\u0ab5\u0abf\u0ab0\u0abe\u0aae}one{# \u0a85\u0ab2\u0acd\u0aaa\u0ab5\u0abf\u0ab0\u0abe\u0aae}other{# \u0a85\u0ab2\u0acd\u0aaa\u0ab5\u0abf\u0ab0\u0abe\u0aae}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{\u0a9f\u0aaa\u0a95\u0ac1\u0a82 }=3{\u0aaa\u0aa6\u0ab2\u0acb\u0aaa}one{# \u0a9f\u0aaa\u0a95\u0abe\u0a82}other{# \u0a9f\u0aaa\u0a95\u0abe\u0a82}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{\u0a86\u0aa8\u0abe \u0a95\u0ab0\u0aa4\u0abe\u0a82 \u0a93\u0a9b\u0ac1\u0a82}one{# \u0a86\u0aa8\u0abe \u0a95\u0ab0\u0aa4\u0abe\u0a82 \u0a93\u0a9b\u0abe\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}other{# \u0a86\u0aa8\u0abe \u0a95\u0ab0\u0aa4\u0abe\u0a82 \u0a93\u0a9b\u0abe\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{\u0a86\u0aa8\u0abe \u0a95\u0ab0\u0aa4\u0abe\u0a82 \u0aae\u0acb\u0a9f\u0ac1\u0a82}one{# \u0a86\u0aa8\u0abe \u0a95\u0ab0\u0aa4\u0abe\u0a82 \u0aae\u0acb\u0a9f\u0abe\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}other{# \u0a86\u0aa8\u0abe \u0a95\u0ab0\u0aa4\u0abe\u0a82 \u0aae\u0acb\u0a9f\u0abe\u0aa8\u0ac0 \u0aa8\u0abf\u0ab6\u0abe\u0aa8\u0ac0}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{\u0ab8\u0acd\u0ab2\u0ac7\u0ab6}one{# \u0ab8\u0acd\u0ab2\u0ac7\u0ab6}other{# \u0ab8\u0acd\u0ab2\u0ac7\u0ab6}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{\u0aaa\u0acd\u0ab0\u0ab6\u0acd\u0aa8\u0abe\u0ab0\u0acd\u0aa5 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}one{# \u0aaa\u0acd\u0ab0\u0ab6\u0acd\u0aa8\u0abe\u0ab0\u0acd\u0aa5 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}other{# \u0aaa\u0acd\u0ab0\u0ab6\u0acd\u0aa8\u0abe\u0ab0\u0acd\u0aa5 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{\u0a85\u0ab5\u0aa4\u0ab0\u0aa3 \u0a9a\u0abf\u0ab9\u0acd\u0aa8}one{# \u0a85\u0ab5\u0aa4\u0ab0\u0aa3 \u0a9a\u0abf\u0ab9\u0acd\u0aa8\u0acb}other{# \u0a85\u0ab5\u0aa4\u0ab0\u0aa3 \u0a9a\u0abf\u0ab9\u0acd\u0aa8\u0acb}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{\u0a85\u0aaa\u0ac9\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0aab\u0ac0}one{# \u0a85\u0aaa\u0ac9\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0acb\u0aab\u0ac0}other{# \u0a85\u0aaa\u0ac9\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0acb\u0aab\u0ac0}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{\u0a9f\u0ac7\u0aac}one{# \u0a9f\u0ac7\u0aac\u0acd\u0ab8}other{# \u0a9f\u0ac7\u0aac\u0acd\u0ab8}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{\u0aac\u0ac7\u0a95\u0ab8\u0acd\u0ab2\u0ac7\u0ab6}one{# \u0aac\u0ac7\u0a95\u0ab8\u0acd\u0ab2\u0ac7\u0ab6}other{# \u0aac\u0ac7\u0a95\u0ab8\u0acd\u0ab2\u0ac7\u0ab6}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{\u0aac\u0ac1\u0ab2\u0ac7\u0a9f}one{# \u0aac\u0ac1\u0ab2\u0ac7\u0a9f}other{# \u0aac\u0ac1\u0ab2\u0ac7\u0a9f}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "\u0ab0\u0ac2\u0a9f\u0abf\u0a82\u0a97 \u0a95\u0ac0 $1$ \u0ab9\u0ac7\u0aa0\u0ab3\u0aa8\u0ac0 \u0a86\u0a87\u0a9f\u0aae\u0aa8\u0ac7 \u0a95\u0acd\u0ab2\u0abf\u0a95 \u0a95\u0ab0\u0acb",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "\u0aaa\u0abe\u0a9b\u0ab3\u0aa8\u0ac0 \u0aa4\u0ab0\u0aab \u0aaa\u0ac7\u0aa8 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "\u0a86\u0a97\u0ab3\u0aa8\u0ac0 \u0aa4\u0ab0\u0aab \u0aaa\u0ac7\u0aa8 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0aaa\u0abe\u0a9b\u0ab2\u0ac0 \u0ab0\u0ac7\u0a96\u0abe"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0a86\u0a97\u0ab2\u0ac0 \u0ab0\u0ac7\u0a96\u0abe"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8\u0aa8\u0ac7 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aa8\u0ac0 \u0ab6\u0ac0\u0ab0\u0acd\u0ab7 \u0aaa\u0ab0 \u0a96\u0ab8\u0ac7\u0aa1\u0acb"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0aaa\u0acd\u0ab0\u0aa6\u0ab0\u0acd\u0ab6\u0aa8\u0aa8\u0ac7 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0\u0aa8\u0ac0 \u0aa8\u0ac0\u0a9a\u0ac7 \u0a96\u0ab8\u0ac7\u0aa1\u0acb"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "\u0a9f\u0aaa\u0a95\u0ac1\u0a82 $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "\u0a9f\u0aaa\u0a95\u0abe\u0a82 $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ \u0a9a\u0abe\u0aaa\u0a95\u0ab0\u0acd\u0aa3",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "\u0a97\u0acd\u0ab0\u0abe\u0aab\u0abf\u0a95\u0aa8\u0ac7 \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2\u0aa8\u0ac0 \u0a9c\u0ac7\u0aae \u0a9c\u0ac1\u0a93"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "\u0a8d\u0a95\u0acd\u0ab8\u0ac7\u0ab8 \u0a95\u0ac0 \u0aa7\u0ab0\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7, $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "\u0a8d\u0a95\u0acd\u0ab8\u0ac7\u0ab8 \u0a95\u0ac0:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"\u0a85\u0ab0\u0aac\u0ac0\",\n        \"bg\": \"\u0aac\u0ab2\u0acd\u0a97\u0ac7\u0ab0\u0abf\u0aaf\u0aa8\",\n        \"ca\": \"\u0a95\u0aa4\u0ab2\u0abe\u0aa8\",\n        \"cs\": \"\u0a9a\u0ac7\u0a95\",\n        \"da\": \"\u0aa1\u0ac7\u0aa8\u0abf\u0ab6\",\n        \"de\": \"\u0a9c\u0ab0\u0acd\u0aae\u0aa8\",\n        \"de_CH\": \"\u0a9c\u0ab0\u0acd\u0aae\u0aa8 (\u0ab8\u0acd\u0ab5\u0abf\u0a9f\u0acd\u0a9d\u0ab0\u0acd\u0ab2\u0ac7\u0aa8\u0acd\u0aa1)\",\n        \"de_DE\": \"\u0a9c\u0ab0\u0acd\u0aae\u0aa8 (\u0a9c\u0ab0\u0acd\u0aae\u0aa8\u0ac0)\",\n        \"el\": \"\u0a97\u0acd\u0ab0\u0ac0\u0a95\",\n        \"en\": \"\u0a85\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0a9c\u0ac0\",\n        \"en_CA\": \"\u0a85\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0a9c\u0ac0 (\u0a95\u0ac7\u0aa8\u0ac7\u0aa1\u0abe)\",\n        \"en_GB\": \"\u0a85\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0a9c\u0ac0 (\u0aaf\u0ac1\u0aa8\u0abe\u0a87\u0a9f\u0ac7\u0aa1 \u0a95\u0abf\u0a82\u0a97\u0aa1\u0aae)\",\n        \"en_US\": \"\u0a85\u0a82\u0a97\u0acd\u0ab0\u0ac7\u0a9c\u0ac0 (\u0aaf\u0ac1\u0aa8\u0abe\u0a87\u0a9f\u0ac7\u0aa1 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f\u0acd\u0ab8)\",\n        \"es\": \"\u0ab8\u0acd\u0aaa\u0ac7\u0aa8\u0abf\u0ab6\",\n        \"et\": \"\u0a8f\u0ab8\u0acd\u0a9f\u0acb\u0aa8\u0abf\u0aaf\u0aa8\",\n        \"fr\": \"\u0aab\u0acd\u0ab0\u0ac7\u0a82\u0a9a\",\n        \"fr_CA\": \"\u0aab\u0acd\u0ab0\u0ac7\u0a82\u0a9a (\u0a95\u0ac7\u0aa8\u0ac7\u0aa1\u0abe)\",\n        \"fr_FR\": \"\u0aab\u0acd\u0ab0\u0ac7\u0a82\u0a9a (\u0aab\u0acd\u0ab0\u0abe\u0a82\u0ab8)\",\n        \"fi\": \"\u0aab\u0abf\u0aa8\u0abf\u0ab6\",\n        \"he\": \"\u0ab9\u0ac0\u0aac\u0acd\u0ab0\u0ac1\",\n        \"hi\": \"\u0ab9\u0abf\u0aa8\u0acd\u0aa6\u0ac0\",\n        \"hr\": \"\u0a95\u0acd\u0ab0\u0acb\u0a8f\u0ab6\u0abf\u0aaf\u0aa8\",\n        \"hu\": \"\u0ab9\u0a82\u0a97\u0ac7\u0ab0\u0abf\u0aaf\u0aa8\",\n        \"is\": \"\u0a86\u0a87\u0ab8\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0abf\u0a95\",\n        \"it\": \"\u0a87\u0a9f\u0abe\u0ab2\u0abf\u0aaf\u0aa8\",\n        \"ko\": \"\u0a95\u0acb\u0ab0\u0abf\u0aaf\u0aa8\",\n        \"lt\": \"\u0ab2\u0abf\u0aa5\u0ac1\u0a86\u0aa8\u0abf\u0aaf\u0aa8\",\n        \"lv\": \"\u0ab2\u0abe\u0aa4\u0ab5\u0abf\u0aaf\u0aa8\",\n        \"nb\": \"\u0aa8\u0acb\u0ab0\u0acd\u0ab5\u0ac7\u0a9c\u0abf\u0aaf\u0aa8 \u0aac\u0acb\u0a95\u0aae\u0abe\u0ab2\",\n        \"nl\": \"\u0aa1\u0a9a\",\n        \"pl\": \"\u0aaa\u0acb\u0ab2\u0abf\u0ab6\",\n        \"pt\": \"\u0aaa\u0acb\u0ab0\u0acd\u0a9f\u0ac1\u0a97\u0ac0\u0a9d\",\n        \"ro\": \"\u0ab0\u0acb\u0aae\u0abe\u0aa8\u0abf\u0aaf\u0aa8\",\n        \"ru\": \"\u0ab0\u0ab6\u0abf\u0aaf\u0aa8\",\n        \"sk\": \"\u0ab8\u0acd\u0ab2\u0acb\u0ab5\u0abe\u0a95\",\n        \"sl\": \"\u0ab8\u0acd\u0ab2\u0acb\u0ab5\u0ac7\u0aa8\u0abf\u0aaf\u0aa8\",\n        \"sr\": \"\u0ab8\u0ab0\u0acd\u0aac\u0abf\u0aaf\u0aa8\",\n        \"sv\": \"\u0ab8\u0acd\u0ab5\u0ac0\u0aa1\u0abf\u0ab6\",\n        \"tr\": \"\u0a9f\u0ab0\u0acd\u0a95\u0abf\u0ab6\",\n        \"vi\": \"\u0ab5\u0abf\u0aaf\u0ac7\u0aa4\u0aa8\u0abe\u0aae\u0ac0\u0a9d\",\n        \"zh\": \"\u0a9a\u0abe\u0a87\u0aa8\u0ac0\u0a9d\",\n        \"zh_TW\": \"\u0a9a\u0abe\u0a87\u0aa8\u0ac0\u0a9d (\u0aaa\u0ab0\u0a82\u0aaa\u0ab0\u0abe\u0a97\u0aa4 \u0ab9\u0abe\u0aa8)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f\u0aa8\u0abe \u0a85\u0a82\u0aa4\u0ac7"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "\u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "\u0aa8\u0ab5\u0ac0 \u0ab2\u0abe\u0a87\u0aa8"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "\u0ab0\u0ac0\u0a9f\u0ab0\u0acd\u0aa8"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0a95\u0ac0 \u0aa6\u0aac\u0abe\u0aa3\u0aa8\u0ac7 \u0a85\u0ab5\u0a97\u0aa3\u0ac7 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "\u0aaa\u0abe\u0ab8 \u0aa5\u0acd\u0ab0\u0ac1 \u0a95\u0ac0"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "\u0ab8\u0a82\u0aa6\u0ab0\u0acd\u0aad \u0aae\u0ac7\u0aa8\u0ac2 \u0aac\u0aa4\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0a95\u0ac5\u0aaa\u0acd\u0ab6\u0aa8\u0acd\u0ab8\u0aa8\u0ac7 \u0a9f\u0acb\u0a97\u0ab2 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0a95\u0ac5\u0aaa\u0acd\u0ab6\u0aa8\u0acd\u0ab8 \u0ab8\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acd\u0aaf\u0abe."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0a95\u0ac5\u0aaa\u0acd\u0ab6\u0aa8\u0acd\u0ab8 \u0a85\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acd\u0aaf\u0abe."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "\u0a95\u0ac7\u0ab8 \u0a85\u0ab5\u0a97\u0aa3\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe\u0a82 \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "\u0a95\u0ac7\u0ab8 \u0ab8\u0a82\u0ab5\u0ac7\u0aa6\u0ac0."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "\u0aaa\u0abe\u0a9b\u0abe \u0aab\u0ab0\u0acb"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "\u0aab\u0acb\u0ab0\u0ab5\u0ab0\u0acd\u0aa1 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "\u0aa4\u0abe\u0a9c\u0ac1\u0a82 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0ab8\u0acd\u0a95\u0acd\u0ab0\u0ac0\u0aa8 \u0a9f\u0acb\u0a97\u0ab2 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "\u0ab5\u0abf\u0a82\u0aa1\u0acb\u0aa8\u0ac1\u0a82 \u0ab5\u0abf\u0ab9\u0a82\u0a97\u0abe\u0ab5\u0ab2\u0acb\u0a95\u0aa8"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "\u0aa4\u0ac7\u0a9c\u0ab8\u0acd\u0ab5\u0ac0\u0aa4\u0abe \u0a98\u0a9f\u0abe\u0aa1\u0acb"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "\u0aa4\u0ac7\u0a9c\u0ab8\u0acd\u0ab5\u0ac0\u0aa4\u0abe \u0ab5\u0aa7\u0abe\u0ab0\u0acb"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "\u0ab5\u0ac9\u0ab2\u0acd\u0aaf\u0ac2\u0aae \u0aae\u0acd\u0aaf\u0ac2\u0a9f \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "\u0ab5\u0ac9\u0ab2\u0acd\u0aaf\u0ac2\u0aae \u0a98\u0a9f\u0abe\u0aa1\u0acb"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "\u0ab5\u0ac9\u0ab2\u0acd\u0aaf\u0ac2\u0aae \u0ab5\u0aa7\u0abe\u0ab0\u0acb"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "ChromeVox \u0aaa\u0ac7\u0aa8\u0ab2"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "ChromeVox \u0aae\u0ac7\u0aa8\u0ac2\u0a9d"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "ChromeVox \u0a9f\u0aaf\u0ac2\u0a9f\u0ac9\u0ab0\u0abf\u0a85\u0ab2"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "ChromeVox \u0aae\u0ac7\u0aa8\u0ac2\u0a9d"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "ChromeVox \u0ab5\u0abf\u0a95\u0ab2\u0acd\u0aaa\u0acb"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "ChromeVox \u0aa8\u0ac7 \u0a85\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(\u0ab8\u0a95\u0acd\u0ab0\u0abf\u0aaf)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "\u0a9c\u0a82\u0aaa \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "\u0aad\u0abe\u0ab7\u0abe"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "\u0a9f\u0ac5\u0aac\u0acd\u0ab8"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "\u0a95\u0acd\u0ab0\u0abf\u0aaf\u0abe\u0a93"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "\u0a95\u0acb\u0a87 \u0a86\u0a87\u0a9f\u0aae\u0acd\u0ab8 \u0aa8\u0aa5\u0ac0."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "\u0ab8\u0aae\u0ab8\u0acd\u0aaf\u0abe\u0aa8\u0ac0 \u0a9c\u0abe\u0aa3 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox \u0a85\u0aaa\u0aa1\u0ac7\u0a9f \u0aa5\u0aaf\u0ac1\u0a82"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "\u0aa8\u0ab5\u0ac1\u0a82 \u0ab6\u0ac1\u0a82 \u0a9b\u0ac7 \u0aa4\u0ac7 \u0ab6\u0acb\u0aa7\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 ChromeVox o, n \u0aa6\u0aac\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "\u0a85\u0aaa\u0aa1\u0ac7\u0a9f \u0aa8\u0acb\u0a82\u0aa7 \u0aac\u0aa4\u0abe\u0ab5\u0acb"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "ChromeVox \u0a9f\u0acd\u0aaf\u0ac2\u0a9f\u0acb\u0ab0\u0abf\u0a85\u0ab2 \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "\u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0aa8\u0ac1\u0a82"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "ChromeVox \u0aaa\u0ab0 \u0aa4\u0aae\u0abe\u0ab0\u0ac1\u0a82 \u0ab8\u0acd\u0ab5\u0abe\u0a97\u0aa4 \u0a9b\u0ac7!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "\u0ab6\u0ac1\u0a82 \u0aa4\u0aae\u0ac7 ChromeVox\u0aa8\u0abe \u0aac\u0acb\u0ab2\u0abe\u0aaf\u0ac7\u0ab2 \u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0ab8\u0abe\u0aa6\u0aa8\u0acb \u0aaa\u0ab9\u0ac7\u0ab2\u0ac0 \u0ab5\u0abe\u0ab0 \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe \u0a9b\u0acb? \u0a86 \u0a9d\u0aa1\u0aaa\u0ac0 \u0a9f\u0acd\u0aaf\u0ac2\u0a9f\u0ac9\u0ab0\u0abf\u0a85\u0ab2 ChromeVox \u0ab6\u0ab0\u0ac2 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7\u0aa8\u0ac0 \u0a9c\u0ab0\u0ac2\u0ab0\u0ac0 \u0aac\u0abe\u0aac\u0aa4\u0acb \u0ab8\u0aae\u0a9c\u0abe\u0ab5\u0ac7 \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "\u0a86\u0a97\u0ab3 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, enter \u0aa6\u0aac\u0abe\u0ab5\u0acb, \u0aaa\u0abe\u0a9b\u0ab3 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 backspace \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "\u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0ab0\u0acb, \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0acb \u0a85\u0aa8\u0ac7 \u0ab0\u0acb\u0a95\u0acb"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "ChromeVox \u0aa8\u0ac7 \u0aac\u0acb\u0ab2\u0ab5\u0abe\u0aa5\u0ac0 \u0a85\u0ab8\u0acd\u0aa5\u0abe\u0aaf\u0ac0\u0ab0\u0ac2\u0aaa\u0ac7 \u0ab0\u0acb\u0a95\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Control \u0a95\u0ac0 \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "ChromeVox \u0aa8\u0ac7 \u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0ac7 \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Control+Alt+Z \u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "ChromeVox \u0ab8\u0a82\u0ab6\u0acb\u0aa7\u0a95 \u0a95\u0ac0"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "ChromeVox\u0aae\u0abe\u0a82, \u0ab6\u0acb\u0aa7 \u0a95\u0ac0 \u0a8f \u0aaa\u0ab0\u0abf\u0ab5\u0ab0\u0acd\u0aa4\u0aa8\u0a95\u0abe\u0ab0\u0ac0 \u0a95\u0ac0 \u0a9b\u0ac7. \u0aae\u0acb\u0a9f\u0abe\u0aad\u0abe\u0a97\u0aa8\u0abe ChromeVox \u0ab6\u0ac9\u0ab0\u0acd\u0a9f\u0a95\u0a9f \u0ab6\u0acb\u0aa7 \u0a95\u0ac0 \u0ab5\u0aa1\u0ac7 \u0ab6\u0ab0\u0ac2 \u0aa5\u0abe\u0aaf \u0a9b\u0ac7. \u0aa4\u0aae\u0ac7 \u0aa8\u0ac5\u0ab5\u0abf\u0a97\u0ac7\u0ab6\u0aa8 \u0aae\u0abe\u0a9f\u0ac7 \u0aa4\u0ac0\u0ab0 \u0a95\u0ac0\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0aaa\u0aa3 \u0a95\u0ab0\u0ab6\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "Chromebook \u0aaa\u0ab0, \u0ab6\u0acb\u0aa7 \u0a95\u0ac0 \u0a8f \u0aa1\u0abe\u0aac\u0ac0 Shift \u0a95\u0ac0\u0aa8\u0ac0 \u0a8f\u0a95\u0aa6\u0aae \u0a89\u0aaa\u0ab0\u0aa8\u0ac0 \u0a95\u0ac0 \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "\u0a86 \u0a9f\u0acd\u0aaf\u0ac2\u0a9f\u0acb\u0ab0\u0abf\u0a85\u0ab2 \u0aa6\u0ab0\u0aae\u0abf\u0aaf\u0abe\u0aa8, \u0a95\u0acb\u0a88\u0aaa\u0aa3 \u0a95\u0ac0\u0aa8\u0ac7 \u0aa4\u0ac7\u0aa8\u0ac1\u0a82 \u0aa8\u0abe\u0aae \u0ab8\u0abe\u0a82\u0aad\u0ab3\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "\u0aae\u0ac2\u0ab3\u0aad\u0ac2\u0aa4 \u0aa8\u0ac5\u0ab5\u0abf\u0a97\u0ac7\u0ab6\u0aa8"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "\u0a95\u0acb\u0a88 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0 \u0aaa\u0ab0\u0aa8\u0ac0 \u0a86\u0a87\u0a9f\u0aae\u0acd\u0ab8\u0aae\u0abe\u0a82 \u0a86\u0a97\u0ab3 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, \u0ab6\u0acb\u0aa7 + \u0a9c\u0aae\u0aa3\u0abe \u0aa4\u0ac0\u0ab0 \u0a85\u0aa5\u0ab5\u0abe \u0aaa\u0abe\u0a9b\u0ab3 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab6\u0acb\u0aa7 + \u0aa1\u0abe\u0aac\u0abe \u0aa4\u0ac0\u0ab0\u0aa8\u0ac7 \u0aa6\u0aac\u0abe\u0ab5\u0acb. \u0a86\u0a97\u0ab2\u0ac0 \u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf \u0aaa\u0ab0 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, \u0ab6\u0acb\u0aa7 + \u0aa8\u0ac0\u0a9a\u0ac7 \u0aa4\u0ac0\u0ab0 \u0aa6\u0aac\u0abe\u0ab5\u0acb. \u0aaa\u0ab9\u0ac7\u0ab2\u0abe\u0a82\u0aa8\u0ac0 \u0aaa\u0a82\u0a95\u0acd\u0aa4\u0abf \u0aaa\u0ab0 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, \u0ab6\u0acb\u0aa7 + \u0a89\u0aaa\u0ab0 \u0aa4\u0ac0\u0ab0\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb. \u0a9c\u0acb \u0aa4\u0aae\u0ac7 \u0a95\u0acd\u0ab2\u0abf\u0a95 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a97\u0aa4\u0abe \u0ab9\u0acb\u0ab5 \u0aa4\u0ac7 \u0a86\u0a87\u0a9f\u0aae \u0aaa\u0ab0 \u0aaa\u0ab9\u0acb\u0a82\u0a9a\u0ac0 \u0a97\u0aaf\u0abe\u0a82 \u0ab9\u0acb\u0ab5, \u0aa4\u0acb \u0ab6\u0acb\u0aa7 + Space \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "\u0a86\u0a97\u0ab2\u0ac1\u0a82 \u0aac\u0a9f\u0aa8 \u0ab6\u0acb\u0aa7\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab9\u0aae\u0aa3\u0abe\u0a82 \u0ab6\u0acb\u0aa7 + \u0a9c\u0aae\u0aa3\u0abe \u0aa4\u0ac0\u0ab0\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0aaf\u0abe\u0ab8 \u0a95\u0ab0\u0acb, \u0aaa\u0a9b\u0ac0 \u0aa4\u0ac7\u0aa8\u0ac7 \u0a95\u0acd\u0ab2\u0abf\u0a95 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab6\u0acb\u0aa7 + Space \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "\u0a9c\u0a82\u0aaa \u0a86\u0aa6\u0ac7\u0ab6\u0acb"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "\u0a9a\u0acb\u0a95\u0acd\u0a95\u0ab8 \u0aaa\u0acd\u0ab0\u0a95\u0abe\u0ab0\u0aa8\u0abe \u0a98\u0a9f\u0a95\u0acb \u0aaa\u0ab0 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0a9c\u0aae\u0acd\u0aaa \u0a86\u0aa6\u0ac7\u0ab6\u0acb\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb. \u0aae\u0aa5\u0abe\u0ab3\u0abe\u0aae\u0abe\u0a82 \u0a86\u0a97\u0ab3 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, \u0ab6\u0acb\u0aa7 + H \u0aa6\u0aac\u0abe\u0ab5\u0acb \u0a85\u0aa5\u0ab5\u0abe \u0aaa\u0abe\u0a9b\u0ab3 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, \u0ab6\u0acb\u0aa7 + Shift + H \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "\u0a86 \u0aac\u0ac0\u0a9c\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0a9b\u0ac7. \u0a9a\u0abe\u0ab2\u0ac1 \u0ab0\u0abe\u0a96\u0acb, \u0a95\u0abe\u0a82 \u0aa4\u0acb \u0ab6\u0acb\u0aa7+H \u0a85\u0aa5\u0ab5\u0abe \u0ab6\u0acb\u0aa7+Shift+H \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "\u0a86 \u0a9b\u0ac7\u0ab2\u0acd\u0ab2\u0ac1\u0a82 \u0aae\u0aa5\u0abe\u0ab3\u0ac1\u0a82 \u0a9b\u0ac7. \u0a86 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0 \u0aaa\u0ab0 \u0ab8\u0ac0\u0aa7\u0abe \u0a9c \u0aaa\u0acd\u0ab0\u0aa5\u0aae \u0aae\u0aa5\u0abe\u0ab3\u0abe \u0aaa\u0ab0 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab6\u0acb\u0aa7+H, \u0a85\u0aa5\u0ab5\u0abe \u0aac\u0ac0\u0a9c\u0abe \u0aae\u0aa5\u0abe\u0ab3\u0abe \u0aaa\u0ab0 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab6\u0acb\u0aa7+Shift+H \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "\u0a86\u0aa6\u0ac7\u0ab6 \u0aae\u0ac7\u0aa8\u0ac2\u0a9d"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "\u0aa4\u0aae\u0abe\u0aae ChromeVox \u0a86\u0aa6\u0ac7\u0ab6\u0acb \u0a85\u0aa8\u0ac7 \u0ab6\u0acb\u0ab0\u0acd\u0a9f\u0a95\u0a9f\u0acd\u0ab8\u0aa8\u0ac1\u0a82 \u0a85\u0aa8\u0acd\u0ab5\u0ac7\u0ab7\u0aa3 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Search + Period \u0aa6\u0aac\u0abe\u0ab5\u0acb, \u0aaa\u0a9b\u0ac0 \u0aae\u0ac7\u0aa8\u0ac2\u0a9d \u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0a9f \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0a8f\u0ab0\u0acb \u0a95\u0ac0\u0a9d \u0aa8\u0acb, \u0a85\u0aa8\u0ac7 \u0a86\u0aa6\u0ac7\u0ab6\u0aa8\u0ac7 \u0ab8\u0a95\u0acd\u0ab0\u0abf\u0aaf \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 Enter \u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb. Search+o \u0aaa\u0a9b\u0ac0 t \u0aa6\u0aac\u0abe\u0ab5\u0ac0\u0aa8\u0ac7 \u0a85\u0ab9\u0ac0\u0a82 \u0aaa\u0abe\u0a9b\u0abe \u0aab\u0ab0\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "\u0ab8\u0ab9\u0abe\u0aaf\u0ab0\u0ac2\u0aaa Chrome \u0ab6\u0ac9\u0ab0\u0acd\u0a9f\u0a95\u0a9f\u0acd\u0ab8"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "\u0a86\u0a97\u0ab2\u0abe \u0a85\u0aae\u0ac1\u0a95 \u0ab6\u0ac9\u0ab0\u0acd\u0a9f\u0a95\u0a9f\u0acd\u0ab8 ChromeVox \u0a86\u0aa6\u0ac7\u0ab6\u0acb \u0aa8\u0aa5\u0ac0, \u0aaa\u0ab0\u0a82\u0aa4\u0ac1 \u0aa4\u0ac7 Chrome \u0aa8\u0acb \u0ab8\u0ab0\u0acd\u0ab5\u0acb\u0aa4\u0acd\u0aa4\u0aae \u0ab2\u0abe\u0aad \u0ab2\u0ac7\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab9\u0a9c\u0ac0 \u0aaa\u0aa3 \u0a89\u0aaa\u0aaf\u0acb\u0a97\u0ac0 \u0a9b\u0ac7.\n\u0aac\u0a9f\u0aa8 \u0a85\u0aa8\u0ac7 \u0ab2\u0abf\u0a82\u0a95\u0acd\u0ab8 \u0a9c\u0ac7\u0ab5\u0ac0 \u0a95\u0acd\u0ab0\u0abf\u0aaf\u0abe \u0a95\u0ab0\u0ab5\u0abe \u0aaf\u0acb\u0a97\u0acd\u0aaf \u0a86\u0a87\u0a9f\u0aae\u0acd\u0ab8 \u0aae\u0abe\u0ab0\u0aab\u0aa4\u0ac7 \u0a86\u0a97\u0ab3 \u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0a9f \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Tab \u0a95\u0ac0 \u0aa6\u0aac\u0abe\u0ab5\u0acb. \u0aaa\u0abe\u0a9b\u0ab3 \u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0a9f \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Shift+Tab \u0aa6\u0aac\u0abe\u0ab5\u0acb. \nChrome \u0aac\u0acd\u0ab0\u0abe\u0a89\u0a9d\u0ab0 \u0ab8\u0ab0\u0aa8\u0abe\u0aae\u0abe\u0a82 \u0aac\u0ac9\u0a95\u0acd\u0ab8\u0aae\u0abe\u0a82 \u0aa6\u0abe\u0a96\u0ab2 \u0aa5\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, \u0a9c\u0ac7 \u0a91\u0aae\u0acd\u0aa8\u0abf\u0aac\u0ac9\u0a95\u0acd\u0ab8 \u0aaa\u0aa3 \u0a95\u0ab9\u0ac7\u0ab5\u0abe\u0aaf \u0a9b\u0ac7, Control + L \u0aa6\u0aac\u0abe\u0ab5\u0acb. \n\u0a8f\u0a95 \u0aa8\u0ab5\u0abe \u0a9f\u0ac5\u0aac\u0aa8\u0ac7 \u0a86\u0aaa\u0aae\u0ac7\u0ab3\u0ac7 \u0a96\u0acb\u0ab2\u0ab5\u0abe \u0a85\u0aa8\u0ac7 \u0aa4\u0ac7\u0aa8\u0abe \u0aaa\u0ab0 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Control+T \u0aa6\u0aac\u0abe\u0ab5\u0acb. \u0aa4\u0aae\u0abe\u0ab0\u0ac1\u0a82 \u0a95\u0ab0\u0acd\u0ab8\u0ab0 \u0a91\u0aae\u0acd\u0aa8\u0abf\u0aac\u0ac9\u0a95\u0acd\u0ab8\u0aae\u0abe\u0a82 \u0ab9\u0ab6\u0ac7. \n\u0a95\u0acb\u0a88 \u0a9f\u0ac5\u0aac\u0aa8\u0ac7 \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Control+W \u0aa6\u0aac\u0abe\u0ab5\u0acb. \n\u0a96\u0ac1\u0ab2\u0acd\u0ab2\u0abe \u0a9f\u0ac5\u0aac\u0acd\u0ab8\u0aae\u0abe\u0a82 \u0a86\u0a97\u0ab3 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Control+Tab \u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb. \nChrome \u0aac\u0acd\u0ab0\u0abe\u0a89\u0a9d\u0ab0 \u0aae\u0ac7\u0aa8\u0ac2 \u0a96\u0acb\u0ab2\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Alt+F \u0aa6\u0aac\u0abe\u0ab5\u0acb."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "\u0a9f\u0ac1\u0ab2\u0aac\u0abe\u0ab0\u0acd\u0ab8 \u0a85\u0aa5\u0ab5\u0abe \u0ab8\u0abf\u0ab8\u0acd\u0a9f\u0aae \u0a9f\u0acd\u0ab0\u0ac7 \u0a9c\u0ac7\u0ab5\u0abe \u0ab8\u0acd\u0a95\u0acd\u0ab0\u0ac0\u0aa8\u0aa8\u0abe \u0a85\u0aa8\u0acd\u0aaf \u0aad\u0abe\u0a97 \u0aaa\u0ab0 \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, Control+\u0aab\u0acb\u0ab0\u0ab5\u0ab0\u0acd\u0aa1 \u0aa6\u0aac\u0abe\u0ab5\u0acb. Chromebook \u0aaa\u0ab0, \u0aab\u0acb\u0ab0\u0ab5\u0ab0\u0acd\u0aa1 \u0a95\u0ac0 \u0a8f \u0aa8\u0a82\u0aac\u0ab0 2 \u0a95\u0ac0\u0aa8\u0ac0 \u0a8f\u0a95\u0aa6\u0aae \u0a89\u0aaa\u0ab0\u0aa8\u0ac0 \u0a95\u0ac0 \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "\u0ab5\u0aa7\u0ac1 \u0a9c\u0abe\u0aa3\u0acb"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "\u0a85\u0aad\u0abf\u0aa8\u0a82\u0aa6\u0aa8! \u0aa4\u0aae\u0ac7 ChromeVox\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7\u0aa8\u0ac0 \u0a9c\u0ab0\u0ac2\u0ab0\u0ac0 \u0aac\u0abe\u0aac\u0aa4\u0acb \u0ab8\u0aab\u0ab3\u0aa4\u0abe\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0a95 \u0a9c\u0abe\u0aa3\u0ac0 \u0ab2\u0ac0\u0aa7\u0ac0 \u0a9b\u0ac7. \u0aaf\u0abe\u0aa6 \u0ab0\u0abe\u0a96\u0acb \u0a95\u0ac7 \u0aa4\u0aae\u0ac7 \u0ab6\u0acb\u0aa7+\u0aaa\u0ac2\u0ab0\u0acd\u0aa3\u0ab5\u0abf\u0ab0\u0abe\u0aae \u0aa6\u0aac\u0abe\u0ab5\u0ac0\u0aa8\u0ac7 \u0a95\u0acb\u0a88 \u0aaa\u0aa3 \u0ab8\u0aae\u0aaf\u0ac7 ChromeVox \u0a86\u0aa6\u0ac7\u0ab6 \u0aae\u0ac7\u0aa8\u0ac2 \u0a96\u0acb\u0ab2\u0ac0 \u0ab6\u0a95\u0acb \u0a9b\u0acb. ChromeVox \u0a85\u0aa8\u0ac7 Chrome OS \u0ab5\u0abf\u0ab6\u0ac7 \u0ab9\u0a9c\u0ac1 \u0ab5\u0aa7\u0ac1 \u0a9c\u0abe\u0aa3\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7, \u0aa8\u0ac0\u0a9a\u0ac7\u0aa8\u0abe \u0ab2\u0ac7\u0a96\u0aa8\u0ac0 \u0aae\u0ac1\u0ab2\u0abe\u0a95\u0abe\u0aa4 \u0ab2\u0acb.\n\u0a9c\u0acb \u0aa4\u0aae\u0ac7 \u0a9f\u0acd\u0aaf\u0ac2\u0a9f\u0ac9\u0ab0\u0abf\u0a85\u0ab2 \u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0a95\u0ab0\u0ac0 \u0ab2\u0ac0\u0aa7\u0ac1\u0a82 \u0ab9\u0acb\u0aaf, ChromeVox\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0ac0 \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0acb \u0aac\u0a9f\u0aa8 \u0aaa\u0ab0 \u0aa8\u0ac5\u0ab5\u0abf\u0a97\u0ac7\u0a9f \u0a95\u0ab0\u0acb \u0a85\u0aa8\u0ac7 \u0aa4\u0ac7\u0aa8\u0ac7 \u0a95\u0acd\u0ab2\u0abf\u0a95 \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "\u0aa4\u0aae\u0aa8\u0ac7 ChromeVox 63 \u0aaa\u0ab0 \u0a85\u0aaa\u0aa1\u0ac7\u0a9f \u0a95\u0ab0\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0acd\u0aaf\u0abe \u0a9b\u0ac7!"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "\u0a86 \u0aa8\u0ab5\u0abe \u0ab0\u0abf\u0ab2\u0ac0\u0a9d\u0aae\u0abe\u0a82 \u0a85\u0aae\u0ac7 \u0a95\u0ac7\u0a9f\u0ab2\u0abe\u0a95 \u0a86\u0a95\u0ab0\u0acd\u0ab7\u0a95 \u0aab\u0ac7\u0ab0\u0aab\u0abe\u0ab0\u0acb \u0ab2\u0abe\u0ab5\u0acd\u0aaf\u0abe \u0a9b\u0ac0\u0a8f; \u0aa8\u0ab5\u0ac1\u0a82 \u0a85\u0ab9\u0ac0\u0a82 \u0aaa\u0acd\u0ab0\u0ab8\u0acd\u0aa4\u0ac1\u0aa4 \u0a9b\u0ac7:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "\u0a95\u0acd\u0ab2\u0abe\u0ab8\u0abf\u0a95 \u0a95\u0abe\u0aa2\u0ac0 \u0aa8\u0abe\u0a96\u0acd\u0aaf\u0ac1\u0a82. ChromeVox \u0a95\u0acd\u0ab2\u0abe\u0ab8\u0abf\u0a95\u0aae\u0abe\u0a82 \u0aaa\u0abe\u0a9b\u0abe \u0a9c\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7\u0aa8\u0abe \u0a95\u0ac0\u0aac\u0acb\u0ab0\u0acd\u0aa1 \u0a9f\u0ac9\u0a97\u0ab2 \u0a95\u0abe\u0aa2\u0ac0 \u0aa8\u0abe\u0a96\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0ac7\u0ab2 \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "\u0ab0\u0abf\u0a9a \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0ab8\u0ab9\u0abe\u0aaf. ChromeVox \u0ab9\u0ab5\u0ac7 \u0ab0\u0abf\u0a9a \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aab\u0ac0\u0ab2\u0acd\u0aa1\u0aa8\u0ac7 \u0ab8\u0ab9\u0abe\u0aaf \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7, \u0a9c\u0ac7\u0aae\u0abe\u0a82 \u0a9c\u0aae\u0acd\u0aaa \u0a86\u0aa6\u0ac7\u0ab6\u0acb, \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0a95\u0ab0\u0acd\u0ab8\u0ab0\u0aa8\u0ac1\u0a82 \u0ab0\u0ac2\u0a9f\u0abf\u0a82\u0a97, \u0aaa\u0ab8\u0a82\u0aa6\u0a97\u0ac0 \u0a85\u0aa8\u0ac7 \u0a98\u0aa3\u0abe \u0aac\u0aa7\u0abe\u0aa8\u0acb \u0ab8\u0aae\u0abe\u0ab5\u0ac7\u0ab6 \u0aa5\u0abe\u0aaf \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Chrome \u0aae\u0abe\u0a9f\u0ac7\u0aa8\u0ac0 Android \u0a8d\u0aaa. \u0a9c\u0acb \u0aa4\u0aae\u0abe\u0ab0\u0abe \u0a89\u0aaa\u0a95\u0ab0\u0aa3\u0aae\u0abe\u0a82 Play \u0ab8\u0acd\u0a9f\u0acb\u0ab0 \u0ab9\u0acb\u0aaf, \u0aa4\u0acb Android \u0a8d\u0aaa\u0ab5\u0abe\u0ab3\u0abe ChromeVox\u0aa8\u0ac0 \u0a9d\u0ab2\u0a95 \u0aae\u0ac7\u0ab3\u0ab5\u0acb. Play \u0ab8\u0acd\u0a9f\u0acb\u0ab0 \u0aaa\u0ab0\u0aa5\u0ac0 Google Chrome Canary \u0aa1\u0abe\u0a89\u0aa8\u0ab2\u0acb\u0aa1 \u0a95\u0ab0\u0ac0\u0aa8\u0ac7 \u0aaa\u0acd\u0ab0\u0aaf\u0acb\u0a97\u0abe\u0aa4\u0acd\u0aae\u0a95 \u0ab8\u0ab9\u0abe\u0aaf\u0aa8\u0acb \u0a85\u0aa8\u0ac1\u0aad\u0ab5 \u0aae\u0ac7\u0ab3\u0ab5\u0acb."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "\u0ab9\u0a82\u0aae\u0ac7\u0ab6\u0aa8\u0ac0 \u0a9c\u0ac7\u0aae, \u0aa4\u0aae\u0ac7 \u0ab6\u0acb\u0aa7+a \u0aaa\u0a9b\u0ac0 i \u0aa6\u0aac\u0abe\u0ab5\u0ac0\u0aa8\u0ac7 \u0a85\u0aae\u0aa8\u0ac7 \u0ab8\u0ac0\u0aa7\u0acb \u0a9c \u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0ab8\u0abe\u0aa6 \u0aae\u0acb\u0a95\u0ab2\u0ac0 \u0ab6\u0a95\u0acb \u0a9b\u0acb. \u0a85\u0aae\u0ac7 \u0aa4\u0aae\u0abe\u0ab0\u0acb \u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0ab8\u0abe\u0aa6 \u0aae\u0ac7\u0ab3\u0ab5\u0ab5\u0abe \u0a86\u0aa4\u0ac1\u0ab0 \u0a9b\u0ac0\u0a8f."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "ChromeVox \u0a86\u0aa6\u0ac7\u0ab6 \u0ab8\u0a82\u0aa6\u0ab0\u0acd\u0aad"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Chromebook \u0a95\u0ac0\u0aac\u0acb\u0ab0\u0acd\u0aa1 \u0ab6\u0ac9\u0ab0\u0acd\u0a9f\u0a95\u0a9f\u0acd\u0ab8"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "Chromebook \u0a9f\u0a9a \u0ab8\u0acd\u0a95\u0acd\u0ab0\u0ac0\u0aa8 \u0a8d\u0a95\u0acd\u0ab8\u0ac7\u0ab8\u0abf\u0aac\u0abf\u0ab2\u0abf\u0a9f\u0ac0 \u0ab8\u0ac1\u0ab5\u0abf\u0aa7\u0abe\u0a93\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "\u0ab5\u0acd\u0aaf\u0ab8\u0acd\u0aa4"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "\u0ab5\u0acd\u0aaf\u0ab8\u0acd\u0aa4"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "\u0aa1\u0abf\u0aab\u0ac9\u0ab2\u0acd\u0a9f"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "\u0aa1\u0abf\u0aab\u0ac9\u0ab2\u0acd\u0a9f"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "\u0aa7\u0acd\u0ab5\u0aa8\u0abf\u0a93"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox, \u0aa4\u0aae\u0aa8\u0ac7 \u0a86\u0ab5\u0ab6\u0acd\u0aaf\u0a95 \u0a85\u0aa8\u0ac7 \u0ab5\u0aa7\u0abe\u0ab0\u0abe\u0aa8\u0ac0 \u0aae\u0abe\u0ab9\u0abf\u0aa4\u0ac0 \u0a86\u0aaa\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0aa7\u0acd\u0ab5\u0aa8\u0abf\u0a93\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0ac7 \u0a9b\u0ac7. \u0aa4\u0aae\u0ac7 \u0aa6\u0ab0\u0ac7\u0a95 \u0aa7\u0acd\u0ab5\u0aa8\u0abf\u0aa8\u0abe \u0a85\u0ab0\u0acd\u0aa5\u0aa8\u0ac7 \u0a9c\u0abe\u0aa3\u0ac0\u0aa8\u0ac7 \u0ab5\u0aa7\u0ac1 \u0a9d\u0aa1\u0aaa\u0aa5\u0ac0 \u0aa8\u0ac7\u0ab5\u0abf\u0a97\u0ac7\u0a9f \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0a86 \u0aa7\u0acd\u0ab5\u0aa8\u0abf\u0a93\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0ac0 \u0ab6\u0a95\u0acb \u0a9b\u0acb. \u0a8f\u0a95\u0ab5\u0abe\u0ab0 \u0aa4\u0aae\u0ac7 \u0ab5\u0aa7\u0ac1 \u0ab8\u0ab9\u0a9c \u0aa5\u0a88 \u0a9c\u0abe\u0a93 \u0aa4\u0ac7 \u0aaa\u0a9b\u0ac0, \u0aa4\u0aae\u0ac7 \u0ab5\u0abe\u0aa3\u0ac0\u0aae\u0abe\u0a82 \u0ab5\u0ab0\u0acd\u0aac\u0acb\u0a9d \u0ab5\u0ab0\u0acd\u0aa3\u0aa8\u0aa8\u0ac7 \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0ac0 \u0ab6\u0a95\u0acb \u0a9b\u0acb \u0a85\u0aa8\u0ac7 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0 \u0ab5\u0abf\u0ab6\u0ac7 \u0a86\u0ab5\u0ab6\u0acd\u0aaf\u0a95 \u0aae\u0abe\u0ab9\u0abf\u0aa4\u0ac0 \u0aae\u0abe\u0a9f\u0ac7 \u0aa4\u0ac7\u0aae\u0aa8\u0abe \u0aaa\u0ab0 \u0a86\u0aa7\u0abe\u0ab0 \u0ab0\u0abe\u0a96\u0ac0 \u0ab6\u0a95\u0acb \u0a9b\u0acb. \u0a85\u0ab9\u0ac0\u0a82 \u0aa7\u0acd\u0ab5\u0aa8\u0abf\u0a93 \u0a85\u0aa8\u0ac7 \u0aa4\u0ac7\u0a93\u0aa8\u0abe \u0a85\u0ab0\u0acd\u0aa5\u0aa8\u0ac0 \u0a8f\u0a95 \u0ab8\u0a82\u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0ab8\u0ac2\u0a9a\u0abf \u0a9b\u0ac7."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "\u0aae\u0acb\u0aa1\u0ab2 \u0a9a\u0ac7\u0aa4\u0ab5\u0aa3\u0ac0"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "\u0aa8\u0acb\u0aa8 \u0aae\u0acb\u0aa1\u0ab2 \u0a9a\u0ac7\u0aa4\u0ab5\u0aa3\u0ac0"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "\u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "\u0a85\u0aa8\u0a9a\u0ac7\u0a95 \u0a95\u0ab0\u0ac7\u0ab2 \u0a9a\u0ac7\u0a95\u0aac\u0acb\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "\u0a9a\u0ac7\u0a95 \u0a95\u0ab0\u0ac7\u0ab2 \u0a9a\u0ac7\u0a95\u0aac\u0acb\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "\u0ab8\u0a82\u0aaa\u0abe\u0aa6\u0aa8\u0aaf\u0acb\u0a97\u0acd\u0aaf \u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aab\u0ac0\u0ab2\u0acd\u0aa1"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "\u0a85\u0aae\u0abe\u0aa8\u0acd\u0aaf \u0a95\u0ac0 \u0aa6\u0aac\u0abe\u0aa3"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "\u0ab2\u0abf\u0a82\u0a95"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "\u0ab8\u0ac2\u0a9a\u0abf\u0aac\u0acb\u0a95\u0acd\u0ab8 \u0a85\u0aa5\u0ab5\u0abe \u0a95\u0acb\u0aae\u0acd\u0aac\u0acb \u0aac\u0acb\u0a95\u0acd\u0ab8"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "\u0aaa\u0ac3\u0ab7\u0acd\u0aa0 \u0ab2\u0acb\u0aa1 \u0a9a\u0abe\u0ab2\u0ac1 \u0a9b\u0ac7"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "\u0aaa\u0acb\u0aaa \u0a85\u0aaa \u0aac\u0a9f\u0aa8"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "\u0ab8\u0acd\u0ab2\u0abe\u0a87\u0aa1\u0ab0"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "\u0a95\u0acb\u0a88 \u0aaa\u0ac3\u0ab7\u0acd\u0aa0, \u0ab8\u0a82\u0ab5\u0abe\u0aa6 \u0a85\u0aa5\u0ab5\u0abe \u0a85\u0aa8\u0acd\u0aaf \u0a95\u0aa8\u0acd\u0a9f\u0ac7\u0aa8\u0ab0\u0aa8\u0ac0 \u0a85\u0a82\u0aa6\u0ab0 \u0ab6\u0ab0\u0ac2\u0a86\u0aa4\u0aa5\u0ac0 \u0a85\u0a82\u0aa4 \u0ab8\u0ac1\u0aa7\u0ac0 \u0a85\u0aa5\u0ab5\u0abe \u0a85\u0a82\u0aa4\u0aa5\u0ac0 \u0ab6\u0ab0\u0ac2\u0a86\u0aa4 \u0ab8\u0ac1\u0aa7\u0ac0 \u0aaa\u0ac2\u0ab0\u0acd\u0aa3 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "\u0aa1\u0abe\u0ab0\u0acd\u0a95 \u0a95\u0ab0\u0ac7\u0ab2\u0ac0 \u0ab8\u0acd\u0a95\u0acd\u0ab0\u0ac0\u0aa8"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "\u0aa1\u0abe\u0ab0\u0acd\u0a95 \u0aa8 \u0a95\u0ab0\u0ac7\u0ab2\u0ac0 \u0ab8\u0acd\u0a95\u0acd\u0ab0\u0ac0\u0aa8"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "\u0ab5\u0abe\u0aa3\u0ac0 \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "\u0ab5\u0abe\u0aa3\u0ac0 \u0a9a\u0abe\u0ab2\u0ac1 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "\u0ab5\u0abe\u0aa3\u0ac0 \u0a9a\u0abe\u0ab2\u0ac1 \u0a85\u0aa5\u0ab5\u0abe \u0aac\u0a82\u0aa7 \u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0a9f\u0ac9\u0a97\u0ab2 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "6 \u0a85\u0aa8\u0ac7 8 \u0aa1\u0acb\u0a9f \u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2 \u0ab5\u0a9a\u0acd\u0a9a\u0ac7 \u0a9f\u0ac9\u0a97\u0ab2 \u0a95\u0ab0\u0acb"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "\u0a96\u0acb\u0a9f\u0ac0 \u0a9c\u0acb\u0aa1\u0aa3\u0ac0 \u0ab6\u0ab0\u0ac2"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "\u0a96\u0acb\u0a9f\u0ac0 \u0a9c\u0acb\u0aa1\u0aa3\u0ac0 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "\u0ab5\u0acd\u0aaf\u0abe\u0a95\u0ab0\u0aa3\u0aa8\u0ac0 \u0aad\u0ac2\u0ab2 \u0ab6\u0ab0\u0ac2"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "\u0ab5\u0acd\u0aaf\u0abe\u0a95\u0ab0\u0aa3\u0aa8\u0ac0 \u0aad\u0ac2\u0ab2 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aae\u0ac7\u0ab3 \u0ab6\u0ab0\u0ac2"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "\u0a9f\u0ac7\u0a95\u0acd\u0ab8\u0acd\u0a9f \u0aae\u0ac7\u0ab3 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "\u0aac\u0acb\u0ab2\u0acd\u0aa1 \u0ab6\u0ab0\u0ac2"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "\u0aac\u0acb\u0ab2\u0acd\u0aa1 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "\u0a87\u0a9f\u0abe\u0ab2\u0abf\u0a95 \u0ab6\u0ab0\u0ac2"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "\u0a87\u0a9f\u0abe\u0ab2\u0abf\u0a95 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "\u0ab0\u0ac7\u0a96\u0abe\u0a82\u0a95\u0abf\u0aa4 \u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0ab6\u0ab0\u0ac2"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "\u0ab0\u0ac7\u0a96\u0abe\u0a82\u0a95\u0abf\u0aa4 \u0a95\u0ab0\u0ab5\u0abe\u0aa8\u0ac1\u0a82 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abe\u0a87\u0a95 \u0aa5\u0acd\u0ab0\u0ac2 \u0ab6\u0ab0\u0ac2"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abe\u0a87\u0a95 \u0aa5\u0acd\u0ab0\u0ac2 \u0ab8\u0aae\u0abe\u0aaa\u0acd\u0aa4"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "\u0ab2\u0abf\u0a82\u0a95\u0aa8\u0ac0 \u0ab6\u0ab0\u0ac2\u0a86\u0aa4"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "\u0ab2\u0abf\u0a82\u0a95\u0aa8\u0acb \u0a85\u0a82\u0aa4"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "\u0aac\u0acd\u0ab0\u0ac7\u0a87\u0ab2\u0aa8\u0abe \u0ab5\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0ab0\u0abf\u0aa4 \u0a86\u0aa6\u0ac7\u0ab6\u0acb\u0aa8\u0acb \u0a89\u0aaa\u0aaf\u0acb\u0a97 \u0a95\u0ab0\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f\u0ab8 \u0a9f\u0acd\u0ab0\u0ac7\u0aa8\u0ac0 \u0a8d\u0a95\u0acd\u0ab8\u0ac7\u0ab8\u0abf\u0aac\u0abf\u0ab2\u0abf\u0a9f\u0ac0 \u0a85\u0a82\u0aa4\u0ab0\u0acd\u0a97\u0aa4 \u0a95\u0ac3\u0aaa\u0abe \u0a95\u0ab0\u0ac0\u0aa8\u0ac7 \u0a93\u0aa8-\u0ab8\u0acd\u0a95\u0acd\u0ab0\u0ac0\u0aa8 \u0a95\u0ac0\u0aac\u0acb\u0ab0\u0acd\u0aa1 \u0ab8\u0a95\u0acd\u0ab7\u0aae \u0a95\u0ab0\u0acb."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "\u0a95\u0acb\u0a88 \u0ab6\u0ac0\u0ab0\u0acd\u0ab7\u0a95 \u0aa8\u0aa5\u0ac0"
+  }
+}

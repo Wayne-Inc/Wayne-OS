@@ -1,0 +1,5 @@
+﻿
+﻿Der Eigentümer des Geräts hat den Entwicklermodus für dieses Gerät deaktiviert. Wenn Sie den Entwicklermodus verwenden möchten, bitten Sie den Eigentümer, diese Beschränkung aufzuheben.
+
+
+Das System wird im verifizierten Modus neu gestartet.

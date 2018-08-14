@@ -1,0 +1,4 @@
+Aku on värskendamiseks liiga tühi.
+
+Ühendage oma Chromebook toiteallikaga. Värskendamine algab
+automaatselt kohe, kui aku on piisavalt laetud.

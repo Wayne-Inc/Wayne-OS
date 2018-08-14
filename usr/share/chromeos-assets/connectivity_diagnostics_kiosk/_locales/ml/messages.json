@@ -1,0 +1,1098 @@
+{
+  "appname": {
+    "message": "Chrome Connectivity Diagnostics",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Chrome Connectivity Diagnostics (ബീറ്റ)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "Chrome Connectivity Diagnostics (ഡവലപ്പർ)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "Connectivity Diagnostics",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "Connectivity diagnostics",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "ക്രമീകരണങ്ങൾ",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "വിപുലീകരിക്കുക",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "പുനഃസ്ഥാപിക്കുക",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "അടയ്ക്കുക",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "മുകളിലേക്ക് സ്‌ക്രോൾ ചെയ്യുക",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "താഴേക്ക് സ്‌ക്രോൾ ചെയ്യുക",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_connection": {
+    "message": "കണക്ഷൻ",
+    "description": "Attribute label for network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "സിഗ്‌നൽ ദൃഢത",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "MAC വിലാസം",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "IP വിലാസം",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "സബ്‌നെറ്റ് മാസ്‌ക്",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "ഗേറ്റ്‌വേ",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "all_test_groups_summary_title": {
+    "message": "നെറ്റ്‌വർക്ക് കണക്ഷൻ പരിശോധനകൾ",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "ക്യാപ്‌റ്റീവ് പോർട്ടൽ",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "പ്രാദേശിക നെറ്റ്‌വർക്ക്",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "ഫയർവാൾ",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "Google സേവനങ്ങൾ",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "പരിശോധനകൾ നടക്കുന്നു. ഇതിന് അൽപ്പസമയമെടുത്തേക്കും...",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "കണക്റ്റിവിറ്റി ഡയഗ്‌നോസ്റ്റിക്സ് പരിശോധനകൾക്കിടെ ഒരു പിശക് സംഭവിച്ചു. ഗിയർ ഐക്കൺ ക്ലിക്ക് ചെയ്ത് \"പരിശോധനകൾ വീണ്ടും നടത്തുക\" എന്നത് തിരഞ്ഞെടുക്കുക. ഈ പിശക് തുടരുകയാണെങ്കിൽ, ഫീഡ്ബാക്ക് അയയ്‌ക്കുക ലിങ്കിൽ ക്ലിക്കുചെയ്‌ത് പ്രശ്‌നം വിശദീകരിക്കുക.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "ഫീഡ്‌ബാക്ക് അയയ്‌ക്കുക",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "നെറ്റ്‌വർക്ക് ക്രമീകരണങ്ങൾ",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "ഡയഗ്‌നോസ്‌റ്റിക്‌സ് പ്രവർത്തിപ്പിക്കുക",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "ഡയഗ്‌നോസ്‌റ്റിക്‌സ് വീണ്ടും പ്രവർത്തിപ്പിക്കുക",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "മടങ്ങുക",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "നിങ്ങളുടെ നെറ്റ്‌വർക്ക് കണക്ഷൻ ശരിയായി പ്രവർത്തിക്കുന്നതായി തോന്നുന്നു.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "പാസിംഗ് പരിശോധനകൾ ദൃശ്യമാക്കുക",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "പാസിംഗ് പരിശോധനകൾ മറയ്ക്കുക",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "ഡയഗ്‌നോസ്‌റ്റിക്‌സ് വീണ്ടും പ്രവർത്തിപ്പിക്കുക",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "ഫീഡ്‌ബാക്ക് അയയ്‌ക്കുക...",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "ആമുഖം",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "അപ്ലിക്കേഷന് ഒരാമുഖം",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "പതിപ്പ്: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "പാസിംഗ് പരിശോധനകൾ",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "പാസിംഗ് പരിശോധനകൾ",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "മുന്നറിയിപ്പുകൾ",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "മുന്നറിയിപ്പ്",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "പരിശോധന പേര്: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "പരിശോധനാ ഐഡി: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "പരിശോധനാ ഫലം: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "പ്രശ്നമൊന്നും കണ്ടെത്തിയില്ല",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "പ്രശ്‌നം കണ്ടെത്തി",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "സാധ്യതയുള്ള പ്രശ്‌നം കണ്ടെത്തി",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "പരിശോധന പ്രവർത്തിക്കാനാകില്ല",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "ലോഗുകൾ ദൃശ്യമാക്കുക...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "ലോഗുകൾ മറയ്ക്കുക...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "ഫല ലോഗുകൾ പകർത്തുക",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "സംഗ്രഹം",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "മാനദണ്ഡം",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "വിശദാംശങ്ങൾ",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "പിന്തുണാ വിശദാംശങ്ങൾ",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "വിജയിച്ചു",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "പരാജയപ്പെട്ടു",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "ക്യൂവിലാണ്",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "മുന്നറിയിപ്പ്",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "പ്രവർത്തിക്കുന്നു",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "റദ്ദാക്കി",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "നിലവിൽ പരിശോധന ഫലങ്ങളൊന്നും ലഭ്യമല്ല.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "അധിക പരിശോധനകൾ ശേഷിക്കുന്നു. പൂർത്തിയാക്കുമ്പോൾ ഫലങ്ങൾ ദൃശ്യമാക്കും.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "പരിശോധനകൾ",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "UDP സോക്കറ്റിൽ നിന്ന് ലഭിച്ച റോ ഡാറ്റ: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "UDP സോക്കറ്റിൽ നിന്നും ഇനിപ്പറയുന്ന വലുപ്പമുള്ള (ബൈറ്റുകളുള്ള) ഡാറ്റ റീഡുചെയ്‌തു: ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "UDP ഡാറ്റ റീഡുചെയ്യുന്നതിൽ പിശക്. പിശക് കോഡ്: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "ഇനിപ്പറയുന്ന വലുപ്പമുള്ള (ബൈറ്റുകളുള്ള) ഡാറ്റ അയച്ചു: ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "ഇനിപ്പറയുന്ന വലുപ്പമുള്ള (ബൈറ്റുകളുള്ള) UDP സോക്കറ്റ് ഡാറ്റ അയയ്ക്കാൻ തയ്യാറാകുന്നു: ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "ഒരു UDP സോക്കറ്റ്, നമ്പർ / ഹോസ്റ്റ് / പോർട്ട് സൃഷ്ടിക്കുന്നു: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "UDP കാലഹരണപ്പെടൽ ദൈർഘ്യം (msec) സജ്ജമാക്കുന്നു: ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "TCP സോക്കറ്റിൽ നിന്ന് ലഭിച്ച റോ ഡാറ്റ: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "TCP സോക്കറ്റിൽ നിന്ന് റീഡുചെയ്‌ത ഇനിപ്പറയുന്ന വലുപ്പമുള്ള (ബൈറ്റുകളുള്ള) ഡാറ്റ: ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "TCP ഡാറ്റ റീഡുചെയ്യുന്നതിൽ പിശക്. പിശക് കോഡ്: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "ഇനിപ്പറയുന്ന വലുപ്പമുള്ള (ബൈറ്റുകളുള്ള) ഡാറ്റ അയച്ചു: ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "ഇനിപ്പറയുന്ന വലുപ്പമുള്ള (ബൈറ്റുകളുള്ള) ഡാറ്റ അയയ്‌ക്കാൻ തയ്യാറാകുന്നു: ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "ഹോസ്റ്റ് / പോർട്ട് / സ്റ്റാറ്റസ് കോഡ് ഉപയോഗിച്ച് TCP കണക്ഷൻ സ്ഥാപിച്ചു: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "ഹോസ്റ്റ് / പോർട്ട് / സ്റ്റാറ്റസ് കോഡ് ഉപയോഗിച്ചുള്ള TCP കണക്ഷൻ പരാജയപ്പെട്ടു: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "കണക്ഷൻ പരാജയപ്പെട്ടതിന്റെ കാരണം: അജ്ഞാതം",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "ഹോസ്റ്റ് / പോർട്ട് ഉപയോഗിച്ച് TCP കണക്ഷൻ സ്ഥാപിച്ചു: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "കണക്ഷൻ പരാജയപ്പെട്ടതിന്റെ കാരണം: കാലഹരണപ്പെട്ടു",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "കണക്ഷൻ പരാജയപ്പെട്ടതിന്റെ കാരണം: കണക്ഷൻ നിരസിച്ചു",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "ഒരു TCP സോക്കറ്റ്, നമ്പർ / ഹോസ്റ്റ് / പോർട്ട് സൃഷ്ടിക്കുന്നു: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "TCP കാലഹരണപ്പെടൽ ദൈർഘ്യം (മി.സെ) ക്രമീകരിക്കുന്നു: ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "Chrome ഇന്റർനെറ്റ് വിച്‌ഛേദിച്ച പരീക്ഷണം",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "ഒരു നെറ്റ്‌വർക്കുമായി കണക്റ്റുചെയ്തിട്ടില്ല",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "ഇന്റർനെറ്റ് കണക്ഷൻ ലഭ്യമാണ്",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "ഒരു നെറ്റ്‌വർക്കിലേക്ക് Chrome കണക്റ്റുചെയ്തിട്ടില്ല. നിങ്ങളുടെ ഓപ്പറേറ്റിംഗ് സിസ്റ്റത്തിന്റെ നെറ്റ്‌വർക്ക് ക്രമീകരണങ്ങൾ പരിശോധിക്കുക.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Chrome ബ്രൗസറിനായി ഒരു ഇന്റർനെറ്റ് കണക്ഷൻ ലഭ്യമാണ്.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "ഇന്റർനെറ്റ് വിച്ഛേദിച്ച സ്റ്റാറ്റസ് കോഡ് നൽകുന്ന TCP സോക്കറ്റുകളുടെ ശതമാനം റെൻഡർചെയ്‌തിരിക്കുന്ന പ്രശ്‌നരഹിതമായ വെർഡിക്റ്റിന് താഴെയാണ്: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "ഇന്റർനെറ്റ് വിച്‌ഛേദിക്കപ്പെട്ട സ്റ്റാസ് കോഡുകൾ നൽകുന്ന TCP സോക്കറ്റുകളുടെ ശതമാനം റെൻഡർ ചെയ്തിരിക്കുന്ന പ്രശ്നമുള്ള വെർഡിക്റ്റിന് തുല്യമോ അതിനുമുകളിലോ ആണ്: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " Chrome ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധന, TCP സ്റ്റാറ്റസ് കോഡ് നൽകി: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " TCP കണക്ഷൻ # / ഹോസ്റ്റ്‌നെയിം / പോർട്ട് എന്നതിനായി ശ്രമിക്കാൻ പോകുകയാണ്: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "ChromeOS ഇന്റർനെറ്റ് വിച്ഛേദിച്ച പരീക്ഷണം",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "നെറ്റ്‌വർക്കിലേക്ക് കണക്റ്റുചെയ്തിട്ടില്ല",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "ഇന്റർനെറ്റ് കണക്ഷൻ ലഭ്യമാണ്",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "ഈ Chromebook ഒരു നെറ്റ്‌വർക്കിൽ കണക്റ്റുചെയ്‌തിട്ടില്ല. സ്റ്റാറ്റസ് ട്രേയിലേക്ക് പോയി ലഭ്യമായ ഒരു നെറ്റ്‌വർക്കിൽ കണക്റ്റുചെയ്യുക.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "ഒരു ഇന്റർനെറ്റ് കണക്ഷൻ ലഭ്യമാണ്.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "കണക്റ്റുചെയ്ത നെറ്റ്‌വർക്ക് ഇന്റർഫേസ് ഒരു കണക്റ്റുചെയ്ത സ്റ്റാറ്റസ് കോഡ് നൽകുമ്പോൾ ഒരു പ്രശ്നരഹിത ഫലം ലഭിക്കുന്നു",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "കണക്റ്റുചെയ്ത നെറ്റ്‌വർക്ക് ഇന്റർഫേസ് ഒരു വിച്‌ഛേദിച്ച സ്റ്റാറ്റസ് കോഡ് നൽകുമ്പോൾ പ്രശ്നമുള്ള ഒരു ഫലം ലഭിക്കുന്നു: ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "ലഭ്യമായ നെറ്റ്‌വർക്കുകളുടെ എണ്ണം കണ്ടെത്തി: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "Chrome പതിപ്പ് പരിശോധന",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "Google Chrome-ന്റെ ഏറ്റവും പുതിയ പതിപ്പല്ല",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "Google Chrome-ന്റെ ഏറ്റവും പുതിയ പതിപ്പാണ്",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "നിങ്ങൾക്ക് Google Chrome-ന്റെ ഏറ്റവും പുതിയ പതിപ്പ് ഇല്ല. നിങ്ങൾക്ക് എല്ലാ അറിയപ്പെടുന്ന ബഗ് പരിഹരിക്കലുകളും ഇല്ലെന്നും കണക്‌റ്റിവിറ്റി പ്രശ്നങ്ങൾ നേരിടാനിടയുണ്ടെന്നുമാണ് ഇതിനർത്ഥം. ബ്രൗസർ ടൂൾബാറിലെ Chrome മെനുവിൽ ക്ലിക്ക് ചെയ്ത് Google Chrome അപ്ഡേറ്റ് എന്നത് തിരഞ്ഞെടുക്കുക.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "നിങ്ങൾക്ക് Google Chrome-ന്റെ ഏറ്റവും പുതിയ പതിപ്പ് ഉള്ളതിനാൽ എല്ലാ കണക്റ്റിവിറ്റി ബഗുകളും പരിഹരിക്കുന്നതിനുള്ള അറിയപ്പെടുന്ന എല്ലാ ബഗ് പരിഹരിക്കലുകളും നിങ്ങൾക്ക് ഉണ്ട്.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "റോ ബ്രൗസർ ഉപയോക്തൃ-ഏജന്റ്: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "ബ്രൗസർ പതിപ്പ് നമ്പർ (ഹ്രസ്വം): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "ബ്രൗസർ പതിപ്പ് നമ്പർ (പൂർണ്ണം): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "Chrome പതിപ്പ് നമ്പറിനുള്ള പരിധി ഞങ്ങൾ റെൻഡർ ചെയ്യുന്ന പ്രശ്നരഹിത വെർഡിക്റ്റിന് തുല്യമോ അതിനു മുകളിലോ ആണ്: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "Chrome പതിപ്പ് നമ്പറിനുള്ള പരിധി ഞങ്ങൾ റെൻഡർ ചെയ്യുന്ന പ്രശ്നമുള്ള വെർഡിക്റ്റിലും കുറവാണ്: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "ChromeOS പതിപ്പ് പേര്",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "Chrome OS കാലഹരണപ്പെട്ടു",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "Chrome OS അപ്‌ ടു ഡേറ്റാണ്",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "നിങ്ങൾ Chrome OS-ന്റെ ഏറ്റവും സമീപകാലത്തെ പതിപ്പ് ഉപയോഗിക്കുന്നില്ല. തൽഫലമായി, അറിയപ്പെടുന്ന എല്ലാ ബഗ് പരിഹരിക്കലും നിങ്ങൾക്ക് ലഭ്യമല്ലാത്തതിനാൽ നിങ്ങൾക്ക് കണക്‌റ്റിവിറ്റി പ്രശ്‌നങ്ങൾ നേരിടാനിടയുണ്ട്.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "നിങ്ങൾ Chrome OS-ന്റെ ഏറ്റവും സമീപകാലത്തെ പതിപ്പ് ഉപയോഗിക്കുന്നതിനാൽ കണക്‌റ്റിവിറ്റി പ്രശ്‌നങ്ങൾക്കുള്ള അറിയപ്പെടുന്ന എല്ലാ പരിഹരിക്കലും നിങ്ങൾക്ക് ലഭ്യമാണ്.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Chrome OS പതിപ്പ് പരിശോധനയിൽ ഒരു പ്രശ്‌നം കണ്ടെത്തി. Chrome OS പതിപ്പ് കാലഹരണപ്പെട്ടതാണ്. ഇപ്പോൾ മിനിമം പതിപ്പ് ഇതാണ്: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Chrome OS പതിപ്പ് പരീക്ഷണം ഒരു പ്രശ്‌നം കണ്ടെത്തിയില്ല. Chrome OS പതിപ്പ് കാലികമാണ്. ഇപ്പോൾ മിനിമം പതിപ്പ് ഇതാണ്: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "റോ ബ്രൗസർ ഉപയോക്തൃ-ഏജന്റ്: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "ഹ്രസ്വമായ Chrome OS പ്ലാറ്റ്‌ഫോം നമ്പർ: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "പൂർണ്ണമായ Chrome OS പ്ലാറ്റ്‌ഫോം നമ്പർ: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "ChromeOS പ്ലാറ്റ്‌ഫോം നമ്പറിനുള്ള പരിധി ഞങ്ങൾ റെൻഡർ ചെയ്യുന്ന പ്രശ്നരഹിത വെർഡിക്റ്റിലും കൂടുതലോ അതിനുതുല്യമോ ആണ്: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "ChromeOS പ്ലാറ്റ്‌ഫോം നമ്പറിനുള്ള പരിധി ഞങ്ങൾ റെൻഡർ ചെയ്യുന്ന പ്രശ്നമുള്ള വെർഡിക്റ്റിലും കുറവാണ്: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "റിസോൾവർ നിലവിലെ പരിശോധന",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "പ്രവർത്തിക്കുന്ന DNS സെർവറുകളൊന്നും ലഭ്യമല്ല",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "DNS സെർവർ ലഭ്യമാണ്",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "ഒരു DNS സെർവർ, ഹോസ്റ്റിന്റെ പേര് (ഉദാ. www.google.com) IP വിലാസത്തിലേക്ക് വിവർത്തനം ചെയ്യുന്നു. ഒരു വെബ്‌സൈറ്റ് ലോഡുചെയ്യുന്നതിന് ബ്രൗസറിന് ഒരു IP വിലാസം ഉണ്ടായിരിക്കണം. നിങ്ങളുടെ DNS സെർവർ പ്രവർത്തിക്കാത്തതിനാൽ Chrome-ന് നിങ്ങൾ സന്ദർശിക്കാനാഗ്രഹിക്കുന്ന വെബ്‌സൈറ്റിന്റെ IP നിർണ്ണയിക്കാനാവില്ല. നിങ്ങളുടെ ISP-യെ അല്ലെങ്കിൽ നെറ്റ്‌വർക്ക് അഡ്മിനിസ്ട്രേറ്ററെ ബന്ധപ്പെടുക.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "ഒരു ഹോസ്റ്റ്‌നെയിമിനെ (e.g. www.google.com) IP വിലാസത്തിലേക്ക് വിവർത്തനം ചെയ്ത ഒരു DNS സെർവറിനെ Chrome കണ്ടെത്തി.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "ഹോസ്‌റ്റ്‌നെയിം പരിഹരിക്കാൻ ശ്രമിക്കുന്നു: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "DNS സെർവർ, DNS അന്വേഷണ ഫലങ്ങൾ നൽകി.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "DNS സെർവർ ഫലങ്ങളൊന്നും നൽകിയില്ല.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "ഹോസ്‌റ്റ്‌നെയിം IP വിലാസത്തിൽ പരിഹരിച്ചു: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "ഒരു സാധുവായ പ്രതികരണം ലഭിക്കുകയാണെങ്കിൽ, DNS റിസോൾവർ പരിശോധന ഒരൊറ്റ DNS അന്വേഷണം നടത്തി വിജയ ഫലം നൽകുന്നു.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "ഒരു സാധുവായ പ്രതികരണം ലഭിക്കുന്നില്ലെങ്കിൽ, DNS റിസോൾവർ പരിശോധന ഒരൊറ്റ DNS അന്വേഷണം നടത്തി പരാജയ ഫലം നൽകുന്നു.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "DNS സെർവർ വിജയകരമായ സ്‌റ്റാറ്റസ് കോഡ് നൽകി: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "DNS സെർവർ പ്രശ്‌നമുള്ള സ്റ്റാറ്റസ് കോഡ് നൽകി: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "റിസോൾവർ ലേറ്റൻസി പരിശോധന",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "DNS റെസലൂഷൻ വളരെ അധികം സമയമെടുത്തു",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "DNS റെസലൂഷൻ ശരാശരിയേക്കാൾ കൂടുതൽ സമയമെടുത്തു",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "വേഗതയുള്ള DNS പ്രതികരണങ്ങൾ ലഭിച്ചു",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "നിങ്ങളുടെ DNS സെർവർ, ഉത്തരങ്ങൾ വേഗത്തിൽ നൽകുന്നില്ല. ഒരു DNS സെർവർ, ഹോസ്റ്റ്‌നെയിമിനെ (ഉദാ. www.google.com) IP വിലാസത്തിലേക്ക് വിവർത്തനം ചെയ്യുന്നു. ഒരു വെബ്‌സൈറ്റ് ലോഡുചെയ്യുന്നതിനായി കണക്റ്റുചെയ്യാൻ ബ്രൗസറിന് ഒരു IP വിലാസം ഉണ്ടായിരിക്കണം..",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "നിങ്ങളുടെ DNS സെർവർ, ആവശ്യമായ വേഗത്തിൽ ഉത്തരങ്ങൾ നൽകുന്നില്ല. ഒരു DNS സെർവർ, ഹോസ്റ്റ്‌നെയിമിനെ (ഉദാ. www.google.com) IP വിലാസത്തിലേക്ക് വിവർത്തനം ചെയ്യുന്നു. ഒരു വെബ്‌സൈറ്റ് ലോഡുചെയ്യുന്നതിനായി കണക്റ്റുചെയ്യാൻ ബ്രൗസറിന് ഒരു IP വിലാസം ഉണ്ടായിരിക്കണം.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "നിങ്ങളുടെ അഭ്യർത്ഥനകൾക്ക് DNS സെർവർ വേഗത്തിൽ ഉത്തരങ്ങൾ നൽകുന്നു! ഒരു DNS സെർവർ, ഹോസ്റ്റ്‌നെയിമിനെ (ഉദാ. www.google.com) IP വിലാസത്തിലേക്ക് വിവർത്തനം ചെയ്യുന്നു. ഒരു വെബ്‌സൈറ്റ് ലോഡുചെയ്യുന്നതിനായി കണക്റ്റുചെയ്യാൻ ബ്രൗസറിന് ഒരു IP വിലാസം ഉണ്ടായിരിക്കണം.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "ഹോസ്റ്റ്‌നെയിം # പരിഹരിക്കാൻ ശ്രമിക്കുന്നു: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "DNS റസലൂഷനുള്ള ഫലം ലഭിച്ചു. പരിശോധന നമ്പർ / നിലവിലെ സമയം / എടുത്ത സമയം (മി.സെ) / ആരംഭിച്ച സമയം (മി.സെ): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "എല്ലാ പരിശോധനകൾക്കുമുള്ള മൊത്തം DNS റസലൂഷൻ സമയം (മി.സെ): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "പരിഹരിച്ച മൊത്തം DNS ഹോസ്റ്റുകൾ: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "ശരാശരി DNS റസല്യൂഷൻ സമയം (മി.സെ): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "റെൻഡർ ചെയ്‌തിരിക്കുന്ന പ്രശ്‌നരഹിത വെർഡിക്റ്റ് താഴെയുള്ള ശരാശരി DNS റെസലൂഷൻ സമയം (മി.സെ.) ബെഞ്ച്‌മാർക്ക്: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "റെൻഡർ ചെയ്‌തിരിക്കുന്ന പ്രശ്‌നമുള്ള വെർഡിക്റ്റിനിടയിലുള്ള ശരാശരി DNS റെസലൂഷൻ സമയ (മി.സെ.) ബെഞ്ച്‌മാർക്ക്: ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "റെൻഡർചെയ്‌തിരിക്കുന്ന പ്രശ്‌നമുള്ള വെർഡിക്റ്റിന് മുകളിലുള്ള ശരാശരി റസലൂഷൻ സമയ (മി.സെ.) ബെഞ്ച്‌മാർക്ക്: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "DNS പോയിസണിംഗ് പരിശോധന",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "DNS സെർവർ പ്രതീക്ഷിച്ച ഫലങ്ങൾ നൽകി",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "DNS ഫലങ്ങൾ പ്രതീക്ഷിച്ചവയായതിനാൽ അവ കൃത്യമായിത്തോന്നുന്നു",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "DNS ഫലങ്ങൾ പ്രതീക്ഷിക്കാത്തവയായതിനാൽ അവ ദോഷകരമാകാനിടയുണ്ട്",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "ദോഷകരമായ DNS പ്രതികരണം നൽകി. ഒരു ദോഷകരമായ DNS സെർവർ ഒരു തെറ്റായ IP വിലാസം നൽകി നിങ്ങൾ ഉദ്ദേശിക്കാത്ത മറ്റൊരു ഹോസ്റ്റിലേക്ക് നിങ്ങളുടെ ട്രാഫിക്ക് വഴിതിരിച്ചു വിടാനിടയുണ്ട്.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "റിസോൾവർ പ്രതീക്ഷിച്ച IP വിലാസം നൽകാതിരിക്കുമ്പോൾ, DNS ഫലങ്ങളെ ദോഷകരമായവയെന്ന് കണക്കാക്കുന്നു.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "റിസോൾവർ പ്രതീക്ഷിച്ച IP ഫലം നൽകുമ്പോൾ DNS ഫലങ്ങളെ ദോഷകരമല്ലാത്തവയെന്ന് കണക്കാക്കുന്നു.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "പരിശോധന # / ഹോസ്‌റ്റ്‌നെയിം പരിശോധിക്കുക : ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " പരിശോധനയിൽ DNS വിലാസ ഫീൽഡൊന്നും ലഭിച്ചില്ല (ശൂന്യമെന്ന് സജ്ജമാക്കുക)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " പരിശോധന; ഫല സ്റ്റാറ്റസ് കോഡ് ഒന്നുമില്ല; പരിശോധന പരാജയപ്പെട്ടതിനാൽ പരിശോധന നിരസിക്കുന്നു.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " പരിശോധന, സ്റ്റാറ്റസ് കോഡ് നൽകി: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " ലഭിച്ച പരിഹരിച്ച DNS വിലാസം: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "TCP ഫയർവാൾ പരിശോധന",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "പോർട്ടിൽ ഇന്റർനെറ്റ് ട്രാഫിക്ക് തടഞ്ഞു ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "പോർട്ടിൽ ഇന്റർനെറ്റ് ട്രാഫിക്ക് തടഞ്ഞതായി തോന്നുന്നു ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "പോർട്ടിൽ ഇന്റർനെറ്റ് ട്രാഫിക്ക് അനുവദിച്ചു ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "സാധാരണയായി ഉപയോഗിക്കുന്ന ഇന്റർനെറ്റ് കണക്ഷന് നിങ്ങളുടെ നെറ്റ്‌വർക്കിൽ ഒരു നിയന്ത്രണമുണ്ട്.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "സാധാരണയായി ഉപയോഗിക്കുന്ന ഇന്റർനെറ്റ് കണക്ഷനുള്ള നിങ്ങളുടെ നെറ്റ്‌വർക്കിൽ ഒരു നിയന്ത്രണമുള്ളതായി തോന്നുന്നു.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "പോർട്ടിൽ ഒരു കണക്ഷൻ സൃഷ്‌ടിച്ചു ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " TCP കണക്ഷൻ # / ഹോസ്റ്റ്‌നെയിം / പോർട്ട് എന്നതിനായി ശ്രമിക്കാൻ പോകുകയാണ്: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " TCP ഫയർവാൾ പരിശോധന നൽകിയ TCP സ്റ്റാ‌റ്റസ് കോഡ്: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "ഫയർവാൾ പരിശോധന ഫലങ്ങൾ: പരിശോധനകൾ നടന്നു / പോർട്ട് പരിശോധിച്ചു / പരാജയപ്പെട്ട കണക്ഷനുകളുടെ എണ്ണം: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "കണക്ഷൻ പരിശോധന ശ്രമം പരാജയപ്പെട്ടു, Chrome നെറ്റ്‌വർക്ക് സ്‌റ്റാക്കിൽ നിന്ന് വിജയകരമായ TCP സ്റ്റാറ്റസ് കോഡ് നൽകിയില്ലെങ്കിലും സ്റ്റാറ്റസ്‌ കോഡ് നൽകി: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "DNS റിസോൾവർ ലഭ്യമല്ലെന്ന് കണ്ടെത്തിയതിനാൽ, ഞങ്ങൾക്ക് ഒരു ഫയർവാൾ നിലവിലുണ്ടോയെന്ന് നിർണ്ണയിക്കാനായില്ല",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "കണ്ടെത്തിയ നെറ്റ്‌വർക്ക് ലഭ്യമല്ലാത്തതിനാൽ, ഞങ്ങൾക്ക് ഒരു ഫയർവാൾ നിലവിലുണ്ടോയെന്ന് നിർണ്ണയിക്കാനാകില്ല",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "പരാജയപ്പെട്ട TCP കണക്ഷൻ പരിശോധന ഫലങ്ങൾ ഇനിപ്പറയുന്നവയിൽ കുറവോ ഇതിന് തുല്യമോ ആയിരിക്കുമ്പോൾ ഒരു പ്രശ്നരഹിത വെർഡിക്റ്റ് റെൻഡർ ചെയ്തു: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "പരാജയപ്പെട്ട TCP കണക്ഷൻ പരിശോധന ഫലങ്ങൾ ഇതിന് തുല്യമായിരിക്കുമ്പോൾ ഒരു പ്രശ്‌ന വെർഡിക്റ്റ് റെൻഡർ ചെയ്‌തു: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "പരാജയപ്പെട്ട TCP കണക്ഷൻ പരിശോധന ഫലങ്ങൾ ഇതിനിടയിൽ ആയിരിക്കുമ്പോൾ സാധ്യമായ ഒരു പ്രശ്‌ന വെർഡിക്റ്റ് റെൻഡർ ചെയ്‌തു: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "HTTP ക്യാപ്‌റ്റീവ് പോർട്ടൽ പരിശോധന",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "ക്യാപ്‌റ്റീവ് പോർട്ടൽ (HTTP) ഇന്റ‌ർനെറ്റ് ട്രാഫിക് തടഞ്ഞു",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "HTTP ക്യാപ്‌‌റ്റീവ് പോർട്ടലിനായി ശരിയായി പരിശോധന നടത്താനായില്ല",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "സ്വതന്ത്ര ഇന്റർനെറ്റ് ആക്സസ്സ് കണ്ടെത്തി",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "സ്വതന്ത്രമായി ഇന്റർനെറ്റ് ബ്രൗസുചെയ്യുന്നതിനുള്ള അനുമതി നൽകുന്നതിന് മുമ്പായി ഉപയോക്താക്കൾക്ക് കാണാനും സംവദിക്കാനും ഒരു നെറ്റ്‌വർക്കിന് ആവശ്യമായ വെബ്‌സൈറ്റാണ് ക്യാപ്‌റ്റീവ് പോർട്ടൽ. നിങ്ങളുടെ നെറ്റ്‌വർക്കിൽ ഒരു ക്യാപ്‌റ്റീവ് പോർട്ടൽ കണ്ടെത്തി, ഇന്റർനെറ്റിലേക്കുള്ള അനിയന്ത്രിത ആക്സസ്സ് തടഞ്ഞു എന്നാണ് അതിനർത്ഥം.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "HTTP ക്യാപ്‌റ്റീവ് പോർട്ടലിന്റെ പരിശോധന തടയുന്ന ഒരു പിശക് ഉണ്ടായി. ഇങ്ങനെ പൊതുവായി സംഭവിക്കുന്നത്, നിങ്ങളുടെ എല്ലാ നെറ്റ്‌വർക്ക് ട്രാഫിക്കുകളും നിരസിക്കുകയോ തടയുകയോ ചെയ്യുമ്പോഴാണ്.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "സ്വതന്ത്ര ഇന്റർനെറ്റ് ആക്സസ്സ് കണ്ടെത്തി. സ്വതന്ത്രമായി ഇന്റർനെറ്റ് ബ്രൗസുചെയ്യുന്നതിനുള്ള അനുമതി നൽകുന്നതിന് മുമ്പായി ഉപയോക്താക്കൾക്ക് കാണാനും സംവദിക്കാനും ഒരു നെറ്റ്‌വർക്കിന് ആവശ്യമായ വെബ്‌സൈറ്റാണ് ക്യാപ്‌റ്റീവ് പോർട്ടൽ.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "എല്ലാ HTTP അഭ്യർത്ഥനകളും ഒരു 204 സ്റ്റാറ്റസ് കോഡ് നൽകുന്നുവെങ്കിൽ HTTP ക്യാപ്‌റ്റീവ് പോർട്ടൽ പരിശോധന ഒരു പ്രശ്നരഹിത വെർഡിക്റ്റ് നൽകുന്നു",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "ഇനിപ്പറയുന്ന HTTP അഭ്യർത്ഥനാ ശതമാനത്തേക്കാൾ കൂടുതലാണ് നെറ്റ്‌വർക്ക് സ്റ്റാക്ക് പ്രശ്‌നങ്ങളെങ്കിൽ, HTTP ക്യാപ്റ്റീവ് പോർട്ടൽ പരിശോധന ഒരു പ്രശ്‌ന സാധ്യതയുള്ള വെർഡിക്റ്റ് നൽകുന്നു: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "HTTP അഭ്യർത്ഥനകളിലൊന്നും ഒരു 204 HTTP സ്റ്റാറ്റസ് കോഡ് നൽകുന്നില്ലെങ്കിൽ HTTP ക്യാപ്‌റ്റീവ് പോർട്ടൽ പരിശോധന ഒരു പ്രശ്‌നമുള്ള വെർഡിക്റ്റ് നൽകുന്നു",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "അഭ്യർത്ഥനയിൽ പിശക് # / പിശക് സ്റ്റാറ്റസ്: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "പ്രതികരണ നമ്പർ / HTTP പ്രതികരണ കോഡ്: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "പ്രതികരണ നമ്പർ / HTTP പ്രതികരണ തലക്കെട്ടുകൾ: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "അഭ്യർത്ഥന നമ്പർ / പൂർണ്ണമായ പ്രതികരണ ദൈർഘ്യം ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "Google വെബ്‌സൈറ്റ് HTTP ലാറ്റൻസി പരിശോധന",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "Google-ലേക്കുള്ള വെബ് അഭ്യർത്ഥനകൾക്ക് കൂടുതൽ സമയമെടുക്കുന്നു",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "Google-ലേക്കുള്ള വെബ് അഭ്യർത്ഥനകൾക്ക് പ്രതീക്ഷിച്ചതിലുമധികം സമയമെടുക്കുന്നു",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "Google വെബ്സൈ‌റ്റിൽ നിന്നും വേഗത്തിൽ പ്രതികരണങ്ങൾ ലഭിച്ചു",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Google വെബ്‌സൈറ്റുകളിൽ നിന്ന് ഒരു പ്രതികരണം ലഭിക്കുന്നതിന് പതിവിലും വളരെയധികം സമയമെടുത്താൽ, അത് നെറ്റ്‌വർക്ക് മന്ദഗതിയിലാണ് എന്നതിന്റെ സൂചനയാണ്.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Google വെബ്സൈ‌റ്റുകളിൽ നിന്ന് ഒരു പ്രതികരണം ലഭിക്കുന്നതിന് പതിവിലും അൽപ്പം സമയമെടുത്താൽ, അത് നെറ്റ്‌വർക്ക് മന്ദഗതിയിലാണ് എന്നതിന്റെ സൂചനയാണ്.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "Google-ലേക്കുള്ള വെബ് അഭ്യർത്ഥനകൾ വേഗത്തിൽ ലഭിക്കുന്നു.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "അഭ്യർത്ഥനയിൽ പിശക് # / പിശക് സ്റ്റാറ്റസ്: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "ശരാശരി HTTP പ്രതികരണ സമയം (മി.സെ): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "HTTP അഭ്യർത്ഥനകളുടെ മൊത്തം എണ്ണം: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "മൊത്തം HTTP പ്രതികരണ സമയം (മി.സെ): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "HTTP പ്രതികരണം # / ലഭിച്ച സമയം (മൈക്രോടൈംസ്റ്റാമ്പ്) / കഴിഞ്ഞ സമയം(മി.സെ): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "റെൻഡർചെയ്‌തിരിക്കുന്ന പ്രശ്‌നരഹിതമായ വെർഡിക്റ്റിന് താഴെയുള്ള ശരാശരി HTTP ലേറ്റൻസി സമയ (മി.സെ.) ബെഞ്ച്‌മാർക്ക്: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "റെൻഡർചെയ്‌തിരിക്കുന്ന പ്രശ്‌നസാധ്യതയുള്ള വെർഡിക്റ്റിനിടയിലുള്ള ശരാശരി HTTP ലേറ്റൻസി സമയ (മി.സെ.) ബെഞ്ച്‌മാർക്ക്: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "റെൻഡർചെയ്‌തിരിക്കുന്ന പ്രശ്‌നമുള്ള വെർഡിക്റ്റിന് മുകളിലുള്ള ശരാശരി HTTP ലേറ്റൻസി സമയ (മി.സെ.) ബെഞ്ച്‌മാർക്ക്: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "ChromeOS WiFi സിഗ്നൽ ദൃഢത പരിശോധന",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "WiFi സിഗ്‌നൽ ദൃഢത പരിശോധന പരാജയപ്പെട്ടു",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "Wi-Fi കണക്ഷനൊന്നും കണ്ടെത്താത്തതിനാൽ, പരിശോധന പ്രവർത്തിക്കാനായില്ല.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "നെറ്റ്‌വർക്കിന്റെ സിഗ്‌നൽ ദൃഢത കുറവാണ്",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "WiFi നെറ്റ്‌വർക്കിന്റെ സിഗ്‌നൽ ദൃഢത ദുർബലമാണ്.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "നെറ്റ്‌വർക്കിന്റെ സിഗ്‌നൽ ദൃഢത ശക്തമാണ്",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "WiFi നെറ്റ്‌വർക്കിന്റെ സിഗ്‌നൽ ദൃഢത ശക്തമാണ്.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "നെറ്റ്‌വർക്കിന്റെ സിഗ്‌നൽ പേര് / സിഗ്‌നൽ ദൃഢത: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "റെൻഡർചെയ്‌തിരിക്കുന്ന പ്രശ്‌നമുള്ള വെർഡിക്റ്റിന് മുകളിലുള്ള ChromeOS സിഗ്നൽ ദൃഢത ബെഞ്ച്‌മാർക്: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "റെൻഡർചെയ്‌തിരിക്കുന്ന പ്രശ്‌നമുള്ള വെർഡിക്റ്റിന് താഴെയുള്ള ChromeOS സിഗ്നൽ ദൃഢത ബെഞ്ച്‌മാർക്ക്: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "ഗേറ്റ്‌വേ പിംഗുചെയ്യൽ പരിശോധന",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "ഗേറ്റ്‌വേ പിംഗുചെയ്യാനായില്ല",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "ഗേറ്റ്‌വേ പിംഗുചെയ്യൽ വേഗത്തിലുള്ള പ്രതികരണം നൽകുന്നില്ല.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "ഗേറ്റ്‌വേ ലഭ്യമാണ്",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "ഗേറ്റ്‌വേ പിംഗുചെയ്യൽ വേഗത്തിലുള്ള പ്രതികരണം നൽകുന്നു.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "ഒരു പ്രശ്‌നരഹിത വെർഡിക്റ്റ് ഞങ്ങൾ റെൻഡർ ചെയ്യുന്നതിന് താഴെയുള്ള ഗേറ്റ്‌വേ പിംഗ് ചെയ്യുന്നതിനുള്ള ലേറ്റൻസിയുടെ (മി.സെ) പരിധി: ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "ഒരു പ്രശ്‌നമുള്ള വെർഡിക്റ്റ് ഞങ്ങൾ റെൻഡർ ചെയ്യുന്നതിന് താഴെയുള്ള ഗേറ്റ്‌വേ പിംഗ് ചെയ്യുന്നതിനുള്ള ലേറ്റൻസിയുടെ (മി.സെ) പരിധി: ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "ഗേറ്റ്‌വേ IP-യിലേക്ക് നേരിട്ടുള്ള ICMP അന്വേഷണത്തിന് ഒരിക്കലും ഒരു പ്രതികരണ പായ്‌ക്കറ്റ് ലഭിക്കുന്നതല്ല.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "ICMP പായ്‌ക്കറ്റ് ലേറ്റൻസി (മി.സെ.): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "ഗേറ്റ്‌വേയുടെ IP നിർണ്ണയിക്കാനായില്ല",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "നിർണ്ണയിച്ച ഗേറ്റ്‌വേയുടെ IP ഇതാണ്: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "1-ന്റെ TTL ഉപയോഗിച്ച് ഒരു വിദൂര ഹോസ്റ്റിലേക്ക് ICMP പാക്കറ്റ് അയയ്‌ക്കുന്നതിൽ നിന്ന് ലഭിച്ച IP, വിദൂര ഹോസ്റ്റിന്റെ IP-യ്‌ക്ക് സമാനമായിരുന്നു: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "Hangouts കണക്റ്റിവിറ്റി പരിശോധന",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "Hangouts കണക്ഷൻ ലഭ്യമാണ്",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "Hangouts സേവനവുമായി കണക്‌റ്റുചെയ്തു.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Hangouts കണക്ഷൻ ഭാഗികമായി തകർന്നതുപോലെ തോന്നുന്നു",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "19309 വഴി UDP പോർട്ട് 19302 ലെ Hangouts മീഡിയ സേവനത്തിലേക്ക് കണക്റ്റുചെയ്യാനായില്ല.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Hangout കണക്ഷൻ സ്ഥാപിക്കാനായില്ല",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Hangouts-ലേക്ക് കണക്റ്റുചെയ്യുന്നതിനാവശ്യമായ പോർട്ടുകളെയും ഹോസ്റ്റുകളെയും തടഞ്ഞിരിക്കുന്നതുപോലെ തോന്നുന്നു.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "19309 വഴി TCP പോർട്ട് 443-ലെയും UDP പോർട്ട് 19302-ലെയും Hangouts മീഡിയ സേവനത്തിലേക്ക് കണക്റ്റുചെയ്യാനായില്ല.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Hangouts ചാറ്റ് സേവനത്തിലേക്ക് കണക്റ്റുചെയ്യാനായില്ല.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "TCP പോർട്ട് 443-ലെ Hangouts ചാറ്റ് സേവനത്തിലേക്കോ Hangouts മീഡിയ സേവനത്തിലേക്കോ കണക്റ്റുചെയ്യാനായില്ല.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "ഹോസ്റ്റിനായുള്ള പോർട്ട് 443-ൽ TCP കണക്ഷൻ വിജയിച്ചു ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "ഹോസ്റ്റിനായുള്ള പോർട്ട് 443-ൽ TCP കണക്ഷൻ പരാജയപ്പെട്ടതിനാൽ തടയപ്പെട്ടു ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "ലക്ഷ്യസ്ഥാന പോർട്ടിൽ UDP കണക്ഷൻ പരാജയപ്പെട്ടതിനാൽ തടയപ്പെട്ടു ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "ലക്ഷ്യസ്ഥാന പോർട്ടിൽ UDP കണക്ഷൻ വിജയിച്ചു ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "ഇനിപ്പറയുന്നവയാണെങ്കിൽ, Hangouts തടഞ്ഞ പരിശോധന ഒരു പ്രശ്‌നരഹിത വെർഡിക്റ്റ് നൽകുന്നു: (1) 19302-ൽ നിന്ന് 19309-ലേക്കുള്ള ഏതൊരു UDP പോർട്ടിലെയും stun.l.google.com-ലേക്ക് ഒരു കണക്ഷൻ സ്ഥാപിക്കാനാകുമെങ്കിൽ (2) apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com എന്നിവയിലേക്ക് ഒരു TCP കണക്ഷൻ സ്ഥാപിക്കാനാകുമെങ്കിൽ",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "ഇനിപ്പറയുന്നവയാണെങ്കിൽ, Hangouts തടഞ്ഞ പരിശോധന പ്രശ്‌നമുള്ള ഒരു വെർഡിക്റ്റ് നൽകുന്നു: (1) 19302-ൽ നിന്ന് 19309-ലേക്കുള്ള എല്ലാ UDP ലക്ഷ്യസ്ഥാന പോർട്ടുകളും stun.l.google.com-നായി തടഞ്ഞിരിക്കുന്നുവെങ്കിൽ (2) 443 പോർട്ടിൽ ഇനിപ്പറയുന്ന ഏതെങ്കിലും ഹോസ്റ്റുകളിലേക്കുള്ള ഒരു TCP കണക്ഷൻ പരാജയപ്പെടുകയാണെങ്കിൽ: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "WiFi എൻക്രിപ്‌ഷൻ പരിശോധന",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "WiFi എൻക്രിപ്‌ഷൻ പരിശോധന പരാജയപ്പെട്ടു",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "WiFi നെറ്റ്‌വർക്കില്ലാത്തതിനാൽ, WiFi എൻക്രിപ്‌ഷൻ പരിശോധന പ്രവർത്തിക്കില്ല.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "WiFi എൻക്രിപ്‌ഷൻ രീതി ദൃഢമാണ്",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "നിങ്ങളുടെ മെഷീൻ ഉപയോഗിക്കുന്ന WiFi എൻക്രിപ്‌ഷൻ രീതി ദൃഢമായതാണ്.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "WiFi എൻക്രിപ്‌ഷൻ രീതി ഭാഗികമായി മാത്രം സുരക്ഷിതമാണ്",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "നിങ്ങളുടെ നെറ്റ്‌വർക്ക് കണക്ഷൻ ഉപയോഗിക്കുന്ന WiFi എൻക്രിപ്‌ഷൻ രീതി അതിന് കഴിയുന്ന വിധത്തിൽ ദൃഢമല്ല.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "WiFi നെറ്റ്‌വർക്ക് എൻക്രിപ്‌ഷൻ രീതി സുരക്ഷിതമല്ല",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "നിങ്ങളുടെ നെറ്റ്‌വർക്ക് കണക്ഷൻ ഉപയോഗിക്കുന്ന WiFi നെറ്റ്‌വർക്ക് എൻക്രിപ്‌ഷൻ രീതി സുരക്ഷിതമല്ല.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "റെൻഡർ ചെയ്തിരിക്കുന്ന പ്രശ്നമുള്ള വെർഡിക്റ്റിനായുള്ള WiFi എൻക്രിപ്‌ഷൻ രീതികൾ: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "റെൻഡർചെയ്‌തിരിക്കുന്ന പ്രശ്‌നരഹിതമായ വെർഡിക്റ്റിനായുള്ള WiFi എൻക്രിപ്‌ഷൻ രീതികൾ: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "WiFi എൻക്രിപ്‌ഷൻ രീതിയെക്കുറിച്ച് ഞങ്ങൾക്ക് ഉറപ്പില്ലെങ്കിൽ സാധ്യമായ ഒരു പ്രശ്‌ന വെർഡിക്റ്റ് റെൻഡർ ചെയ്യപ്പെടുന്നു",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "ലഭ്യമായ നെറ്റ്‌വർക്കുകളുടെ എണ്ണം കണ്ടെത്തി: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "നിലവിൽ കണക്‌റ്റുചെയ്‌തിരിക്കുന്ന WiFi നെറ്റ്‌വർക്ക് ഉപയോഗിച്ചുള്ള എൻക്രിപ്‌ഷൻ രീതി: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "സമ്പൂർണ്ണ Google വെബ്‌സൈറ്റ് പരിശോധന",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "Google വെബ്‌സൈറ്റുകൾ ലഭ്യമാണ്",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "ഒരു തരത്തിലുമുള്ള കണക്‌റ്റിവിറ്റി പ്രശ്‌നങ്ങളുമില്ലാതെ Google വെബ്‌സൈറ്റുകൾ ശരിയായ രീതിയിൽ ലോഡുചെയ്യുന്നതായി തോന്നുന്നു:",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Google വെബ്‌സൈറ്റുകൾ ശരിയായരീതിയിൽ വീണ്ടെടുക്കാനും ലോഡുചെയ്യാനുമായില്ല.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "Google വെബ്‌സൈറ്റുകൾ ആക്‌സസ്സുചെയ്യാൻ ശ്രമിക്കുമ്പോൾ ഒരു പ്രശ്‌നമുണ്ടായി. ക്യാപ്‌റ്റീവ് പോർട്ടൽ, dns പോയിസണിംഗ്, മാൻ-ഇൻ-ദി-മിഡിൽ അറ്റാക്ക് തുടങ്ങി മറ്റു തരത്തിലുള്ള അനാവശ്യ നെറ്റ്‌വർക്ക് ഇടപെടലുകൾ ഉൾപ്പെടെ നിരവധി പ്രശ്‌നങ്ങൾ ഇതിന് കാരണമാകാം.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "പരിശോധിച്ച എല്ലാ നിർദ്ദിഷ്‌ട Google സേവന വെബ്‌സൈറ്റുകളിലേക്കും ഒരു HTTPS കണക്ഷൻ സ്ഥാപിക്കാനാകുന്നുവെങ്കിൽ, Google വെബ്‌സൈറ്റുകളിലേക്കുള്ള ആക്‌സസ്സ് പൂർണ്ണമായും വിജയകരമായി പരിഗണിക്കപ്പെടും",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "പരിശോധിച്ച ഏതെങ്കിലും നിർദ്ദിഷ്‌ട Google സേവന വെബ്‌സൈറ്റുകളിലേക്ക് ഒരു HTTPS കണക്ഷൻ സ്ഥാപിക്കാനാകുന്നില്ലെങ്കിൽ, Google വെബ്‌സൈറ്റുകളിലേക്കുള്ള ആക്‌സസ്സ് പൂർണ്ണമായി നേടുന്നതിൽ പ്രശ്‌നമുണ്ടെന്ന് പരിഗണിക്കപ്പെടും",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "പരിശോധന # / ഹോസ്‌റ്റ്‌നെയിം പരിശോധിക്കുക : ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "ഇനിപ്പറയുന്ന ഹോസ്‌റ്റ്നെയിം കണക്‌റ്റുചെയ്യാൻ ശ്രമിക്കുമ്പോൾ ഒരു പ്രശ്നമുണ്ടായി, വീണ്ടും ശ്രമിക്കും: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "ഇനിപ്പറയുന്ന ഹോസ്‌റ്റ്നെയിം കണക്‌റ്റുചെയ്യുമ്പോൾ സ്ഥിരമായ പിശകുകളുണ്ടായി, ഇതൊരു കണക്‌റ്റിവിറ്റി പ്രശ്‌നമായി തോന്നുന്നു: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "ഇനിപ്പറയുന്ന സ്‌റ്റാറ്റസ് കോഡുപയോഗിച്ച് ഇനിപ്പറയുന്ന ഹോസ്‌റ്റ്‌നെയിം പൂർത്തിയാക്കാനുള്ള അഭ്യർത്ഥന: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

@@ -1,0 +1,5 @@
+﻿
+Le propriétaire de l'appareil a désactivé le mode développeur pour cet appareil. Veuillez lui demander de lever la restriction si vous souhaitez utiliser ce mode.
+
+
+Veuillez modifier la position du bouton du mode développeur et redémarrer l'appareil afin de revenir au mode validé.

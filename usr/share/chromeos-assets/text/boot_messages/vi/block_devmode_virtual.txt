@@ -1,0 +1,5 @@
+﻿
+Chủ sở hữu thiết bị đã tắt Chế độ nhà phát triển cho thiết bị này. Hãy yêu cầu chủ sở hữu thiết bị loại bỏ hạn chế nếu bạn muốn sử dụng Chế độ nhà phát triển.
+
+
+Hệ thống sẽ khởi động lại trong Chế độ đã xác minh.

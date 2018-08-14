@@ -1,0 +1,6 @@
+Livello della batteria troppo basso per eseguire l'aggiornamento.
+
+Caricamento in corso…
+
+L'aggiornamento avrà inizio non appena la batteria avrà
+carica sufficiente.

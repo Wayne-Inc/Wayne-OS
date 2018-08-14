@@ -1,0 +1,4 @@
+Güncelleme yükleniyor...
+
+Lütfen cihazı kapatmayın. Güncelleme tamamlandığında cihaz
+otomatik olarak yeniden başlar.

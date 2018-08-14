@@ -1,0 +1,5 @@
+﻿
+Vlasnik uređaja onemogućio je način rada razvojnog programera za taj uređaj. Obratite se vlasniku uređaja da ukloni ograničenje ako želite upotrebljavati način rada razvojnog programera.
+
+
+Sustav će se ponovno pokrenuti u potvrđenom načinu rada.

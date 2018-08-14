@@ -1,0 +1,5 @@
+Baterija nije dovoljno napunjena za ažuriranje.
+
+Punjenje...
+
+Ažuriranje će se automatski pokrenuti čim se baterija dovoljno napuni.

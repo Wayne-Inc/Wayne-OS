@@ -1,0 +1,3 @@
+No se puede actualizar porque la batería tiene poca carga. 
+
+Conecta tu Chromebook a una fuente de alimentación. La actualización se iniciará automáticamente cuando la batería tenga suficiente carga.

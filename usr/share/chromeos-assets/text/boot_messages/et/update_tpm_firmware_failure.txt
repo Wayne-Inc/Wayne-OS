@@ -1,0 +1,6 @@
+Midagi läks valesti ja värskendamine ebaõnnestus.
+
+Peate võib-olla oma seadme taastama. ChromeOS-i taastamise kohta
+lisateabe saamiseks minge saidile https://www.google.com/chromeos/recovery
+
+Vajutage taaskäivitamiseks tühikut.

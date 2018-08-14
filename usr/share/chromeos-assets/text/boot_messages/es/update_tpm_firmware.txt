@@ -1,0 +1,3 @@
+Instalando actualización...
+
+No apagues el dispositivo. Se reiniciará automáticamente cuando finalice la actualización.

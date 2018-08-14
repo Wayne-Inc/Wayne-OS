@@ -1,0 +1,6 @@
+Algo deu errado, e a atualização não foi concluída.
+
+Pode ser necessário recuperar o dispositivo. Para ver mais informações sobre
+a recuperação do Chrome OS, acesse: https://www.google.com/chromeos/recovery
+
+Pressione a barra de espaço para reinicializar.

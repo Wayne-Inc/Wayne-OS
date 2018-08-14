@@ -1,0 +1,4 @@
+﻿
+Préparation du système pour le mode développeur.
+Cela peut prendre un peu de temps.
+N'éteignez pas votre ordinateur avant qu'il ait redémarré.

@@ -1,0 +1,3 @@
+﻿
+A rendszer egy kritikus frissítést eszközöl.
+Ne kapcsolja ki a számítógépet.

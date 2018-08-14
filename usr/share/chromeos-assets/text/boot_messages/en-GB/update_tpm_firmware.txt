@@ -1,0 +1,4 @@
+Installing update...
+
+Please do not turn off the device. It will automatically reboot
+when the update finishes.

@@ -1,0 +1,4 @@
+Livello della batteria troppo basso per eseguire l'aggiornamento.
+
+Collega il tuo Chromebook a una fonte di alimentazione. L'aggiornamento
+avrà inizio non appena la batteria avrà carica sufficiente.

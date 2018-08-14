@@ -1,0 +1,8 @@
+﻿
+Sisteminiz Geliştirici Modu'na geçiriliyor.
+Yerel verileri silindi.
+
+Sisteminizde yaptığınız değişiklikler Google tarafından desteklenmiyor;
+donanım sorularına veya garantinin geçersiz olmasına neden olabilir.
+
+İptal etmek için, bilgisayarınızı şimdi kapatın.

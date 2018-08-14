@@ -1,0 +1,3 @@
+Akumuliatorius per daug išsikrovęs, kad būtų galima atnaujinti.
+
+Prijunkite „Chromebook“ įrenginį prie maitinimo šaltinio. Atnaujinimo procesas prasidės automatiškai, kai akumuliatorius bus pakankamai įkrautas.

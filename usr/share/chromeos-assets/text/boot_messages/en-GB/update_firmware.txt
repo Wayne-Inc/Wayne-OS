@@ -1,0 +1,3 @@
+﻿
+Your system is applying a critical update.
+Please do not turn it off.

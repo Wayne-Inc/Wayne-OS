@@ -1,0 +1,8 @@
+﻿
+O seu sistema está a transitar para o Modo de Programador.
+Os dados locais foram apagados.
+
+As modificações que faça ao sistema não são suportadas pelo Google, podendo provocar
+problemas de hardware e invalidar a garantia.
+
+Para cancelar, desligue agora o computador.

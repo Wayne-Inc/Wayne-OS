@@ -1,0 +1,18 @@
+<div class="view-title" ng-bind="testsSummaryCtrl.i18nService.getMsg('all_test_groups_summary_title')"></div>
+<div ng-repeat="(groupName, testGroup) in testsSummaryCtrl.testGroups track by $index">
+  <div ng-click="testsSummaryCtrl.loadSubGroup($event, groupName)"
+      ng-keyup="testsSummaryCtrl.loadSubGroup($event, groupName)"
+      tabindex="{{ (100 + $index) }}">
+    <div class="flex-container test-result-list-item">
+      <div ng-class="{'group-status-icon': true}"
+          class="{{testsSummaryCtrl.getTestGroupStatusClassname(groupName)}}">
+      </div>
+      <div>
+        {{testGroup.name}}
+      </div>
+      <div class="group-status-text">
+        {{testsSummaryCtrl.getTestGroupStatusText(groupName)}}
+      </div>
+    </div>
+  </div>
+</div>

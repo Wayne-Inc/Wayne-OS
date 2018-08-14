@@ -1,0 +1,8 @@
+﻿
+Systemet ditt er i ferd med å gå over til utviklermodus.
+Lokaldata har blitt slettet.
+
+Endringer du gjør i systemet er ikke støttet av Google og kan forårsake
+maskinvareproblemer og gjøre garantien ugyldig.
+
+Slå av datamaskinen for å avbryte.

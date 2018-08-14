@@ -1,0 +1,89 @@
+﻿{
+  "LOCALE": {
+    "message": "zh-CN"
+  },
+  "SELECT_TO_SPEAK_NAME": {
+    "message": "\u968f\u9009\u6717\u8bfb"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PAGE_TITLE": {
+    "message": "\u201c\u968f\u9009\u6717\u8bfb\u201d\u8bbe\u7f6e"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_SPEECH": {
+    "message": "\u8bed\u97f3"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "\u8bf7\u9009\u62e9\u4e00\u79cd\u58f0\u97f3\uff1a"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_DESCRIPTION": {
+    "message": "\u8bf7\u9009\u62e9\u4e00\u79cd\u8bed\u901f\uff1a"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOWEST": {
+    "message": "\u6700\u6162"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOW": {
+    "message": "\u6162"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_NORMAL": {
+    "message": "\u6b63\u5e38"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FAST": {
+    "message": "\u5feb"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTER": {
+    "message": "\u8f83\u5feb"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTEST": {
+    "message": "\u6700\u5feb"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT": {
+    "message": "\u7a81\u51fa\u663e\u793a"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DESCRIPTION": {
+    "message": "\u7a81\u51fa\u663e\u793a\u6bcf\u4e2a\u6b63\u88ab\u8bfb\u51fa\u7684\u5b57\u8bcd"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_DESCRIPTION": {
+    "message": "\u5b57\u8bcd\u7684\u7a81\u51fa\u663e\u793a\u989c\u8272\uff1a"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_BLUE": {
+    "message": "\u84dd\u8272"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_ORANGE": {
+    "message": "\u6a59\u8272"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_YELLOW": {
+    "message": "\u9ec4\u8272"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_GREEN": {
+    "message": "\u7eff\u8272"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_PINK": {
+    "message": "\u7c89\u8272"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DARK": {
+    "message": "\u6df1\u8272\u80cc\u666f"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_LIGHT": {
+    "message": "\u6d45\u8272\u80cc\u666f"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_DESCRIPTION": {
+    "message": "\u8bf7\u9009\u62e9\u4e00\u79cd\u8bed\u97f3\u97f3\u8c03\uff1a"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWEST": {
+    "message": "\u6700\u4f4e"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWER": {
+    "message": "\u8f83\u4f4e"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOW": {
+    "message": "\u4f4e"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_NORMAL": {
+    "message": "\u6b63\u5e38"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGH": {
+    "message": "\u9ad8"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGHEST": {
+    "message": "\u6700\u9ad8"
+  }
+}

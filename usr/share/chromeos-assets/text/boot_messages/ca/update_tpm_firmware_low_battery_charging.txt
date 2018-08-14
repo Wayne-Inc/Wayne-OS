@@ -1,0 +1,5 @@
+No hi ha prou bateria per fer l'actualització.
+
+S'està carregant...
+
+L'actualització començarà automàticament quan la bateria estigui prou carregada.

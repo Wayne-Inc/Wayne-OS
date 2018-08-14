@@ -1,0 +1,1098 @@
+{
+  "appname": {
+    "message": "Diagnostice conectivitate Chrome",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Diagnostice conectivitate Chrome (Beta)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "Diagnostice conectivitate Chrome (Dev)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "Diagnostice conectivitate",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "Diagnostice conectivitate",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "Setări",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "Maximizați",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "Restabiliți",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "Închideți",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "Derulați în sus",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "Derulați în jos",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_connection": {
+    "message": "Conexiune",
+    "description": "Attribute label for network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "Intensitate semnal",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "Adresă MAC",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "Adresă IP",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "Mască de subrețea",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "Gateway",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "all_test_groups_summary_title": {
+    "message": "Teste de conexiune la rețea",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "Portal captiv",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "Rețea locală",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "Firewall",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "Servicii Google",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "Se efectuează teste. Poate dura câteva minute...",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "A apărut o eroare la rularea testelor de diagnosticare pentru conectivitate. Dați clic pe pictograma roată și selectați „Reluați testele”. Dacă problema persistă, dați clic pe linkul Trimiteți feedback și descrieți problema.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "Trimiteți feedback",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "Setări de rețea",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "Rulați diagnosticarea",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "Reluați diagnosticarea",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "Înapoi",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "Conexiunea la rețea pare să funcționeze corect.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "Afișați testele trecute",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "Ascundeți testele trecute",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "Reluați diagnosticarea",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "Trimiteți feedback...",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "Despre",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "Despre aplicație",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "Versiune: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "Teste trecute",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "Test trecut",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "Avertismente",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "Avertisment",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "Nume test: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "ID-ul testului: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "Rezultatul testului: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "Nu s-au detectat probleme",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "S-a detectat o problemă",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "S-a detectat o potențială problemă",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "Testul nu poate fi efectuat",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "Afișați jurnalele...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "Ascundeți jurnalele...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "Copiați jurnalele cu rezultate",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "REZUMAT",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "CRITERII",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "DETALII",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "DETALII ASISTENȚĂ",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "Reușite",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "Nereușite",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "În coadă",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "Avertisment",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "Rulează",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "Anulat",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "În prezent nu sunt disponibile rezultate ale testelor.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "Teste suplimentare în așteptare. Rezultatele vor fi afișate după finalizare.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "teste",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "S-au primit datele brute de la socketul UDP: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "S-au citit datele de la socketul UDP, având dimensiunea (în bytes) de: ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "Eroare la citirea datelor UDP. Cod de eroare: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "S-a trimis pachetul de date cu dimensiunea (în bytes) de: ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "Se pregătește trimiterea pachetului de date de la socketul UDP cu dimensiunea (în bytes) de: ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "Se creează un socket UDP cu numărul/gazda/portul: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "Se setează timpul limită UDP (msec): ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "S-au primit datele brute de la socketul TCP: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "S-au citit datele de la socketul TCP, având dimensiunea (în bytes) de: ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "Eroare la citirea datelor TCP. Cod de eroare: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "S-a trimis pachetul de date cu dimensiunea (în bytes) de: ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "Se pregătește trimiterea pachetului de date cu dimensiunea (în bytes) de: ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "S-a stabilit conexiunea TCP cu gazda/portul/codul de stare: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "Nu s-a stabilit conexiunea TCP cu gazda/portul/codul de stare: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "Motivul pentru care conexiunea nu s-a stabilit: necunoscut",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "S-a stabilit conexiunea TCP cu gazda/portul: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "Motivul pentru care conexiunea nu s-a stabilit: expirarea timpului limită",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "Motivul pentru care conexiunea nu s-a stabilit: conexiune refuzată",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "Se creează un socket TCP cu numărul/gazda/portul: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "Se setează timpul limită TCP (msec): ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "Test pentru deconectarea Chrome de la internet",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "Nu v-ați conectat la nicio rețea",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "Conexiune la internet disponibilă",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "Chrome nu este conectat la nicio rețea. Verificați setările de rețea ale sistemului de operare.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Este disponibilă o conexiune la internet pentru browserul Chrome.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "Dacă procentul de socketuri TCP care returnează coduri de stare ce indică întreruperea conexiunii la internet este mai mic decât următoarea valoare, se returnează un rezultat care nu indică probleme: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "Dacă procentul de socketuri TCP care returnează coduri de stare ce indică întreruperea conexiunii la internet este mai mare sau egal cu următoarea valoare, se returnează un rezultat care indică probleme: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " Testul Chrome privind conexiunea la internet a returnat codul de stare TCP: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " Se încearcă inițierea unei conexiuni TCP cu numărul/numele de gazdă/portul: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "Test pentru deconectarea sistemului de operare Chrome de la internet",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "Nu v-ați conectat la rețea",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "Conexiune la internet disponibilă",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "Acest Chromebook nu este conectat la o rețea. Din bara de stare conectați-vă la o rețea disponibilă.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Este disponibilă o conexiune la internet.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "Este returnat un rezultat care nu indică nicio problemă atunci când interfața rețelei la care este conectat dispozitivul returnează un cod de stare pentru conexiune activă",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "Este returnat un rezultat care indică probleme atunci când interfața rețelei la care este conectat dispozitivul returnează un cod de stare pentru conexiune întreruptă: ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "Numărul de rețele disponibile detectate: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "Test pentru versiunea Chrome",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "Nu aveți cea mai recentă versiune de Google Chrome",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "Aveți cea mai recentă versiune de Google Chrome",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "Nu aveți cea mai recentă versiune de Google Chrome. Prin urmare, nu beneficiați de toate remedierile de erori cunoscute și ați putea întâmpina probleme de conectivitate. Dați clic pe meniul Chrome din bara de instrumente a browserului și selectați Actualizați Google Chrome.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "Aveți cea mai recentă versiune a browserului Google Chrome și, prin urmare, beneficiați de toate remedierile cunoscute privind problemele de conectivitate.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "Valoarea user-agent din browser: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "Numărul versiunii browserului (prescurtat): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "Numărul versiunii browserului (complet): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "Dacă numărul de versiune Chrome este mai mare sau egal cu următoarea valoare, se returnează un rezultat care nu indică probleme: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "Dacă numărul de versiune Chrome este mai mic decât următoarea valoare, se returnează un rezultat care indică probleme: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "Numele versiunii sistemului de operare Chrome",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "Sistemul de operare Chrome este învechit",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "Sistemul de operare Chrome este actualizat",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "Nu utilizați cea mai recentă versiune a sistemului de operare Chrome. Prin urmare, nu beneficiați de toate remedierile de erori cunoscute și de aceea ați putea întâmpina probleme de conectivitate.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "Utilizați o versiune recentă a sistemului de operare Chrome și, prin urmare, beneficiați de toate remedierile cunoscute privind problemele de conectivitate.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Testul de verificare a versiunii sistemului de operare Chrome a detectat o problemă. Versiunea sistemului de operare Chrome este învechită. Versiunea minimă este acum: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Testul de verificare a versiunii sistemului de operare Chrome nu a detectat nicio problemă. Versiunea sistemului de operare Chrome este actualizată. Versiunea minimă este acum: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "Valoarea user-agent din browser: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "Numărul prescurtat al versiunii sistemului de operare Chrome: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "Numărul complet al versiunii sistemului de operare Chrome: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "Dacă numărul versiunii sistemului de operare Chrome este mai mare sau egal cu următoarea valoare, se returnează un rezultat care nu indică probleme: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "Dacă numărul versiunii sistemului de operare Chrome este mai mic decât următoarea valoare, se returnează un rezultat care indică probleme: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "Test pentru prezența rezolvitorului",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "Nu este disponibil niciun server DNS în stare de funcționare",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "Server DNS disponibil",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "Un server DNS transformă un nume de gazdă (de ex., www.google.com) într-o adresă IP. Pentru a încărca un site, un browser trebuie să aibă o adresă IP la care să se conecteze. Chrome nu poate stabili adresa IP a site-ului pe care doriți să îl accesați, deoarece serverul DNS nu funcționează. Contactați ISP sau administratorul de rețea.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "Chrome a găsit un server DNS care a transformat un nume de gazdă (de ex., www.google.com) într-o adresă IP.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "Se încearcă rezolvarea numelui de gazdă: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "Serverul DNS a returnat rezultatele pentru interogarea DNS.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "Serverul DNS nu a returnat niciun rezultat.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "Numele de gazdă a fost rezolvat la adresa IP: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "Testul rezolvitorului DNS efectuează o singură interogare DNS și returnează un rezultat care nu indică probleme dacă este returnat un răspuns valid.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "Testul rezolvitorului DNS efectuează o singură interogare DNS și returnează un rezultat care indică probleme dacă nu este returnat un răspuns valid.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "Serverul DNS a returnat codul de stare pentru reușită: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "Serverul DNS a returnat codul de stare pentru probleme: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "Test pentru latența rezolvitorului",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "Rezolvarea DNS a durat prea mult",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "Rezolvarea DNS a necesitat mai mult decât durata medie",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "S-au primit răspunsuri DNS rapide",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "Serverul DNS nu a returnat rapid răspunsuri. Un server DNS transformă un nume de gazdă (de ex., www.google.com) într-o adresă IP. Browserul necesită o adresă IP la care să se conecteze pentru a încărca un site.",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "Serverul DNS nu a returnat răspunsuri suficient de rapid. Un server DNS transformă un nume de gazdă (de ex., www.google.com) într-o adresă IP. Browserul necesită o adresă IP la care să se conecteze pentru a încărca un site.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "Serverul DNS a returnat rapid răspunsurile la solicitări! Un server DNS transformă un nume de gazdă (de ex., www.google.com) într-o adresă IP. Browserul necesită o adresă IP la care să se conecteze pentru a încărca un site.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "Se încearcă rezolvarea numelui de gazdă cu numărul: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "S-a primit rezultatul pentru rezolvarea DNS. Număr test/Ora actuală/Timp necesar (ms)/Timp de inițiere (ms): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "Durata totală a rezolvării DNS pentru toate testele (ms): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "Total gazde DNS rezolvate: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "Durata medie a rezolvării DNS (ms): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "Valoarea limită pentru durata medie a rezolvării DNS (ms), sub care rezultatul arată că nu există probleme: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "Valoarea limită pentru durata medie a rezolvării DNS (ms), pentru care rezultatul arată că poate exista o problemă. ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "Valoarea limită pentru durata medie a rezolvării DNS (ms), peste care rezultatul arată că există o problemă: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "Test pentru probleme legate de DNS",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "Serverul DNS a returnat rezultatele așteptate",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "Rezultatele DNS au fost cele așteptate și par să fie corecte",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "Rezultatele DNS au fost neașteptate și pot indica probleme",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "A fost returnat un răspuns DNS care indică probleme. Un server DNS cu probleme poate returna o adresă IP greșită și poate devia traficul către o altă gazdă decât cea dorită.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "Se consideră că rezultatele DNS indică probleme dacă rezolvitorul nu returnează adresa IP așteptată.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "Se consideră că rezultatele DNS nu indică probleme dacă rezolvitorul returnează adresa IP așteptată.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "Numărul testului/numele de gazdă al testului: ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " testul nu a returnat un câmp pentru adresa DNS (este setat la „null”)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " test; nu există un cod de stare pentru rezultat; testul este abandonat, deoarece nu a reușit.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " testul a returnat codul de stare: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " a fost returnată adresa DNS rezolvată: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "Test pentru firewallul TCP",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "Traficul de internet este blocat de port ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "Traficul de internet pare să fie blocat de port ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "Traficul de internet este permis de port ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "În rețeaua dvs. este aplicată o limitare pentru o conexiune de internet utilizată în mod obișnuit.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "Se pare că în rețeaua dvs. este aplicată o limitare pentru o conexiune de internet utilizată în mod obișnuit.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "Am putut stabili o conexiune la port ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " Se încearcă inițierea unei conexiuni TCP cu numărul/numele de gazdă/portul: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " Testul de detectare a unui firewall în conexiunea TCP a returnat codul de stare TCP: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "Rezultate test de detectare a unui firewall: teste rulate/porturi verificate/număr de conexiuni nereușite: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "Încercarea de testare a conexiunii nu a reușit și nu a returnat un cod de stare de reușită TCP din stiva rețelei Chrome, ci a returnat codul de stare: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "Rezolvitorul DNS detectat nu este disponibil, deci nu putem stabili dacă există un firewall",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "Rețeaua detectată nu este disponibilă, deci nu putem stabili dacă există un firewall",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "Dacă procentul de rezultate la testul desfășurat cu conexiuni TCP care nu s-au stabilit este mai mic sau egal cu următoarea valoare, este returnat un rezultat care nu indică probleme: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "Dacă procentul de rezultate la testul desfășurat cu conexiuni TCP care nu s-au stabilit este egal cu următoarea valoare, este returnat un rezultat care indică probleme: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "Dacă numărul de rezultate la testul desfășurat cu conexiuni TCP care nu s-au stabilit este în următorul interval, este returnat un rezultat care indică posibile probleme: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "Test pentru detectarea portalurilor captive HTTP",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "Traficul de internet este blocat de un portal captiv",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "Nu se poate rula corect un test pentru un portal HTTP captiv",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "S-a detectat acces liber la internet",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "Un portal captiv este un site intermediar dintr-o rețea, pe care utilizatorii trebuie să îl acceseze înainte de a obține permisiunea de a naviga liber pe internet. În rețeaua dvs. a fost găsit un portal captiv, ceea ce înseamnă că accesul nelimitat la internet este blocat.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "Există o problemă care nu permite testarea pentru portalul HTTP captiv. Această problemă apare de obicei dacă traficul din rețea este refuzat sau blocat integral.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "S-a detectat acces liber la internet. Un portal captiv este un site intermediar dintr-o rețea, pe care utilizatorii trebuie să îl acceseze înainte de a obține permisiunea de a naviga liber pe internet.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "Dacă toate solicitările HTTP returnează un cod de stare 204 HTTP, testul pentru detectarea portalurilor captive HTTP returnează un rezultat care nu indică probleme",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "Testul pentru detectarea portalurilor captive HTTP returnează un rezultat care indică posibile probleme dacă numărul problemelor pentru stiva din rețea depășește următorul procent de solicitări HTTP: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "Dacă oricare dintre solicitările HTTP nu returnează un cod de stare 204 HTTP, testul pentru detectarea portalurilor captive HTTP returnează un rezultat care indică probleme",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "Eroare la solicitarea cu numărul/codul de eroare: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "Numărul răspunsului/codul răspunsului HTTP: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "Numărul răspunsului/antetele răspunsului HTTP: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "Numărul solicitării/lungimea răspunsului complet: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "Test pentru latența site-urilor Google HTTP",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "Solicitările web trimise la Google au durat prea mult",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "Solicitările web trimise la Google au durat mai mult decât în mod normal",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "S-au primit răspunsuri rapide de la site-urile Google",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Primirea unui răspuns de la site-urile Google durează mai mult decât trebuie, ceea ce indică o conexiune lentă.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Primirea unui răspuns de la site-urile web Google durează puțin mai mult decât trebuie, ceea ce indică o conexiune lentă.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "Solicitările web trimise la Google sunt primite rapid.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "Eroare la solicitarea cu numărul/cod de eroare: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "Timpul mediu pentru răspunsul HTTP (ms): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "Numărul total de solicitări HTTP: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "Timpul total pentru răspunsul HTTP (ms): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "Răspuns HTTP cu numărul/ora primirii (marcaj în milisecunde)/timpul trecut (ms): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "Valoarea limită pentru durata medie de latență HTTP (ms), sub care se returnează un rezultat care nu indică probleme: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "Valoarea limită pentru durata medie de latență HTTP (ms), pentru care se returnează un rezultat care indică posibile probleme: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "Valoarea limită pentru durata medie de latență HTTP (ms), peste care se returnează un rezultat care indică probleme: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "Test pentru intensitatea semnalului Wi-Fi pentru sistemul de operare Chrome",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "Testul pentru intensitatea semnalului Wi-Fi a fost abandonat",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "Testul nu a putut fi efectuat, nu s-au detectat conexiuni Wi-Fi.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "Intensitate scăzută a semnalului în rețea",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "Intensitatea semnalului în rețeaua Wi-Fi este slabă.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "Intensitate ridicată a semnalului în rețea",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "Intensitatea semnalului în rețeaua Wi-Fi este puternică.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "Numele semnalului în rețea/intensitatea semnalului: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "Valoarea limită pentru puterea semnalului pentru sistemul de operare Chrome, peste care se returnează un rezultat care nu indică probleme: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "Valoarea limită pentru puterea semnalului pentru sistemul de operare Chrome, sub care se returnează un rezultat care indică probleme: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "Test ping către gateway",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "Nu se poate da ping către gateway",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "Nu se primește un răspuns rapid când se dă ping către gateway.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "Gateway-ul se poate accesa",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "Se primește un răspuns rapid când se dă ping către gateway.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "Dacă latența (ms) când se dă ping către gateway este mai mică decât următoarea valoare, se returnează un rezultat care nu indică probleme: ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "Dacă latența (ms) când se dă ping către gateway este mai mare decât următoarea valoare, se returnează un rezultat care indică probleme: ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "Interogarea ICMP transmisă direct către adresa IP a gateway-ului nu a primit un pachet de răspuns.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "Latență pachet ICMP (ms): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "Nu s-a putut stabili adresa IP a gateway-ului.",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "S-a stabilit că adresa IP a gateway-ului este: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "Adresa IP returnată după trimiterea unui pachet ICMP către o gazdă la distanță cu valoarea TTL 1 a fost aceeași cu adresa IP a gazdei la distanță: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "Test pentru conectivitate Hangouts",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "Conexiune la Hangouts disponibilă",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "S-a stabilit conexiunea la serviciul Hangouts.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Conexiunea la Hangouts pare să nu funcționeze la parametri optimi",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "Nu se poate stabili conexiunea la gazda serviciul media Hangouts prin porturile UDP 19302 – 19309.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Nu s-a putut stabili conexiunea la Hangout",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Porturile și gazdele necesare pentru conectarea la Hangouts par să fie blocate.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "Nu se poate stabili conexiunea la gazda serviciului media Hangouts prin portul TCP 443 și prin porturile UDP 19302 – 19309.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Nu se poate stabili conexiunea la serviciul de chat Hangouts.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "Nu se poate stabili conexiunea la serviciul de chat Hangouts sau la serviciul media Hangouts prin portul TCP 443.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "Conexiunea TCP a fost stabilită prin portul 443 pentru gazdă ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "Conexiunea TCP nu a putut fi stabilită și este blocată la portul 443 pentru gazdă ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "Conexiunea UDP nu a putut fi stabilită și este blocată la portul de destinație ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "Conexiunea UDP a fost stabilită prin portul de destinație ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "Testul privind blocarea Hangouts returnează un rezultat care nu indică probleme dacă: (1) se poate stabili o conexiune la stun.l.google.com prin orice port UDP de la 19302 la 19309; (2) se poate stabili o conexiune TCP la apis.google.com, clients6.google.com, plus.google.com și talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "Testul privind blocarea Hangouts returnează un rezultat care indică probleme dacă: (1) toate porturile UDP de destinație de la 19302 la 19309 sunt blocate pentru stun.l.google.com; (2) nu se poate stabili conexiunea TCP la oricare dintre următoarele gazde prin portul 443: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com.",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "Test criptare Wi-Fi",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "Testul de criptare Wi-Fi a fost abandonat",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "Testul de criptare Wi-Fi nu a fost efectuat, nu s-au detectat rețele Wi-Fi.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "Metodă de criptare Wi-Fi puternică",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "Metoda de criptare Wi-Fi folosită de sistem este puternică.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "Metoda de criptare Wi-Fi este doar parțial securizată",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "Metoda de criptare Wi-Fi folosită de conexiunea la rețea ar putea fi mai puternică.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "Metoda de criptare a rețelei Wi-Fi este nesecurizată",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "Metoda de criptare a rețelei Wi-Fi folosită de conexiunea la rețea este nesecurizată.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "Metodele de criptare Wi-Fi pentru care se returnează un rezultat care indică probleme: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "Metodele de criptare Wi-Fi pentru care se returnează un rezultat care nu indică probleme: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "Dacă nu suntem siguri în legătură cu metoda de criptare Wi-Fi, se returnează un rezultat care indică posibile probleme",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "Numărul de rețele disponibile detectate: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "Metoda de criptare folosită de rețeaua Wi-Fi la care v-ați conectat în prezent: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "Test complet site-uri Google",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "Site-uri Google disponibile",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "Site-urile Google par să se încarce corect, fără niciun fel de probleme de conectivitate.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Site-urile Google nu au putut fi preluate și încărcate corect.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "A apărut o problemă la accesarea site-urilor Google. Situația poate să apară din cauza mai multor probleme, inclusiv din cauza unui portal captiv, a problemelor DNS, a atacurilor prin interceptare și a altor forme de intervenție asupra rețelei.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "Se consideră că site-urile Google sunt complet accesibile dacă se poate stabili o conexiune HTTPS la toate site-urile testate ale serviciilor Google",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "Se consideră că site-urile Google nu sunt complet accesibile dacă nu se poate stabili o conexiune HTTPS la oricare dintre site-urile testate ale serviciilor Google",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "Numărul testului/Numele de gazdă al testului: ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "A apărut o eroare la conectarea la următorul nume de gazdă, se va reîncerca: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "Au apărut erori persistente la conectarea la următorul nume de gazdă, pentru care se pare că există o problemă de conectivitate: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "Solicitarea pentru următorul nume de gazdă s-a finalizat fără probleme, cu următorul cod de stare: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

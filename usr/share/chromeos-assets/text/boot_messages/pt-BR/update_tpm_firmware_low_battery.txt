@@ -1,0 +1,4 @@
+Bateria muito fraca para atualizar.
+
+Conecte o Chromebook a uma fonte de alimentação. A atualização iniciará
+automaticamente assim que houver carga suficiente.

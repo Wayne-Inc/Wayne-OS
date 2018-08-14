@@ -1,0 +1,8 @@
+﻿
+Het systeem wordt overgeschakeld naar de ontwikkelaarsmodus.
+De lokale gegevens worden gewist.
+
+Aanpassingen die u aanbrengt in het systeem worden niet ondersteund door Google, kunnen
+hardwareproblemen veroorzaken en kunnen ervoor zorgen dat de garantie ongeldig wordt.
+
+Als u wilt annuleren, moet u de computer nu uitschakelen.

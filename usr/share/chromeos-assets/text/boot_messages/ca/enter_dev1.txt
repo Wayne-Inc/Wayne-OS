@@ -1,0 +1,9 @@
+﻿
+El vostre sistema està fent la transició al mode desenvolupador.
+Les dades locals s'esborraran.
+
+Les modificacions que feu al sistema no són compatibles amb Google; és possible que provoquin
+problemes amb el maquinari i que anul·lin la validesa de la garantia.
+
+Si voleu cancel·lar el procés, apagueu l'ordinador ara i torneu a canviar el commutador per a desenvolupadors
+al mode verificat.

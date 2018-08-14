@@ -1,0 +1,9 @@
+﻿
+Lumilipat sa Mode ng Developer ang iyong system.
+Maki-clear ang lokal na data.
+
+Ang mga gagawin mong pagbabago sa system ay hindi sinusuportahan ng Google, maaaring magdulot ng
+mga isyu sa hardware at maaaring magpawalang-bisa sa warranty.
+
+Upang kanselahin, i-off ngayon ang iyong computer at i-toggle ang Developer Switch pabalik sa
+Mode na Naka-verify.

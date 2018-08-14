@@ -1,0 +1,5 @@
+Prišlo je do napake in posodobitev ni bila uspešna.
+
+Morda boste morali obnoviti napravo. Če želite več informacij o obnovitvi sistema OS Chrome, obiščite: https://www.google.com/chromeos/recovery
+
+Pritisnite preslednico, če želite napravo znova zagnati.

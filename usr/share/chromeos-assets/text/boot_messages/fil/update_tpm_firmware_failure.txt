@@ -1,0 +1,6 @@
+Nagkaproblema at hindi matagumpay ang pag-update.
+
+Maaaring kailanganin mong i-recover ang iyong device. Para sa higit pang impormasyon sa
+pag-recover sa ChromeOS, bisitahin: https://www.google.com/chromeos/recovery
+
+Pindutin ang space bar upang mag-reboot.

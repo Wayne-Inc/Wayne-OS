@@ -1,0 +1,1122 @@
+{
+  "appname": {
+    "message": "Chrome savienojamības diagnostika",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Chrome savienojamības diagnostika (beta)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "Chrome savienojamības diagnostika (izstr.)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "Savienojamības diagnostika",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "Savienojamības diagnostika",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "Iestatījumi",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "Maksimizēt",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "Atjaunot",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "Aizvērt",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "Ritināt uz augšu",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "Ritināt uz leju",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_wireless_connection": {
+    "message": "Wi-Fi",
+    "description": "Description of a wireless connection"
+  },
+  "network_settings_ethernet_connection": {
+    "message": "Ethernet",
+    "description": "Description of a wired network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "Signāla stiprums",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "MAC adrese",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "IP adrese",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "Apakštīkla maska",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "Vārteja",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "network_settings_dns_not_detected": {
+    "message": "DNS nav noteikts",
+    "description": "Message when the DNS nameservers cannot be detected"
+  },
+  "network_settings_connection_title": {
+    "message": "Savienojums",
+    "description": "Attribute label for the Connection."
+  },
+  "network_settings_connection": {
+    "message": "savienojums",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "network_settings_network_secure": {
+    "message": "(drošs)",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "network_settings_network_insecure": {
+    "message": "(nedrošs)",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "all_test_groups_summary_title": {
+    "message": "Tīkla savienojuma pārbaudes",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "Caurlaides lapa",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "Lokālais tīkls",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "Ugunsmūris",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "Google pakalpojumi",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "Tiek izpildītas pārbaudes. Tās var ilgt dažas minūtes.",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "Izpildot savienojamības diagnostikas pārbaudes, radās kļūda. Noklikšķiniet uz zobrata ikonas un izvēlieties “Atkārtot pārbaudes”. Ja atkal rodas šāda kļūda, lūdzu, noklikšķiniet uz saites “Sūtīt atsauksmes” un aprakstiet problēmu.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "Sūtīt atsauksmes",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "Tīkla iestatījumi",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "Veikt diagnostiku",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "Atkārtot diagnostiku",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "Atpakaļ",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "Šķiet, ka tīkla savienojums darbojas pareizi.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "Rādīt sekmīgās pārbaudes",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "Slēpt sekmīgās pārbaudes",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "Atkārtot diagnostiku",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "Sūtīt atsauksmes...",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "Par",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "Par lietotni",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "Versija: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "Nokārtotās pārbaudes",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "Nokārtota pārbaude",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "Brīdinājumi",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "Brīdinājums",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "Pārbaudes nosaukums: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "Pārbaudes ID: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "Pārbaudes rezultāts: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "Netika atklāta neviena problēma",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "Tika atklāta problēma",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "Tika atklāta iespējama problēma.",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "Nevar veikt pārbaudi.",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "Rādīt žurnālus...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "Slēpt žurnālus...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "Kopēt rezultātu žurnālus",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "KOPSAVILKUMS",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "KRITĒRIJI",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "DETALIZĒTA INFORMĀCIJA",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "ATBALSTA INFORMĀCIJA",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "Nokārtotās",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "Nenokārtotās",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "Gaida rindā",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "Brīdinājums",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "Darbojas",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "Atceltas",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "Pašlaik nav pieejams neviens pārbaudes rezultāts.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "Notiek papildu pārbaudes. Rezultāti tiks parādīti, kad tās būs pabeigtas.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "pārbaudes",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "Saņemti neapstrādāti dati no UDP ligzdas: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "Veiksmīgi nolasīti dati no UDP ligzdas šādā apjomā (baitos): ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "Nolasot UDP datus, radās kļūda. Kļūdas kods: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "Veiksmīgi nosūtīti dati šādā apjomā (baitos): ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "Notiek gatavošanas sūtīt UDP ligzdas datus šādā apjomā (baitos): ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "Notiek UDP ligzdas izveide. Numurs/saimniekdators/pieslēgvieta: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "Notiek UDP noildzes ilguma (milisekundēs) iestatīšana: ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "Saņemti neapstrādāti dati no TCP ligzdas: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "Veiksmīgi nolasīti dati no TCP ligzdas šādā apjomā (baitos): ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "Nolasot TCP datus, radās kļūda. Kļūdas kods: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "Veiksmīgi nosūtīti dati šādā apjomā (baitos): ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "Gatavojas sūtīt datus šādā apjomā (baitos): ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "Izveidots TCP savienojums ar saimniekdatoru/pieslēgvietu. Statusa kods: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "Neizdevās izveidot TCP savienojumu ar saimniekdatoru/pieslēgvietu. Statusa kods: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "Savienojuma kļūmes iemesls: nezināms",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "Veiksmīgi izveidots TCP savienojums ar saimniekdatoru/pieslēgvietu. ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "Savienojuma kļūmes iemesls: noildze",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "Savienojuma kļūmes iemesls: savienojums noraidīts",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "Notiek TCP ligzdas izveide. Numurs/saimniekdators/pieslēgvieta: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "Notiek TCP noildzes ilguma (milisekundēs) iestatīšana: ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "Chrome pārtraukta interneta savienojuma pārbaude",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "Nav izveidots savienojums ar tīklu",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "Pieejams interneta savienojums",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "Pārlūks Chrome nav pievienots tīklam. Lūdzu, pārbaudiet operētājsistēmas tīkla iestatījumus.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Pārlūkam Chrome ir pieejams interneta savienojums.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "To TCP ligzdu procentuālā daļa, kuras uzrāda pārtraukta interneta savienojuma statusa kodus. Ja vērtība ir mazāka par šo skaitli, tiek uzskatīts, ka problēma nepastāv: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "To TCP ligzdu procentuālā daļa, kuras uzrāda pārtraukta interneta savienojuma statusa kodus. Ja vērtība ir vienāda ar šo skaitli vai lielāka par to, tiek uzskatīts, ka problēma pastāv: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " Veicot pārbaudi par Chrome savienojumu ar internetu, tika uzrādīts šāds TCP statusa kods: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " Tiks izveidots TCP savienojums. Numurs/saimniekdatora nosaukums/pieslēgvieta: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "Chrome OS pārtraukta interneta savienojuma pārbaude",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "Nav izveidots savienojums ar tīklu",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "Pieejams interneta savienojums",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "Šis Chromebook dators nav pievienots tīklam. Lūdzu, skatiet statusa joslu un izveidojiet savienojumu ar pieejamu tīklu.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Ir pieejams interneta savienojums.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "Ja savienota tīkla saskarnē tiek izrādīts izveidota savienojuma statusa kods, tiek uzskatīts, ka problēma nepastāv.",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "Ja savienota tīkla saskarnē tiek uzrādīts pārtraukta savienojuma statusa kods, tiek uzskatīts, ka problēma pastāv: ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "Noteiktais pieejamo tīklu skaits: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "Chrome versijas pārbaude",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "Netiek izmantota Google Chrome jaunākā versija",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "Tiek izmantota Google Chrome jaunākā versija",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "Jūs neizmantojat jaunāko Google Chrome versiju. Tas nozīmē, ka pašreiz izmantotajā versijā nav veikti visu zināmo kļūdu labojumi un var rasties savienojuma problēmas. Pārlūka rīkjoslā noklikšķiniet uz Chrome izvēlnes un atlasiet “Atjaunināt Google Chrome”.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "Jūs izmantojat jaunāko Google Chrome versiju, un tajā ir veikti visu zināmo savienojumu kļūdu labojumi.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "Pārlūka tiešās piekļuves lietotāja aģents: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "Pārlūka versijas numurs (īsais): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "Pārlūka versijas numurs (pilnais): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "Chrome versijas numura slieksnis — ja vērtība ir lielāka par šo skaitli vai vienāda ar to, tiek uzskatīts, ka problēma nepastāv: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "Chrome versijas numura slieksnis — ja vērtība ir mazāka par šo skaitli, tiek uzskatīts, ka pastāv problēma: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "Chrome OS versijas nosaukums",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "Novecojusi Chrome OS versija",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "Chrome OS versija ir atjaunināta",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "Jūs neizmantojat jaunāko Chrome OS versiju. Pašreiz izmantotajā versijā nav veikti visu zināmo kļūdu labojumi, tāpēc var rasties savienojuma problēmas.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "Jūs izmantojat jaunāko Chrome OS versiju, un tajā ir veikti visu zināmo savienojumu kļūdu labojumi.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Veicot Chrome OS versijas pārbaudi, tika atklāta problēma. Chrome OS versija ir novecojusi. Pašlaik visvecākā pieļaujamā versija ir šāda: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Veicot Chrome OS versijas pārbaudi, netika atklāta neviena problēma. Chrome OS versija ir atjaunināta. Pašlaik visvecākā pieļaujamā versija ir šāda: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "Pārlūka tiešās piekļuves lietotāja aģents: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "Īsais Chrome OS platformas numurs: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "Pilnais Chrome OS platformas numurs: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "Chrome OS platformas numura slieksnis — ja vērtība ir lielāka par šo skaitli vai vienāda ar to, tiek uzskatīts, ka problēma nepastāv: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "Chrome OS platformas numura slieksnis — ja vērtība ir mazāka par šo skaitli, tiek uzskatīts, ka problēma pastāv: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "Atrisinātāja klātbūtnes pārbaude",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "Nav pieejams neviens aktīvs DNS serveris",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "Pieejams DNS serveris",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "DNS serveris nosaka ar saimniekdatora nosaukumu (piemēram, www.google.lv) saistīto IP adresi. Lai pārlūks varētu ielādēt vietni, tam ir nepieciešama IP adrese, ar kuru izveidot savienojumu. Chrome nevar noteikt IP adresi vietnei, kuru vēlaties apmeklēt, jo jūsu DNS serveris nedarbojas. Lūdzu, sazinieties ar interneta pakalpojumu sniedzēju vai tīkla administratoru.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "Chrome atrada DNS serveri, kas veiksmīgi noteica ar saimniekdatora nosaukumu (piemēram, www.google.lv) saistīto IP adresi.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "Notiek mēģinājums atrisināt saimniekdatora nosaukumu: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "DNS serveris uzrādīja DNS vaicājuma rezultātus.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "DNS serveris neuzrādīja nekādus rezultātus.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "Saimniekdatora nosaukumam tika noteikta šāda saistītā IP adrese: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "DNS atrisinātāja pārbaude izpilda vienu DNS vaicājumu — ja tiek uzrādīta derīga atbilde, tiek uzskatīts, ka problēma nepastāv.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "DNS atrisinātāja pārbaude izpilda vienu DNS vaicājumu — ja netiek uzrādīta derīga atbilde, tiek uzskatīts, problēma pastāv.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "DNS serveris uzrādīja veiksmīgi izpildītas darbības statusa kodu: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "DNS serveris uzrādīja problēmas statusa kodu: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "Atrisinātāja latentuma pārbaude",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "DNS atrisināšana notika pārāk ilgi",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "DNS atrisināšana notika ilgāk nekā parasti",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "DNS atbilžu saņemšana netika aizkavēta",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "DNS serveris lēni uzrādīja atbildes. DNS serveris nosaka ar saimniekdatora nosaukumu (piemēram, www.google.lv) saistīto IP adresi. Lai pārlūks varētu ielādēt vietni, tam ir nepieciešama IP adrese, ar kuru izveidot savienojumu.",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "DNS serveris uzrādīja atbildes. DNS serveris nosaka ar saimniekdatora nosaukumu (piemēram, www.google.lv) saistīto IP adresi. Lai pārlūks varētu ielādēt vietni, tam ir nepieciešama IP adrese, ar kuru izveidot savienojumu.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "DNS serveris ātri uzrādīja atbildes uz jūsu pieprasījumiem. DNS serveris nosaka ar saimniekdatora nosaukumu (piemēram, www.google.lv) saistīto IP adresi. Lai pārlūks varētu ielādēt vietni, tam ir nepieciešama IP adrese, ar kuru izveidot savienojumu.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "Notiek mēģinājums atrisināt saimniekdatora nosaukumu. Numurs: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "Tika saņemts DNS atrisināšanas rezultāts. Pārbaudes numurs/ pašreizējais laiks/ ilgums (milisekundēs)/ sākuma laiks (milisekundēs): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "DNS atrisināšanas kopējais laiks visām pārbaudēm (milisekundēs): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "Atrisināto DNS saimniekdatoru kopskaits: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "Vidējais DNS atrisināšanas ilgums (milisekundēs): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "Vidējais DNS atrisināšanas ilgums (milisekundēs) — etalona vērtība, kuras nesasniegšanas gadījumā tiek uzskatīts, ka problēma nepastāv: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "Vidējā DNS atrisināšanas ilguma diapazons (milisekundēs) — etalona vērtība, kuras ietvaros tiek uzskatīts, ka pastāv iespējama problēma: ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "Vidējais DNS atrisināšanas ilgums (milisekundēs) — etalona vērtība, kuras pārsniegšanas gadījumā tiek uzskatīts, ka pastāv problēma: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "DNS bojājumu pārbaude",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "DNS serveris uzrādīja paredzētos rezultātus",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "Paredzēti DNS rezultāti — šķiet, ka tie nav bojāti.",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "Neparedzēti DNS rezultāti — iespējams, tie ir bojāti",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "Tika uzrādīta bojāta DNS atbilde. Bojāts DNS serveris var uzrādīt nepareizu IP adresi un novirzīt datplūsmu uz nepareizo saimniekdatoru.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "DNS rezultāti tiek uzskatīti par bojātiem, ja atrisinātājs neuzrāda paredzēto IP adresi.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "DNS rezultāti tiek uzskatīti par nebojātiem, ja atrisinātājs uzrāda paredzēto IP adresi.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "Pārbaudes numurs/pārbaudītā saimniekdatora nosaukums: ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " Pārbaudes laikā netika uzrādīts neviens DNS adreses lauks (iestatīts ar nulles vērtību).",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " Pārbaude: nav rezultāta statusa koda; pārbaude tiek priekšlaikus pārtraukta kļūmes dēļ.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " Pārbaudes laikā tika uzrādīts šāds statusa kods: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " Tika uzrādīta atrisināta DNS adrese: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "TCP ugunsmūra pārbaude",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "Interneta datplūsma tika bloķēta pieslēgvietā ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "Iespējams, interneta datplūsma tika bloķēta pieslēgvietā ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "Interneta datplūsma netika bloķēta pieslēgvietā ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "Jūsu tīklā ir noteikts ierobežojums plaši izmantotam interneta savienojumam.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "Šķiet, ka jūsu tīklā ir noteikts ierobežojums plaši izmantotam interneta savienojumam.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "Savienojuma izveide pieslēgumvietā bija veiksmīga ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " Tiks izveidots TCP savienojums. Numurs/saimniekdatora nosaukums/pieslēgvieta: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " TCP ugunsmūra pārbaudes laikā tika uzrādīts šāds TCP statusa kods: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "Ugunsmūra pārbaudes rezultāti — veiktās pārbaudes/pārbaudītās pieslēgvietas/neizdevušos savienojumu skaits: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "Savienojuma pārbaude neizdevās. No Chrome tīkliem netika uzrādīts veiksmīga TCP savienojuma statusa kods, bet tika uzrādīts šāds statusa kods: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "Noteiktais DNS atrisinātājs nav pieejams, tāpēc mēs nevaram noteikt, vai tiek izmantots ugunsmūris.",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "Noteiktais tīkls nav pieejams, tāpēc mēs nevaram noteikt, vai tiek izmantots ugunsmūris.",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "Tiek uzskatīts, ka problēma nepastāv, ja neveiksmīga TCP savienojuma pārbaudes rezultātu procentuālā vērtība ir mazāka par šo skaitli vai vienāda ar to: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "Tiek uzskatīts, ka problēma pastāv, ja neveiksmīga TCP savienojuma pārbaudes rezultātu procentuālā vērtība ir vienāda ar: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "Tiek uzskatīts, ka problēma pastāv, ja neveiksmīga TCP savienojuma pārbaudes rezultātu skaita vērtība ir šādā diapazonā: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "HTTP caurlaides lapas pārbaude",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "Interneta datplūsma tika bloķēta caurlaides lapā",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "Nevar pilnvērtīgi pārbaudīt HTTP caurlaides lapu",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "Tika konstatēta atklāta piekļuve internetam",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "Caurlaides lapa ir vietne, kura ir jāskata tīkla lietotājiem un kurā lietotājiem ir jāveic konkrētas darbības, lai iegūtu neierobežotu piekļuvi internetam. Jūsu tīklā tika atklāta caurlaides lapa, un tas nozīmē, ka tiek bloķēta neierobežota piekļuve internetam.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "Pastāv problēma, kas neļauj pārbaudīt HTTP caurlaides lapu. Visizplatītākais šīs problēmas iemesls ir visas tīkla datplūsmas aizliegšana vai bloķēšana.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "Tika konstatēta neierobežota piekļuve internetam. Caurlaides lapa ir vietne, kura ir jāskata tīkla lietotājiem un kurā lietotājiem ir jāveic konkrētas darbības, lai iegūtu neierobežotu piekļuvi internetam.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "Ja visi HTTP pieprasījumi uzrāda HTTP statusa kodu 204, HTTP caurlaides lapas pārbaudē tiek uzskatīts, ka problēma nepastāv.",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "Ja tīkla problēmu skaits ir lielāks nekā šī HTTP pieprasījumu procentuālā daļa, HTTP caurlaides lapas pārbaudē tiek uzskatīts, ka pastāv iespējama problēma: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "Ja kāds no HTTP pieprasījumiem neuzrāda HTTP statusa kodu 204, HTTP caurlaides lapas pārbaudē tiek uzskatīts, ka problēma pastāv.",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "Kļūda pieprasījumā. Numurs/kļūdas statuss: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "Atbildes numurs/HTTP atbildes kods: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "Atbildes numurs/HTTP atbilžu galvenes: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "Pieprasījuma numurs/atbildes kopējais ilgums: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "Google vietņu HTTP latentuma pārbaude",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "Tīmekļa pieprasījumu sūtīšana Google serveriem notika pārāk lēni",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "Tīmekļa pieprasījumu sūtīšana Google serveriem notika lēnāk nekā parasti",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "Atbildes no Google vietnēm netiek aizkavētas",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Atbilde no Google vietnēm tiek saņemta ilgāk nekā parasti. Tas norāda, ka ir lēns tīkls.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Atbilde no Google vietnēm tiek saņemta mazliet ilgāk nekā parasti. Tas norāda, ka ir lēns tīkls.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "Tīmekļa pieprasījumi Google serveriem tiek saņemti ātri.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "Kļūda pieprasījumā. Numurs/ kļūdas statuss: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "HTTP atbildes vidējais laiks (milisekundēs): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "HTTP pieprasījumu kopskaits: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "HTTP atbildes kopējais laiks (milisekundēs): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "HTTP atbildes numurs/ saņemšanas ilgums (mikrolaikspiedols)/ pagājušais laiks (milisekundēs): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "Vidējais HTTP latentuma laiks (milisekundēs) — etalona vērtība, kuras nesasniegšanas gadījumā tiek uzskatīts, ka problēma nepastāv: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "Vidējais HTTP latentuma laika diapazons (milisekundēs) — etalona vērtība, kuras ietvaros tiek uzskatīts, ka pastāv iespējama problēma: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "Vidējais HTTP latentuma laiks (milisekundēs) — etalona vērtība, kuras pārsniegšanas gadījumā tiek uzskatīts, ka pastāv problēma: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "Chrome OS Wi-Fi signāla stipruma pārbaude",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "Wi-Fi signāla stipruma pārbaude tika priekšlaikus pārtraukta",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "Nevarēja palaist pārbaudi, jo netika atrasts neviens Wi-Fi savienojums.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "Tīkla signāls ir vājš",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "Wi-Fi tīkla signāls ir vājš.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "Tīkla signāls ir stiprs",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "Wi-Fi tīkla signāls ir stiprs.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "Tīkla signāla nosaukums/signāla stiprums: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "Chrome OS signāla stiprums — etalona vērtība, kuras pārsniegšanas gadījumā tiek uzskatīts, ka problēma nepastāv: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "Chrome OS signāla stiprums — etalona vērtība, kuras nesasniegšanas gadījumā tiek uzskatīts, ka pastāv problēma: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "Ehotestēšanas vārtejas pārbaude",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "Nevar veikt vārtejas ehotestēšanu",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "Ehotestējot vārteju, netiek iegūta ātra atbilde.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "Vārteja ir sasniedzama",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "Ehotestējot vārteju, tiek iegūta ātra atbilde.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "Latentuma slieksnis (milisekundēs) vārtejas ehotestēšanai — ja vērtība ir mazāka par šo skaitli, tiek uzskatīts, ka problēma nepastāv: ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "Latentuma slieksnis (milisekundēs) vārtejas ehotestēšanai — ja vērtība ir lielāka par šo skaitli, tiek uzskatīts, ka problēma pastāv: ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "ICMP vaicājums, kas tieši veikts ar vārtejas IP, nav saņēmis atbildes paketi.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "ICMP paketes latentums (milisekundēs): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "Nevarēja noteikt vārtejas IP.",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "Vārtejas IP ir jābūt šādam: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "IP, kas tika uzrādīts, kad ICMP pakotne tika nosūtīta attālam saimniekdatoram (izmantotā TTL vērtība — 1), bija tāds pats kā attālā saimniekdatora IP: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "Hangouts savienojamības pārbaude",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "Pieejams Hangouts savienojums",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "Savienojuma izveide ar Hangouts pakalpojumu bija veiksmīga.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Hangouts savienojums šķiet daļēji traucēts",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "Nevar izveidot savienojumu ar Hangouts multivides pakalpojumu UDP portos 19302–19309.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Nevarēja izveidot savienojumu ar pakalpojumu Hangouts",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Šķiet, ka ir bloķēti porti un saimniekdatori, kas nepieciešami savienojuma izveidei ar Hangouts.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "Nevar izveidot savienojumu ar Hangouts multivides pakalpojumu TCP pieslēgvietā 443 un UDP portos 19302–19309.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Nevar izveidot savienojumu ar Hangouts tērzēšanas pakalpojumu.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "Nevar izveidot savienojumu ar Hangouts tērzēšanas pakalpojumu vai Hangouts multivides pakalpojumu TCP pieslēgvietā 443.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "TCP savienojums ar saimniekdatora portu 443 bija veiksmīgs. ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "TCP savienojums ar saimniekdatora portu 443 neizdevās un ir bloķēts. ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "UDP savienojums ar galamērķa portu neizdevās un ir bloķēts. ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "UDP savienojums ar galamērķa portu bija veiksmīgs. ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "Hangouts bloķēšanas pārbaude konstatē, ka problēma nepastāv, ja: 1) jebkurā UDP pieslēgvietā no 19302 līdz 19309 var izveidot savienojumu ar stun.l.google.com; 2) var izveidot TCP savienojumu ar apis.google.com, clients6.google.com, plus.google.com un talkgadget.google.com.",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "Hangouts bloķēšanas pārbaude nosaka, ka pastāv problēma, ja: 1) nevienā UDP galamērķa pieslēgvietā no 19302 līdz 19309 nevar izveidot savienojumu ar stun.l.google.com; 2) pieslēgvietā 443 nevar izveidot TCP savienojumu ar šādiem saimniekdatoriem: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com.",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "Wi-Fi šifrēšanas pārbaude",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "Wi-Fi šifrēšanas pārbaude tika priekšlaikus pārtraukta",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "Wi-Fi šifrēšanas pārbaude netika veikta, jo netika atrasts neviens Wi-Fi tīklstests nedarbosies, nav WiFi tīklu.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "Wi-Fi šifrēšanas metode ir spēcīga",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "Jūsu ierīce izmanto spēcīgu Wi-Fi šifrēšanas metodi.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "Wi-Fi šifrēšanas metode ir tikai daļēji droša",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "Jūsu tīkla savienojums izmanto tikai daļēji spēcīgu Wi-Fi šifrēšanas metodi.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "Wi-Fi tīkla šifrēšanas metode ir nedroša",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "Jūsu tīkla savienojuma izmantotā Wi-Fi tīkla šifrēšanas metode ir nedroša.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "Wi-Fi šifrēšanas metodes, kurām noteiktas problēmas: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "Wi-Fi šifrēšanas metodes, kurām netika noteiktas problēmas: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "Ja neesam pārliecināti par Wi-Fi šifrēšanas metodi, tiek uzskatīts, ka pastāv iespējama problēma.",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "Noteiktais pieejamo tīklu skaits: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "Šifrēšanas metode, kuru izmanto pašlaik savienotais Wi-Fi tīkls: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "Vispārīga Google vietņu pārbaude",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "Google vietnes ir pieejamas",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "Šķiet, ka Google vietnes tiek ielādētas pareizi bez jebkādām savienojuma problēmām.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Google vietnes nevarēja pareizi izgūt un ielādēt.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "Mēģinot piekļūt Google vietnēm, radās problēma. Tai var būt vairāki iemesli, tostarp caurlaides lapa, DNS bojājums, starpnieka veikts uzbrukums, kā arī citi tīkla pārveidošanas veidi.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "Piekļuve Google vietnēm tiek uzskatīta par pilnībā veiksmīgu, ja var izveidot HTTPS savienojumu ar visām attiecīgajām pārbaudītajām Google pakalpojumu vietnēm.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "Piekļuve Google vietnēm netiek uzskatīta par pilnībā veiksmīgu, ja nevar izveidot HTTPS savienojumu ar kādu no attiecīgajām pārbaudītajām Google pakalpojumu vietnēm.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "Pārbaudes numurs/pārbaudītā saimniekdatora nosaukums: ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "Mēģinot izveidot savienojumu ar norādīto saimniekdatora nosaukumu, radās kļūda (notiks atkārtots mēģinājums): ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "Veidojot savienojumu ar saimniekdatora nosaukumu, radās pastāvīgas kļūdas. Iespējams, šim nosaukumam ir savienojamības problēma: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "Tālāk norādītā resursdatora nosaukuma pieprasījums tika veiksmīgi pabeigts, iegūstot norādīto statusa kodu: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

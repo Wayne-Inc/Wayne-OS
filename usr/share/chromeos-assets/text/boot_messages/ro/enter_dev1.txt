@@ -1,0 +1,9 @@
+﻿
+Se face tranziția sistemului la Modul pentru dezvoltatori.
+Datele locale vor fi șterse.
+
+Modificările pe care le aduceți sistemului nu sunt acceptate de Google, pot provoca
+probleme de hardware și pot anula garanția.
+
+Pentru a anula, opriți computerul acum și treceți comutatorul Modului pentru dezvoltatori înapoi la
+Modul verificat.

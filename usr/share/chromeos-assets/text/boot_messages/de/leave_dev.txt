@@ -1,0 +1,4 @@
+﻿
+Ihr System wurde zuletzt im Entwicklermodus gestartet.
+Das System kehrt zum normalen (verifizierten) Modus zurück...
+Anschließend wird das System neu gestartet.

@@ -1,0 +1,3 @@
+Masyadong mababa ang charge ng baterya para sa update.
+
+Pakikonekta ang iyong Chromebook sa mapagkukunan ng power. Awtomatikong magsisimula ang pag-update sa sandaling magkaroon ng sapat na charge ang baterya.

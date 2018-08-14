@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "lt"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "\u201eChromeVox\u201c suteikia \u201eChrome\u201c bals\u0105"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Sustabdyti kalb\u0105"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "\u012egalinti pritraukimo re\u017eim\u0105 / neleisti jo"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "Kodo klavi\u0161as"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "Pereiti prie kito elemento, kur\u012f galima fokusuoti"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "Pereiti prie ankstesni elemento, kur\u012f galima fokusuoti"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "Eiti atgal"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "Eiti \u012f priek\u012f"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Perkelti \u012f kair\u0119"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "\u012e de\u0161in\u0119"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "Praleisti atgal nepertraukiamai skaitant"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "Praleisti pirmyn nepertraukiamai skaitant"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Suma\u017einti nar\u0161ymo detalum\u0105"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "Padidinti nar\u0161ymo detalum\u0105"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "Imtis veiksm\u0173 d\u0117l dabartinio elemento"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Spustel\u0117ti dabartin\u012f element\u0105"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Prane\u0161ti apie nuorodos URL"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Prane\u0161ti apie dabartinio puslapio pavadinim\u0105"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Prane\u0161ti apie dabartinio puslapio URL"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "Prad\u0117ti skaityti nuo dabartin\u0117s vietos"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "Atidaryti \u201eChromeVox\u201c meniu"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "Sl\u0117pti \u201eChromeVox\u201c pagalb\u0105"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Paspauskite auk\u0161tyn ar \u017eemyn, kad per\u017ei\u016br\u0117tum\u0117te komandas; paspauskite \u201eEnter\u201c, kad suaktyvintum\u0117te"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "Atidaryti \u201eChromeVox\u201c mokymo program\u0105"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "\u201eChromeVox\u201c radimas puslapyje"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "Atidaryti parink\u010di\u0173 puslap\u012f"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "Atidarykite mokom\u0105j\u012f re\u017eim\u0105"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Suma\u017einti kalbos temp\u0105"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "Padidinti kalbos temp\u0105"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Suma\u017einti auk\u0161t\u012f"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "Padidinti auk\u0161t\u012f"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Ma\u017einti kalbos garsum\u0105"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "Didinti kalbos garsum\u0105"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "Rodyti form\u0173 s\u0105ra\u0161\u0105"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "Rodyti antra\u0161\u010di\u0173 s\u0105ra\u0161\u0105"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "Rodyti nuorod\u0173 s\u0105ra\u0161\u0105"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "Rodyti lenteli\u0173 s\u0105ra\u0161\u0105"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "Rodyti orientyr\u0173 s\u0105ra\u0161\u0105"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "Ankstesn\u0117 lentel\u0117s eilut\u0117"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "Kita lentel\u0117s eilut\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "Ankstesnis lentel\u0117s stulpelis"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "Kitas lentel\u0117s stulpelis"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Prane\u0161ti apie dabartinio langelio antra\u0161tes"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Prane\u0161ti dabartines langelio koordinates"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Parinkti dabartinio langelio eilut\u0117s antra\u0161t\u0119"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Parinkti dabartinio langelio stulpelio antra\u0161t\u0119"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "Eiti \u012f lentel\u0117s prad\u017ei\u0105"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "Eiti \u012f lentel\u0117s pabaig\u0105"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "Eiti \u012f dabartin\u0117s eilut\u0117s prad\u017ei\u0105"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "Eiti \u012f dabartin\u0117s eilut\u0117s pabaig\u0105"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "Eiti \u012f dabartinio stulpelio prad\u017ei\u0105"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "Eiti \u012f dabartinio stulpelio pabaig\u0105"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "Kita 1 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "Ankstesn\u0117 1 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "Kita 2 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "Ankstesn\u0117 2 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "Kita 3 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "Ankstesn\u0117 3 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "Kita 4 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "Ankstesn\u0117 4 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "Kita 5 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "Ankstesn\u0117 5 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "Kita 6 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "Ankstesn\u0117 6 lygio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "Kitas i\u0161skleid\u017eiamasis s\u0105ra\u0161as"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "Ankstesnis i\u0161skleid\u017eiamasis s\u0105ra\u0161as"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "Kita teksto sritis, kuri\u0105 galima redaguoti"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "Ankstesn\u0117 teksto sritis, kuri\u0105 galima redaguoti"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "Kitas formos laukas"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "Ankstesnis formos laukas"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "Kitas grafinis elementas"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "Ankstesnis grafinis elementas"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "Kita antra\u0161t\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "Ankstesn\u0117 antra\u0161t\u0117"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "Kitas s\u0105ra\u0161o elementas"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "Ankstesnis s\u0105ra\u0161o elementas"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "Kitas per\u0117jimas"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "Ankstesnis per\u0117jimas"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "Kita nuoroda"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "Ankstesn\u0117 nuoroda"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "Kitas s\u0105ra\u0161as"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "Ankstesnis s\u0105ra\u0161as"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "Kitas matematinis raktas"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "Ankstesnis matematinis raktas"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "Kitas medij\u0173 raktas"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "Ankstesnis medij\u0173 raktas"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "Kita \u012ftrauka"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "Ankstesn\u0117 \u012ftrauka"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "Kita akut\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "Ankstesn\u0117 akut\u0117"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "Kitas \u0161liau\u017eiklis"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "Ankstesnis \u0161liau\u017eiklis"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "Kita lentel\u0117"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "Kita aplankyta nuoroda"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "Ankstesn\u0117 lentel\u0117"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Ankstesn\u0117 aplankyta nuoroda"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "Kitas mygtukas"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "Ankstesnis mygtukas"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "Kitas \u017eymimasis laukelis"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "Ankstesnis \u017eymimasis laukelis"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "Kitas orientyras"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "Ankstesnis orientyras"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "Derinimo palyginimas"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Paskelbiamas trumpas esamos pozicijos apra\u0161as"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Paskelbiamas i\u0161samus esamos pozicijos apra\u0161as"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "\u201eChromeVox\u201c parinktys"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Virtualusis Brailio ekranas"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "Imituojama atnaujinama Brailio ra\u0161men\u0173 ekrano i\u0161vestis\n        \u201eChromeVox\u201c skydelyje ekrano vir\u0161uje."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "Eilu\u010di\u0173:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "Langeli\u0173 kiekvienoje eilut\u0117je:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Dabartinis vaizdo stilius yra \u012fterptasis."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Dabartinis vaizdo stilius yra gretutinis."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Keisti vaizdo stili\u0173 \u012f \u012fterpt\u0105j\u012f."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Keisti vaizdo stili\u0173 \u012f gretutin\u012f."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "Naudodami toliau pateiktas parinktis galite tinkinti \u201eChromeVox\u201c. Pakeitimai rodomi i\u0161 karto."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "Pel\u0117s \u017eymekliu pakeiskite \u017eidin\u012f."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "Elemento kontekst\u0105 rodyti prie\u0161 kit\u0105 informacij\u0105 (pvz., jo pavadinim\u0105)."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "Patobulinti konkre\u010dias svetaines (pvz., \u201eGoogle\u201c paie\u0161k\u0105)."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "\u012egalinti daugiakalbius apra\u0161us."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Automati\u0161kai nuskaityti puslap\u012f po to, kai baigiamas jo \u012fk\u0117limas."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Kai leid\u017eiamas garso \u012fra\u0161as\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "Leisti \u012fprastu garsumu net tada, kai kalba \u201eChromeVox\u201c"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "Leisti ma\u017eesniu garsumu, kai kalba \u201eChromeVox\u201c"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "Pristabdyti atk\u016brim\u0105, kai kalba \u201eChromeVox\u201c"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "Redaguodami tekst\u0105 nuveskite \u017eymekl\u012f tarp simboli\u0173 (pvz., \u201eMac OS X\u201c)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Balsai"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Pasirinkti dabartin\u012f bals\u0105:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Brailio ra\u0161menys"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "Perjungti \u012f 8 ta\u0161k\u0173 Brailio ra\u0161menis"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "Perjungti \u012f 6 ta\u0161k\u0173 Brailio ra\u0161menis"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "Pasirinkti 6 ta\u0161k\u0173 Brailio ra\u0161men\u0173 lentel\u0119:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, $2$ klas\u0117",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), $3$ klas\u0117",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "Pasirinkti 8 ta\u0161k\u0173 Brailio ra\u0161men\u0173 lentel\u0119:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "\u012egalinti teksto skaidym\u0105 \u012f eilutes"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Spartieji klavi\u0161ai"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "Pakeiskite dabartin\u012f klavi\u0161\u0173 \u017eem\u0117lap\u012f pasirink\u0119 parinkt\u012f i\u0161 toliau pateikto s\u0105ra\u0161o."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Nustatyti dabartin\u012f klavi\u0161\u0173 \u017eem\u0117lap\u012f i\u0161 naujo"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "Tinkinkite da\u017enai naudojam\u0173 komand\u0173 spar\u010diuosius klavi\u0161us \u012fved\u0119 juos \u012f atitinkamus toliau pateiktus laukus."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "Modifikavimo klavi\u0161ai"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "\u201eChromeVox\u201c modifikavimo klavi\u0161as"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "\u201eChromeVox\u201c mokomasis re\u017eimas"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Paspauskite bet kur\u012f klavi\u0161\u0105, kad su\u017einotum\u0117te jo pavadinim\u0105. Paspaudus \u201eCtrl\u201c + W bus u\u017edarytas mokomasis re\u017eimas."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "skirtukas sukurtas"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "\u201e$1$\u201c, skirtukas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "langas, \u201e$1$\u201c, skirtukas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "inkognito langas, \u201e$1$\u201c, skirtukas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "\u201e$1$\u201c, meniu atidarytas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "meniu u\u017edarytas"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "\u017dymimasis laukelis \u201e$1$\u201c pa\u017eym\u0117tas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "pa\u017eym\u0117ta"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, \u017eymimasis laukelis nepa\u017eym\u0117tas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "nepa\u017eym\u0117ta"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "\u201e$1$\u201c, \u012fjungti",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "\u201e$1$\u201c, i\u0161jungti",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, pasirinkta akut\u0117",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "pasirinkta"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, akut\u0117s pasirinkimas panaikintas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "nepasirinkta"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, meniu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, meniu elementas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, meniu elementas, su submeniu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, langas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, teksto laukelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, teksto laukelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, slapta\u017eod\u017eio teksto laukelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, slapta\u017eod\u017eio teksto laukelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, mygtukas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, jungtinis laukelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, jungtinis laukelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, s\u0105ra\u0161o laukelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, s\u0105ra\u0161o laukelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, nuoroda",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, skirtukas",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "$1$ $2$ \u0161liau\u017eiklis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", pasirinkta"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", nepasirinkta"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$ i\u0161 $2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$ / $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " $1$ lygis ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "Tempas $1$ proc.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "Auk\u0161tis $1$ proc.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "Garsumas $1$ proc.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "I\u0161eita i\u0161 dialogo lango."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "I\u0161eita i\u0161 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "\u012eeita \u012f dialogo lang\u0105"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "pa\u0161alinta:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "Fiksuojamasis re\u017eimas \u012fgalintas"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "Fiksuojamasis re\u017eimas neleid\u017eiamas"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Klaviat\u016bros pagalba"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Kontekstinis meniu"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "$1$ s\u0105ra\u0161as.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "Jei norite nar\u0161yti, naudokite rodykli\u0173 auk\u0161tyn ir \u017eemyn klavi\u0161us arba \u012fveskite tekst\u0105, jei norite ie\u0161koti."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "I\u0161eita"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "Langelio pabaiga."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "Nerastas joks URL"
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "I\u0161einama i\u0161 lentel\u0117s."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "I\u0161einama i\u0161 tinklelio."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "Lentel\u0117s viduje"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Nerasta jokia lentel\u0117."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Ne lentel\u0117s viduje."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Ne lentel\u0117s re\u017eimu."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "N\u0117ra kito langelio."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "N\u0117ra langelio auk\u0161\u010diau."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "N\u0117ra langelio de\u0161in\u0117je."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "N\u0117ra langelio kair\u0117je."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "Tu\u0161\u010dias langelis."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Apimta."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Eilut\u0117s antra\u0161t\u0117:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Tu\u0161\u010dia eilut\u0117s antra\u0161t\u0117"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Stulpelio antra\u0161t\u0117:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Tu\u0161\u010dia stulpelio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "N\u0117ra antra\u0161\u010di\u0173"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Tu\u0161\u010dios antra\u0161t\u0117s"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "Eilut\u0117: $1$ i\u0161 $2$. Stulpelis: $3$ i\u0161 $4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "Lentel\u0117 \u201e$1$\u201c ($2$:$3$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "$1$ ($2$:$3$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "$1$ eilut\u0117, $2$ stulpelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "eil$1$st$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "N\u0117ra kito \u017eymimojo laukelio."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "N\u0117ra ankstesnio \u017eymimojo laukelio."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "N\u0117ra kito redaguotino teksto lauko."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "N\u0117ra ankstesnio redaguotino teksto lauko."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "N\u0117ra kitos antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "N\u0117ra ankstesn\u0117s antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "N\u0117ra kitos 1 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "N\u0117ra ankstesn\u0117s 1 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "N\u0117ra kitos 2 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "N\u0117ra ankstesn\u0117s 2 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "N\u0117ra kitos 3 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "N\u0117ra ankstesn\u0117s 3 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "N\u0117ra kitos 4 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "N\u0117ra ankstesn\u0117s 4 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "N\u0117ra kitos 5 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "N\u0117ra ankstesn\u0117s 5 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "N\u0117ra kitos 6 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "N\u0117ra ankstesn\u0117s 6 lygio antra\u0161t\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "N\u0117ra kito elemento, kuris neb\u016bt\u0173 nuoroda."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "N\u0117ra ankstesnio elemento, kuris neb\u016bt\u0173 nuoroda."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "N\u0117ra kito prierai\u0161o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "N\u0117ra ankstesnio prierai\u0161o."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "N\u0117ra kitos nuorodos."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "N\u0117ra ankstesn\u0117s nuorodos."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "N\u0117ra kitos lentel\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "N\u0117ra ankstesn\u0117s lentel\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "N\u0117ra kitos aplankytos nuorodos."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "N\u0117ra ankstesn\u0117s aplankytos nuorodos."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "N\u0117ra kitos matematin\u0117s i\u0161rai\u0161kos."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "N\u0117ra ankstesn\u0117s matematin\u0117s i\u0161rai\u0161kos."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "N\u0117ra kito medij\u0173 valdiklio."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "N\u0117ra ankstesnio medij\u0173 valdiklio."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "N\u0117ra kito s\u0105ra\u0161o."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "N\u0117ra ankstesnio s\u0105ra\u0161o."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "N\u0117ra kito s\u0105ra\u0161o elemento."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "N\u0117ra ankstesnio s\u0105ra\u0161o elemento."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "N\u0117ra kitos \u012ftraukos."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "N\u0117ra ankstesn\u0117s \u012ftraukos."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "N\u0117ra kito formos lauko."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "N\u0117ra ankstesnio formos lauko."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "N\u0117ra kitos per\u0117jimo vietos."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "N\u0117ra ankstesn\u0117s per\u0117jimo vietos."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "N\u0117ra kito ARIA orientyro."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "N\u0117ra ankstesnio ARIA orientyro."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "N\u0117ra kito i\u0161skleid\u017eiamojo laukelio."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "N\u0117ra ankstesnio i\u0161skleid\u017eiamojo laukelio."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "N\u0117ra kito mygtuko."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "N\u0117ra ankstesnio mygtuko."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "N\u0117ra kito grafinio elemento."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "N\u0117ra ankstesnio grafinio vaizdo."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "N\u0117ra kito \u0161liau\u017eiklio."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "N\u0117ra ankstesnio \u0161liau\u017eiklio."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "N\u0117ra kitos akut\u0117s."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "N\u0117ra ankstesn\u0117s akut\u0117s."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "N\u0117ra kitos skilties."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "N\u0117ra ankstesn\u0117s skilties."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "N\u0117ra kito valdiklio."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "N\u0117ra ankstesnio valdiklio."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "Spustel\u0117ta"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "dukart spustel\u0117ta"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "N\u0117ra antra\u0161\u010di\u0173."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "N\u0117ra nuorod\u0173."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "N\u0117ra form\u0173."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "N\u0117ra lenteli\u0173."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "N\u0117ra ARIA orientyr\u0173."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "N\u0117ra per\u0117jim\u0173."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$ i\u0161 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$ / $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "yra submeniu"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "yra i\u0161\u0161okantysis elementas"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+i\u0161\u0161okantysis langas"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "Min. $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "min. $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "Maks. $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "maks. $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "\u012esp\u0117jimas"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "alrt"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "\u012esp\u0117jimo dialogo langas"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "alrt dlg"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "Mygtukas"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "btn"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "\u017dymimasis laukelis"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Jungtinis laukelis"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "Dialogo langas"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "dlg"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "Tinklelis"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "grd"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "Langelis"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "$1$ eilut\u0117, $2$ stulpelis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Nuoroda"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "lnk"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "S\u0105ra\u0161o laukelis"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "lstbx"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "\u017durnalas"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "log"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Pa\u017eym\u0117toji sritis"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "marquee"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Meniu"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "mnu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Meniu juosta"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Meniu elementas"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Meniu elemento \u017eymimasis laukelis"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Meniu elemento akut\u0117"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "I\u0161\u0161okantysis mygtukas"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Eigos juosta"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Eigos indikatorius"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "Akut\u0117"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Aku\u010di\u0173 grup\u0117"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Slinkties juosta"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "\u0160liau\u017eiklis"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "sldr"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "Sukimo mygtukas"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "B\u016bsena"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "sts"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Skirtukas"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "Tabuliavimo klavi\u0161as"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "Lentel\u0117"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "lentel\u0117"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "Skirtuk\u0173 s\u0105ra\u0161as"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "Skirtuko skydelis"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Teksto laukelis"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "Laikmatis"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "tmr"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "\u012eranki\u0173 juosta"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "Patarimas"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "Medis"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "tree"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "Med\u017eio elementas"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "Straipsnis"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "artikelis"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "Programa"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "app"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Reklamjuost\u0117"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "bnr"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Stulpelio antra\u0161t\u0117"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "Papildomas"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "papildomas"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Turinio informacija"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "Apibr\u0117\u017etis"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "def"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Katalogas"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "dir"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Dokumentas"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "doc"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Forma"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "forma"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Grup\u0117"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "grp"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Antra\u0161t\u0117"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "Vaizdas"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "img"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "S\u0105ra\u0161as"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "S\u0105ra\u0161o elementas"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Pagrindinis"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "main"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Matematika"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Nar\u0161ymas"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Pastaba"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "pastaba"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Regionas"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "rgn"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Eilut\u0117s antra\u0161t\u0117"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "Ie\u0161koti"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "ie\u0161koti"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Skyriklis"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "Matuoklis"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "matuoklis"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Automatinis eilut\u0117s u\u017ebaigimas"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "S\u0105ra\u0161o automatinis u\u017ebaigimas"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Automatinis eilut\u0117s ir s\u0105ra\u0161o u\u017ebaigimas"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "Pa\u017eym\u0117ta"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "Nepa\u017eym\u0117ta"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "I\u0161 dalies pa\u017eym\u0117ta"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Neleista"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "I\u0161skleista"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "Suskleista"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "\u012evestis negalioja"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "Aptikta gramatikos klaida"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "grammatical mistake"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "Aptikta ra\u0161ybos klaida"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "netaisyklingai para\u0161yta"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "Kelios eilut\u0117s"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "Keli\u0173 element\u0173 pasirinkimas"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "keli pasirinkimai"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Paspausta"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Nepaspausta"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "I\u0161 dalies paspausta"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Tik skaitoma"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "rdonly"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "B\u016btina"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Pasirinkta"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Nepasirinkta"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Nuoroda, kuria apsilankyta"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "Apsilankyta"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "1 antra\u0161t\u0117"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "2 antra\u0161t\u0117"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "3 antra\u0161t\u0117"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "4 antra\u0161t\u0117"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "5 antra\u0161t\u0117"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "6 antra\u0161t\u0117"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "S\u0105ra\u0161o elementas"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "R\u016b\u0161iuotas s\u0105ra\u0161as"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Jungtinis laukelis"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "Teksto sritis"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "lentel\u0117"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tbl"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "S\u0105ra\u0161as"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Skiltis"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Nar\u0161ymas"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "Straipsnis"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "artikelis"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "\u0160alia"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "\u0161alia"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Antra\u0161\u010di\u0173 grup\u0117"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Antra\u0161t\u0117"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "hdr"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "Pora\u0161t\u0117"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "ftr"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Laikas"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "\u017dym\u0117jimas"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "\u017eym\u0117jimas"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Vaizdo"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "vaizdo \u012fra\u0161as"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "Garsas"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "garso \u012fra\u0161as"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "Spalvos parinkiklis"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "spalvos parinkiklis"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "Datos ir laiko valdiklis"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "data ir laikas"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Laiko valdymas"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "time"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "Datos ir laiko valdiklis"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "data ir laikas"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "Datos valdiklis"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "data"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Teksto redagavimas, el. pa\u0161to \u012fra\u0161as"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@ed 8dot"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "Failo pasirinkimas"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "failas"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "M\u0117nesio valdymas"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "m\u0117n."
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "Redaguoti tik skaitin\u012f tekst\u0105"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "Redaguoti slapta\u017eod\u017eio tekst\u0105"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "Nustatyti i\u0161 naujo"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "reset"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Teksto redagavimas, paie\u0161kos \u012fra\u0161as"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Redaguoti tekst\u0105"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Teksto redagavimas, URL \u012fra\u0161as"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "urled 8dot"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Met\u0173 savait\u0117s valdiklis"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "sav."
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Vidin\u0117 nuoroda"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Tu\u0161\u010dia"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "Tarpas"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "su $1$ element.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "su {COUNT,plural, =1{# elementu}one{# elementu}few{# elementais}many{# elemento}other{# element\u0173}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}one{#}few{#}many{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "su submeniu"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "yra i\u0161\u0161okantysis elementas"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "yra i\u0161\u0161okantysis elementas"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "$1$ rinkinys, kuriame yra $2$ element.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "\u012evesti"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "Tarpas"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Gr\u012f\u017eties klavi\u0161as"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Skirtukas"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Kair\u0117"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Auk\u0161tyn"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "De\u0161in\u0117"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "\u017demiau"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Ne\u017einoma nuoroda"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "Suaktyvinti arba i\u0161aktyvinti \u201eChromeVox\u201c."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "\u201eChromeVox\u201c aktyvus."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "Perjungti \u201eChromeVox\u201c klasikin\u0119 versij\u0105."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "Ankstesnis kitoks elementas."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "Kitas kitoks elementas."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "Ankstesnis pana\u0161us elementas."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "Kitas pana\u0161us elementas."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "Daugiau pana\u0161i\u0173 element\u0173 n\u0117ra."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "Daugiau skirting\u0173 element\u0173 n\u0117ra."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "Prad\u0117ti grup\u0117s tyrin\u0117jim\u0105"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Tyrin\u0117jamos grup\u0117s"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Objektas"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Grup\u0117"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "Lentel\u0117"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Eilut\u0117"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "Stulpelis"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Eilut\u0117"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "Stulpelis"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "eil."
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "stulp."
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "Matematikos \u017eym\u0117jimo kalbos medis"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "Matematikos \u017eym\u0117jimo kalbos i\u0161d\u0117stymas"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "Matematikos \u017eym\u0117jimo kalbos prieigos raktas"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "Matematikos \u017eym\u0117jimo kalbos lapas"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "Vaizdas"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "Priskirtas"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "Linija"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "Sakinys"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "\u017dodis"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Simbolis"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "Rasti puslapyje."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "\u012eveskite paie\u0161kos u\u017eklaus."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "I\u0161eita i\u0161 paie\u0161kos puslapyje."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "N\u0117ra daugiau rezultat\u0173."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "Modifikavimo klavi\u0161ai"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "\u201eChromeVox\u201c nar\u0161ymas"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Informacija"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "Pagalbos komandos"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Kalbos valdymas"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "Ap\u017evalga"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "Lentel\u0117s"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "Praleisti komandas"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Brailio ra\u0161menys"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Vykdymo programa"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Klasikinis klavi\u0161\u0173 \u017eem\u0117lapis"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Kitas klavi\u0161\u0173 \u017eem\u0117lapis"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "Plok\u0161\u010diasis klavi\u0161\u0173 \u017eem\u0117lapis"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "Eksperimentinis klavi\u0161\u0173 \u017eem\u0117lapis"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "\u012egalinti T\u012eK \u012fra\u0161ym\u0105 \u012f \u017eurnal\u0105"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "Prad\u0117ti rinktis"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "Baigti rinktis"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "Pasirinkimas yra "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "Prad\u0117ti arba baigti pasirinkim\u0105."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "kopijuoti $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "i\u0161kirpti $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "\u012fklijuoti $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "pasirinkta"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "nepasirinkta"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "prid\u0117ta prie rinkinio"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "pa\u0161alinta i\u0161 pasirinkimo srities"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "tada"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "ir"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "\u201eChromeVox\u201c modifikatorius"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "$1$ jau priskirta komandai.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Matematika"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Ne matematinis"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "iki piet\u0173 / po piet\u0173"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "valandos"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "minut\u0117s"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "sekund\u0117s"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "milisekund\u0117s"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "prie\u0161piet"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "popiet"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "sav."
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "Sausis"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "Vasaris"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "Kovas"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "Balandis"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "Geg."
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "Bir\u017eelis"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "Liepa"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "Rugpj\u016btis"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "Rugs\u0117jis"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "Spalis"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "Lapkritis"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "Gruodis"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "Be skyrybos \u017eenkl\u0173"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "Su kai kuriais skyrybos \u017eenklais"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "Su visais skyrybos \u017eenklais"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Jei norite priimti, spustel\u0117kite \u201eEnter\u201c, jei at\u0161aukti \u2013 \u201eCancel\u201c. Rodykl\u0117mis auk\u0161tyn ir \u017eemyn galite per\u017ei\u016br\u0117ti ankstesnius ir kitus pasi\u016blymus."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "spustel\u0117jamas"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "Ankstesnis simbolis"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "Kitas simbolis"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "Ankstesnis \u017eodis"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "Kitas \u017eodis"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "Ankstesnis sakinys"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "Kitas sakinys"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "Ankstesn\u0117 linija"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "Kita linija"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "Ankstesnis objektas"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "Kitas objektas"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "Ankstesn\u0117 grup\u0117"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "Kita grup\u0117"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "Orientyras"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Nepaspausta joki\u0173 modifikatori\u0173; paspauskite ir palaikykite vien\u0105 ar daugiau modifikatori\u0173; pakelkite pir\u0161tus, kai bus atlikta, ir i\u0161girsite klavi\u0161\u0173 rinkin\u012f. Paspauskite tabuliavimo klavi\u0161\u0105, kad i\u0161eitum\u0117te."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "$1$ dabar yra naujasis \u201eChromeVox\u201c modifikatorius.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ nustatytas i\u0161 naujo.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "Perjungta \u012f $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "Pereinama \u012f puslapio vir\u0161\u0173"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "Pereinama \u012f puslapio apa\u010di\u0105"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "Skaidyti \u012f vir\u0161\u0173"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "Skaidyti \u012f apa\u010di\u0105"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "Ciklo skyrybos aidas"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Ciklo \u012fvedimo aidas"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "Pristabdo visus \u0161iuo metu paleistus medij\u0173 valdiklius"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "Atidaryti ilg\u0105 apra\u0161\u0105 naujame skirtuke"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "N\u0117ra ilgo apra\u0161o"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Vaizdas su ilgu apra\u0161u"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "Nuo $1$ iki $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$\u2013$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "pasirinkta element\u0173: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "pas. elem.: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "i\u0161valytas pasirinkimas"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "simbolio aidas"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "\u017eod\u017eio aidas"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "simbolio ir \u017eod\u017eio aidas"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "n\u0117ra \u012fvedimo aido"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "\u012fveskite strukt\u016brin\u012f turin\u012f, pvz., lenteles"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "i\u0161eiti i\u0161 strukt\u016brinio turinio, pvz., lenteli\u0173"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "\u012fvesta $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "strukt\u016brin\u0117 linija"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "eilut\u0117"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Perjungti linijos tip\u0105 i\u0161 strukt\u016brinio \u012f i\u0161d\u0117stymo"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "lentel\u0117"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "numatytasis nar\u0161ymas"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "Kaitalioti strukt\u016brin\u012f ir semantin\u012f matematini\u0173 rei\u0161kini\u0173 interpretavim\u0105"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Semantinis interpretavimas \u012fjungtas"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Semantinis interpretavimas i\u0161jungtas"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Jei norite per\u017ei\u016br\u0117ti \u012fsp\u0117jimus, paspauskite \u201eAlt\u201c + \u201eShift\u201c + A"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "N\u0117ra joki\u0173 kit\u0173 straipsni\u0173."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "N\u0117ra joki\u0173 ankstesni\u0173 straipsni\u0173."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "\u201eChromeVox\u201c ekrano skaitymas balsu parengtas"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "\u201eChromeVox\u201c parengtas"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "Garsiniai \u017eenkleliai \u012fjungti"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Garsiniai \u017eenkleliai i\u0161jungti"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "\u012ejunkite arba i\u0161junkite garsinius atsiliepimus (garsinius \u017eenklelius)."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "Pasakykite dabartin\u012f laik\u0105 ir dat\u0105."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "P.: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "I\u0161trintas"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Atlikti numatyt\u0105j\u012f veiksm\u0105"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{\u0161auktukas}one{# \u0161auktukas}few{# \u0161auktukai}many{# \u0161auktuko}other{# \u0161auktuk\u0173}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{tarpas}one{# tarpas}few{# tarpai}many{# spaces}other{# tarp\u0173}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{gravis}one{# gravis}few{# graviai}many{# backticks}other{# gravi\u0173}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{tild\u0117}one{# tild\u0117}few{# tild\u0117s}many{# tildes}other{# tild\u017ei\u0173}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{kilpel\u0117s \u017eenklas}one{# kilpel\u0117s \u017eenklas}few{# kilpel\u0117s \u017eenklai}many{# at signs}other{# kilpel\u0117s \u017eenkl\u0173}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{groteli\u0173 \u017eenklas}one{# groteli\u0173 \u017eenklas}few{# groteli\u0173 \u017eenklai}many{# pound signs}other{# groteli\u0173 \u017eenklas}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{dolerio \u017eenklas}one{# dolerio \u017eenklas}few{# dolerio \u017eenklai}many{# dollar signs}other{# dolerio \u017eenkl\u0173}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{procento \u017eenklas}one{# procento \u017eenklas}few{# procento \u017eenklai}many{# percent signs}other{# procento \u017eenkl\u0173}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{stogelio \u017eenklas}one{# stogelio \u017eenklas}few{# stogelio \u017eenklai}many{# carets}other{# stogelio \u017eenkl\u0173}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{ampersendas}one{# ampersendas}few{# ampersendai}many{# ampersands}other{# ampersend\u0173}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{\u017evaig\u017edut\u0117}one{# \u017evaig\u017edut\u0117}few{# \u017evaig\u017edut\u0117s}many{# asterisks}other{# \u017evaig\u017edu\u010di\u0173}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{atidaromasis skliaustas}one{# atidaromasis skliaustas}few{# atidaromieji skliaustai}many{# open parens}other{# atidarom\u0173j\u0173 skliaust\u0173}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{u\u017edaromasis skliaustas}one{# u\u017edaromasis skliaustas}few{# u\u017edaromieji skliaustai}many{# close parens}other{# u\u017edarom\u0173j\u0173 skliaust\u0173}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{br\u016bk\u0161nys}one{# br\u016bk\u0161nys}few{# br\u016bk\u0161niai}many{# dashes}other{# br\u016bk\u0161ni\u0173}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{apatinis br\u016bk\u0161nys}one{# apatinis br\u016bk\u0161nys}few{# apatiniai br\u016bk\u0161niai}many{# underscores}other{# apatini\u0173 br\u016bk\u0161ni\u0173}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{lygyb\u0117s \u017eenklas}one{# lygyb\u0117s \u017eenklas}few{# lygyb\u0117s \u017eenklai}many{# equal signs}other{# lygyb\u0117s \u017eenkl\u0173}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{pliuso \u017eenklas}one{# pliuso \u017eenklas}few{# pliuso \u017eenklai}many{# plus signs}other{# pliuso \u017eenkl\u0173}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{atidaromasis lau\u017etinis skliaustas}one{# atidaromasis lau\u017etinis skliaustas}few{# atidaromieji lau\u017etiniai skliaustai}many{# left brackets}other{# atidarom\u0173j\u0173 lau\u017etini\u0173 skliaust\u0173}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{u\u017edaromasis lau\u017etinis skliaustas}one{# u\u017edaromasis lau\u017etinis skliaustas}few{# u\u017edaromieji lau\u017etiniai skliaustai}many{# right brackets}other{# u\u017edarom\u0173j\u0173 lau\u017etini\u0173 skliaust\u0173}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{atidaromasis riestinis skliaustas}one{# atidaromasis riestinis skliaustas}few{# atidaromieji riestiniai skliaustai}many{# left braces}other{# atidarom\u0173j\u0173 riestini\u0173 skliaust\u0173}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{u\u017edaromasis riestinis skliaustas}one{# u\u017edaromasis riestinis skliaustas}few{# u\u017edaromieji riestiniai skliaustas}many{# right braces}other{# u\u017edarom\u0173j\u0173 riestini\u0173 skliaust\u0173}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{statusis br\u016bk\u0161nys}one{# statusis br\u016bk\u0161nys}few{# statieji br\u016bk\u0161niai}many{# vertical pipes}other{# sta\u010di\u0173j\u0173 br\u016bk\u0161ni\u0173}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{kabliata\u0161kis}one{# kabliata\u0161kis}few{# kabliata\u0161kiai}many{# semicolons}other{# kabliata\u0161ki\u0173}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{dvita\u0161kis}one{# dvita\u0161kis}few{# dvita\u0161kiai}many{# colons}other{# dvita\u0161ki\u0173}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{kablelis}one{# kablelis}few{# kableliai}many{# commas}other{# kableli\u0173}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{ta\u0161kas}=3{daugta\u0161kis}one{# ta\u0161kas}few{# ta\u0161kai}many{# dots}other{# ta\u0161k\u0173}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{\u017eenklas ma\u017eiau}one{# \u017eenklas ma\u017eiau}few{# \u017eenklai ma\u017eiau}many{# less than signs}other{# \u017eenkl\u0173 ma\u017eiau}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{\u017eenklas daugiau}one{# \u017eenklas daugiau}few{# \u017eenklai daugiau}many{# greater than signs}other{# \u017eenkl\u0173 daugiau}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{pasvirasis br\u016bk\u0161nys}one{# pasvirasis br\u016bk\u0161nys}few{# pasvirieji br\u016bk\u0161niai}many{# slashes}other{# pasvir\u0173j\u0173 br\u016bk\u0161ni\u0173}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{klaustukas}one{# klaustukas}few{# klaustukai}many{# question marks}other{# klaustuk\u0173}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{kabu\u010di\u0173 \u017eenklas}one{# kabu\u010di\u0173 \u017eenklas}few{# kabu\u010di\u0173 \u017eenklai}many{# quotes}other{# kabu\u010di\u0173 \u017eenkl\u0173}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{apostrofas}one{# apostrofas}few{# apostrofai}many{# apostrophes}other{# apostrof\u0173}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{tabuliavimo \u017eenklas}one{# tabuliavimo \u017eenklas}few{# tabuliavimo \u017eenklai}many{# tabs}other{# tabuliavimo \u017eenkl\u0173}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{kairinis br\u016bk\u0161nys}one{# kairinis br\u016bk\u0161nys}few{# kairiniai br\u016bk\u0161niai}many{# backslashes}other{# kairini\u0173 br\u016bk\u0161ni\u0173}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{skrituliukas}one{# skrituliukas}few{# skrituliukai}many{# skrituliuko}other{# skrituliuk\u0173}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "Spustel\u0117kite $1$ mar\u0161ruto parinkimo klavi\u0161o element\u0105",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "Stumti atgal"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "Stumti pirmyn"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "Ankstesn\u0117 Brailio ra\u0161men\u0173 eilut\u0117"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "Kita Brailio ra\u0161men\u0173 eilut\u0117"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "Perkelti Brailio ra\u0161men\u0173 pateikt\u012f \u012f puslapio vir\u0161\u0173"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "Perkelti Brailio ra\u0161men\u0173 pateikt\u012f \u012f puslapio apa\u010di\u0105"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "Ta\u0161kas: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "Ta\u0161kai: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "Pokalbiai: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "Per\u017ei\u016br\u0117kite diagram\u0105 kaip brailio ra\u0161menis"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "turi prieigos klavi\u0161\u0105, $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "prieigos klavi\u0161as: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"arab\u0173 k.\",\n        \"bg\": \"bulgar\u0173 k.\",\n        \"ca\": \"katalon\u0173 k.\",\n        \"cs\": \"\u010dek\u0173 k.\",\n        \"da\": \"dan\u0173 k.\",\n        \"de\": \"vokie\u010di\u0173 k.\",\n        \"de_CH\": \"vokie\u010di\u0173 k. (\u0160veicarija)\",\n        \"de_DE\": \"vokie\u010di\u0173 k. (Vokietija)\",\n        \"el\": \"graik\u0173 k.\",\n        \"en\": \"angl\u0173 k.\",\n        \"en_CA\": \"angl\u0173 k. (Kanada)\",\n        \"en_GB\": \"angl\u0173 k. (Jungtin\u0117 Karalyst\u0117)\",\n        \"en_US\": \"angl\u0173 k. (Jungtin\u0117s Amerikos Valstijos)\",\n        \"es\": \"ispan\u0173 k.\",\n        \"et\": \"est\u0173 k.\",\n        \"fr\": \"pranc\u016bz\u0173 k.\",\n        \"fr_CA\": \"pranc\u016bz\u0173 k. (Kanada)\",\n        \"fr_FR\": \"pranc\u016bz\u0173 k. (Pranc\u016bzija)\",\n        \"fi\": \"suomi\u0173 k.\",\n        \"he\": \"hebraj\u0173 k.\",\n        \"hi\": \"hindi k.\",\n        \"hr\": \"kroat\u0173 k.\",\n        \"hu\": \"vengr\u0173 k.\",\n        \"is\": \"island\u0173 k.\",\n        \"it\": \"ital\u0173 k.\",\n        \"ko\": \"kor\u0117jie\u010di\u0173 k.\",\n        \"lt\": \"lietuvi\u0173 k.\",\n        \"lv\": \"latvi\u0173 k.\",\n        \"nb\": \"norveg\u0173 k. (Bokm\u00e5l)\",\n        \"nl\": \"dan\u0173 k.\",\n        \"pl\": \"lenk\u0173 k.\",\n        \"pt\": \"portugal\u0173 k.\",\n        \"ro\": \"rumun\u0173 k.\",\n        \"ru\": \"rus\u0173 k.\",\n        \"sk\": \"slovak\u0173 k.\",\n        \"sl\": \"slov\u0117n\u0173 k.\",\n        \"sr\": \"serb\u0173 k.\",\n        \"sv\": \"\u0161ved\u0173 k.\",\n        \"tr\": \"turk\u0173 k.\",\n        \"vi\": \"vietnamie\u010di\u0173 k.\",\n        \"zh\": \"kin\u0173 k.\",\n        \"zh_TW\": \"kin\u0173 k. (tradicin\u0117 hani\u0173)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Teksto pabaiga"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "Pabaiga"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "nauja eilut\u0117"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "gr\u012f\u017eimas \u012f eilut\u0117s prad\u017ei\u0105"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "Ignoruojamas kitas klavi\u0161o paspaudimas"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Praleidimo klavi\u0161as"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "Rodyti kontekstin\u012f meniu"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Perjungti Brailio ra\u0161men\u0173 subtitrus"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Brailio ra\u0161men\u0173 antra\u0161t\u0117s \u012fgalintos."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Brailio ra\u0161men\u0173 antra\u0161t\u0117s i\u0161jungtos."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "Nepaisoma did\u017ei\u0173j\u0173 ir ma\u017e\u0173j\u0173 raid\u017ei\u0173 ra\u0161ybos."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "Skirti did\u017ei\u0105sias ir ma\u017e\u0105sias raides."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "atgal"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "persi\u0173sti"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "atnaujinimas"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "viso ekrano re\u017eimo perjungimas"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "lango ap\u017evalga"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "\u0161viesumo ma\u017einimas"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "\u0161viesumo didinimas"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "garsumo nutildymas"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "garsumo ma\u017einimas"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "garsumo didinimas"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "\u201eChromeVox\u201c skydelis"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "\u201eChromeVox\u201c meniu"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "\u201eChromeVox\u201c mokymo programa"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "\u201eChromeVox\u201c meniu"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "\u201eChromeVox\u201c parinktys"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "I\u0161jungti \u201eChromeVox\u201c"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(aktyvus)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Per\u0117jimas"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Kalba"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "Skirtukai"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "Veiksmai"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "Element\u0173 n\u0117ra."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Prane\u0161ti apie problem\u0105"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "\u201eChromeVox\u201c atnaujintas"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Paspauskite \u201eChromeVox\u201c o, n ir su\u017einokite, kas nauja"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "Rodyti naujini\u0173 pastabas"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "U\u017edaryti \u201eChromeVox\u201c mokymo program\u0105"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "Ankstesnis"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "Toliau"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "Sveiki! Tai \u2013 \u201eChromeVox\u201c!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "Ar \u201eChromeVox\u201c ekrano skaitymo balsu funkcij\u0105 naudojate pirm\u0105 kart\u0105? \u0160ioje trumpoje mokymo programoje pateikiama pagrindin\u0117 informacija, kaip prad\u0117ti naudoti \u201eChromeVox\u201c."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "Jei norite eiti pirmyn, paspauskite \u201eEnter\u201c; jei norite gr\u012f\u017eti, paspauskite naikinimo klavi\u0161\u0105."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "\u012ejungimas, i\u0161jungimas ir sustabdymas"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "Jei norite laikinai sustabdyti \u201eChromeVox\u201c, kad nekalb\u0117t\u0173, paspauskite klavi\u0161\u0105 \u201eControl\u201c."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "Jei norite \u012fjungti arba i\u0161jungti \u201eChromeVox\u201c, naudokite klavi\u0161us \u201eControl\u201c + \u201eAlt\u201c + Z."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "\u201eChromeVox\u201c modifikavimo klavi\u0161as"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "\u201eChromeVox\u201c klavi\u0161as \u201eSearch\u201c yra modifikavimo klavi\u0161as. Dauguma \u201eChromeVox\u201c spar\u010di\u0173j\u0173 klavi\u0161\u0173 prasideda klavi\u0161u \u201eSearch\u201c. Be to, nar\u0161ydami galite naudoti rodykli\u0173 klavi\u0161us."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "\u201eChromebook\u201c klavi\u0161as \u201eSearch\u201c yra i\u0161kart vir\u0161 klavi\u0161o \u201eShift\u201c."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "Kol rodoma \u0161i mokymo programa, paspauskite bet kur\u012f klavi\u0161\u0105, kad i\u0161girstum\u0117te jo pavadinim\u0105."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Pagrindin\u0117s nar\u0161ymo funkcijos"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "Jei norite pereiti nuo vieno elemento puslapyje prie kito, paspauskite \u201eSearch\u201c ir rodykl\u0119 de\u0161in\u0117n arba \u201eSearch\u201c ir rodykl\u0119 kair\u0117n, kad gr\u012f\u017etum\u0117te atgal. Jei norite pereiti \u012f kit\u0105 eilut\u0119, paspauskite \u201eSearch\u201c ir rodykl\u0119 \u017eemyn. Jei norite pereiti \u012f ankstesn\u0119 eilut\u0119, naudokite \u201eSearch\u201c ir rodykl\u0119 auk\u0161tyn. Pasiek\u0119 norim\u0105 spustel\u0117ti element\u0105 paspauskite \u201eSearch\u201c ir tarpo klavi\u0161\u0105."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "Dabar pabandykite naudoti \u201eSearch\u201c ir rodykl\u0119 de\u0161in\u0117n, kad rastum\u0117te mygtuk\u0105 \u201eKitas\u201c, tada paspauskite \u201eSearch\u201c ir tarpo klavi\u0161\u0105, kad j\u012f spustel\u0117tum\u0117te."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "Praleisti komandas"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Jei norite praleisti konkre\u010di\u0173 tip\u0173 elementus, naudokite nukreipimo komandas. Kad pereitum\u0117te pirmyn nuo vienos antra\u0161t\u0117s prie kitos, paspauskite \u201eSearch\u201c ir H. Kad pereitum\u0117te atgal, paspauskite \u201eSearch\u201c + \u201eShift\u201c + H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "Tai yra antroji antra\u0161t\u0117. T\u0119skite: paspauskite \u201eSearch\u201c + H arba \u201eSearch\u201c + \u201eShift\u201c + H"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "Tai yra paskutin\u0117 antra\u0161t\u0117. Paspauskite \u201eSearch\u201c + H, kad pereitum\u0117te \u012f pirm\u0105 antra\u0161t\u0119, arba \u201eSearch\u201c + \u201eShift\u201c + H, kad pereitum\u0117te \u012f antr\u0105 antra\u0161t\u0119 \u0161iame puslapyje."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Komand\u0173 meniu"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "Jei norite nar\u0161yti visas \u201eChromeVox\u201c komandas ir spar\u010diuosius klavi\u0161us, paspauskite \u201eSearch\u201c ir ta\u0161ko klavi\u0161\u0105, tada rodykli\u0173 klavi\u0161ais nar\u0161ykite meniu ir paspauskite \u201eEnter\u201c, kad suaktyvintum\u0117te komand\u0105. Gr\u012f\u017ekite paspausdami \u201eSearch\u201c + o, tada t."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Naudingi \u201eChrome\u201c spartieji klavi\u0161ai"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "Toliau pateikti keli spartieji klavi\u0161ai n\u0117ra \u0083\u201eChromeVox\u201c komandos, bet jie vis tiek labai naudingi norint i\u0161naudoti visas \u201eChrome\u201c galimybes.\nJei norite pereiti nuo vieno suaktyvinamo elemento, pvz., mygtuko ar nuorodos, prie kito, paspauskite tabuliavimo klavi\u0161\u0105. Jei norite gr\u012f\u017eti atgal, paspauskite \u201eShift\u201c ir tabuliavimo klavi\u0161\u0105. \nKad pereitum\u0117te \u012f \u201eChrome\u201c nar\u0161ykl\u0117s adreso laukel\u012f, kuris dar vadinamas \u201eomnibox\u201c, paspauskite \u201eControl\u201c ir L. \nKad atidarytum\u0117te ir automati\u0161kai pereitum\u0117te \u012f nauj\u0105 skirtuk\u0105, paspauskite \u201eControl\u201c ir T. \u017dymeklis bus laukelyje \u201eomnibox\u201c. \nKad u\u017edarytum\u0117te skirtuk\u0105, paspauskite \u201eControl\u201c ir W. \nKad pereitum\u0117te nuo vieno atidaryto skirtuko prie kito, naudokite \u201eControl\u201c ir tabuliavimo klavi\u0161\u0105. \nKad atidarytum\u0117te \u201eChrome\u201c nar\u0161ykl\u0117s meniu, paspauskite \u201eAlt\u201c ir F."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "Jei norite pereiti \u012f kitas ekrano dalis, pvz., \u012franki\u0173 juostas ar sistemos juostel\u0119, paspauskite \u201eControl\u201c ir \u201eForward\u201c. \u201eChromebook\u201c klavi\u0161as \u201eForward\u201c yra i\u0161kart vir\u0161 skai\u010diaus 2 klavi\u0161o."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "Su\u017einokite daugiau"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Sveikiname! Su\u017einojote pagrindus, kaip s\u0117kmingai naudoti \u201eChromeVox\u201c. Atminkite, kad bet kada galite atidaryti \u201eChromeVox\u201c komand\u0173 meniu paspausdami \u201eSearch\u201c ir ta\u0161ko klavi\u0161\u0105. Jei norite su\u017einoti dar daugiau apie \u201eChromeVox\u201c ir \u201eChrome\u201c OS, \u017er. nurodytus straipsnius.\nKai per\u017ei\u016br\u0117site vis\u0105 mokymo program\u0105, naudodami \u201eChromeVox\u201c pereikite prie u\u017edarymo mygtuko ir spustel\u0117kite j\u012f."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "Atnaujinta \u012f 63 versijos \u201eChromeVox\u201c!"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "\u0160iame naujame leidime pristat\u0117me puiki\u0173 pakeitim\u0173; toliau nurodyta, kas nauja."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "Klasikin\u0117 versija pa\u0161alinta. Klaviat\u016bros perjungimo jungiklis, skirtas gr\u012f\u017eti \u012f klasikin\u0117s versijos \u201eChromeVox\u201c, pa\u0161alintas."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "Rai\u0161kiojo teksto palaikymas. \u201eChromeVox\u201c dabar palaiko rai\u0161kiojo teksto laukus, \u012fskaitant per\u0117jimo komandas, Brailio \u017eymeklio nukreipim\u0105, pasirinkim\u0105 ir daugiau."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "\u201eAndroid\u201c programos, skirtos \u201eChrome\u201c. Jei \u012frenginyje turite \u201ePlay\u201c parduotuv\u0119, i\u0161bandykite \u201eChromeVox\u201c su \u201eAndroid\u201c programomis. I\u0161bandykite eksperimentin\u012f palaikym\u0105 atsisiunt\u0119 \u201eGoogle Chrome Canary\u201c i\u0161 \u201ePlay\u201c parduotuv\u0117s."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Kaip visada galite atsi\u0173sti atsiliepim\u0173 tiesiogiai mums paspaud\u0119 \u201eSearch\u201c + a, tada i. Nekantriai laukiame su\u017einoti j\u016bs\u0173 nuomon\u0119."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "\u201eChromeVox\u201c komand\u0173 nuorodos"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "\u201eChromebook\u201c spartieji klavi\u0161ai"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "\u201eChromebook\u201c jutiklinio ekrano pritaikymo ne\u012fgaliesiems funkcij\u0173 naudojimas"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "u\u017eimtas"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "u\u017eimtas"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "numatytasis"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "numatytasis"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "Garsai"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "\u201eChromeVox\u201c naudoja garsus, kad pateikt\u0173 jums svarbiausi\u0105 ir papildom\u0105 informacij\u0105. Galite naudoti \u0161iuos garsus, kad nar\u0161ytum\u0117te grei\u010diau i\u0161mok\u0119, k\u0105 rei\u0161kia kiekvienas garsas. Kai apsiprasite, gal\u0117site i\u0161jungti daugia\u017eod\u017eius apra\u0161us kalboje ir juos naudoti prireikus svarbiausios informacijos apie puslap\u012f. Toliau pateiktas visas gars\u0173 s\u0105ra\u0161as ir j\u0173 reik\u0161m\u0117s."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Modalinis \u012fsp\u0117jimas"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Ne modalinis \u012fsp\u0117jimas"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Mygtukas"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "Nepa\u017eym\u0117tas \u017eymimasis laukelis"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "Pa\u017eym\u0117tas \u017eymimasis laukelis"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Redaguotinas teksto laukas"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "Netinkamas klavi\u0161o paspaudimas"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Nuoroda"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "S\u0105ra\u0161o laukelis arba jungtinis laukelis"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "\u012ekeliamas puslapis"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "I\u0161\u0161okantysis mygtukas"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "\u0160liau\u017eiklis"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Paleiskite nuo prad\u017eios iki pabaigos arba nuo pabaigos iki prad\u017eios puslapyje, dialogo lange ar kitame sud\u0117tiniame rodinyje"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "Patamsinti ekran\u0105"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "Pa\u0161viesinti ekran\u0105"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Kalb\u0117jimas i\u0161jungtas"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Kalb\u0117jimas \u012fjungtas"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "\u012ejungti arba i\u0161jungti kalb\u0117jim\u0105"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "Perjunkite i\u0161 6 \u012f 8 ta\u0161k\u0173 Brailio ra\u0161menis ir atvirk\u0161\u010diai"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "Ra\u0161ybos klaidos prad\u017eia"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Ra\u0161ybos klaidos pabaiga"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "Gramatikos klaidos prad\u017eia"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Gramatikos klaidos pabaiga"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "Teksto atitikties prad\u017eia"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Teksto atitikties pabaiga"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "Pusjuod\u017eio \u0161rifto prad\u017eia"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Pusjuod\u017eio \u0161rifto pabaiga"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "Kursyvo prad\u017eia"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "Kursyvo pabaiga"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "Pabraukimo prad\u017eia"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Pabraukimo pabaiga"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "Perbraukimo prad\u017eia"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "Perbraukimo pabaiga"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "Nuorodos prad\u017eia"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Nuorodos pabaiga"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "\u012egalinkite ekrano klaviat\u016br\u0105 po b\u016bsenos d\u0117klu ir pritaikymo ne\u012fgaliesiems funkcijas, kad gal\u0117tum\u0117te naudoti i\u0161pl\u0117stines Brailio ra\u0161to komandas."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "N\u0117ra pavadinimo"
+  }
+}

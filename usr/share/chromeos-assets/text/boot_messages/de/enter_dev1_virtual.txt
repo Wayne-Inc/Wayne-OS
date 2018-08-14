@@ -1,0 +1,8 @@
+﻿
+Ihr System wechselt in den Entwicklermodus.
+Lokal gespeicherte Daten werden gelöscht.
+
+Änderungen, die Sie am System vornehmen, werden von Google nicht unterstützt und führen möglicherweise zu
+Hardwareproblemen und zum Erlöschen der Garantie.
+
+Um den Vorgang abzubrechen, schalten Sie Ihren Computer jetzt aus.

@@ -1,0 +1,5 @@
+﻿
+A tulajdonos letiltotta az eszköznél a fejlesztői módot. A fejlesztői mód használatához kérje meg a tulajdonost, hogy oldja fel a tiltást.
+
+
+A rendszer újraindul ellenőrzött módban.

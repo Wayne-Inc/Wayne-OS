@@ -1,0 +1,5 @@
+﻿
+Właściciel urządzenia wyłączył na nim tryb programisty. Jeśli chcesz używać tego trybu, poproś właściciela urządzenia o usunięcie tego ograniczenia.
+
+
+System uruchomi się ponownie w trybie zweryfikowanym.

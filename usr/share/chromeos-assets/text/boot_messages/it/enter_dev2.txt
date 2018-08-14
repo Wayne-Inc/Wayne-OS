@@ -1,0 +1,4 @@
+﻿
+Preparazione del sistema per la Modalità Sviluppatore.
+L'operazione potrebbe richiedere un istante.
+Non spegnere il computer fino al riavvio.

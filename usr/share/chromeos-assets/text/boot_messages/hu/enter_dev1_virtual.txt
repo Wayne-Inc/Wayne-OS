@@ -1,0 +1,8 @@
+﻿
+A rendszer átáll fejlesztői módra.
+A helyi adatok törlődtek.
+
+Az Ön rendszerrel kapcsolatos módosításait nem támogatja a Google, és ezek
+hardverproblémákat okozhatnak, illetve a garancia megszűnéséhez vezethetnek.
+
+A megszakításhoz kapcsolja ki a számítógépet most.

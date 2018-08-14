@@ -1,0 +1,9 @@
+﻿
+Vaš sustav prelazi na način rada razvojnog programera.
+Lokalni će podaci biti izbrisani.
+
+Google ne podržava promjene sustava, one mogu uzrokovati
+poteškoće s hardverom i poništiti jamstvo.
+
+Da biste otkazali postupak, odmah isključite računalo i vratite sklopku razvojnog programera na
+potvrđeni način.

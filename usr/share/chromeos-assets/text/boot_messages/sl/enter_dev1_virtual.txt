@@ -1,0 +1,8 @@
+﻿
+Sistem prehaja v razvijalski način.
+Lokalni podatki so bili izbrisani.
+
+Google sprememb, ki jih naredite v sistemu, ne podpira ter lahko povzročijo
+težave s strojno opremo in izničijo veljavnost garancije.
+
+Če želite preklicati, izklopite računalnik.

@@ -1,0 +1,5 @@
+﻿
+Lastnik naprave je zanjo onemogočil razvijalski način. Če želite uporabljati razvijalski način, se obrnite na lastnika naprave, da odstrani to omejitev.
+
+
+Preklopite stikalo razvijalskega načina in znova zaženite napravo, da se vrnete v preverjeni način.

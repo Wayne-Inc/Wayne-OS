@@ -1,0 +1,6 @@
+Baterai terlalu lemah untuk mengupdate.
+
+Mengisi baterai...
+
+Update akan otomatis dimulai setelah baterai memiliki
+daya yang cukup.

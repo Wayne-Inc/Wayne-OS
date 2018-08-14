@@ -1,0 +1,4 @@
+﻿
+Lors du dernier démarrage, votre système était en mode développeur.
+Retour au mode normal (démarrage vérifié) en cours…
+Le système redémarrera lorsque l'opération sera terminée.

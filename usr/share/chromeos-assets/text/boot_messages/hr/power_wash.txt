@@ -1,0 +1,4 @@
+﻿
+Powerwash je u tijeku...
+
+Powerwash se aktivira kada se otkriju kritične pogreške ili kada vratite uređaj na izvorne postavke. OS Chrome vratit će se u izvorno stanje, a vi ćete opet moći raditi za koji trenutak.

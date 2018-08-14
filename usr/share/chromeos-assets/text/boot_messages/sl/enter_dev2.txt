@@ -1,0 +1,4 @@
+﻿
+Pripravljanje sistema za razvijalski način.
+To lahko traja nekaj časa.
+Ne izklopite računalnika, dokler se ne zažene znova.

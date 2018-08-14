@@ -1,0 +1,5 @@
+﻿
+O proprietário do dispositivo desativou o Modo de desenvolvedor para este dispositivo. Se você deseja usar o Modo de desenvolvedor, peça ao proprietário do dispositivo para remover a restrição.
+
+
+O sistema será reiniciado no "Modo confirmado".

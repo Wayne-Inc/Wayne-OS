@@ -1,0 +1,5 @@
+Noe gikk galt, og oppdateringen mislyktes.
+
+Du må muligens gjenopprette enheten din. Du finner mer informasjon om gjenoppretting av Chrome OS på https://www.google.com/chromeos/recovery
+
+Trykk på mellomromstasten for å starte på nytt.

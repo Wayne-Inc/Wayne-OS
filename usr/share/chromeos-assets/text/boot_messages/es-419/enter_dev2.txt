@@ -1,0 +1,4 @@
+﻿
+Preparando el sistema para el Modo de programador...
+Esto puede tardar unos minutos.
+No apagues tu computadora hasta que se haya reiniciado.

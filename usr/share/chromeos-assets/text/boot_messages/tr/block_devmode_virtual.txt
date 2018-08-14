@@ -1,0 +1,5 @@
+﻿
+Cihaz sahibi bu cihaz için Geliştirici Modu'nu devre dışı bırakmış. Geliştirici Modu'nu kullanmak istiyorsanız lütfen cihaz sahibinden kısıtlamayı kaldırmasını isteyin.
+
+
+Sistem, Doğrulanmış Mod'da yeniden başlayacaktır.

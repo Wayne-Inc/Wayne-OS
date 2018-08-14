@@ -1,0 +1,4 @@
+﻿
+Preparando o sistema para o modo de desenvolvedor.
+Isso pode levar algum tempo.
+Não desligue o computador até que ele seja reiniciado.

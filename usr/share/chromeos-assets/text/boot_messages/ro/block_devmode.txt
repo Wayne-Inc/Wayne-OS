@@ -1,0 +1,5 @@
+﻿
+Proprietarul dispozitivului a dezactivat modul pentru dezvoltatori pentru acest dispozitiv. Dacă doriți să folosiți modul pentru dezvoltatori, cereți-i proprietarului dispozitivului să elimine restricția.
+
+
+Pentru a reveni în modul verificat, treceți comutatorul modului pentru dezvoltatori la modul verificat și reporniți dispozitivul.

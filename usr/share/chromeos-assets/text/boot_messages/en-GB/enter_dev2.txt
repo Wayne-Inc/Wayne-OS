@@ -1,0 +1,4 @@
+﻿
+Preparing system for Developer Mode.
+This may take a while.
+Do not turn your computer off until it has restarted.

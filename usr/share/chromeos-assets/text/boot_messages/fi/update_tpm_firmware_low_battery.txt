@@ -1,0 +1,4 @@
+Akun varaus ei riitä päivittämiseen.
+
+Yhdistä Chromebook virtalähteeseen. Päivitys alkaa
+automaattisesti heti, kun akussa on tarpeeksi virtaa.

@@ -1,0 +1,8 @@
+﻿
+Hệ thống của bạn đang chuyển đổi sang Chế độ nhà phát triển.
+Dữ liệu cục bộ đã bị xóa.
+
+Những sửa đổi bạn thực hiện đối với hệ thống không được Google hỗ trợ, có thể gây ra
+các sự cố phần cứng và có thể vô hiệu hóa bảo hành.
+
+Để hủy, hãy tắt máy tính của bạn ngay bây giờ.

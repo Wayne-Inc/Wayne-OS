@@ -1,0 +1,4 @@
+﻿
+Powerwash em andamento...
+
+Um powerwash acontece quando são detectados erros críticos ou quando você opta por redefinir o dispositivo. Esta ação redefine o Chrome OS ao estado original, e o funcionamento volta ao normal em apenas um minuto.

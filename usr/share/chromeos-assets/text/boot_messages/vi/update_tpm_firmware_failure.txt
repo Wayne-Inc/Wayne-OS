@@ -1,0 +1,6 @@
+Đã xảy ra lỗi và quá trình cập nhật không thành công.
+
+Bạn có thể cần phải khôi phục thiết bị. Để biết thêm thông tin về
+khôi phục ChromeOS, hãy truy cập vào: https://www.google.com/chromeos/recovery
+
+Hãy nhấn phím cách để khởi động lại.

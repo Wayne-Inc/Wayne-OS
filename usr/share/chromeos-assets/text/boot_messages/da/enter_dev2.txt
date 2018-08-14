@@ -1,0 +1,4 @@
+﻿
+Systemet forberedes til udviklertilstand.
+Dette kan tage et stykke tid.
+Du må ikke slukke for computeren, før den har genstartet.

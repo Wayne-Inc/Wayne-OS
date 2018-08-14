@@ -1,0 +1,4 @@
+﻿
+El sistema se inició por última vez en modo de desarrollador.
+Volviendo al modo normal (verificado)...
+Cuando haya finalizado, el sistema se reiniciará.

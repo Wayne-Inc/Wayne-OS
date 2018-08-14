@@ -1,0 +1,5 @@
+Pin quá yếu để thực hiện thao tác cập nhật.
+
+Đang sạc...
+
+Quá trình cập nhật sẽ tự động bắt đầu ngay khi sạc đủ pin.

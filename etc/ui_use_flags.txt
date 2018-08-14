@@ -1,0 +1,8 @@
+# This file is just for libchromeos's ChromiumCommandBuilder class.
+# Don't use it for anything else. Your code will break.
+compupdates
+cros-debug
+legacy_keyboard
+legacy_power_button
+opengles
+ozone

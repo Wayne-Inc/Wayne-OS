@@ -1,0 +1,4 @@
+Detachable keyboard firmware updating...
+
+Please keep the keyboard attached during update.
+This will take around 20 seconds.

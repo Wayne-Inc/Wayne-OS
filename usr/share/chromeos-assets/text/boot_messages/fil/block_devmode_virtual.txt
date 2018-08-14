@@ -1,0 +1,5 @@
+﻿
+Na-disable ng may-ari ng device ang Developer Mode para sa device na ito. Mangyaring hilingin sa may-ari ng device na alisin ang paghihigpit kung gusto mong gamitin ang Developer Mode.
+
+
+Magre-reboot ang system sa Verified Mode.

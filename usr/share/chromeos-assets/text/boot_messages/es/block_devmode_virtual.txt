@@ -1,0 +1,5 @@
+﻿
+El propietario del dispositivo ha inhabilitado el modo desarrollador en este dispositivo. Si quieres utilizar este modo, debes solicitar al propietario del dispositivo que elimine esta restricción.
+
+
+El sistema se reiniciará en modo verificado.

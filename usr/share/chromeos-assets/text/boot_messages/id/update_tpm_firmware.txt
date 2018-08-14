@@ -1,0 +1,4 @@
+Menginstal update...
+
+Jangan matikan perangkat. Perangkat akan otomatis melakukan reboot
+saat update selesai.

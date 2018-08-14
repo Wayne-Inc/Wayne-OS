@@ -1,0 +1,28 @@
+<div class="flex-container">
+  <div ng-class="{'test-status-icon-left': true, 'test-status-icon': true}"
+      class="{{testLogCtrl.getTestStatusClassname(groupName)}}">
+  </div>
+  <div>{{testLogCtrl.testGroupName}}: {{testLogCtrl.testResult.getTitle()}}</div>
+</div>
+
+<div class="test-log-details">
+  <div>
+    {{testLogCtrl.i18nService.getMsg('test_result_log_summary')}}<br />
+    {{testLogCtrl.i18nService.getMsg('test_result_log_test_name')}} {{testLogCtrl.testResult.getTestName()}} <br />
+    {{testLogCtrl.i18nService.getMsg('test_result_log_test_id')}} {{testLogCtrl.testResult.getTestId()}} <br />
+    {{testLogCtrl.i18nService.getMsg('test_result_log_test_verdict')}} {{testLogCtrl.getTestVerdictString()}} <br />
+  </div>
+  <div>
+    {{testLogCtrl.i18nService.getMsg('test_result_log_criteria')}}<br />
+    {{testLogCtrl.testResult.getTestCriteria()}}
+  </div>
+  <div>
+    {{testLogCtrl.i18nService.getMsg('test_result_log_details')}}
+    <div ng-repeat="log in testLogCtrl.testResult.getLogs() track by $index">
+      {{log}}
+    </div>
+  </div>
+  <div ng-show="testLogCtrl.canUserCopyTestResults"
+      cm-copy-test-logs="{{testLogCtrl.getAllTestLogs()}}">
+  </div>
+</div>

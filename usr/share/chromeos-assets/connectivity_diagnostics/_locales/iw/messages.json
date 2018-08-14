@@ -1,0 +1,1122 @@
+{
+  "appname": {
+    "message": "ניתוחי הקישוריות של Chrome",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "ניתוחי הקישוריות של Chrome (ביטא)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "ניתוחי הקישוריות של Chrome (Dev)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "אבחון קישוריות",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "אבחון קישוריות",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "הגדרות",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "הגדל",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "שחזר",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "סגור",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "גלילה למעלה",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "גלילה למטה",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_wireless_connection": {
+    "message": "Wi-Fi",
+    "description": "Description of a wireless connection"
+  },
+  "network_settings_ethernet_connection": {
+    "message": "Ethernet",
+    "description": "Description of a wired network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "עוצמת אות",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "כתובת MAC",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "כתובת IP",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "מסיכת רשת משנה",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "שער",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "network_settings_dns_not_detected": {
+    "message": "DNS לא זוהה",
+    "description": "Message when the DNS nameservers cannot be detected"
+  },
+  "network_settings_connection_title": {
+    "message": "חיבור",
+    "description": "Attribute label for the Connection."
+  },
+  "network_settings_connection": {
+    "message": "חיבור",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "network_settings_network_secure": {
+    "message": "(מאובטח)",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "network_settings_network_insecure": {
+    "message": "(לא מאובטח)",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "all_test_groups_summary_title": {
+    "message": "בדיקות חיבור לרשת",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "פורטל חובה",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "רשת מקומית",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "חומת אש",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "שירותי Google",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "מבצע בדיקות. פעולה זו עשויה להימשך מספר דקות...",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "אירעה שגיאה בעת ביצוע בדיקות לאבחון הקישוריות. לחץ על סמל גלגל השיניים ובחר באפשרות 'בצע שוב את הבדיקות'. אם השגיאה נמשכת, לחץ על הקישור 'שלח משוב' ותאר את הבעיה.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "שלח משוב",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "הגדרות רשת",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "בצע אבחון",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "בצע אבחון מחדש",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "חזרה",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "נראה שהחיבור שלך לרשת פועל באופן תקין.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "הצג בדיקות שעברו בהצלחה",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "הסתר בדיקות שעברו בהצלחה",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "ביצוע מחדש של אבחון",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "שלח משוב",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "מידע כללי",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "מידע על האפליקציה",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "גרסה: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "בדיקות שעברו בהצלחה",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "בדיקה שעברה בהצלחה",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "אזהרות",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "אזהרה",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "שם הבדיקה: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "מזהה בדיקה: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "תוצאת בדיקה: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "לא זוהתה בעיה",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "זוהתה בעיה",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "זוהתה בעיה פוטנציאלית",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "לא ניתן היה לבצע את הבדיקה",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "הצג יומנים...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "הסתר יומנים...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "העתק יומני תוצאות",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "סיכום",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "קריטריונים",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "פרטים",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "פרטי תמיכה",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "עברה בהצלחה",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "נכשלה",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "בתור",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "אזהרה",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "פועל",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "בוטל",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "אין עכשיו תוצאות בדיקה זמינות.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "בדיקות נוספות בהמתנה. התוצאות יוצגו בסיום הבדיקות.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "בדיקות",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "התקבלו נתונים גולמיים משקע UDP: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "נקראו בהצלחה נתונים משקע UDP בנפח (בייטים): ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "שגיאה בקריאת נתוני UDP. קוד שגיאה: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "נשלחו בהצלחה נתונים בנפח (בייטים): ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "מתכונן לשלוח נתונים משקע UDP בנפח (בייטים): ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "יוצר שקע UDP, מספר / מארח / יציאה: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "מגדיר משך זמן קצוב לתפוגה של UDP (אלפיות השנייה): ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "התקבלו נתונים גולמיים משקע TCP: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "נקראו בהצלחה נתונים משקע TCP בנפח (בייטים): ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "שגיאה בקריאת נתוני TCP. קוד השגיאה: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "נשלחו בהצלחה נתונים בנפח (בייטים): ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "מתכונן לשלוח נתונים בנפח (בייטים): ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "חיבור TCP נוצר עם מארח / יציאה / קוד סטטוס: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "נכשל חיבור TCP עם מארח / יציאה / קוד סטטוס: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "סיבה לכשל בחיבור: לא ידועה",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "חיבור TCP נוצר בהצלחה עם מארח / יציאה: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "סיבה לכשל בחיבור: תם הזמן הקצוב",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "סיבה לכשל בחיבור: החיבור נדחה",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "יוצר שקע TCP, מספר / מארח / יציאה: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "מגדיר משך זמן קצוב לתפוגה של TCP (אלפיות השנייה): ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "בדיקת 'החיבור לאינטרנט מנותק' של Chrome",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "לא מחובר לרשת",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "יש חיבור זמין לאינטרנט",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "Chrome אינו מחובר לרשת. בדוק את הגדרות הרשת של מערכת ההפעלה שלך.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "יש חיבור אינטרנט זמין עבור דפדפן Chrome.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "האחוז מבין שקעי TCP שמחזירים קוד סטטוס 'החיבור לאינטרנט מנותק' שמתחתיו מתקבלת תוצאת 'אין בעיה': ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "האחוז מבין שקעי TCP שמחזירים קוד סטטוס 'החיבור לאינטרנט מנותק' שממנו ומעלה מתקבלת תוצאת 'יש בעיה': ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " בדיקת החיבור לאינטרנט של Chrome החזירה קוד סטטוס של TCP: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " עומד לנסות חיבור TCP מס' / שם מארח / יציאה: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "בדיקת 'החיבור לאינטרנט מנותק' של מערכת ההפעלה של Chrome",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "לא מחובר לרשת",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "יש חיבור זמין לאינטרנט",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "מחשב Chromebook זה אינו מחובר לרשת. עבור אל שורת הסטטוס והתחבר לרשת זמינה.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "יש חיבור אינטרנט זמין.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "תוצאת 'אין בעיה' מתקבלת כשממשק החיבור לרשת מחזיר קוד סטטוס 'מחובר'",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "תוצאת 'יש בעיה' מתקבלת כשממשק החיבור לרשת מחזיר קוד סטטוס 'מנותק': ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "מספר הרשתות הזמינות שאותרו: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "בדיקת גרסה של Chrome",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "גרסת Google Chrome אינה העדכנית ביותר",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "גרסת Google Chrome היא העדכנית ביותר",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "גרסת Google Chrome המותקנת אצלך אינה העדכנית ביותר. המשמעות היא שאין לך את כל תיקוני הבאגים המוכרים ושאתה עשוי לחוות בעיות בקישוריות. לחץ על תפריט Chrome בסרגל הכלים של הדפדפן ובחר באפשרות 'עדכן את Google Chrome'.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "גרסת Google Chrome המותקנת אצלך היא העדכנית ביותר, ולכן יש לך את כל התיקונים המוכרים עבור באגים כלשהם בקישוריות.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "סוכן משתמש של דפדפן גולמי: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "מספר גרסת דפדפן (מקוצר): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "מספר גרסת דפדפן (מלא): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "הסף של מספר גרסת Chrome שממנו ומעלה מתקבלת תוצאת 'אין בעיה': ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "הסף של מספר גרסת Chrome שמתחתיו מתקבלת תוצאת 'יש בעיה': ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "שם גרסת מערכת ההפעלה של Chrome",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "מערכת ההפעלה של Chrome אינה מעודכנת",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "מערכת ההפעלה של Chrome מעודכנת",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "אתה לא משתמש בגרסה העדכנית ביותר של מערכת ההפעלה של Chrome. מסיבה זו, אין לך את כל תיקוני הבאגים המוכרים ולכן אתה עשוי לחוות בעיות בקישוריות.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "אתה משתמש בגרסה עדכנית של מערכת ההפעלה של Chrome ולכן יש לך את כל תיקוני הבאגים המוכרים עבור בעיות בקישוריות.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "בבדיקת גרסת מערכת ההפעלה של Chrome זוהתה בעיה. גרסת מערכת ההפעלה של Chrome אינה עדכנית. הגרסה המינימלית עכשיו היא: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "בבדיקת גרסת מערכת ההפעלה של Chrome לא זוהתה בעיה. גרסת מערכת ההפעלה של Chrome היא עדכנית. הגרסה המינימלית עכשיו היא: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "סוכן משתמש של דפדפן גולמי: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "מספר פלטפורמה מקוצר של מערכת ההפעלה של Chrome: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "מספר פלטפורמה מלא של מערכת ההפעלה של Chrome: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "הסף של מספר גרסת מערכת ההפעלה של Chrome שממנו ומעלה מתקבלת תוצאת 'אין בעיה': ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "הסף של מספר גרסת מערכת ההפעלה של Chrome שמתחתיו מתקבלת תוצאת 'יש בעיה': ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "בדיקת נוכחות של המפענח",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "אין שרת DNS זמין שפעולתו תקינה",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "שרת DNS זמין",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "שרת DNS מתרגם שמות מארח (למשל, www.google.com) לכתובות IP. הדפדפן חייב לקבל כתובת IP שאליה ניתן להתחבר כדי לטעון אתר. Chrome אינו יכול לזהות את כתובת ה-IP של אתר האינטרנט שבו ברצונך לבקר, משום ששרת ה-DNS אינו פועל. פנה לספק האינטרנט או למנהל הרשת שלך.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "Chrome מצא שרת DNS שתרגם בהצלחה את שם המארח (למשל, www.google.com) לכתובת IP.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "מנסה לפענח שם מארח: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "שרת DNS החזיר תוצאות של שאילתת DNS.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "שרת DNS לא החזיר אף תוצאה.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "שם המארח שפוענח ככתובת IP: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "הבדיקה של מפענח ה-DNS שולחת שאילתת DNS אחת, ומחזירה תוצאת 'עבר' אם מוחזרת תגובה חוקית.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "הבדיקה של מפענח ה-DNS שולחת שאילתת DNS אחת, ומחזירה תוצאת 'נכשל' אם לא מוחזרת תגובה חוקית.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "שרת DNS החזיר קוד סטטוס של הצלחה: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "שרת DNS החזיר קוד סטטוס של בעיה: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "בדיקת זמן אחזור של המפענח",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "פענוח ה-DNS נמשך זמן רב מדי",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "פענוח ה-DNS נמשך זמן ארוך מהממוצע",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "התקבלו תגובות DNS מהירות",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "שרת ה-DNS לא החזיר תשובות במהירות. שרת DNS מתרגם שם מארח (למשל, www.google.com) לכתובת IP. הדפדפן חייב לקבל כתובת IP שאליה ניתן להתחבר כדי לטעון אתר.",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "שרת ה-DNS לא החזיר תשובות במהירות מספיקה. שרת DNS מתרגם שם מארח (למשל, www.google.com) לכתובת IP. הדפדפן חייב לקבל כתובת IP שאליה ניתן להתחבר כדי לטעון אתר.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "שרת ה-DNS החזיר במהירות תשובות לבקשות שלך! שרת DNS מתרגם שם מארח (למשל, www.google.com) לכתובת IP. הדפדפן חייב לקבל כתובת IP שאליה ניתן להתחבר כדי לטעון אתר.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "מנסה לפענח את שם מארח מס': ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "התקבלה תוצאה עבור פענוח DNS. מספר בדיקה / שעה נוכחית / הזמן שנדרש (אלפיות השנייה) / זמן התחלה (אלפיות השנייה): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "סה\"כ זמן פענוח DNS עבור כל הבדיקות (אלפיות השנייה): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "סה\"כ מארחי DNS שפוענחו: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "זמן ממוצע לפענוח DNS (אלפיות השנייה): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "סף הזמן הממוצע לפענוח DNS (אלפיות השנייה) שמתחתיו מתקבלת תוצאת 'אין בעיה': ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "טווח הזמן הממוצע לפענוח DNS (אלפיות השנייה), שבו מתקבלת תוצאת 'בעיה פוטנציאלית': ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "סף הזמן הממוצע לפענוח DNS (אלפיות השנייה), שמעליו מתקבלת תוצאת 'יש בעיה': ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "בדיקת תקינות DNS",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "שרת DNS החזיר תוצאות צפויות",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "תוצאות ה-DNS היו צפויות ונראה שהן מדויקות",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "תוצאות ה-DNS היו בלתי צפויות וייתכן שאינן תקינות",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "הוחזרה תגובת DNS בלתי תקינה. שרת DNS לא תקין עשוי להחזיר כתובת IP לא נכונה ולהסיט תנועה אל מארח שונה מהרצוי.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "תוצאות DNS נחשבות כבלתי תקינות כאשר המפענח אינו מחזיר את כתובת ה-IP הצפויה.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "תוצאות DNS נחשבות לתקינות כאשר המפענח מחזיר את כתובת ה-IP הצפויה.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "מס' בדיקה / שם המארח של הבדיקה: ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " הבדיקה לא החזירה שדה כתובת DNS (מוגדר כ-null)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " בדיקה; אין קוד סטטוס של תוצאה; מבטל את הבדיקה עקב כשל בבדיקה.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " הבדיקה החזירה קוד סטטוס: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " כתובת DNS מפוענחת שהוחזרה: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "בדיקת חומת אש של TCP",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "תנועת האינטרנט חסומה ביציאה ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "נראה שתנועת האינטרנט חסומה ביציאה ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "תנועת האינטרנט אפשרית ביציאה ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "קיימת הגבלה ברשת עבור חיבור לאינטרנט בשימוש משותף.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "נראה שקיימת הגבלה ברשת עבור חיבור לאינטרנט בשימוש משותף.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "הצלחנו ליצור חיבור ביציאה ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " מנסה חיבור TCP מס' / שם מארח / יציאה: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " בדיקת חומת אש של TCP החזירה קוד סטטוס של TCP: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "תוצאות בדיקה של חומת אש: בדיקות שהופעלו / יציאה שנבדקה / מספר חיבורים שנכשלו: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "ניסיון לבדיקת חיבור נכשל ולא החזיר קוד סטטוס הצלחה של TCP מערימת הרשת של Chrome, אך במקום זאת החזיר קוד סטטוס: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "מפענח ה-DNS שאותר אינו זמין, ולכן אנחנו לא יכולים לקבוע אם קיימת חומת אש",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "הרשת שאותרה אינה זמינה, ולכן איננו יכולים לקבוע אם קיימת חומת אש",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "תוצאת 'אין בעיה' מתקבלת כשאחוז התוצאות של בדיקות חיבור TCP שנכשלו הוא לכל היותר: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "תוצאת 'יש בעיה' מתקבלת כשאחוז התוצאות של בדיקות חיבור TCP שנכשלו שווה ל: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "תוצאת 'בעיה פוטנציאלית' מתקבלת כשמספר התוצאות של בדיקות חיבור TCP שנכשלו נמצא בטווח: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "בדיקה של פורטל חובה ב-HTTP",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "תנועת האינטרנט נחסמה על ידי פורטל חובה",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "לא ניתן לבדוק כראוי קיום של פורטל חובה ב-HTTP",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "זוהתה גישה פתוחה לאינטרנט",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "פורטל חובה הוא אתר שהמשתמשים ברשת מחויבים להציג וליצור איתו אינטראקציה לפני שתוענק להם גישה לגלישה חופשית באינטרנט. פורטל חובה אותר ברשת שלך, והמשמעות היא שהגישה הבלתי מוגבלת לאינטרנט חסומה.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "יש בעיה המונעת בדיקה של פורטל חובה ב-HTTP. הסיבה הנפוצה ביותר לכך היא שכל תנועת הרשת שלך נדחית או חסומה.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "אותרה גישה פתוחה לאינטרנט. פורטל חובה הוא אתר שהמשתמשים ברשת מחויבים להציג וליצור עמו אינטראקציה לפני שתוענק להם גישה לגלישה חופשית באינטרנט.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "בדיקת פורטל החובה ב-HTTP מחזירה תוצאת 'אין בעיה' אם כל בקשות ה-HTTP מחזירות קוד מצב ‎204 HTTP",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "בדיקת פורטל החובה ב-HTTP מחזירה תוצאת 'בעיה פוטנציאלית' אם יש בעיות בערימת הרשת בשיעור גבוה מהאחוז הבא של בקשות ה-HTTP: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "בדיקת פורטל חובה של HTTP מחזירה תוצאת 'יש בעיה' אם לפחות אחת מבקשות ה-HTTP לא מחזירה קוד סטטוס ‎204 HTTP",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "שגיאה בבקשה מס' / סטטוס שגיאה: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "מספר תגובה / קוד תגובת HTTP: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "מספר תגובה / כותרות תגובת HTTP: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "מספר בקשה / אורך תגובה מלאה: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "בדיקת זמן המתנה ב-HTTP של אתרי Google",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "בקשות אינטרנט אל Google נמשכו זמן רב מדי",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "בקשות אינטרנט אל Google נמשכו זמן רב מהצפוי",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "התקבלו תגובות מהירות מאתרי Google",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "קבלת תגובה מאתרים של Google נמשכת זמן רב מדי, דבר שמצביע על רשת איטית.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "קבלת תגובה מאתרים של Google נמשכת קצת יותר מדי, דבר שמצביע על רשת איטית.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "בקשות אינטרנט ל-Google מתקבלות במהירות.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "שגיאה במס' בקשה / סטטוס שגיאה: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "זמן תגובה ממוצע של HTTP (אלפיות השנייה): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "מספר כולל של בקשות HTTP: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "זמן תגובה כולל של HTTP (אלפיות השנייה): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "מס' תגובת HTTP / זמן קבלה (מיקרו חותמת זמן) / זמן שחלף (אלפיות השנייה): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "סף זמן ההמתנה הממוצע לתגובה של HTTP (אלפיות השנייה) שמתחתיו מתקבלת תוצאת 'אין בעיה': ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "טווח זמן המתנה לתגובה של HTTP (אלפיות השנייה) שבו מתקבלת תוצאת 'בעיה פוטנציאלית': ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "סף זמן המתנה הממוצע לתגובה של HTTP (אלפיות השנייה) שמעליו מתקבלת תוצאת 'יש בעיה': ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "בדיקת העוצמה של אות Wi-Fi של מערכת ההפעלה של Chrome",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "בדיקת העוצמה של אות ה-Wi-Fi בוטלה",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "לא ניתן היה לבצע את הבדיקה, לא אותר חיבור Wi-Fi.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "עוצמת אות הרשת נמוכה.",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "עוצמת האות של רשת ה-WiFi חלשה.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "עוצמת אות הרשת חזקה",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "עוצמת האות של רשת ה-WiFi חזקה.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "שם האות / עוצמת האות של הרשת: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "סף עוצמת האות של מערכת ההפעלה של Chrome שמעליו מתקבלת תוצאת 'אין בעיה': ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "סף עוצמת האות של מערכת ההפעלה של Chrome שמתחתיו מתקבלת תוצאת 'יש בעיה': ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "בדיקת פינג לשער",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "לא ניתן לשלוח פינג לשער",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "שליחת פינג לשער אינה מניבה תגובה מהירה.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "ניתן להגיע אל השער",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "שליחת פינג לשער מניבה תגובה מהירה.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "סף זמן ההמתנה (אלפיות השנייה) לביצוע פינג לשער, שמתחתיו מתקבלת תוצאת 'אין בעיה': ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "סף זמן ההמתנה (אלפיות השנייה) לביצוע פינג לשער, שמעליו מתקבלת תוצאת 'יש בעיה': ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "שאילתת ICMP שנשלחה ישירות ל-IP של השער כלל לא קיבלה מנת תגובה.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "זמן ההמתנה של מנת ICMP (אלפיות השנייה): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "לא ניתן לזהות את כתובת ה-IP של השער",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "כתובת ה-IP של השער כבר זוהתה כ: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "כתובת ה-IP שהוחזרה כתגובה לשליחה של מנת ICMP למארח מרוחק עם TTL של 1, הייתה זהה לכתובת ה-IP של המארח המרוחק: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "בדיקת קישוריות Hangouts",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "חיבור ל-Hangouts זמין",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "חיבור מוצלח אל שירות Hangouts.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "יתכן שיש בעיה כלשהי בחיבור ל-Hangouts",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "לא ניתן להתחבר לשירות המדיה של Hangouts ביציאות ה-UDP שמספרן 19302 עד 19309.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "לא ניתן ליצור חיבור ל-Hangouts",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "נראה שהיציאות והמארחים הדרושים לצורך התחברות ל-לHangouts נחסמו.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "לא ניתן להתחבר לשירות המדיה של Hangouts ביציאת ה-TCP שמספרה 443 וביציאות ה-UDP שמספרן 19302 עד 19309.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "לא ניתן להתחבר לשירות הצ'אט של Hangouts.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "לא ניתן להתחבר לשירות הצ'אט של Hangouts או לשירות המדיה של Hangouts ביציאת ה-TCP שמספרה 443.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "חיבור TCP למארח נוצר בהצלחה ביציאה 443 ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "הניסיון ליצור חיבור TCP למארח נכשל, והוא נחסם ביציאה 443 ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "הניסיון ליצור חיבור UDP נכשל, והוא נחסם ביציאת היעד ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "חיבור UDP נוצר בהצלחה ביציאת היעד ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "הבדיקה לזיהוי חסימה של Hangouts מחזירה תוצאת 'אין בעיה' אם: (1) ניתן ליצור חיבור למארח stun.l.google.com בכל יציאת UDP החל מ-19302 ועד 19309‏; (2) ניתן ליצור חיבור TCP למארחים apis.google.com‏, clients6.google.com‏, plus.google.com ו-talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "הבדיקה לזיהוי חסימה של Hangouts מחזירה תוצאת 'יש בעיה' אם: (1) כל יציאות היעד מסוג UPD החל מ-19302 ועד 19309‏ חסומות עבור המארח stun.l.google.com‏; (2) לא ניתן ליצור חיבור TCP לכל אחד מהמארחים הבאים ביציאה 443‏: apis.google.com‏, clients6.google.com‏, plus.google.com ו-talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "בדיקת הצפנה של Wi-Fi",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "הבדיקה של הצפנת Wi-Fi בוטלה",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "הבדיקה של הצפנת Wi-Fi לא בוצעה, אין רשת Wi-Fi.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "השיטה של הצפנת ה-Wi-Fi חזקה",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "השיטה של הצפנת ה-Wi-Fi שבה נעשה שימוש במחשב שלך חזקה.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "השיטה של הצפנת ה-Wi-Fi מאובטחת רק באופן חלקי",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "השיטה של הצפנת ה-Wi-Fi שבה נעשה שימוש בחיבור הרשת שלך אינה חזקה כפי שהייתה יכולה להיות.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "השיטה של הצפנת ה-Wi-Fi אינה מאובטחת",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "השיטה של הצפנת ה-Wi-Fi שבה נעשה שימוש בחיבור הרשת שלך אינה מאובטחת.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "שיטות הצפנת Wi-Fi שעבורן מתקבלת תוצאת 'יש בעיה': ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "שיטות הצפנת Wi-Fi שעבורן מתקבלת תוצאת 'אין בעיה': ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "תוצאת 'בעיה פוטנציאלית' מתקבלת אם איננו בטוחים לגבי שיטת ההצפנה של Wi-Fi",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "מספר הרשתות הזמינות שאותרו: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "שיטת ההצפנה שבה נעשה שימוש על ידי רשת ה-Wi-Fi המחוברת כעת: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "בדיקה מקצה-לקצה של אתרי Google",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "אתרי Google זמינים",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "נראה שאתרי Google נטענים כראוי ללא בעיות קישוריות מסוג כלשהו.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "לא ניתן היה לאחזר ולטעון כראוי אתרים של Google.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "אירעה בעיה בעת ניסיון לגשת לאתרי Google. מצב זה יכול לנבוע ממספר גורמים, כולל פורטל חובה, אי-תקינות של DNS, מתקפה מתווכת (man-in-the-middle) וצורות אחרות של חבלה ברשת.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "גישה אל אתרי Google נחשבת כמוצלחת מנקודת מבט של \"קצה לקצה\" אם ניתן ליצור חיבור HTTPS אל כל האתרים של השירותים הספציפיים של Google שנבדקו",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "גישה אל אתרי Google נחשבת כבעייתית מנקודת מבט של \"קצה לקצה\" אם לא ניתן ליצור חיבור HTTPS אל אתרים כלשהם של השירותים הספציפיים של Google שנבדקו",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "מס' בדיקה / שם המארח של הבדיקה: ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "אירעה שגיאה בעת ניסיון להתחבר אל שם המארח הבא. יתבצע ניסיון נוסף: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "אירעו שגיאות מתמשכות בעת התחברות אל שם המארח הבא, ונראה שיש בו בעיית קישוריות: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "הבקשה עבור שם המארח הבא הסתיימה בהצלחה עם קוד הסטטוס הבא: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

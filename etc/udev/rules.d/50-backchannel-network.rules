@@ -1,0 +1,2 @@
+KERNEL=="eth*", SUBSYSTEMS=="usb", ACTION=="add", RUN+="/sbin/backchannel-setup %k"
+KERNEL=="eth_test", SUBSYSTEMS=="usb", ACTION=="remove", RUN+="kill $(cat /run/dhclient-%k.pid)"

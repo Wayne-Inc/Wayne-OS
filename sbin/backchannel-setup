@@ -1,0 +1,38 @@
+#!/bin/sh
+
+testif=eth_test
+
+if [ ! -f /mnt/stateful_partition/etc/enable_backchannel_network ]; then
+    # This mechanism has to be explicitly enabled on the device.
+    exit
+fi
+
+if [ -f /run/dhclient-${testif}.pid ]; then
+    # Something else is already going on - perhaps a second
+    # USB Ethernet device has been inserted. Let's not mess with it.
+    exit
+fi
+
+if [ "$1" != "${testif}" ]; then
+    initctl stop shill
+    # $1 is the current name of the backchannel device. Swap it with testif.
+    if ifconfig ${testif} > /dev/null 2>&1; then
+        orig_mac=$(ifconfig ${testif} | awk '/HWaddr/ {print $5}')
+        ifconfig ${testif} down # must be down for nameif to work
+        nameif eth_tmp ${orig_mac}
+    fi
+    bdev_mac=$(ifconfig $1 | awk '/HWaddr/ {print $5}')
+    ifconfig $1 down # must be down for nameif to work
+    nameif ${testif} ${bdev_mac}
+    if [ -n "${orig_mac}" ]; then
+        nameif $1 ${orig_mac}
+    fi
+    initctl start shill
+fi
+
+# Bring up the backchannel interface
+dhclient -q -pf /run/dhclient-${testif}.pid \
+            -lf /run/dhclient-${testif}.leases \
+            -cf /etc/dhclient-backchannel.conf \
+            -sf /sbin/dhclient-backchannel-script \
+         ${testif}

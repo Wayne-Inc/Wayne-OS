@@ -1,0 +1,8 @@
+﻿
+Se face tranziția sistemului la Modul pentru dezvoltatori.
+Datele locale au fost șterse.
+
+Modificările pe care le aduceți sistemului nu sunt acceptate de Google, pot provoca
+probleme de hardware și pot anula garanția.
+
+Pentru a anula, opriți computerul acum.

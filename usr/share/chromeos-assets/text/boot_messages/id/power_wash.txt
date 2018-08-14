@@ -1,0 +1,4 @@
+﻿
+Powerwash sedang berlangsung...
+
+Powerwash terjadi saat terdeteksi kesalahan kritis, atau saat Anda memilih untuk menyetel ulang perangkat. Tindakan ini akan menyetel ulang Chrome OS seperti keadaan barunya, dan Anda akan dapat kembali bekerja secepatnya.

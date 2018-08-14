@@ -1,0 +1,5 @@
+La batterie est trop faible pour que vous puissiez installer la mise à jour.
+
+Chargement…
+
+La mise à jour se lancera automatiquement dès que la batterie sera suffisamment chargée.

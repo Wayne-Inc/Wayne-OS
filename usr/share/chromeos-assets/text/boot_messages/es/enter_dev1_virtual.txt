@@ -1,0 +1,8 @@
+﻿
+El sistema está activando el modo de desarrollador.
+Se han borrado los datos locales.
+
+Google no admite las modificaciones que haces en el sistema, ya que pueden provocar
+problemas de hardware y anular la garantía.
+
+Para cancelar el proceso, apaga el ordenador ahora.

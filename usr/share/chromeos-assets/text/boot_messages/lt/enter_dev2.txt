@@ -1,0 +1,4 @@
+﻿
+Sistema ruošiama veikti kūrėjo režimu.
+Tai gali šiek tiek užtrukti.
+Neišjunkite kompiuterio, kol jis nebus paleistas iš naujo.

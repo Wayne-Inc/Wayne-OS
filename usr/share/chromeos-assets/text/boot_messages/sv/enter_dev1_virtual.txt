@@ -1,0 +1,8 @@
+﻿
+Systemet övergår till utvecklarläget.
+Lokala data har tagits bort.
+
+Ändringar i systemet som inte stöds av Google kan medföra
+att det uppstår problem med maskinvaran och att garantin inte gäller.
+
+Om du vill avbryta stänger du av datorn nu.

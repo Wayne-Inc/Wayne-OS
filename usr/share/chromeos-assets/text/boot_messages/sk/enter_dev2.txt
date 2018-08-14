@@ -1,0 +1,4 @@
+﻿
+Systém sa pripravuje na prechod do režimu vývojára.
+Môže to chvíľu trvať.
+Nevypínajte počítač, pokým sa nereštartuje.

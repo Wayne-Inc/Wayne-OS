@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "lv"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox\u00a0\u2014 balss pie\u0161\u0137ir\u0161ana p\u0101rl\u016bkam Chrome"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Aptur\u0113t runas izvadi"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "Iesl\u0113gt/izsl\u0113gt saisto\u0161o re\u017e\u012bmu"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "Prefiksa tausti\u0146\u0161"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "P\u0101riet uz n\u0101kamo fokus\u0113jamo vienumu"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "P\u0101riet uz iepriek\u0161\u0113jo fokus\u0113jamo vienumu"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "P\u0101rvietoties atpaka\u013c"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "P\u0101rvietoties uz priek\u0161u"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "P\u0101rvietoties pa kreisi"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "P\u0101rvietot pa labi"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "P\u0101riet atpaka\u013c nep\u0101rtraukta las\u012bjuma laik\u0101"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "P\u0101riet uz priek\u0161u nep\u0101rtraukta las\u012bjuma laik\u0101"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Samazin\u0101t navig\u0101cijas precizit\u0101ti"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "Palielin\u0101t navig\u0101cijas precizit\u0101ti"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "R\u012bkoties ar pa\u0161reiz\u0113jo vienumu"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Noklik\u0161\u0137in\u0101t uz pa\u0161reiz\u0113j\u0101 vienuma"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Pazi\u0146ot par saites\u00a0URL"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Pazi\u0146ot pa\u0161reiz\u0113jas lapas nosaukumu"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Pazi\u0146ot pa\u0161reiz\u0113jas lapas\u00a0URL"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "S\u0101kt las\u012b\u0161anu no pa\u0161reiz\u0113j\u0101s atra\u0161an\u0101s vietas"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "Atv\u0113rt ChromeVox izv\u0113lnes"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "Sl\u0113pt ChromeVox pal\u012bdz\u012bbu"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Nospiediet aug\u0161upv\u0113rsto vai lejupv\u0113rsto bulttausti\u0146u, lai p\u0101rskat\u012btu komandas, un nospiediet ievad\u012b\u0161anas tausti\u0146u, lai aktiviz\u0113tu."
+  },
+  "CHROMEVOX_HELP": {
+    "message": "Atv\u0113rt ChromeVox m\u0101c\u012bbas"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "ChromeVox\u00a0\u2014 atrast lap\u0101"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "Atv\u0113rt opciju lapu"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "Atv\u0113rt m\u0101c\u012bbu re\u017e\u012bmu"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Samazin\u0101t runas \u0101trumu"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "Palielin\u0101t runas \u0101trumu"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Samazin\u0101t augstumu"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "Palielin\u0101t augstumu"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Samazin\u0101t runas ska\u013cumu"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "Palielin\u0101t runas ska\u013cumu"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "R\u0101d\u012bt veidlapu sarakstu"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "R\u0101d\u012bt virsrakstu sarakstu"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "R\u0101d\u012bt sai\u0161u sarakstu"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "R\u0101d\u012bt tabulu sarakstu"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "R\u0101d\u012bt orientieru sarakstu"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "Iepriek\u0161\u0113j\u0101 tabulas rinda"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "N\u0101kam\u0101 tabulas rinda"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "Iepriek\u0161\u0113j\u0101 tabulas sleja"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "N\u0101kam\u0101 tabulas sleja"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Pazi\u0146ot pa\u0161reiz\u0113j\u0101s \u0161\u016bnas virsrakstus"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Pazi\u0146ot pa\u0161reiz\u0113j\u0101s \u0161\u016bnas koordin\u0101tas"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Izdar\u012bt min\u0113jumu par pa\u0161reiz\u0113j\u0101s \u0161\u016bnas rindas virsrakstu"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Izdar\u012bt min\u0113jumu par pa\u0161reiz\u0113j\u0101s \u0161\u016bnas slejas virsrakstu"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "P\u0101riet uz tabulas s\u0101kumu"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "P\u0101riet uz tabulas beig\u0101m"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "P\u0101riet uz pa\u0161reiz\u0113j\u0101s rindas s\u0101kumu"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "P\u0101riet uz pa\u0161reiz\u0113j\u0101s rindas beig\u0101m"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "P\u0101riet uz pa\u0161reiz\u0113j\u0101s slejas s\u0101kumu"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "P\u0101riet uz pa\u0161reiz\u0113j\u0101s slejas beig\u0101m"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "N\u0101kamais 1.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "Iepriek\u0161\u0113jais 1.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "N\u0101kamais 2.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "Iepriek\u0161\u0113jais 2.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "N\u0101kamais 3.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "Iepriek\u0161\u0113jais 3.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "N\u0101kamais 4.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "Iepriek\u0161\u0113jais 4.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "N\u0101kamais 5.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "Iepriek\u0161\u0113jais 5.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "N\u0101kamais 6.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "Iepriek\u0161\u0113jais 6.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "N\u0101kamais kombin\u0113tais lodzi\u0146\u0161"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "Iepriek\u0161\u0113jais kombin\u0113tais lodzi\u0146\u0161"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "N\u0101kamais redi\u0123\u0113jamais teksta apgabals"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "Iepriek\u0161\u0113jais redi\u0123\u0113jamais teksta apgabals"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "N\u0101kamais veidlapas lauks"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "Iepriek\u0161\u0113jais veidlapas lauks"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "N\u0101kam\u0101 grafika"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "Iepriek\u0161\u0113j\u0101 grafika"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "N\u0101kamais virsraksts"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "Iepriek\u0161\u0113jais virsraksts"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "N\u0101kamais saraksta vienums"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "Iepriek\u0161\u0113jais saraksta vienums"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "N\u0101kamais p\u0101rejas punkts"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "Iepriek\u0161\u0113jais p\u0101rejas punkts"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "N\u0101kam\u0101 saite"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "Iepriek\u0161\u0113j\u0101 saite"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "N\u0101kamais saraksts"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "Iepriek\u0161\u0113jais saraksts"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "N\u0101kam\u0101 matem\u0101tisk\u0101 izteiksme"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "Iepriek\u0161\u0113j\u0101 matem\u0101tisk\u0101 izteiksme"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "N\u0101kamais multivides vienums"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "Iepriek\u0161\u0113jais multivides vienums"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "N\u0101kamais cit\u0101ta bloks"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "Iepriek\u0161\u0113jais cit\u0101ta bloks"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "N\u0101kam\u0101 radiopoga"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "Iepriek\u0161\u0113j\u0101 radiopoga"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "N\u0101kamais sl\u012bdnis"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "Iepriek\u0161\u0113jais sl\u012bdnis"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "N\u0101kam\u0101 tabula"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "N\u0101kam\u0101 apmekl\u0113t\u0101 saite"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "Iepriek\u0161\u0113j\u0101 tabula"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Iepriek\u0161\u0113j\u0101 apmekl\u0113t\u0101 saite"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "N\u0101kam\u0101 poga"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "Iepriek\u0161\u0113j\u0101 poga"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "N\u0101kam\u0101 izv\u0113les r\u016bti\u0146a"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "Iepriek\u0161\u0113j\u0101 izv\u0113les r\u016bti\u0146a"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "N\u0101kamais orientieris"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "Iepriek\u0161\u0113jais orientieris"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "Atk\u013c\u016bdo\u0161anas etalonsal\u012bdzin\u0101jumi"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Sniedz \u012bsu aprakstu par pa\u0161reiz\u0113jo poz\u012bciju"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Sniedz piln\u012bgu aprakstu par pa\u0161reiz\u0113jo poz\u012bciju"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "ChromeVox opcijas"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Virtu\u0101lais Braila displejs"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "Simul\u0113 atsvaidzin\u0101ma Braila raksta displeja izvadi\n        ekr\u0101na aug\u0161\u0113j\u0101 panel\u012b ChromeVox."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "Rindi\u0146as:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "\u0160\u016bnas katr\u0101 rind\u0101:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Pa\u0161reiz\u0113jais displeja stils ir mijas att\u0113lojums."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Pa\u0161reiz\u0113jais displeja stils ir att\u0113lojums l\u012bdz\u0101s."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Mainiet displeja stilu uz mijas att\u0113lojumu."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Main\u012bt displeja veidu uz att\u0113lojumu l\u012bdz\u0101s"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "Izmantojiet t\u0101l\u0101k nor\u0101d\u012bt\u0101s opcijas, lai piel\u0101gotu ChromeVox. Izmai\u0146as st\u0101jas sp\u0113k\u0101 nekav\u0113joties."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "Izmantot peli, lai main\u012btu fokusu"
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "R\u0101d\u012bt vienuma kontekstu pirms citas inform\u0101cijas (piem\u0113ram, nosaukuma)."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "Uzlabojiet konkr\u0113tu viet\u0146u darb\u012bbu (piem\u0113ram, vietnes Google mekl\u0113\u0161ana darb\u012bbu)."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "Iesp\u0113jot izv\u0113rstus aprakstus"
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Autom\u0101tiski las\u012bt lapu, kad ir pabeigta t\u0101s iel\u0101de."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Kad tiek atska\u0146ots audio\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "Atska\u0146ot parast\u0101 ska\u013cum\u0101 ChromeVox koment\u0101ru izvades laik\u0101"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "Atska\u0146ot klus\u0101k ChromeVox koment\u0101ru izvades laik\u0101"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "Aptur\u0113t atska\u0146o\u0161anu ChromeVox koment\u0101ru izvades laik\u0101"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "Redi\u0123\u0113jot tekstu, novietot kursoru starp rakstz\u012bm\u0113m (k\u0101 oper\u0113t\u0101jsist\u0113m\u0101 Mac\u00a0OS\u00a0X)"
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Balss veidi"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Atlasiet pa\u0161reiz\u0113jo balsi:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Braila raksts"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "P\u0101riet uz 8\u00a0punktu Braila rakstu"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "P\u0101riet uz 6\u00a0punktu Braila rakstu"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "Atlasiet 6\u00a0punktu Braila raksta tabulu:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, $2$.\u00a0pak\u0101pe",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), $3$.\u00a0l\u012bmenis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "Atlasiet 8\u00a0punktu Braila raksta tabulu:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "Iesp\u0113jot teksta aplau\u0161anu"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "\u012asin\u0101jumtausti\u0146i"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "Mainiet pa\u0161reiz\u0113jo tausti\u0146u piesaisti, t\u0101l\u0101k eso\u0161aj\u0101 sarakst\u0101 atlasot v\u0113lamo opciju."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Atiestat\u012bt pa\u0161reiz\u0113jo tausti\u0146u piesaisti"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "Piel\u0101gojiet \u012bsin\u0101jumtausti\u0146us bie\u017ei lietot\u0101m komand\u0101m, ierakstot t\u0101s t\u0101l\u0101k eso\u0161ajos atbilsto\u0161ajos laukos."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "Modific\u0113t\u0101jtausti\u0146i"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "ChromeVox modific\u0113t\u0101jtausti\u0146\u0161"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "ChromeVox m\u0101c\u012bbu re\u017e\u012bms"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Nospiediet jebkuru tausti\u0146u, lai uzzin\u0101tu t\u0101 nosaukumu. Nospie\u017eot Ctrl+W, m\u0101c\u012bbu re\u017e\u012bms tiks aizv\u0113rts."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "Tika izveidota cilne."
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$, cilne",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "loga cilne $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "inkognito re\u017e\u012bma loga cilne $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "Tika atv\u0113rta izv\u0113lne $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "izv\u0113lne aizv\u0113rta"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "Atz\u012bm\u0113ta izv\u0113les r\u016bti\u0146a $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "atz\u012bm\u0113ts"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, izv\u0113les r\u016bti\u0146a nav atz\u012bm\u0113ta",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "nav atz\u012bm\u0113ta"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$, iesl\u0113gt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$, izsl\u0113gt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, atlas\u012bta radiopoga",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "atlas\u012bti"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, neatlas\u012bta radiopoga",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "nav atlas\u012bts"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, izv\u0113lne",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, izv\u0113lnes vienums",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, izv\u0113lnes vienums ar apak\u0161izv\u0113lni",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, logs",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, tekstlodzi\u0146\u0161",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, tekstlodzi\u0146\u0161",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, paroles tekstlodzi\u0146\u0161",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, paroles tekstlodzi\u0146\u0161",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, poga",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, kombin\u0113tais lodzi\u0146\u0161",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, kombin\u0113tais lodzi\u0146\u0161",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, sarakstlodzi\u0146\u0161",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, sarakstlodzi\u0146\u0161",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, saite",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, cilne",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "$1$ $2$ sl\u012bdnis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", atlas\u012bts"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", nav atlas\u012bts"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$\u00a0no\u00a0$2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$.\u00a0no\u00a0$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " $1$.\u00a0l\u012bmenis ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "\u0100trums: $1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "Augstums: $1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "Ska\u013cums: $1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "Tika aizv\u0113rts dialoglodzi\u0146\u0161."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "Tika aizv\u0113rts $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "Tika atv\u0113rts dialoglodzi\u0146\u0161."
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "no\u0146emts:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "Saisto\u0161ais re\u017e\u012bms iesp\u0113jots"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "Saisto\u0161ais re\u017e\u012bms atsp\u0113jots"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Tastat\u016bras pal\u012bdz\u012bba"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Kontekstizv\u0113lne"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "Saraksts: $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "Izmantojiet aug\u0161upv\u0113rsto vai lejupv\u0113rsto bulttausti\u0146u, lai p\u0101rl\u016bkotu, vai ierakstiet tekstu, lai mekl\u0113tu."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "Tika aizv\u0113rts"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "\u0160\u016bnas beigas."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "Neviens URL\u00a0nav atrasts."
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "Notiek izie\u0161ana no tabulas."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "Notiek izie\u0161ana no re\u017e\u0123a."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "Tabulas iek\u0161pus\u0113"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Neviena tabula nav atrasta."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Nav tabulas iek\u0161pus\u0113."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Nav iesl\u0113gts tabulas re\u017e\u012bms."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "T\u0101l\u0101k nav nevienas \u0161\u016bnas."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Iepriek\u0161 nav nevienas \u0161\u016bnas."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Nav \u0161\u016bnas pa labi."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "Pa kreisi nav nevienas \u0161\u016bnas."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "Tuk\u0161a \u0161\u016bna"
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Savienotas."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Rindas virsraksts:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Tuk\u0161s rindas virsraksts"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Slejas virsraksts:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Tuk\u0161s slejas virsraksts"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "Bez virsrakstiem"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Tuk\u0161i virsraksti"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "$1$.\u00a0rinda no\u00a0$2$, $3$.\u00a0sleja no\u00a0$4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "Tabula $1$, $2$\u00a0x\u00a0$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "tab. $1$ $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "$1$.\u00a0rinda, $2$.\u00a0sleja",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "r$1$k$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "T\u0101l\u0101k nav nevienas izv\u0113les r\u016bti\u0146as."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "Iepriek\u0161 nav nevienas izv\u0113les r\u016bti\u0146as."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "T\u0101l\u0101k nav neviena redi\u0123\u0113jama teksta lauka."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "Iepriek\u0161 nav neviena redi\u0123\u0113jama teksta lauka."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "T\u0101l\u0101k nav neviena virsraksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "Iepriek\u0161 nav neviena virsraksta."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "T\u0101l\u0101k nav neviena 1.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "Iepriek\u0161 nav neviena 1.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "T\u0101l\u0101k nav neviena 2.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "Iepriek\u0161 nav neviena 2.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "T\u0101l\u0101k nav neviena 3.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "Iepriek\u0161 nav neviena 3.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "T\u0101l\u0101k nav neviena 4.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "Iepriek\u0161 nav neviena 4.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "T\u0101l\u0101k nav neviena 5.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "Iepriek\u0161 nav neviena 5.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "T\u0101l\u0101k nav neviena 6.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "Iepriek\u0161 nav neviena 6.\u00a0l\u012bme\u0146a virsraksta."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "T\u0101l\u0101k nav neviena vienuma, kas nav saite."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "Nav neviena iepriek\u0161\u0113j\u0101 vienuma, kas nav saite."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "T\u0101l\u0101k nav neviena enkura."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "Iepriek\u0161 nav neviena enkura."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "T\u0101l\u0101k nav nevienas saites."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "Iepriek\u0161 nav nevienas saites."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "T\u0101l\u0101k nav nevienas tabulas."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "Iepriek\u0161 nav nevienas tabulas."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "T\u0101l\u0101k nav nevienas apmekl\u0113t\u0101s saites."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "Iepriek\u0161 nav nevienas apmekl\u0113t\u0101s saites."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "T\u0101l\u0101k nav nevienas matem\u0101tiskas izteiksmes."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "Iepriek\u0161 nav nevienas matem\u0101tiskas izteiksmes."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "T\u0101l\u0101k nav neviena multivides logr\u012bka."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "Iepriek\u0161 nav neviena multivides logr\u012bka."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "T\u0101l\u0101k nav neviena saraksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "Iepriek\u0161 nav neviena saraksta."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "T\u0101l\u0101k nav neviena saraksta vienuma."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "Iepriek\u0161 nav neviena saraksta vienuma."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "T\u0101l\u0101k nav neviena cit\u0101ta bloka."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "Iepriek\u0161 nav neviena cit\u0101ta bloka."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "T\u0101l\u0101k nav neviena veidlapas lauka."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "Iepriek\u0161 nav neviena veidlapas lauka."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "T\u0101l\u0101k nav neviena p\u0101rejas punkta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "Iepriek\u0161 nav neviena p\u0101rejas punkta."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "T\u0101l\u0101k nav neviena ARIA orientiera."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "Iepriek\u0161 nav neviena ARIA orientiera."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "T\u0101l\u0101k nav neviena kombin\u0113t\u0101 lodzi\u0146a."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "Iepriek\u0161 nav neviena kombin\u0113t\u0101 lodzi\u0146a."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "T\u0101l\u0101k nav nevienas pogas."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "Iepriek\u0161 nav nevienas pogas."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "T\u0101l\u0101k nav nevienas grafikas."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "Iepriek\u0161 nav nevienas grafikas."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "T\u0101l\u0101k nav neviena sl\u012bd\u0146a."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "Iepriek\u0161 nav neviena sl\u012bd\u0146a."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "T\u0101l\u0101k nav nevienas radiopogas."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "Iepriek\u0161 nav nevienas radiopogas."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "T\u0101l\u0101k nav nevienas sada\u013cas."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "Iepriek\u0161 nav nevienas sada\u013cas."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "T\u0101l\u0101k nav nevienas vad\u012bklas."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "Iepriek\u0161 nav nevienas vad\u012bklas."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "Tika veikts klik\u0161\u0137is."
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "Tika veikts dubultklik\u0161\u0137is."
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "Nav virsrakstu."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "Nav sai\u0161u."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "Nav veidlapu."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "Nav tabulu."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "Nav ARIA orientieru."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "Nav p\u0101rejas punktu."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$\u00a0no\u00a0$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$.\u00a0no\u00a0$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "ietver apak\u0161izv\u0113lni"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "ietver uznirsto\u0161u elementu"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "ietver uznirsto\u0161u elementu"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "Min.: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "min.:\u00a0$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "maks.: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "maks.:\u00a0$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "Br\u012bdin\u0101jums"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "br\u012bdin\u0101jums"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "Br\u012bdin\u0101juma dialoglodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "br\u012bdin\u0101juma dialoglodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "Poga"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "poga"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "Izv\u0113les r\u016bti\u0146a"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "izv\u0113les r\u016bti\u0146a"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Kombin\u0113tais lodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "kombin\u0113tais lodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "Dialoglodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "dialoglodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "Re\u017e\u0123is"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "re\u017e\u0123is"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "\u0160\u016bna"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "\u0161\u016bna"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "$1$.\u00a0rinda, $2$.\u00a0sleja",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Saite"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "saite"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "Sarakstlodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "sarakstlodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "\u017durn\u0101ls"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "\u017eurn\u0101ls"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Sl\u012bdo\u0161ais teksts"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "sl\u012bdo\u0161ais teksts"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Izv\u0113lne"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "izv\u0113lne"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Izv\u0113\u013c\u0146u josla"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "izv\u0113\u013c\u0146u josla"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Izv\u0113lnes vienums"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "izv\u0113lnes vienums"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Izv\u0113lnes vienuma izv\u0113les r\u016bti\u0146a"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "izv\u0113lnes vienumu izv\u0113les r\u016bti\u0146a"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Izv\u0113lnes vienuma radiopoga"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "izv\u0113lnes vienuma radiopoga"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "Uznirsto\u0161a poga"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "uznirsto\u0161\u0101 poga"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Norises josla"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "progresa josla"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Norises indikators"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "progresa josla"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "Radiopoga"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "radiopoga"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Radiopogu grupa"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "radiopogu grupa"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Ritjosla"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "ritjosla"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Sl\u012bdnis"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "sl\u012bdnis"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "Skait\u012bt\u0101jpoga"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "skait\u012bt\u0101jpoga"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "Statuss"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "statuss"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Cilne"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "cilne"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "Tabula"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "tabula"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "Ci\u013c\u0146u saraksts"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "ci\u013c\u0146u saraksts"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "Ci\u013c\u0146u panelis"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "ci\u013c\u0146u panelis"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Tekstlodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "tekstlodzi\u0146\u0161"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "Taimeris"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "taimeris"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "R\u012bkjosla"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "r\u012bkjosla"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "R\u012bka padoms"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "r\u012bka padoms"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "Koks"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "koks"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "Koka vienums"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "koka vienums"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "Raksts"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "raksts"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "Lietojumprogramma"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "lietojumprogramma"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Rekl\u0101mkarogs"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "rekl\u0101mkarogs"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Slejas virsraksts"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "slejas galvene"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "Papildu"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "papildu"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Satura inform\u0101cija"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "satura inform\u0101cija"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "Defin\u012bcija"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "defin\u012bcija"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Direktorijs"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "direktorijs"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Dokuments"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "dokuments"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Veidlapa"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "veidlapa"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Grupa"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "grupa"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Virsraksts"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "virsraksts"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "Att\u0113ls"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "att\u0113ls"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "Saraksts"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "saraksts"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "Saraksta vienums"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "saraksta vienums"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Galvenais"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "galvenais"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Matem\u0101tiska izteiksme"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "matem\u0101tiska izteiksme"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Navig\u0101cija"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "navig\u0101cija"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Piez\u012bme"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "piez\u012bme"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Re\u0123ions"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "re\u0123ions"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Rindas virsraksts"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rindas galvene"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "Mekl\u0113t"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "mekl\u0113t"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Atdal\u012bt\u0101js"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "atdal\u012bt\u0101js"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "M\u0113r\u012bt\u0101js"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "m\u0113r\u012bt\u0101js"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Autom\u0101tisk\u0101 pabeig\u0161ana: iek\u013cauta"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "iek\u013caut\u0101 autom\u0101tisk\u0101 pabeig\u0161ana"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "Autom\u0101tisk\u0101 pabeig\u0161ana: saraksts"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autom\u0101tiski pabeigts saraksts"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Autom\u0101tisk\u0101 pabeig\u0161ana: iek\u013cauta un sarakst\u0101"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "iek\u013caut\u0101 autom\u0101tisk\u0101 pabeig\u0161ana un saraksts"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "Atz\u012bm\u0113ts"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "Nav atz\u012bm\u0113ts"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "Da\u013c\u0113ji atz\u012bm\u0113ts"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Atsp\u0113jots"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "Izv\u0113rsts"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "Sak\u013cauts"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "Nepareiza ievade"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "Konstat\u0113ta gramatiska k\u013c\u016bda"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "gramatikas k\u013c\u016bda"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "Konstat\u0113ta pareizrakst\u012bbas k\u013c\u016bda"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "pareizrakst\u012bbas k\u013c\u016bda"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "Daudzrindu"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "vair\u0101krindu"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "Vair\u0101ku elementu atlase"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "vair\u0101katlase"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Nospiests"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Nav nospiests"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "Da\u013c\u0113ji nospiests"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Tikai las\u0101ms"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "tikai las\u0101ms"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "Oblig\u0101tas"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "nepiecie\u0161ams"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Atlas\u012bta"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Nav atlas\u012bts"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Apmekl\u0113ta saite"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "apmekl\u0113ta saite"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "Apmekl\u0113ta"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "apmekl\u0113ta"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "1.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "1.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "2.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "2.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "3.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "3.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "4.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "4.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "5.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "5.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "6.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "6.\u00a0l\u012bme\u0146a virsraksts"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "Saraksta vienums"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "saraksta vienums"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "Numur\u0113ts saraksts"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "saraksts"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Kombin\u0113tais lodzi\u0146\u0161"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "kombin\u0113tais lodzi\u0146\u0161"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "Teksta apgabals"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "teksta apgabals"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "tabula"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tabula"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "Saraksts"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "saraksts"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Sada\u013ca"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sada\u013ca"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Navig\u0101cija"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "navig\u0101cija"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "Raksts"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "raksts"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "mal\u0101 novietots saturs"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "mal\u0101 novietots saturs"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Virsrakstu grupa"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "virsrakstu grupa"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Galvene"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "Galvene"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "K\u0101jene"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "k\u0101jene"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Laiks"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "Iez\u012bm\u0113t"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "iez\u012bm\u0113t"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Video"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "video"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "Audio"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "audio"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "Kr\u0101su izv\u0113le"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "kr\u0101su izv\u0113le"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "Datuma/laika vad\u012bkla"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "datums un laiks"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Laika kontrole"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "laiks"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "Datuma/laika vad\u012bkla"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "datums un laiks"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "Datuma vad\u012bkla"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "datums"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Redi\u0123\u0113jams teksts: e-pasta adreses ievade"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@red. 8\u00a0p-tu rakstu"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "Failu atlase"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "fails"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "M\u0113ne\u0161a vad\u012bkla"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "m\u0113nesis"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "Redi\u0123\u0113jams teksts: tikai skait\u013ci"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "numurs"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "Redi\u0123\u0113jams teksts: parole"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "parole"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "Atiestat\u012bt"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "atiestat\u012bt"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Redi\u0123\u0113jams teksts: mekl\u0113\u0161anas vaic\u0101juma ievade"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "mekl\u0113\u0161ana"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Redi\u0123\u0113jams teksts"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "tekstlodzi\u0146\u0161"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Redi\u0123\u0113jams teksts: URL\u00a0ievade"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "red. URL 8\u00a0p-tu rakst\u0101"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Gada ned\u0113\u013cas vad\u012bkla"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "ned\u0113\u013ca"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Iek\u0161\u0113j\u0101 saite"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "iek\u0161\u0113ja saite"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Tuk\u0161a"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "Atstarpe"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "ar $1$ vienumiem",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "v\u0113l\u00a0$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "ar {COUNT,plural, =1{#\u00a0vienumu}zero{#\u00a0vienumiem}one{#\u00a0vienumu}other{#\u00a0vienumiem}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}zero{#}one{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "ietver apak\u0161izv\u0113lni"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "ietver uznirsto\u0161u elementu"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "ietver uznirsto\u0161u elementu"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "Kolekcija ($1$) $2$ vienumiem",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Ievad\u012bt"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "Atstarpe"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Atk\u0101p\u0161an\u0101s tausti\u0146\u0161"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Cilne"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Pa kreisi"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Aug\u0161up"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "Pa labi"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Lejup"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Nezin\u0101ma saite"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "P\u0101rsl\u0113gt ChromeVox uz akt\u012bvo vai neakt\u012bvo re\u017e\u012bmu."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "ChromeVox nav akt\u012bvs."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "P\u0101rsl\u0113gt klasisko ChromeVox."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "Iepriek\u0161\u0113jais at\u0161\u0137ir\u012bgais elements."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "N\u0101kamais at\u0161\u0137ir\u012bgais elements."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "Iepriek\u0161\u0113jais l\u012bdz\u012bgais elements."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "N\u0101kamais l\u012bdz\u012bgais elements."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "Nav neviena cita l\u012bdz\u012bga elementa."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "Nav neviena cita at\u0161\u0137ir\u012bga elementa."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "S\u0101kt grupu izp\u0113ti"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Tiek s\u0101kta grupu izp\u0113te."
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Objekts"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Grupa"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "Tabula"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Rinda"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "Sleja"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Rinda"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "Sleja"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "rinda"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "sleja"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "MathML koks"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "MathML izk\u0101rtojums"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "MathML mar\u0137ieris"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "MathML lapa"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "Vizu\u0101la"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "Piel\u0101gota"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "Rindi\u0146a"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "Teikums"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "V\u0101rds"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Rakstz\u012bme"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "Mekl\u0113\u0161ana lap\u0101."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Ievadiet mekl\u0113\u0161anas vaic\u0101jumu."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "Lap\u0101 tika aizv\u0113rts mekl\u0113\u0161anas logr\u012bks."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "Nav neviena cita rezult\u0101ta."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "Modific\u0113t\u0101jtausti\u0146i"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "ChromeVox navig\u0101cija"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Inform\u0101cija"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "Pal\u012bdz\u012bbas komandas"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Runas kontrole"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "Kopsavilkums"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "Tabulas"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "P\u0101rejas komandas"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Braila raksts"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Izstr\u0101d\u0101t\u0101js"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Klasisk\u0101 tausti\u0146u piesaiste"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Next tausti\u0146u piesaiste"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "Izpl\u0101t\u0101 tausti\u0146u piesaiste"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "Eksperiment\u0101la tausti\u0146u piesaiste"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "Iesp\u0113jot teksta p\u0101rv\u0113r\u0161anas run\u0101\u00a0re\u0123istr\u0113\u0161anu"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "S\u0101kt atlasi"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "Atlase ir pabeigta."
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "Atlase ir "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "S\u0101kt vai beigt atlasi"
+  },
+  "CHROMEVOX_COPY": {
+    "message": "kop\u0113t $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "izgriezt $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "iel\u012bm\u0113t $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "atlas\u012bti"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "nav atlas\u012bts"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "pievienots atlasei"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "no\u0146emti no atlases"
+  },
+  "CHROMEVOX_THEN": {
+    "message": ", p\u0113c tam"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "un p\u0113c tam"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "ChromeVox modific\u0113t\u0101jtausti\u0146\u0161"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "Tausti\u0146\u0161 $1$ jau ir pie\u0161\u0137irts komandai.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Matem\u0101tiska izteiksme"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "matem\u0101tiska izteiksme"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Neatrodas matem\u0101tisk\u0101 izteiksm\u0113"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "Priek\u0161pusdiena/p\u0113cpusdiena"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "stundas"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "min\u016btes"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "sekundes"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "milisekundes"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "AM"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "PM"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "ned\u0113\u013ca"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "Janv\u0101ris"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "Febru\u0101ris"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "Marts"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "Apr\u012blis"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "Maijs"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "J\u016bnijs"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "J\u016blijs"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "Augusts"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "Septembris"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "Oktobris"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "Novembris"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "Decembris"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "Bez pieturz\u012bm\u0113m"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "Da\u017eas pieturz\u012bmes"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "Visas pieturz\u012bmes"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Nospiediet ievad\u012b\u0161anas tausti\u0146u, lai piekristu; atso\u013ca tausti\u0146u\u00a0\u2014 lai atceltu; lejupv\u0113rsto bulttausti\u0146u\u00a0\u2014 lai p\u0101rietu uz n\u0101kamo rezult\u0101tu; aug\u0161upv\u0113rsto bulttausti\u0146u\u00a0\u2014 lai p\u0101rietu uz iepriek\u0161\u0113jo rezult\u0101tu."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "klik\u0161\u0137in\u0101ms"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "noklik\u0161\u0137in\u0101ms elements"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "Iepriek\u0161\u0113j\u0101 rakstz\u012bme"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "N\u0101kam\u0101 rakstz\u012bme"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "Iepriek\u0161\u0113jais v\u0101rds"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "N\u0101kamais v\u0101rds"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "Iepriek\u0161\u0113jais teikums"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "N\u0101kamais teikums"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "Iepriek\u0161\u0113j\u0101 rindi\u0146a"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "N\u0101kam\u0101 rindi\u0146a"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "Iepriek\u0161\u0113jais objekts"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "N\u0101kamais objekts"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "Iepriek\u0161\u0113j\u0101 grupa"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "N\u0101kam\u0101 grupa"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "Orientieris"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Nav nospiests neviens modific\u0113t\u0101jtausti\u0146\u0161. L\u016bdzu, turiet nospiestu vienu vai vair\u0101kus modific\u0113t\u0101jtausti\u0146us, p\u0113c tam atlaidiet pirkstus, un tiks pazi\u0146ots, ka tausti\u0146i ir iestat\u012bti. Lai izietu, nospiediet tabul\u0113\u0161anas tausti\u0146u."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "Tagad tausti\u0146\u0161 $1$ ir jaunais ChromeVox modific\u0113t\u0101jtausti\u0146\u0161.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "Tausti\u0146\u0161 $1$ ir atiestat\u012bts.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "Main\u012bts uz: $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "P\u0101riet uz lapas s\u0101kumu"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "P\u0101riet uz lapas beig\u0101m"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "Doties uz s\u0101kumu"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "Doties uz beig\u0101m"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "Cikliska rakstz\u012bmes atbalss"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Cikliska rakst\u012b\u0161anas atbalss"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "Tiek p\u0101rtraukta visu pa\u0161laik akt\u012bvo multivides logr\u012bku darb\u012bba."
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "Atv\u0113rt garo aprakstu jaun\u0101 ciln\u0113"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "Nav gar\u0101 apraksta."
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Att\u0113ls ar garu aprakstu"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$\u2013$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$\u2013$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "atlas\u012bti vienumi:\u00a0$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "atlas\u012bti vienumi:\u00a0$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "atlase no\u0146emta"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "rakstz\u012bmju atbalss"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "v\u0101rdu atbalss"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "rakstz\u012bmju un v\u0101rdu atbalss"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "nav rakst\u012b\u0161anas atbalss"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "ievad\u012bt struktur\u0113tu saturu, piem\u0113ram, tabulas"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "aizv\u0113rt struktur\u0113tu saturu, piem\u0113ram, tabulas"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "atv\u0113rts: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "strukt\u016bras l\u012bnija"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "rindi\u0146a"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Main\u012bt l\u012bniju veidu uz strukt\u016bras l\u012bnij\u0101m vai izk\u0101rtojuma l\u012bnij\u0101m"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "tabula"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "noklus\u0113juma navig\u0101cija"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "matem\u0101tiska izteiksme"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "P\u0101rsl\u0113gt matem\u0101tisko izteiksmju interpret\u0101ciju starp struktur\u0101lo un semantisko."
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Semantisk\u0101 interpret\u0101cija iesl\u0113gta"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Semantisk\u0101 interpret\u0101cija izsl\u0113gta"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Lai skat\u012btu br\u012bdin\u0101jumus, nospiediet tausti\u0146u kombin\u0101ciju Alt+Shift+A."
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "Nav n\u0101kam\u0101 raksta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "Iepriek\u0161 nav neviena raksta."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "ChromeVox izrunas funkcija ir gatava"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox ir gatavs"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "Sign\u0101li iesl\u0113gti"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Sign\u0101li izsl\u0113gti"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "Iesl\u0113gt vai izsl\u0113gt ska\u0146as sign\u0101lus."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "Nosaukt pa\u0161reiz\u0113jo laiku un datumu."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "M:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "Dz\u0113sts"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Veikt noklus\u0113juma darb\u012bbu"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{izsaukuma z\u012bme}zero{#\u00a0izsaukuma z\u012bmju}one{#\u00a0izsaukuma z\u012bme}other{#\u00a0izsaukuma z\u012bmes}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{atstarpe}zero{#\u00a0atstarpju}one{#\u00a0atstarpe}other{#\u00a0atstarpes}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{gravis}zero{#\u00a0gravju}one{#\u00a0gravis}other{#\u00a0gravji}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{TILDE}zero{#\u00a0til\u017eu}one{#\u00a0tilde}other{#\u00a0tildes}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{\u201cet\u201d z\u012bme}zero{#\u00a0\u201cet\u201d z\u012bmju}one{#\u00a0\u201cet\u201d z\u012bme}other{#\u00a0\u201cet\u201d z\u012bmes}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{numura z\u012bme}zero{#\u00a0numura z\u012bmju}one{#\u00a0numura z\u012bme}other{#\u00a0numura z\u012bmes}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{dol\u0101ra z\u012bme}zero{#\u00a0dol\u0101ra z\u012bmju}one{#\u00a0dol\u0101ra z\u012bme}other{#\u00a0dol\u0101ra z\u012bmes}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{procentu z\u012bme}zero{#\u00a0procentu z\u012bmju}one{#\u00a0procentu z\u012bme}other{#\u00a0procentu z\u012bmes}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{jumti\u0146\u0161}zero{#\u00a0jumti\u0146u}one{#\u00a0jumti\u0146\u0161}other{#\u00a0jumti\u0146i}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{ampersands}zero{#\u00a0ampersandu}one{#\u00a0ampersands}other{#\u00a0ampersandi}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{zvaigzn\u012bte}zero{#\u00a0zvaigzn\u012b\u0161u}one{#\u00a0zvaigzn\u012bte}other{#\u00a0zvaigzn\u012btes}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{atvero\u0161\u0101 iekava}zero{#\u00a0atvero\u0161o iekavu}one{#\u00a0atvero\u0161\u0101 iekava}other{#\u00a0atvero\u0161\u0101s iekavas}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{aizvero\u0161\u0101 iekava}zero{#\u00a0aizvero\u0161o iekavu}one{#\u00a0aizvero\u0161\u0101 iekava}other{#\u00a0aizvero\u0161\u0101s iekavas}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{defise}zero{#\u00a0defi\u0161u}one{#\u00a0defise}other{#\u00a0defises}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{pasv\u012btra}zero{#\u00a0pasv\u012btru}one{#\u00a0pasv\u012btra}other{#\u00a0pasv\u012btras}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{vien\u0101d\u012bbas z\u012bme}zero{#\u00a0vien\u0101d\u012bbas z\u012bmju}one{#\u00a0vien\u0101d\u012bbas z\u012bme}other{#\u00a0vien\u0101d\u012bbas z\u012bmes}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{plusz\u012bme}zero{#\u00a0plusz\u012bmju}one{#\u00a0plusz\u012bme}other{#\u00a0plusz\u012bmes}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{atvero\u0161\u0101 kvadr\u0101tiekava}zero{#\u00a0atvero\u0161o kvadr\u0101tiekavu}one{#\u00a0atvero\u0161\u0101 kvadr\u0101tiekava}other{#\u00a0atvero\u0161\u0101s kvadr\u0101tiekavas}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{aizvero\u0161\u0101 kvadr\u0101tiekava}zero{#\u00a0aizvero\u0161o kvadr\u0101tiekavu}one{#\u00a0aizvero\u0161\u0101 kvadr\u0101tiekava}other{#\u00a0aizvero\u0161\u0101s kvadr\u0101tiekavas}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{atvero\u0161\u0101 fig\u016briekava}zero{#\u00a0atvero\u0161o fig\u016briekavu}one{#\u00a0atvero\u0161\u0101 fig\u016briekava}other{#\u00a0atvero\u0161\u0101s fig\u016briekavas}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{aizvero\u0161\u0101 fig\u016briekava}zero{#\u00a0aizvero\u0161o fig\u016briekavu}one{#\u00a0aizvero\u0161\u0101 fig\u016briekava}other{#\u00a0aizvero\u0161\u0101s fig\u016briekavas}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{vertik\u0101l\u0101 sv\u012btra}zero{#\u00a0vertik\u0101lo sv\u012btru}one{#\u00a0vertik\u0101l\u0101 sv\u012btra}other{#\u00a0vertik\u0101l\u0101s sv\u012btras}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{semikols}zero{#\u00a0semikolu}one{#\u00a0semikols}other{#\u00a0semikoli}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{kols}zero{#\u00a0kolu}one{#\u00a0kols}other{#\u00a0koli}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{komats}zero{#\u00a0komatu}one{#\u00a0komats}other{#\u00a0komati}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{punkts}=3{daudzpunkte}zero{#\u00a0punktu}one{#\u00a0punkts}other{#\u00a0punkti}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{z\u012bme \u201cmaz\u0101ks par\u201d}zero{#\u00a0z\u012bmju \u201cmaz\u0101ks par\u201d}one{#\u00a0z\u012bme \u201cmaz\u0101ks par\u201d}other{#\u00a0z\u012bmes \u201cmaz\u0101ks par\u201d}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{z\u012bme \u201cliel\u0101ks par\u201d}zero{#\u00a0z\u012bmju \u201cliel\u0101ks par\u201d}one{#\u00a0z\u012bme \u201cliel\u0101ks par\u201d}other{#\u00a0z\u012bmes \u201cliel\u0101ks par\u201d}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{sl\u012bpsv\u012btra}zero{#\u00a0sl\u012bpsv\u012btru}one{#\u00a0sl\u012bpsv\u012btra}other{#\u00a0sl\u012bpsv\u012btras}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{jaut\u0101juma z\u012bme}zero{#\u00a0jaut\u0101juma z\u012bmju}one{#\u00a0jaut\u0101juma z\u012bme}other{#\u00a0jaut\u0101juma z\u012bmes}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{p\u0113di\u0146u rakstz\u012bme}zero{#\u00a0p\u0113di\u0146u rakstz\u012bmju}one{#\u00a0p\u0113di\u0146u rakstz\u012bme}other{#\u00a0p\u0113di\u0146u rakstz\u012bmes}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{apostrofs}zero{#\u00a0apostrofu}one{#\u00a0apostrofs}other{#\u00a0apostrofi}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{tabul\u0113\u0161anas rakstz\u012bme}zero{#\u00a0tabul\u0113\u0161anas rakstz\u012bmju}one{#\u00a0tabul\u0113\u0161anas rakstz\u012bme}other{#\u00a0tabul\u0113\u0161anas rakstz\u012bmes}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{atpaka\u013cv\u0113rst\u0101 sl\u012bpsv\u012btra}zero{#\u00a0atpaka\u013cv\u0113rsto sl\u012bpsv\u012btru}one{#\u00a0atpaka\u013cv\u0113rst\u0101 sl\u012bpsv\u012btra}other{#\u00a0atpaka\u013cv\u0113rst\u0101s sl\u012bpsv\u012btras}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{aizz\u012bme}zero{#\u00a0aizz\u012bmju}one{#\u00a0aizz\u012bme}other{#\u00a0aizz\u012bmes}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "Noklik\u0161\u0137iniet uz vienuma zem mar\u0161rut\u0113\u0161anas tausti\u0146a $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "P\u0101rvietot atpaka\u013c"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "P\u0101rvietot uz priek\u0161u"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "Iepriek\u0161\u0113j\u0101 rindi\u0146a Braila rakst\u0101"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "N\u0101kam\u0101 rindi\u0146a Braila rakst\u0101"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "P\u0101rvietot Braila raksta att\u0113lojumu uz lapas aug\u0161da\u013cu"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "P\u0101rvietot Braila raksta att\u0113lojumu uz lapas apak\u0161da\u013cu"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "punkts $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "punkti $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "Kombin\u0101cija: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "Skat\u012bt grafiku Braila rakst\u0101"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "ir piek\u013cuves tausti\u0146\u0161: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "piek\u013cuves tausti\u0146\u0161: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\u201d: \u201cAr\u0101bu\u201d,\n        \u201cbg\u201d: \u201cBulg\u0101ru\u201d,\n        \u201cca\u201d: \u201cKatal\u0101\u0146u\u201d,\n        \u201ccs\u201d: \u201c\u010cehu\u201d,\n        \u201cda\u201d: \u201cD\u0101\u0146u\u201d,\n        \u201cde\u201d: \u201cV\u0101cu\u201d,\n        \u201cde_CH\u201d: \u201cV\u0101cu (\u0160veice)\u201d,\n        \u201cde_DE\u201d: \u201cV\u0101cu (V\u0101cija)\u201d,\n        \u201cel\u201d: \u201cGrie\u0137u\u201d,\n        \u201cen\u201d: \u201cAng\u013cu\u201d,\n        \u201cen_CA\u201d: \u201cAng\u013cu (Kan\u0101da)\u201d,\n        \u201cen_GB\u201d: \u201cAng\u013cu (Lielbrit\u0101nija)\u201d,\n        \u201cen_US\u201d: \u201cAng\u013cu (Amerikas Savienot\u0101s Valstis)\u201d,\n        \u201ces\u201d: \u201cSp\u0101\u0146u\u201d,\n        \u201cet\u201d: \u201cIgau\u0146u\u201d,\n        \u201cfr\u201d: \u201cFran\u010du\u201d,\n        \u201cfr_CA\u201d: \u201cFran\u010du (Kan\u0101da)\u201d,\n        \u201cfr_FR\u201d: \u201cFran\u010du (Francija)\u201d,\n        \u201cfi\u201d: \u201cSomu\u201d,\n        \u201che\u201d: \u201cIvrits\u201d,\n        \u201chi\u201d: \u201cHindi\u201d,\n        \u201chr\u201d: \u201cHorv\u0101tu\u201d,\n        \u201chu\u201d: \u201cUng\u0101ru\u201d,\n        \u201cis\u201d: \u201c\u012aslandie\u0161u\u201d,\n        \u201cit\u201d: \u201cIt\u0101\u013cu\u201d,\n        \u201cko\u201d: \u201cKorejie\u0161u\u201d,\n        \u201clt\u201d: \u201cLietuvie\u0161u\u201d,\n        \u201clv\u201d: \u201cLatvie\u0161u\u201d,\n        \u201cnb\u201d: \u201cNorv\u0113\u0123u bukmols\u201d,\n        \u201cnl\u201d: \u201cHolandie\u0161u\u201d,\n        \u201cpl\u201d: \u201cPo\u013cu\u201d,\n        \u201cpt\u201d: \u201cPortug\u0101\u013cu\u201d,\n        \u201cro\u201d: \u201cRum\u0101\u0146u\u201d,\n        \u201cru\u201d: \u201cKrievu\u201d,\n        \u201csk\u201d: \u201cSlov\u0101ku\u201d,\n        \u201csl\u201d: \u201cSlov\u0113\u0146u\u201d,\n        \u201csr\u201d: \u201cSerbu\u201d,\n        \u201csv\u201d: \u201cZviedru\u201d,\n        \u201ctr\u201d: \u201cTurku\u201d,\n        \u201cvi\u201d: \u201cVjetnamie\u0161u\u201d,\n        \u201czh\u201d: \u201c\u0136\u012bnie\u0161u\u201d,\n        \u201czh_TW\u201d: \u201c\u0136\u012bnie\u0161u (hanu tradicion\u0101l\u0101)\u201d}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Teksta beigas"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "Beigas"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "jauna rindi\u0146a"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "rindatgrieze"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "Tiek ignor\u0113ta n\u0101kam\u0101 tausti\u0146a nospie\u0161ana"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Ignor\u0113t tausti\u0146a nospie\u0161anu"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "R\u0101d\u012bt kontekstizv\u0113lni"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "P\u0101rsl\u0113gt Braila\u00a0parakstu funkciju"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Braila parakstu funkcija ir iesp\u0113jota."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Braila parakstu funkcija ir atsp\u0113jota."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "Re\u0123istrjut\u012bba tiek ignor\u0113ta."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "Re\u0123istrjut\u012bgs."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "atpaka\u013c"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "p\u0101rs\u016bt\u012bt"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "atsvaidzin\u0101t"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "p\u0101rsl\u0113gt pilnekr\u0101na re\u017e\u012bmu"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "loga kopsavilkums"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "samazin\u0101t spilgtumu"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "palielin\u0101t spilgtumu"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "izsl\u0113gt ska\u0146u"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "samazin\u0101t ska\u013cumu"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "palielin\u0101t ska\u013cumu"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "ChromeVox panelis"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "ChromeVox izv\u0113lnes"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "ChromeVox m\u0101c\u012bbas"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "ChromeVox izv\u0113lnes"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "ChromeVox opcijas"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "Atsp\u0113jot ChromeVox"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(akt\u012bva)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "L\u0113ciens"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Runa"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "Cilnes"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "Darb\u012bbas"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "Nav vienumu"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Zi\u0146ot par probl\u0113mu"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox atjaunin\u0101ts"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Nospiediet ChromeVox \u201co\u201d, \u201cn\u201d, lai uzzin\u0101tu par jaunaj\u0101m funkcij\u0101m."
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "R\u0101d\u012bt piez\u012bmes par atjaunin\u0101jumu"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "Aizv\u0113rt ChromeVox pam\u0101c\u012bbu"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "Iepriek\u0161\u0113jais"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "N\u0101kamais"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "Laipni l\u016bdzam ChromeVox!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "Vai izmantojat ChromeVox\u00a0balss funkciju pirmo reizi? \u0160aj\u0101 \u0101traj\u0101 pam\u0101c\u012bb\u0101 ir izskaidroti darba s\u0101k\u0161anas ar ChromeVox pamati."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "Lai p\u0101rietu uz n\u0101kamo lapu, nospiediet ievad\u012b\u0161anas tausti\u0146u; lai p\u0101rietu uz iepriek\u0161\u0113jo lapu, nospiediet atpaka\u013catk\u0101pes tausti\u0146u."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "Iesl\u0113gt, izsl\u0113gt un p\u0101rtraukt"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "Lai \u012bslaic\u012bgi p\u0101rtrauktu ChromeVox balss koment\u0101rus, nospiediet vad\u012bbas tausti\u0146u."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "Lai iesl\u0113gtu vai izsl\u0113gtu ChromeVox, vienlaikus nospiediet vad\u012bbas tausti\u0146u, altern\u0113\u0161anas tausti\u0146u un tausti\u0146u\u00a0Z."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "ChromeVox modific\u0113t\u0101jtausti\u0146\u0161"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "ChromeVox mekl\u0113\u0161anas tausti\u0146\u0161 ir modific\u0113t\u0101jtausti\u0146\u0161. Liel\u0101k\u0101 da\u013ca ChromeVox \u012bsin\u0101jumtausti\u0146u s\u0101kas ar mekl\u0113\u0161anas tausti\u0146u. Navig\u0101cijai izmantojiet ar\u012b bulttausti\u0146us."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "Chromebook dator\u0101 mekl\u0113\u0161anas tausti\u0146\u0161 atrodas tie\u0161i virs kreis\u0101 p\u0101rsl\u0113g\u0161anas (Shift) tausti\u0146a."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "\u0160\u012bs pam\u0101c\u012bbas laik\u0101 nospiediet jebkuru tausti\u0146u, lai dzird\u0113tu t\u0101 nosaukumu."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Navig\u0101cijas pamatiesp\u0113jas"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "Lai lap\u0101 p\u0101rietu uz priek\u0161u pa vienumiem, vienlaikus nospiediet mekl\u0113\u0161anas tausti\u0146u un lejupv\u0113rsto bulti\u0146u; lai p\u0101rietu atpaka\u013c\u00a0\u2014 mekl\u0113\u0161anas tausti\u0146u un pa kreisi v\u0113rsto bulti\u0146u. Lai p\u0101rietu uz n\u0101kamo rindi\u0146u, vienlaikus nospiediet mekl\u0113\u0161anas tausti\u0146u un lejupv\u0113rsto bulti\u0146u. Lai p\u0101rietu uz iepriek\u0161\u0113jo rindi\u0146u, vienlaikus izmantojiet mekl\u0113\u0161anas tausti\u0146u un lejupv\u0113rsto bulti\u0146u. Ja sasniedzat vienumu, uz kura v\u0113laties noklik\u0161\u0137in\u0101t, vienlaikus nospiediet mekl\u0113\u0161anas tausti\u0146u un atstarpes tausti\u0146u."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "Lai atrastu pogu \u201cT\u0101l\u0101k\u201d, izmantojiet mekl\u0113\u0161anas tausti\u0146u un pa labi v\u0113rsto bulti\u0146u, un p\u0113c tam noklik\u0161\u0137iniet uz \u0161\u012bs pogas, vienlaikus nospie\u017eot mekl\u0113\u0161anas un atstarpes tausti\u0146us."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "P\u0101rejas komandas"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Izmantojiet p\u0101rejas komandas, lai izlaistu konkr\u0113tu veidu elementus. Lai p\u0101rietu uz priek\u0161u pa virsrakstiem, vienlaikus nospiediet mekl\u0113\u0161anas tausti\u0146u un tausti\u0146u\u00a0H; lai p\u0101rietu atpaka\u013c\u00a0\u2014 mekl\u0113\u0161anas tausti\u0146u, p\u0101rsl\u0113g\u0161anas tausti\u0146u un tausti\u0146u\u00a0H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "\u0160is ir otrais virsraksts. Turpiniet p\u0101rl\u016bko\u0161anu; nospiediet Search+H vai Search+Shift+H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "\u0160is ir p\u0113d\u0113jais virsraksts. Nospiediet Search+H\u201d lai dotos pie pirm\u0101 virsraksta, vai Search+Shift+H, lai dotos uz lapas otro virsrakstu."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Komandu izv\u0113lnes"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "Lai izp\u0113t\u012btu visas ChromeVox komandas un \u012bsin\u0101jumtausti\u0146us, nospiediet Search + punkta tausti\u0146u, p\u0113c tam p\u0101rl\u016bkojiet izv\u0113lnes, izmantojot bulttausti\u0146us, un aktiviz\u0113jiet komandu, nospie\u017eot Enter. Lai atgrieztos \u0161eit, nospiediet Search + o, p\u0113c tam\u00a0\u2014 t."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Noder\u012bgi Chrome \u012bsin\u0101jumtausti\u0146i"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "Da\u017ei n\u0101kamie \u012bsin\u0101jumtausti\u0146i nav ChromeVox komandas, ta\u010du tie ir \u013coti noder\u012bgi efekt\u012bvai Chrome izmanto\u0161anai.\nLai p\u0101rietu uz priek\u0161u pa izmantojamiem vienumiem, piem\u0113ram, pog\u0101m un sait\u0113m, nospiediet tabul\u0113\u0161anas tausti\u0146u. Lai p\u0101rietu atpaka\u013c, vienlaikus nospiediet p\u0101rsl\u0113g\u0161anas un tabul\u0113\u0161anas tausti\u0146us.\nLai ievad\u012btu tekstu p\u0101rl\u016bka Chrome adreses josl\u0101, kas ar\u012b tiek saukta par univers\u0101lo lodzi\u0146u, vienlaikus nospiediet vad\u012bbas tausti\u0146u un tausti\u0146u\u00a0L.\nLai atv\u0113rtu jaunu cilni un autom\u0101tiski p\u0101rietu uz to, vienlaikus nospiediet vad\u012bbas tausti\u0146u un tausti\u0146u\u00a0T. Kursors atrad\u012bsies univers\u0101laj\u0101 lodzi\u0146\u0101. \nLai aizv\u0113rtu cilni, vienlaikus nospiediet vad\u012bbas tausti\u0146u un tausti\u0146u\u00a0W. \nLai p\u0101rvietotos uz priek\u0161u pa atv\u0113rt\u0101m ciln\u0113m, vienlaikus nospiediet vad\u012bbas un tabul\u0113\u0161anas tausti\u0146us. \nLai atv\u0113rtu Chrome p\u0101rl\u016bka izv\u0113lni, vienlaikus nospiediet altern\u0113\u0161anas tausti\u0146u un tausti\u0146u\u00a0F."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "Lai p\u0101rietu uz cit\u0101m ekr\u0101na da\u013c\u0101m, piem\u0113ram, r\u012bkjosl\u0101m vai sist\u0113mas tekni, vienlaikus nospiediet vad\u012bbas tausti\u0146u un p\u0101rejas uz priek\u0161u tausti\u0146u. Chromebook dator\u0101 p\u0101rejas uz priek\u0161u tausti\u0146\u0161 atrodas tie\u0161i virs cipara\u00a02 tausti\u0146a."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "Uzziniet vair\u0101k"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Apsveicam! Esat veiksm\u012bgi apguvis ChromeVox lieto\u0161anas pamatus. Jebkur\u0101 br\u012bd\u012b varat atv\u0113rt ChromeVox komandu izv\u0113lni, vienlaikus nospie\u017eot mekl\u0113\u0161anas tausti\u0146u un punkta tausti\u0146u. Papildu inform\u0101ciju par ChromeVox un Chrome\u00a0OS skatiet t\u0101l\u0101k nor\u0101d\u012btajos rakstos.\nJa esat beidzis darbu ar pam\u0101c\u012bbu, izmantojiet ChromeVox, lai p\u0101rietu uz aizv\u0113r\u0161anas pogu un noklik\u0161\u0137in\u0101tu uz t\u0101s."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "Tagad j\u016bs izmantojat ChromeVox 63. versiju!"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "\u0160aj\u0101 jaunaj\u0101 laidien\u0101 ir pat\u012bkamas izmai\u0146as."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "Klasisk\u0101 versija ir no\u0146emta. Tastat\u016bras sl\u0113dzis, lai p\u0101rsl\u0113gtos atpaka\u013c uz ChromeVox klasisko versiju, ir no\u0146emts."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "Bag\u0101tin\u0101ta teksta atbalsts. Tagad ChromeVox tiek atbalst\u012bti bag\u0101tin\u0101ta teksta lauki, tostarp p\u0101rejas komandas, Braila raksta kursora mar\u0161rut\u0113\u0161ana, atlas\u012b\u0161ana un citas darb\u012bbas."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Android lietotnes p\u0101rl\u016bkam Chrome. Ja j\u016bsu ier\u012bc\u0113 ir pieejams Play\u00a0veikals, izm\u0113\u0123iniet ChromeVox darb\u012bbu ar Android lietotn\u0113m. Izm\u0113\u0123iniet eksperiment\u0101lo atbalstu, lejupiel\u0101d\u0113jot Google\u00a0Chrome\u00a0Canary no Play\u00a0veikala."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "K\u0101 vienm\u0113r, varat s\u016bt\u012bt atsauksmes tie\u0161i mums, nospie\u017eot mekl\u0113\u0161anas tausti\u0146u un \u201ca\u201d, p\u0113c tam \u201ci\u201d. Ar prieku sa\u0146emsim j\u016bsu atsauksmes!"
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "ChromeVox komandas"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "\u012asin\u0101jumtausti\u0146i Chromebook dator\u0101"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "Chromebook sk\u0101rienekr\u0101na pieejam\u012bbas funkciju izmanto\u0161ana"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "aiz\u0146emts"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "aiz\u0146emts"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "noklus\u0113jums"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "noklus\u0113jums"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "Sign\u0101li"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox izmanto sign\u0101lus, lai sniegtu jums b\u016btisku un pla\u0161\u0101ku inform\u0101ciju. Varat \u0161os sign\u0101lus izmantot, lai var\u0113tu \u0101tr\u0101k p\u0101rvietoties satur\u0101, iem\u0101coties, ko katrs sign\u0101ls noz\u012bm\u0113. Kad sign\u0101lus esat apguvis, varat izsl\u0113gt izv\u0113rstos izrun\u0101tos aprakstus un izmantot tos tikai b\u016btiskai inform\u0101cijai par lapu. \u0160eit ir visu sign\u0101lu saraksts un sign\u0101lu noz\u012bme."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Mod\u0101lie br\u012bdin\u0101jumi"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Nemod\u0101ls br\u012bdin\u0101jums"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Poga"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "Neatz\u012bm\u0113ta izv\u0113les r\u016bti\u0146a"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "Atz\u012bm\u0113ta izv\u0113les r\u016bti\u0146a"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Redi\u0123\u0113jams teksta lauks"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "Tausti\u0146a neder\u012bga nospie\u0161ana"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Saite"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "Saraksta lodzi\u0146\u0161 vai kombin\u0113tais lodzi\u0146\u0161"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "Notiek lapas iel\u0101de"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Uznirsto\u0161a poga"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "Sl\u012bdnis"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Aplauziet no s\u0101kuma uz beig\u0101m vai no beig\u0101m uz s\u0101kumu lap\u0101, dialog\u0101 vai cit\u0101 konteiner\u0101"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "Aptum\u0161ot ekr\u0101nu"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "Atcelt ekr\u0101na aptum\u0161o\u0161anu"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Runa izsl\u0113gta"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Runa iesl\u0113gta"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "Tiek iesl\u0113gta vai izsl\u0113gta runa"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "P\u0101rsl\u0113gt 6 vai 8\u00a0punktu Braila rakstu"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "S\u0101kas teksts ar pareizrakst\u012bbas k\u013c\u016bd\u0101m"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Beidzas teksts ar pareizrakst\u012bbas k\u013c\u016bd\u0101m"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "S\u0101kas teksts ar gramatikas k\u013c\u016bd\u0101m"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Beidzas teksts ar gramatikas k\u013c\u016bd\u0101m"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "S\u0101kas atbilsto\u0161ais teksts"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Beidzas atbilsto\u0161ais teksts"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "S\u0101kas teksts treknrakst\u0101"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Beidzas teksts treknrakst\u0101"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "S\u0101kas teksts sl\u012bprakst\u0101"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "Beidzas teksts sl\u012bprakst\u0101"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "S\u0101kas pasv\u012btrots teksts"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Beidzas pasv\u012btrots teksts"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "S\u0101kas p\u0101rsv\u012btrots teksts"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "Beidzas p\u0101rsv\u012btrots teksts"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "Saites s\u0101kuma teksts"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Saites beigu teksts"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "L\u016bdzu, iesp\u0113jojiet zem statusa joslas eso\u0161o ekr\u0101na tastat\u016bru, lai var\u0113tu izmantot izv\u0113rst\u0101s Braila raksta komandas."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "Nav nosaukuma"
+  }
+}

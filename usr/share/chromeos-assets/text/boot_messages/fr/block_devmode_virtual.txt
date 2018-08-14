@@ -1,0 +1,5 @@
+﻿
+Le propriétaire de l'appareil a désactivé le mode développeur pour cet appareil. Veuillez lui demander de lever cette restriction si vous souhaitez utiliser ce mode.
+
+
+Le système va redémarrer en mode validé.

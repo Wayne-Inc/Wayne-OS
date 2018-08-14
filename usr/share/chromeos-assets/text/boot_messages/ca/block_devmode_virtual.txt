@@ -1,0 +1,5 @@
+﻿
+El propietari del dispositiu ha desactivat el mode desenvolupador per a aquest dispositiu. Si voleu fer servir el mode desenvolupador, demaneu al propietari del dispositiu que suprimeixi aquesta restricció.
+
+
+El sistema es reiniciarà en mode verificat.

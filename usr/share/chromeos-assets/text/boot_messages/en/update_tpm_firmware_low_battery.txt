@@ -1,0 +1,4 @@
+Battery too low for update.
+
+Please connect your Chromebook to a power source. The update will
+automatically begin as soon as the battery has enough charge.

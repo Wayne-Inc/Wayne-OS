@@ -1,0 +1,5 @@
+Akumulator ima premalo energije za posodobitev.
+
+Polnjenje...
+
+Posodobitev se bo samodejno začela, ko bo akumulator dovolj napolnjen.

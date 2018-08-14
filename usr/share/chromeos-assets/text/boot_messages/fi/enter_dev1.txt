@@ -1,0 +1,9 @@
+﻿
+Järjestelmäsi on siirtymässä kehittäjätilaan.
+Paikalliset tiedot poistetaan.
+
+Google ei tue tekemiäsi järjestelmämuokkauksia.
+Ne voivat myös aiheuttaa laitteisto-ongelmia ja takuun raukeamisen.
+
+Voit peruuttaa kehittäjätilaan siirtymisen sammuttamalla tietokoneen ja palauttamalla kehittäjätilan valitsimen takaisin
+normaalitilaan.

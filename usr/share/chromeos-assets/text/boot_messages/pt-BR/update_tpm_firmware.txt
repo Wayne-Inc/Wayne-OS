@@ -1,0 +1,4 @@
+Instalando atualização...
+
+Não desligue o dispositivo. Ele será automaticamente reinicializado
+quando a atualização for concluída.

@@ -1,0 +1,6 @@
+Kesilapan telah berlaku dan kemas kini tidak berjaya.
+
+Anda mungkin perlu memulihkan peranti anda. Untuk mendapatkan maklumat lanjut tentang
+pemulihan ChromeOS, lawati: https://www.google.com/chromeos/recovery
+
+Tekan bar ruang untuk mengebut semula.

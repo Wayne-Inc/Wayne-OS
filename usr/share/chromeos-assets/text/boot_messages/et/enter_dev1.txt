@@ -1,0 +1,9 @@
+﻿
+Süsteem läheb üle arendaja režiimi.
+Kohalikud andmed kustutakse.
+
+Google ei toeta süsteemis tehtud muudatusi ja need võivad põhjustada
+riisvara probleeme ning muuta garantii kehtetuks.
+
+Tühistamiseks lülitage arvuti välja ja lülitage arendajalüliti tagasi
+kinnitatud režiimile.

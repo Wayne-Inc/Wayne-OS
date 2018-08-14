@@ -1,0 +1,4 @@
+﻿
+Powerwash käynnissä…
+
+Powerwash suoritetaan kriittisten virheiden tai laitteen tyhjennyksen yhteydessä. Se palauttaa Chrome-käyttöjärjestelmän uutta vastaavaan tilaan, minkä jälkeen voit jatkaa käyttöä hetkessä.

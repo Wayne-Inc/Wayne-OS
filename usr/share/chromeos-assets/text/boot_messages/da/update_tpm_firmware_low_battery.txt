@@ -1,0 +1,4 @@
+Batteriniveauet er for lavt til at opdatere.
+
+Slut din Chromebook til en strømkilde. Opdateringen
+starter automatisk, så snart batteriet er tilstrækkeligt opladet.

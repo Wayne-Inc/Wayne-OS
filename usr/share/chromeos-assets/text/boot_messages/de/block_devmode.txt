@@ -1,0 +1,5 @@
+﻿
+Der Eigentümer des Geräts hat den Entwicklermodus für dieses Gerät deaktiviert. Wenn Sie den Entwicklermodus verwenden möchten, bitten Sie den Eigentümer, diese Beschränkung aufzuheben.
+
+
+Stellen Sie den Entwicklerschalter um und starten Sie das Gerät neu, um in den verifizierten Modus zurückzukehren.

@@ -1,0 +1,6 @@
+Terjadi masalah dan update tidak berhasil.
+
+Anda mungkin perlu memulihkan perangkat. Untuk informasi lebih lanjut tentang
+pemulihan ChromeOS, buka: https://www.google.com/chromeos/recovery
+
+Tekan tombol spasi untuk reboot.

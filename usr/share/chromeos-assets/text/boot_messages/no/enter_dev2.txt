@@ -1,0 +1,4 @@
+﻿
+Systemet forberedes for utviklermodus.
+Dette kan ta en stund.
+Ikke slå av datamaskinen før den har startet på nytt.

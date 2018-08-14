@@ -1,0 +1,4 @@
+Se instalează actualizarea...
+
+Nu opri dispozitivul. Acesta va reporni automat
+când actualizarea se finalizează.

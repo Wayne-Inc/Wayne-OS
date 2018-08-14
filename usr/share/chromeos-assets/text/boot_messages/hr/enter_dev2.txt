@@ -1,0 +1,4 @@
+﻿
+Pripremanje sustava za način rada razvojnog programera.
+To bi moglo potrajati dulje vrijeme.
+Ne isključujte računalo dok se ponovo ne pokrene.

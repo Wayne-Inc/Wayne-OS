@@ -1,0 +1,5 @@
+Batterij niet voldoende opgeladen voor update.
+
+Opladen...
+
+De update wordt automatisch gestart wanneer de batterij voldoende is opgeladen.

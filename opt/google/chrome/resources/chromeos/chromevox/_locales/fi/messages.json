@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "fi"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox \u2013 Chromen \u00e4\u00e4ni"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Lopeta puhe"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "Kiinnitystilan ottaminen k\u00e4ytt\u00f6\u00f6n / poistaminen k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "Etuliiten\u00e4pp\u00e4in"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "Siirry seuraavaan aktivoitavaan kohteeseen"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "Siirry edelliseen aktivoitavaan kohteeseen"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "Siirry taaksep\u00e4in"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "Siirry eteenp\u00e4in"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Siirr\u00e4 vasemmalle"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "Siirr\u00e4 oikealle"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "Siirry taaksep\u00e4in jatkuvan lukemisen aikana"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "Siirry eteenp\u00e4in jatkuvan lukemisen aikana"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "V\u00e4henn\u00e4 siirtymisen rakeisuutta"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "Lis\u00e4\u00e4 siirtymisen tarkkuutta"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "K\u00e4sittele nykyist\u00e4 kohdetta"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Klikkaa nykyist\u00e4 kohdetta"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Ilmoita linkin takana oleva URL-osoite"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Ilmoita nykyisen sivun otsikko"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Ilmoita nykyisen sivun URL-osoite"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "Aloita lukeminen nykyisest\u00e4 sijainnista"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "Avaa ChromeVox-valikot."
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "Piilota ChromeVox-ohje"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Selaa komentoja painamalla yl\u00f6s tai alas, valitse painamalla enteri\u00e4"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "Avaa ChromeVox-opetusohjelma"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "ChromeVox-sivulta haku"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "Avaa asetussivu"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "Avaa opettelutila"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "V\u00e4henn\u00e4 puhenopeutta"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "Lis\u00e4\u00e4 puhenopeutta"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "V\u00e4henn\u00e4 \u00e4\u00e4nenkorkeutta"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "Lis\u00e4\u00e4 \u00e4\u00e4nenkorkeutta"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Pienenn\u00e4 puheen \u00e4\u00e4nenvoimakkuutta"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "Lis\u00e4\u00e4 puheen \u00e4\u00e4nenvoimakkuutta"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "N\u00e4yt\u00e4 muotojen luettelo"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "N\u00e4yt\u00e4 otsikoiden luettelo"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "N\u00e4yt\u00e4 linkkiluettelo"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "N\u00e4yt\u00e4 taulukoiden luettelo"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "N\u00e4yt\u00e4 maamerkkiluettelo"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "Edellinen taulukkorivi"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "Taulukon seuraava rivi"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "Taulukon edellinen sarake"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "Taulukon seuraava sarake"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Ilmoita nykyisen solun otsikot"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Kerro nykyiset solukoordinaatit"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Arvioi nykyisen solun rivin otsikossa"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Arvioi nykyisen solun sarakkeen otsikossa"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "Siirry taulukon alkuun"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "Siirry taulukon loppuun"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "Siirry nykyisen rivin alkuun"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "Siirry nykyisen rivin loppuun"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "Siirry nykyisen sarakkeen alkuun"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "Siirry nykyisen sarakkeen loppuun"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "Seuraava tason 1 otsikko"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "Edellinen tason 1 otsikko"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "Seuraava tason 2 otsikko"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "Edellinen tason 2 otsikko"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "Seuraava tason 3 otsikko"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "Edellinen tason 3 otsikko"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "Seuraava tason 4 otsikko"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "Edellinen tason 4 otsikko"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "Seuraava tason 5 otsikko"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "Edellinen tason 5 otsikko"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "Seuraava tason 6 otsikko"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "Edellinen tason 6 otsikko"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "Seuraava yhdistelm\u00e4ruutu"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "Edellinen yhdistelm\u00e4ruutu"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "Seuraava muokattava tekstialue"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "Edellinen muokattava tekstialue"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "Seuraava lomakekentt\u00e4"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "Edellinen lomakekentt\u00e4"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "Seuraava grafiikka"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "Edellinen grafiikka"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "Seuraava otsikko"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "Edellinen otsikko"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "Seuraava luettelokohde"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "Edellinen luettelokohde"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "Seuraava siirtyminen"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "Edellinen siirtyminen"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "Seuraava linkki"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "Edellinen linkki"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "Seuraava luettelo"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "Edellinen luettelo"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "Seuraava matemaattinen lauseke"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "Edellinen matemaattinen lauseke"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "Seuraava mediakohde"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "Edellinen mediakohde"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "Seuraava estoviittaus"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "Edellinen estoviittaus"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "Seuraava valintanappi"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "Edellinen valintanappi"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "Seuraava liukus\u00e4\u00e4din"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "Edellinen liukus\u00e4\u00e4din"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "Seuraava taulukko"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "Seuraava k\u00e4yty linkki"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "Edellinen taulukko"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Edellinen k\u00e4yty linkki"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "Seuraava-painike"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "Edellinen-painike"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "Seuraava valintaruutu"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "Edellinen valintaruutu"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "Seuraava maamerkki"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "Edellinen maamerkki"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "Viankorjauksen kynnysarvo"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Ilmoittaa nykyisen aseman lyhyen kuvauksen"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Ilmoittaa nykyisen aseman t\u00e4ydellisen kuvauksen."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "ChromeVox-asetukset"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Virtuaalinen pistekirjoitusn\u00e4ytt\u00f6"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "Simuloi p\u00e4ivitett\u00e4v\u00e4n pistekirjoitusn\u00e4yt\u00f6n ulostuloa\n        n\u00e4yt\u00f6n alalaidan ChromeVox-paneelissa."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "Rivit:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "Kunkin rivin solut:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "T\u00e4m\u00e4nhetkinen n\u00e4ytt\u00f6tyyli on lomittainen."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Nykyinen n\u00e4ytt\u00f6tyyli on rinnakkainen."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Vaihda n\u00e4ytt\u00f6tyyliksi lomittainen."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Vaihda n\u00e4ytt\u00f6tyyliksi rinnakkainen."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "Muokkaa ChromeVoxia alla olevien asetusten avulla. Muutokset tulevat voimaan v\u00e4litt\u00f6m\u00e4sti."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "Vaihda aktiivista kohtaa hiiren avulla."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "N\u00e4yt\u00e4 kohteen konteksti ennen muita tietoja, kuten sen nime\u00e4"
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "Paranna tiettyj\u00e4 sivustoja (kuten Google-haku)."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "Ota puhekuvaukset k\u00e4ytt\u00f6\u00f6n."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Lue sivu automaattisesti, kun se on latautunut."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Kun audiota toistetaan:"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "K\u00e4yt\u00e4 normaalia \u00e4\u00e4nenvoimakkuutta, vaikka ChromeVox puhuu."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "V\u00e4henn\u00e4 \u00e4\u00e4nenvoimakkuutta, kun ChromeVox puhuu."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "Keskeyt\u00e4 toisto, kun ChromeVox puhuu."
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "Aseta osoitin merkkien v\u00e4liin muokatessasi teksti\u00e4 (kuten Mac OS X)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "\u00c4\u00e4net"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Valitse nykyinen \u00e4\u00e4ni:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Pistekirjoitus"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "Vaihda 8 pisteen pistekirjoitukseen"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "Vaihda 6 pisteen pistekirjoitukseen"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "Valitse 6 pisteen pistekirjoitustaulukko:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, tyyppi $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), tyyppi $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "Valitse 8 pisteen pistekirjoitustaulukko:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "Ota sanojen rivitys k\u00e4ytt\u00f6\u00f6n"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Pikan\u00e4pp\u00e4imet"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "Vaihda n\u00e4pp\u00e4inasettelua valitsemalla vaihtoehto alla olevasta luettelosta."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Nollaa nykyinen n\u00e4pp\u00e4inkartta"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "Muokkaa usein k\u00e4ytettyjen komentojen pikan\u00e4pp\u00e4imi\u00e4 kirjoittamalla ne haluamiisi alla oleviin kenttiin."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "Muokkausn\u00e4pp\u00e4imet"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "ChromeVox-muokkausn\u00e4pp\u00e4in"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "ChromeVoxin opettelutila"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Opi nimi painamalla mit\u00e4 tahansa n\u00e4pp\u00e4int\u00e4. Ctrl + W sulkee opettelutilan."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "v\u00e4lilehti luotu"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$, v\u00e4lilehti",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "ikkuna $1$ v\u00e4lilehti",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "incognito-ikkuna $1$ v\u00e4lilehti",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "$1$-valikko avattu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "valikko suljettu"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "$1$-valintaruutu valittu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "valittu"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, valintaruutua ei ole valittu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "ei tarkistettu"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$, ota k\u00e4ytt\u00f6\u00f6n",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$, poista k\u00e4yt\u00f6st\u00e4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, radiopainike valittu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "valittu"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, valintanappia ei valittu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "ei valittu"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, valikko",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, valikkokohde",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, valikkokohde, jossa alivalikko",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, ikkuna",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, tekstikentt\u00e4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, tekstikentt\u00e4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, salasanan tekstikentt\u00e4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, salasanan tekstikentt\u00e4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, painike",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, yhdistelm\u00e4ruutu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, yhdistelm\u00e4ruutu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, luetteloruutu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, luetteloruutu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, linkki",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, v\u00e4lilehti",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "$1$ $2$ liukus\u00e4\u00e4din",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", valittu"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", ei valittu"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$/$2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " taso $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "Nopeus $1$ prosenttia.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "\u00c4\u00e4nenkorkeus $1$ prosenttia",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "\u00c4\u00e4nenvoimakkuus $1$ prosenttia.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "Valintaikkuna suljettiin."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "Poistuttu kohteesta $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "Lis\u00e4tty valintaikkuna"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "poistettu:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "Kiinnitetty tila k\u00e4yt\u00f6ss\u00e4"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "Kiinnitetty tila pois k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "N\u00e4pp\u00e4imist\u00f6ohje"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Kontekstivalikko"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "$1$luettelo.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "Selaa yl\u00f6s- ja alasn\u00e4pp\u00e4imill\u00e4 tai tee haku kirjoittamalla."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "Suljettiin"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "Solu p\u00e4\u00e4ttyi."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "URL-osoitteita ei l\u00f6ydetty."
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "Poistutaan taulukosta."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "Poistutaan ruudukosta."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "Taulukossa"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Taulukoita ei l\u00f6ytynyt."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Et ole taulukossa."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Ei taulukkotilassa."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "Ei alla olevia soluja."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Ei yl\u00e4puolella olevia soluja."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Ei oikealla olevia soluja."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "Ei vasemmalla olevia soluja."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "Tyhj\u00e4 solu."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Kohdistettu."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Rivin otsikko:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Tyhj\u00e4 rivin otsikko"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Sarakkeen otsikko:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Tyhj\u00e4 sarakkeen otsikko"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "Ei otsikoita"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Tyhj\u00e4t otsikot"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "Rivi $1$/$2$, sarake $3$/$4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "Taulukko $1$, $2$ kertaa $3$ solua",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "taul $1$ $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "Rivi $1$, sarake $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "r$1$s$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "Ei seuraavia valintaruutuja."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "Ei edellisi\u00e4 valintaruutuja."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "Ei seuraavia muokattavia tekstikentti\u00e4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "Ei edellisi\u00e4 muokattavia tekstikentti\u00e4."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "Ei seuraavia otsikoita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "Ei edellisi\u00e4 otsikoita."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "Ei seuraavia tason 1 otsikoita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "Ei edellisi\u00e4 tason 1 otsikoita."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "Ei seuraavia tason 2 otsikoita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "Ei edellisi\u00e4 tason 2 otsikoita."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "Ei seuraavia tason 3 otsikoita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "Ei edellisi\u00e4 tason 3 otsikoita."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "Ei seuraavia tason 4 otsikoita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "Ei edellisi\u00e4 tason 4 otsikoita."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "Ei seuraavia tason 5 otsikoita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "Ei edellisi\u00e4 tason 5 otsikoita."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "Ei seuraavia tason 6 otsikoita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "Ei edellisi\u00e4 tason 6 otsikoita."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "Ei seuraavia kohteita, jotka eiv\u00e4t ole linkkej\u00e4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "Ei edellisi\u00e4 kohteita, jotka eiv\u00e4t ole linkkej\u00e4."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "Ei seuraavia ankkureita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "Ei edellisi\u00e4 ankkureita."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "Ei seuraavia linkkej\u00e4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "Ei edellisi\u00e4 linkkej\u00e4."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "Ei seuraavia taulukoita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "Ei edellisi\u00e4 taulukoita."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "Ei seuraavia k\u00e4ytyj\u00e4 linkkej\u00e4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "Ei edellisi\u00e4 k\u00e4ytyj\u00e4 linkkej\u00e4."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "Ei seuraavaa matemaattista lauseketta."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "Ei edelt\u00e4v\u00e4\u00e4 matemaattista lauseketta."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "Ei seuraavaa mediawidgeti\u00e4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "Ei edellist\u00e4 mediawidgeti\u00e4."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "Ei seuraavia luetteloita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "Ei edellisi\u00e4 luetteloita."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "Ei seuraavia luettelokohteita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "Ei edellisi\u00e4 luettelokohteita."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "Ei seuraavia lainauksia."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "Ei edellisi\u00e4 lainauksia."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "Ei seuraavia lomakkeen kentti\u00e4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "Ei edellisi\u00e4 lomakkeen kentti\u00e4."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "Ei seuraavia siirtym\u00e4kohtia."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "Ei edellisi\u00e4 siirtym\u00e4kohtia."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "Ei seuraavia ARIA-maamerkkej\u00e4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "Ei edellisi\u00e4 ARIA-maamerkkej\u00e4."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "Ei seuraavia yhdistelm\u00e4ruutuja."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "Ei edellisi\u00e4 yhdistelm\u00e4ruutuja."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "Ei seuraavia painikkeita."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "Ei edellisi\u00e4 painikkeita."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "Ei seuraavia kuvia."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "Ei edellisi\u00e4 kuvia."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "Ei seuraavia liukus\u00e4\u00e4timi\u00e4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "Ei edellisi\u00e4 liukus\u00e4\u00e4timi\u00e4."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "Ei seuraavia valintanappeja."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "Ei edellisi\u00e4 valintanappeja."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "Ei seuraavaa osiota."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "Ei edelt\u00e4v\u00e4\u00e4 osiota."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "Ei seuraavaa ohjausobjektia."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "Ei edelt\u00e4v\u00e4\u00e4 ohjausobjektia."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "Klikattiin"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "kaksoisklikattiin"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "Ei otsikoita."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "Ei linkkej\u00e4."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "Ei lomakkeita."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "Ei taulukoita."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "Ei ARIA-maamerkkej\u00e4."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "Ei siirtymi\u00e4."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "sis\u00e4lt\u00e4\u00e4 alivalikon"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "sis\u00e4lt\u00e4\u00e4 ponnahdusikkunan"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+ponnahdus"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "V\u00e4hint\u00e4\u00e4n $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "v\u00e4hint\u00e4\u00e4n $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "Enint\u00e4\u00e4n $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "enint\u00e4\u00e4n $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "Ilmoitus"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "ilm."
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "Ilmoitusvalintaikkuna"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "ilm.ikk."
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "Painike"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "pain."
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "Valintaruutu"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Yhdistelm\u00e4ruutu"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "Dialogi"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "ikk."
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "Ruudukko"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "ruud."
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "Matkapuhelin"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "rivi $1$ sarake $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Linkki"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "linkki"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "Luetteloruutu"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "luett.kentt\u00e4"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "Loki"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "loki"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Vieriv\u00e4 kuva"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "marquee"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Valikko"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "val."
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Valikkopalkki"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Valikkokohde"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Valikkokohteen valintaruutu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Valikkokohde radiopainike"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "Ponnahduspainike"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Etenemispalkki"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Edistymisen osoitin"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "Valintanappi"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Valintanappiryhm\u00e4"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Vierityspalkki"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Liukus\u00e4\u00e4din"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "liukus\u00e4\u00e4din"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "Py\u00f6rityspainike"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "Tila"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "tila"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "V\u00e4lilehti"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "sarkain"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "Taulukko"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "taulukko"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "V\u00e4lilehtiluettelo"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "V\u00e4lilehtipaneeli"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Tekstiruutu"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "Ajastin"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "ajast."
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "Ty\u00f6kalupalkki"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "Ty\u00f6kaluvinkki"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "Puu"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "tree"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "Puukohde"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "Artikkeli"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "artikkeli"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "Sovellus"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "sov."
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Banneri"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "bann."
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Sarakkeen otsikko"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "T\u00e4ydent\u00e4v\u00e4"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "t\u00e4ydent\u00e4v\u00e4"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Sis\u00e4ll\u00f6n tiedot"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "M\u00e4\u00e4ritelm\u00e4"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "kuv."
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Hakemisto"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "hakem."
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Dokumentti"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "dok."
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Lomake"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "lomake"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Ryhm\u00e4"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "ryhm\u00e4"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Otsikko"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "Kuva"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "kuva"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "Luettelo"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "luett."
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "Luettelokohde"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "luett.kohd."
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Ensisijainen"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "p\u00e4\u00e4"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Matematiikka"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "matematiikka"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Liikkuminen"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "nav."
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Huomautus"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "huom."
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Alue"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "alue"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Rivin otsikko"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "Haku"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "haku"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Erotin"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "Mittari"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "mittari"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Ennakoiva tekstin sy\u00f6tt\u00f6 upotettuna"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "Ennakoivan tekstinsy\u00f6t\u00f6n luettelo"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Ennakoiva tekstin sy\u00f6tt\u00f6 upotettuna ja luettelona"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "Valittu"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "Ei valittu"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "Tarkistettu osittain"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Pois k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "Laajennettu"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "Tiivistetty"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "Virheellinen sy\u00f6te"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "Kielioppivirhe havaittu"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "kielioppivirhe"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "Oikeinkirjoitusvirhe havaittu"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "v\u00e4\u00e4rin kirjoitettu"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "Monirivinen"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "Monivalinta"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "monival."
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Painettu"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Ei painettu"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "Painettu osittain"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Vain luku"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "vain luku"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "Pakollinen"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Valittu"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Ei valittu"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "K\u00e4yty linkki"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "K\u00e4yty"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "Otsikko 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "Otsikko 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "Otsikko 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "Otsikko 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "Otsikko 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "Otsikko 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "Luettelokohde"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "luett.kohd."
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "J\u00e4rjestetty luettelo"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "luett."
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Yhdistelm\u00e4ruutu"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "Tekstialue"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "taulukko"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tbl"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "Luettelo"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "luett."
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Osio"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Liikkuminen"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "nav."
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "Artikkeli"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "artikkeli"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "Aside-tunniste"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "sivuun"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Otsikkoryhm\u00e4"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Otsikko"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "header"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "Alaviite"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "footer"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Aika"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "Merkint\u00e4"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "merkint\u00e4"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Video"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "video"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "\u00c4\u00e4ni"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "\u00e4\u00e4ni"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "V\u00e4rinvalitsin"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "v\u00e4rinvalitsin"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n ja ajan valinta"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "p\u00e4iv\u00e4ys/aika"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Ajanhallinta"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "time"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n ja ajan valinta"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "p\u00e4iv\u00e4ys/aika"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "P\u00e4iv\u00e4m\u00e4\u00e4r\u00e4n hallinta"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "pvm"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Muokkaa teksti\u00e4, s\u00e4hk\u00f6posti"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@muok 8pist"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "Tiedoston valinta"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "tiedosto"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "Kuukauden hallinta"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "kuukausi"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "Muokkaa teksti\u00e4 vain numeraaleja"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "Salasanan muokkausteksti"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "Tyhjenn\u00e4"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "palauta"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Muokkaa teksti\u00e4, haku"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Muokkaa teksti\u00e4"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Muokkaa teksti\u00e4, URL-osoite"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "urlmuok 8pist"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Vuoden viikon hallinta"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "viikko"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Sis\u00e4inen linkki"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Tyhj\u00e4"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "V\u00e4lily\u00f6nti"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "jossa $1$ kohdetta",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "jossa on {COUNT,plural, =1{# kohde}other{# kohdetta}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "alavalikolla"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "sis\u00e4lt\u00e4\u00e4 ponnahdusikkunan"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "sis\u00e4lt\u00e4\u00e4 ponnahdusikkunan"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "$1$-kokoelma, jossa $2$ kohdetta",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "V\u00e4lily\u00f6nti"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Askelpalautin"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "V\u00e4lilehti"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Vasemmalle"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Yl\u00f6s"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "Oikealle"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Alas"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Tuntematon linkki"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "Ota ChromeVox k\u00e4ytt\u00f6\u00f6n tai poista se k\u00e4yt\u00f6st\u00e4."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "ChromeVox ei ole k\u00e4yt\u00f6ss\u00e4."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "Ota ChromeVox classic k\u00e4ytt\u00f6\u00f6n tai poista se k\u00e4yt\u00f6st\u00e4."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "Edellinen erilainen elementti."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "Seuraava erilainen elementti."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "Edellinen samankaltainen elementti."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "Seuraava samankaltainen elementti."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "Ei muita samanlaisia \u200b\u200belementtej\u00e4."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "Ei muita erilaisia elementtej\u00e4."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "K\u00e4yt\u00e4 ryhm\u00e4tutkintaa"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Tutkitaan ryhmi\u00e4"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Kohde"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Ryhm\u00e4"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "Taulukko"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Rivi"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "Sarake"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Rivi"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "Sarake"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "rivi"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "sarake"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "Math ML -puu"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "Math ML -asettelu"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "Math ML -tunnus"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "Math ML -lehti"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "Visuaalinen"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "Muokattu"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "Rivi"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "Virke"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "Sana"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Merkki"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "Haku sivulta."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Anna hakutermi."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "Haku sivulta suljettiin."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "Ei enemp\u00e4\u00e4 tuloksia."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "Muokkausavaimet"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "ChromeVox-navigointi"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Tiedot"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "Apukomennot"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Puheen hallinta"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "Yleiskatsaus"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "Taulukot"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "Siirtymiskomennot"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Pistekirjoitus"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Kehitt\u00e4jille"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Perinteinen n\u00e4pp\u00e4inasettelu"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Next-n\u00e4pp\u00e4inkartta"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "Flat-n\u00e4pp\u00e4inkartta"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "Kokeellinen n\u00e4pp\u00e4inkartta"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "Ota TTS-kirjaaminen k\u00e4ytt\u00f6\u00f6n"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "Aloita valinta"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "Lopeta valinta"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "Valinta on "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "Aloita tai lopeta valinta."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "kopioi $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "leikkaa $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "liit\u00e4 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "valittu"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "ei valittu"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "lis\u00e4tty valintaan"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "poistettu valinnasta"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "sitten"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "ja sitten"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "ChromeVox-muokkaaja"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "$1$ on jo m\u00e4\u00e4ritetty komennolle.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Matematiikka"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "matematiikka"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Ei sovi math-rooliin"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "ap/ip"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "tuntia"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "minuuttia"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "sekuntia"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "millisekuntia"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "ap"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "ip"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "viikko"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "tammikuu"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "helmikuu"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "maaliskuu"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "huhtikuu"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "touko"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "kes\u00e4kuu"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "hein\u00e4kuu"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "elokuu"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "syyskuu"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "lokakuu"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "marraskuu"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "joulukuu"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "Ei v\u00e4limerkkej\u00e4"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "Osa v\u00e4limerkeist\u00e4"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "Kaikki v\u00e4limerkit"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Hyv\u00e4ksy painamalla enter-painiketta tai peruuta esc-painikkeella, siirry seuraavaan alanuolella ja edelliseen yl\u00e4nuolella."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "klikattava"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "Edellinen merkki"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "Seuraava merkki"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "Edellinen sana"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "Seuraava sana"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "Edellinen lause"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "Seuraava lause"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "Edellinen rivi"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "Seuraava rivi"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "Edellinen objekti"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "Seuraava objekti"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "Edellinen ryhm\u00e4"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "Seuraava ryhm\u00e4"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "Maamerkki"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Muokkausn\u00e4pp\u00e4int\u00e4 ei ole painettu. Paina yht\u00e4 tai useampaa n\u00e4pp\u00e4int\u00e4 samanaikaisesti. Lopeta, kun olet valmis, niin kuulet asetetut n\u00e4pp\u00e4imet. Poistu sarkainn\u00e4pp\u00e4imell\u00e4."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "$1$ on nyt uusi ChromeVoxin muokkausn\u00e4pp\u00e4in.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ on nollattu.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "Vaihdettu n\u00e4pp\u00e4imeen $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "Siirry sivun yl\u00e4osaan"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "Siirry sivun alaosaan"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "Sijoitettu yl\u00e4reunaan"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "Sijoitettu alareunaan"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "Ota v\u00e4limerkkien puhuminen k\u00e4ytt\u00f6\u00f6n tai pois k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Ota kirjoituksen puhuminen k\u00e4ytt\u00f6\u00f6n tai pois k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "Keskeytt\u00e4\u00e4 toiston kaikissa mediawidgeteiss\u00e4"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "Avaa pitk\u00e4 kuvaus uudessa v\u00e4lilehdess\u00e4"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "Ei pitk\u00e4\u00e4 kuvausta"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Kuva, jolla on pitk\u00e4 kuvaus"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$\u2013$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$\u2013$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "valittu $1$ kohdetta",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "sld $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "valinta poistettu"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "merkkien puhuminen"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "sanojen puhuminen"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "merkkien ja sanojen puhuminen"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "ei kirjoituksen puhumista"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "siirry rakenteelliseen sis\u00e4lt\u00f6\u00f6n, kuten taulukkoon"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "poistu rakenteellisesta sis\u00e4ll\u00f6st\u00e4, kuten taulukosta"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "lis\u00e4sit seuraavaa sis\u00e4lt\u00f6\u00e4: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "rakenteellinen linja"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "rivi"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Vaihda linjatyyppi\u00e4 rakenteellisen ja asettelun v\u00e4lill\u00e4"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "taulukko"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "oletusnavigointi"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "matematiikka"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "Vaihda matemaattisten lausekkeiden tulkintatapaa rakenteellisen ja semanttisen v\u00e4lill\u00e4"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Semanttinen on k\u00e4yt\u00f6ss\u00e4"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Semanttinen on pois k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"aarne\", \"b\": \"bertta\", \"c\": \"celcius\", \"d\": \"daavid\", \"e\": \"eemeli\", \"f\": \"faarao\", \"g\": \"gideon\", \"h\": \"heikki\", \"i\": \"iivari\", \"j\": \"jussi\",\"k\": \"kalle\", \"l\": \"lauri\", \"m\": \"matti\", \"n\": \"niilo\", \"o\": \"otto\",\"p\": \"paavo\", \"q\": \"kuu\", \"r\": \"risto\", \"s\": \"sakari\", \"t\": \"tyyne\", \"u\": \"urho\", \"v\": \"vihtori\", \"w\": \"wiski\",\"x\": \"\u00e4ks\u00e4\", \"y\": \"yrj\u00f6\", \"z\": \"tseta\", \"\u00e5\": \"\u00e5ke\", \"\u00e4\": \"\u00e4iti\", \"\u00f6\": \"\u00f6ljy\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Tarkista ilmoitukset painamalla Alt+Shift+A"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "T\u00e4m\u00e4 on viimeinen artikkeli."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "Ei aiempaa artikkelia."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "ChromeVox-puhepalaute on valmis"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox on valmis"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "Earcon-\u00e4\u00e4nimerkit k\u00e4yt\u00f6ss\u00e4"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Earcon-\u00e4\u00e4nimerkit pois k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "Ota \u00e4\u00e4nipalaute (earcon-\u00e4\u00e4nimerkit) k\u00e4ytt\u00f6\u00f6n tai poista se k\u00e4yt\u00f6st\u00e4."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "Sano t\u00e4m\u00e4nhetkinen aika ja p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "H:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "Poistettu"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Suorita oletustoiminto"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{huutomerkki}other{# huutomerkki\u00e4}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{v\u00e4lily\u00f6nti}other{# v\u00e4lily\u00f6nti\u00e4}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{aksenttimerkki}other{# aksenttimerkki\u00e4}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{tilde}other{# tilde\u00e4}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{\u00e4t-merkki}other{# \u00e4t-merkki\u00e4}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{ristikko}other{# ristikkomerkki\u00e4}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{dollari}other{# dollarimerkki\u00e4}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{prosentti}other{# prosenttimerkki\u00e4}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{poisj\u00e4\u00e4ntimerkki}other{# poisj\u00e4\u00e4ntimerkki\u00e4}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{et-merkki}other{# et-merkki\u00e4}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{asteriski}other{# asteriskia}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{vasen kaarisulje}other{# vasenta kaarisuljetta}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{oikea kaarisulje}other{# oikeaa kaarisuljetta}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{ajatusviiva}other{# ajatusviivaa}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{alaviiva}other{# alaviivaa}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{yht\u00e4l\u00e4isyys}other{# yht\u00e4l\u00e4isyysmerkki\u00e4}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{plus}other{# plusmerkki\u00e4}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{vasen hakasulje}other{# vasenta hakasuljetta}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{oikea hakasulje}other{# oikeaa hakasuljetta}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{vasen aaltosulje}other{# vasenta aaltosuljetta}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{oikea aaltosulje}other{# oikeaa aaltosuljetta}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{pystyviiva}other{# pystyviivaa}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{puolipiste}other{# puolipistett\u00e4}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{kaksoispiste}other{# kaksoispistett\u00e4}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{pilkku}other{# pilkkua}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{piste}=3{ellipsi}other{# pistett\u00e4}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{pienemmyys}other{# pienemmyysmerkki\u00e4}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{suuremmuus}other{# suuremmuusmerkki\u00e4}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{kauttaviiva}other{# kauttaviivaa}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{kysymysmerkki}other{# kysymysmerkki\u00e4}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{lainausmerkki}other{# lainausmerkki\u00e4}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{heittomerkki}other{# heittomerkki\u00e4}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{sarkain}other{# sarkainta}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{kenoviiva}other{# kenoviivaa}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{luettelomerkki}other{# luettelomerkki\u00e4}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "Klikkaa reititysavaimen $1$ alla olevaa kohdetta",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "Panoroi taaksep\u00e4in"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "Panoroi eteenp\u00e4in"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "Pistekirjoituksen edellinen rivi"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "Pistekirjoituksen seuraava rivi"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "Siirr\u00e4 pistekirjoitusn\u00e4ytt\u00f6 sivun yl\u00e4reunaan"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "Siirr\u00e4 pisten\u00e4ytt\u00f6 sivun alareunaan"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "piste $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "pisteet $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ puoliympyr\u00e4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "N\u00e4yt\u00e4 kuva pistekirjoituksena."
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "omistaa p\u00e4\u00e4syavaimen, $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "p\u00e4\u00e4syavain: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"arabia\",\n        \"bg\": \"bulgaria\",\n        \"ca\": \"katalaani\",\n        \"cs\": \"t\u0161ekki\",\n        \"da\": \"tanska\",\n        \"de\": \"saksa\",\n        \"de_CH\": \"saksa (Sveitsi)\",\n        \"de_DE\": \"saksa (Saksa)\",\n        \"el\": \"kreikka\",\n        \"en\": \"englanti\",\n        \"en_CA\": \"englanti (Kanada)\",\n        \"en_GB\": \"englanti (Iso-Britannia)\",\n        \"en_US\": \"englanti (Yhdysvallat)\",\n        \"es\": \"espanja\",\n        \"et\": \"viro\",\n        \"fr\": \"ranska\",\n        \"fr_CA\": \"ranska (Kanada)\",\n        \"fr_FR\": \"ranska (Ranska)\",\n        \"fi\": \"suomi\",\n        \"he\": \"heprea\",\n        \"hi\": \"hindi\",\n        \"hr\": \"kroatia\",\n        \"hu\": \"unkari\",\n        \"is\": \"islanti\",\n        \"it\": \"italia\",\n        \"ko\": \"korea\",\n        \"lt\": \"liettua\",\n        \"lv\": \"latvia\",\n        \"nb\": \"norja (bokm\u00e5l)\",\n        \"nl\": \"hollanti\",\n        \"pl\": \"puola\",\n        \"pt\": \"portugali\",\n        \"ro\": \"romania\",\n        \"ru\": \"ven\u00e4j\u00e4\",\n        \"sk\": \"slovakki\",\n        \"sl\": \"sloveeni\",\n        \"sr\": \"serbia\",\n        \"sv\": \"ruotsi\",\n        \"tr\": \"turkki\",\n        \"vi\": \"vietnam\",\n        \"zh\": \"kiina\",\n        \"zh_TW\": \"kiina (perinteinen han)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Tekstin loppu"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "End"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "uusi rivi"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "takaisin"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "Seuraava n\u00e4pp\u00e4imen painallus ohitetaan"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Ohitusn\u00e4pp\u00e4in"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "N\u00e4yt\u00e4 kontekstivalikko"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Ota pistekirjoitustekstitys k\u00e4ytt\u00f6\u00f6n tai poista se k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Pistekirjoituskuvatekstit ovat k\u00e4yt\u00f6ss\u00e4."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Pistekirjoitustekstitys pois k\u00e4yt\u00f6st\u00e4."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "Ohitetaan kirjainkoko."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "Kirjainkoolla on v\u00e4li\u00e4."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "takaisin"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "seuraava"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "P\u00e4ivit\u00e4."
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "Ota koko n\u00e4yt\u00f6n tila k\u00e4ytt\u00f6\u00f6n tai poista se k\u00e4yt\u00f6st\u00e4."
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "Ota ikkunoiden yleiskatsaustila k\u00e4ytt\u00f6\u00f6n tai poista se k\u00e4yt\u00f6st\u00e4."
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "V\u00e4henn\u00e4 kirkkautta."
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "Lis\u00e4\u00e4 kirkkautta."
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "Mykist\u00e4 \u00e4\u00e4nenvoimakkuus."
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "V\u00e4henn\u00e4 \u00e4\u00e4nenvoimakkuutta."
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "Lis\u00e4\u00e4 \u00e4\u00e4nenvoimakkuutta."
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "ChromeVox-paneeli"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "ChromeVox-valikot"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "ChromeVox-opetusohjelma"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "ChromeVox-valikot"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "ChromeVox-asetukset"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "Poista ChromeVox k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(aktiivinen)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Siirtyminen"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Puhe"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "V\u00e4lilehdet"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "Toiminnot"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "Ei kohteita"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Ilmoita ongelmasta"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox p\u00e4ivitetty"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Saat tietoja uusista ominaisuuksista painamalla ChromeVox + o + n."
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "N\u00e4yt\u00e4 p\u00e4ivitysmerkinn\u00e4t"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "Sulje ChromeVox-opetusohjelma"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "Edellinen"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "Seuraava"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "Tervetuloa k\u00e4ytt\u00e4m\u00e4\u00e4n ChromeVoxia!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "K\u00e4yt\u00e4tk\u00f6 ChromeVoxin \u00e4\u00e4nipalautetta ensimm\u00e4ist\u00e4 kertaa? T\u00e4m\u00e4n ohjeen avulla voit tutustua ChromeVoxin perusteisiin nopeasti."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "Siirry eteenp\u00e4in painamalla Enter ja taaksep\u00e4in painamalla askelpalautinta."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "K\u00e4ynnist\u00e4minen, sulkeminen ja mykist\u00e4minen"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "Mykist\u00e4 ChromeVox v\u00e4liaikaisesti Control-n\u00e4pp\u00e4imell\u00e4."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "K\u00e4ynnist\u00e4 tai sulje ChromeVox painamalla Control + Alt + Z."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "ChromeVox-muokkausn\u00e4pp\u00e4in"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "Hakun\u00e4pp\u00e4in toimii ChromeVoxissa my\u00f6s muokkausn\u00e4pp\u00e4imen\u00e4. Haku aloittaa useimmat ChromeVoxin pikan\u00e4pp\u00e4inyhdistelm\u00e4t. Voit k\u00e4ytt\u00e4\u00e4 siirtymiseen my\u00f6s nuolia."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "Hakun\u00e4pp\u00e4in on Chromebookissa heti vasemman vaihton\u00e4pp\u00e4imen yl\u00e4puolella."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "Opetusohjelman aikana kuulet mink\u00e4 tahansa n\u00e4pp\u00e4imen nimen painamalla sit\u00e4."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Siirtymisen perustoiminnot"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "Siirry seuraavaan sivun kohteeseen painamalla haku + oikea nuoli ja edelliseen painamalla haku + vasen nuoli. Siirry seuraavalle riville painamalla haku + yl\u00e4nuoli ja edelliselle painamalla haku + alanuoli. Klikkaa aktiivista kohdetta painamalla haku + v\u00e4lily\u00f6nti."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "Kokeile Seuraava-painikkeeseen siirtymist\u00e4 painamalla haku + oikea nuoli ja klikkaa sit\u00e4 sitten painamalla haku + v\u00e4lily\u00f6nti."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "Siirtymiskomennot"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Siirtymiskomennoilla voit siirty\u00e4 tietyn tyyppisten elementtien v\u00e4lill\u00e4. Siirry seuraavaan otsikkoon painamalla haku + H tai edelliseen painamalla haku + vaihto + H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "T\u00e4m\u00e4 on toinen otsikko. Jatka painamalla joko Haku + H tai Haku + Vaihto + H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "T\u00e4m\u00e4 on viimeinen otsikko. Siirry ensimm\u00e4iseen otsikkoon painamalla Haku + H tai t\u00e4m\u00e4n sivun toiseen otsikkoon painamalla Haku + Vaihto + H."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Komentovalikot"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "Katsele kaikkia ChromeVoxin komentoja ja pikan\u00e4pp\u00e4imi\u00e4 painamalla hakun\u00e4pp\u00e4int\u00e4 ja pistett\u00e4. Voit siirty\u00e4 valikoissa nuolilla ja aktivoida komennon painamalla Enter. Palaa t\u00e4nne painamalla Haku + O ja sitten T."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Hy\u00f6dyllisi\u00e4 Chrome-pikan\u00e4pp\u00e4imi\u00e4"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "Seuraavat pikan\u00e4pp\u00e4imet eiv\u00e4t ole ChromeVox-komentoja, mutta ne auttavat silti k\u00e4ytt\u00e4m\u00e4\u00e4n Chromea tehokkaasti.\nSiirry seuraavaan interaktiiviseen kohteeseen, esim. painikkeeseen tai linkkiin, sarkainn\u00e4pp\u00e4imell\u00e4. Siirry edelliseen kohteeseen painamalla vaihto + sarkain.\nSiirry Chrome-selaimen osoitekentt\u00e4\u00e4n eli omniboxiin painamalla Control + L.\nAvaa uusi v\u00e4lilehti ja siirry sille automaattisesti painamalla Control + T. Osoitin siirtyy automaattisesti omniboxiin.\nSulje v\u00e4lilehti painamalla Control + W.\nSiirry avoimelta v\u00e4lilehdelt\u00e4 toiselle painamalla Control + sarkain.\nAvaa Chrome-selaimen valikko painamalla Alt + F."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "Siirry n\u00e4yt\u00f6n kohteisiin, esim. ty\u00f6kalupalkkeihin tai ilmaisinalueelle, painamalla Control + eteenp\u00e4in. Eteenp\u00e4in-n\u00e4pp\u00e4in on Chromebookin n\u00e4pp\u00e4imist\u00f6ll\u00e4 heti numeron kaksi yl\u00e4puolella."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "Lis\u00e4tietoja"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Onneksi olkoon \u2013 nyt tunnet ChromeVoxin perusteet. Muista, ett\u00e4 voit avata ChromeVoxin komentovalikon milloin tahansa painamalla Haku + piste. Saat lis\u00e4tietoja ChromeVoxista ja Chrome-k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4st\u00e4 tutustumalla seuraaviin artikkeleihin.\nJos haluat sulkea ohjeen, siirry ChromeVox-komennoilla Sulje-painikkeeseen ja klikkaa sit\u00e4."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "ChromeVox p\u00e4ivitettiin versioon 63!"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "T\u00e4m\u00e4 julkaisu sis\u00e4lt\u00e4\u00e4 joitakin j\u00e4nnitt\u00e4vi\u00e4 muutoksia. T\u00e4ss\u00e4 uudet ominaisuudet:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "Classic poistettiin. ChromeVox Classicin k\u00e4ytt\u00f6\u00f6noton pikan\u00e4pp\u00e4in poistettiin."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "Rich Text \u2011tuki. ChromeVox tukee nyt Rich Text \u2011kentti\u00e4 ja niiden ominaisuuksia, kuten siirtymiskomentoja, pistekirjoitusosoittimen ohjausta ja valintaa."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Android-sovellusten k\u00e4ytt\u00f6 Chromessa. Jos laitteellasi on Play Kauppa, voit testata ChromeVoxin k\u00e4ytt\u00f6\u00e4 Android-sovellusten kanssa etuk\u00e4teen. Ominaisuus on viel\u00e4 kehitysvaiheessa, mutta voit kokeilla sit\u00e4 lataamalla Google Chrome Canaryn Play Kaupasta."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Kuten aina, voit l\u00e4hett\u00e4\u00e4 meille palautetta painamalla ensin Haku + a ja sen j\u00e4lkeen i. Mielipiteesi on meille t\u00e4rke\u00e4."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "ChromeVoxin komennot"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Chromebookin pikan\u00e4pp\u00e4imet"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "Chromebookin kosketusn\u00e4yt\u00f6n esteett\u00f6myysominaisuuksien k\u00e4ytt\u00f6"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "kiireinen"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "kiireinen"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "oletus"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "oletus"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "\u00c4\u00e4net"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox antaa sinulle t\u00e4rkeit\u00e4 tietoja ja lis\u00e4tietoja \u00e4\u00e4nill\u00e4. N\u00e4iden \u00e4\u00e4nten avulla voit navigoida nopeammin, kun opit, mit\u00e4 mik\u00e4kin \u00e4\u00e4ni tarkoittaa. Kun alat tottua \u00e4\u00e4niin, voit poistaa sanalliset kuvaukset k\u00e4yt\u00f6st\u00e4 ja k\u00e4ytt\u00e4\u00e4 niit\u00e4 vain kun tarvitset olennaisia tietoja sivusta. T\u00e4ss\u00e4 on t\u00e4ydellinen luettelo \u00e4\u00e4nist\u00e4 ja siit\u00e4, mit\u00e4 ne tarkoittavat."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Modaalinen ilmoitus"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Ei-modaalinen h\u00e4lytys"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Painike"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "Valitsematon valintaruutu"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "Valittu valintaruutu"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Muokattava tekstikentt\u00e4"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "Virheellinen painallus"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Linkki"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "Luetteloruutu tai yhdistelm\u00e4ruutu"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "Sivun lataus k\u00e4ynniss\u00e4"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Ponnahduspainike"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "Liukus\u00e4\u00e4din"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Rivit\u00e4 teksti alusta loppuun tai lopusta alkuun sivun, valintaikkunan tai muun s\u00e4ili\u00f6n sis\u00e4ll\u00e4."
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "Tummenna n\u00e4ytt\u00f6"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "Poista n\u00e4yt\u00f6n tummennus"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Puhe pois k\u00e4yt\u00f6st\u00e4"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Puhe p\u00e4\u00e4ll\u00e4"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "Vaihtaa puheen p\u00e4\u00e4lle tai pois p\u00e4\u00e4lt\u00e4."
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "Vaihda 6 ja 8 pisteen pistekirjoituksen v\u00e4lill\u00e4"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "Kirjoitusvirheen alku"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Kirjoitusvirheen loppu"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "Kielioppivirheen alku"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Kielioppivirheen loppu"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "Tekstivastaavuuden alku"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Tekstivastaavuuden loppu"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "Lihavoinnin alku"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Lihavoinnin loppu"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "Kursiivin alku"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "Kursiivin loppu"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "Alleviivauksen alku"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Alleviivauksen loppu"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "Yliviivauksen alku"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "Yliviivauksen loppu"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "Linkin alku"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Linkin loppu"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "Ota n\u00e4ytt\u00f6n\u00e4pp\u00e4imist\u00f6 k\u00e4ytt\u00f6\u00f6n tila-alueella, esteett\u00f6myystoiminnot k\u00e4ytt\u00e4v\u00e4t laajennettuja pistekirjoituskomentoja."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "Ei nime\u00e4"
+  }
+}

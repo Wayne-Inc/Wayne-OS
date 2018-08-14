@@ -1,0 +1,6 @@
+Hubo un problema y la actualización no se pudo completar correctamente.
+
+Es posible que debas restablecer tu dispositivo. Para obtener más información sobre
+la recuperación de Sistema operativo Chrome, visita: https://www.google.com/chromeos/recovery
+
+Presiona la barra espaciadora para reiniciar.

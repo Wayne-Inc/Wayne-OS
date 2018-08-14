@@ -1,0 +1,1122 @@
+{
+  "appname": {
+    "message": "Mga Diagnostic sa Connectivity ng Chrome",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Mga Diagnostic sa Connectivity ng Chrome (Beta)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "Mga Diagnostic sa Connectivity ng Chrome (Dev)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "Mga diagnostic sa connectivity",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "Mga Diagnostic sa Connectivity",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "Mga Setting",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "I-maximize",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "I-restore",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "Isara",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "Mag-scroll pataas",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "Mag-scroll pababa",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_wireless_connection": {
+    "message": "Wi-Fi",
+    "description": "Description of a wireless connection"
+  },
+  "network_settings_ethernet_connection": {
+    "message": "Ethernet",
+    "description": "Description of a wired network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "Lakas ng Signal",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "MAC Address",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "IP Address",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "Subnet Mask",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "Gateway",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "network_settings_dns_not_detected": {
+    "message": "Hindi nakita ang DNS",
+    "description": "Message when the DNS nameservers cannot be detected"
+  },
+  "network_settings_connection_title": {
+    "message": "Koneksyon",
+    "description": "Attribute label for the Connection."
+  },
+  "network_settings_connection": {
+    "message": "koneksyon",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "network_settings_network_secure": {
+    "message": "(Secure)",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "network_settings_network_insecure": {
+    "message": "(Hindi secure)",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "all_test_groups_summary_title": {
+    "message": "Mga pagsubok sa koneksyon sa network",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "Captive portal",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "Lokal na network",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "Firewall",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "Mga serbisyo ng Google",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "Pinapatakbo ang mga pagsubok. Maaari itong tumagal ng ilang minuto...",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "Nagkaroon ng error habang pinapatakbo ang mga pagsubok sa connectivity diagnostic. I-click ang icon na gear at piliin ang “Patakbuhing muli ang mga pagsubok.” Kung magpatuloy ang error na ito, paki-click ang link na Magpadala ng feedback at ilarawan ang isyu.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "Magpadala ng Feedback",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "Mga Network Setting",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "Patakbuhin ang Diagnostics",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "Rerun Diagnostics",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "Bumalik",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "Mukhang tumatakbo nang maayos ang iyong koneksyon sa network.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "Ipakita ang mga pumasang pagsubok",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "Itago ang pumasang pagsubok",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "Rerun Diagnostics",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "Magpadala ng feedback...",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "Tungkol Dito",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "Tungkol sa App",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "Bersyon: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "Mga Pumasang Pagsubok",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "Pumasang Pagsubok",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "Mga Babala",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "Babala",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "Pangalan ng Pagsubok: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "Test ID: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "Resulta ng Pagsubok: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "Walang nakitang problema",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "Nakakita ng problema",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "Nakakita ng posibleng problema",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "Hindi mapapatakbo ang pagsubok",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "Ipakita ang mga log...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "Itago ang mga log...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "Kopyahin ang mga log ng resulta",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "BUOD",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "MGA PAMANTAYAN",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "MGA DETALYE",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "MGA SUMUSUPORTANG DETALYE",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "Nakapasa",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "Nabigo",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "Na-queue",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "Babala",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "Tumatakbo",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "Kinansela",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "Walang available na resulta ng pagsubok sa kasalukuyan.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "Nakabinbin ang mga karagdagang pagsubok. Ang mga resulta ay ipapakita kapag nakumpleto.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "mga pagsubok",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "Nakatanggap ng raw data mula sa UDP socket: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "Matagumpay na nabasa ang data mula sa UDP socket na may laking (bytes): ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "Nagka-error sa pagbabasa sa data ng UDP. Code ng error: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "Matagumpay na naipadala ang data na may laking (bytes): ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "Naghahandang ipadala ang data ng UDP socket na may laking (bytes): ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "Gumagawa ng UDP socket, numero / host / port na: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "Itinatakda ang tagal ng timeout ng UDP (msec): ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "Nakatanggap ng raw data mula sa TCP socket: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "Matagumpay na nabasa ang data mula sa TCP socket na may laking (bytes): ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "Nagka-error sa pagbabasa sa data ng TCP. Code ng error: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "Matagumpay na naipadala ang data na may laking (bytes): ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "Naghahandang ipadala ang data na may laking (bytes): ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "Nagawa ang koneksyong TCP nang may host / port / status code na: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "Nabigo ang koneksyong TCP nang may host / port / status code na: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "Dahilan ng pagkabigo ng koneksyon: Hindi alam",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "Matagumpay na nagawa ang koneksyong TCP nang may host / port na: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "Dahilan ng pagkabigo ng koneksyon: Timeout",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "Dahilan ng pagkabigo ng koneksyon: Tinanggihan ang koneksyon",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "Gumagawa ng TCP socket, numero / host / port na: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "Itinatakda ang tagal ng timeout ng TCP (msec): ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "Pagsubok sa Pagkakadiskonekta sa Internet ng Chrome",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "Hindi nakakonekta sa isang network",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "Available ang koneksyon sa Internet",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "Hindi nakakonekta ang Chrome sa isang network. Pakitingnan ang mga setting ng network ng iyong operating system.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "May available na koneksyon sa Internet para sa Chrome browser.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "Porsyento ng mga TCP socket na nagbabalik ng mga status code na nadiskonekta sa Internet kung saan nagbibigay ng hatol na walang problema kapag mas mababa roon ang porsyento ng mga TCP socket na nagbabalik ng mga status code na nadiskonekta sa Internet: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "Porsyento ng mga TCP socket na nagbabalik ng mga status code na nadiskonekta sa Internet kung saan nagbibigay ng hatol na may problema kapag katumbas noon o mas mataas doon ang porsyento ng mga TCP socket na nagbabalik ng mga status code na nadiskonekta sa Internet: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " Nagbalik ang pagsubok sa koneksyon sa Internet ng Chrome ng status code ng TCP na: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " Susubukan na ang # / hostname / port ng koneksyong TCP : ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "Pagsubok sa Pagkakadiskonekta sa Internet ng ChromeOS",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "Hindi ka nakakonekta sa network.",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "Available ang koneksyon sa Internet",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "Hindi nakakonekta ang Chromebook na ito sa isang network. Mangyaring pumunta sa status tray at kumonekta sa isang available na network.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "May available na koneksyon sa Internet.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "Isang walang problemang resulta ang ibinabalik kapag ang nakakonektang interface ng network ay nagbalik ng status code na nakakonekta",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "Isang may problemang resulta ang ibinabalik kapag ang nakakonektang interface ng network ay nagbalik ng status code na nadiskonekta: ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "Bilang ng mga nakitang available na network: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "Pagsubok sa Bersyon ng Chrome",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "Hindi pinakabagong bersyon ang Google Chrome",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "Pinakabagong bersyon ang Google Chrome",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "Wala kang pinakabagong bersyon ng Google Chrome. Ang ibig sabihin nito ay wala sa iyo ang lahat ng kilalang pag-aayos ng bug at maaari kang makaranas ng mga problema sa pagkakakonekta. I-click ang menu ng Chrome sa toolbar ng browser at piliin ang I-update ang Google Chrome.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "Mayroon kang pinakabagong bersyon ng Google Chrome at samakatuwid ay mayroon ka ng lahat ng alam na pag-aayos ng mga bug sa koneksyon.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "Raw na browser user-agent: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "Numero ng bersyon ng browser (maikli): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "Numero ng bersyon ng browser (kumpleto): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "Threshold para sa numero ng bersyon ng Chrome kung saan nagbibigay kami ng hatol na walang problema kapag mas mataas doon o katumbas noon ang numero ng bersyon ng Chrome: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "Threshold para sa numero ng bersyon ng Chrome kung saan nagbibigay kami ng hatol na may problema kapag mas mababa roon ang numero ng bersyon ng Chrome: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "Pangalan ng Bersyon ng ChromeOS",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "Luma na ang Chrome OS",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "Napapanahon ang Chrome OS",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "Hindi mo ginagamit ang pinakabagong bersyon ng Chrome OS. Bilang resulta, wala ka ng lahat ng alam na pag-aayos ng bug at samakatuwid ay maaari kang makaranas ng mga problema sa koneksyon.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "Gumagamit ka ng bagong bersyon ng Chrome OS at samakatuwid ay mayroon ka ng lahat ng alam na pag-aayos sa mga isyu sa koneksyon.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Nakakita ng problema ang pagsubok sa bersyon ng Chrome OS. Luma na ang bersyon ng Chrome OS. Ang minimum nang bersyon ay: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Walang nakitang problema ang pagsubok sa bersyon ng Chrome OS. Napapanahon ang bersyon ng Chrome OS. Ang minimum nang bersyon ay: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "Raw na browser user-agent: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "Maikling numero ng platform ng Chrome OS: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "Kumpletong numero ng platform ng Chrome OS: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "Threshold para sa numero ng platform ng ChromeOS kung saan nagbibigay kami ng hatol na walang problema kapag mas mataas doon o katumbas noon ang numero ng platform ng ChromeOS: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "Threshold para sa platform number ng ChromeOS sa ibaba kung saan nagbibigay kami ng hatol na may problema: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "Resolver Present na Pagsubok",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "Walang available na gumaganang DNS server",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "Available ang DNS server",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "Tina-translate ng isang DNS server ang isang hostname (hal. www.google.com) sa isang IP address. May IP address dapat na kokonektahan ang isang browser upang makapag-load ng website. Hindi matukoy ng Chrome ang IP ng website na gusto mong bisitahin dahil hindi gumagana ang iyong DNS server. Mangyaring makipag-ugnayan sa iyong ISP o administrator ng network.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "Nakakita ang Chrome ng isang DNS server na matagumpay na nag-translate ng isang hostname (hal. www.google.com) sa isang IP address.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "Sinusubukang ayusin ang hostname: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "Nagbalik ang DNS server ng mga resulta ng query ng DNS.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "Hindi nagbalik ang DNS server ng mga resulta ng query ng DNS.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "Ang ginawang hostname ay ang IP address na: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "Nagsasagawa ang pagsubok sa resolver ng DNS ng iisang query ng DNS at nagbabalik ng hatol na pasado kung may naibalik na wastong tugon.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "Nagsasagawa ang pagsubok sa resolver ng DNS ng iisang query ng DNS at nagbabalik ng hatol na hindi pumasa kung walang naibalik na wastong tugon.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "Nagbalik ang DNS server ng status code ng tagumpay na: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "Nagbalik ng status code na may problema ang DNS server: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "Pagsubok sa Latency ng Resolver",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "Masyadong nagtagal ang pagresolba ng DNS",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "Nagtagal kaysa sa karaniwan ang pagresolba ng DNS",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "Natanggap ang mabilis na tugon ng DNS",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "Hindi mabilis ang pagbalik ng sagot ng iyong DNS server. Tina-translate ng isang DNS server ang isang hostname (hal. www.google.com) sa isang IP address. Dapat mayroong kokonektahang IP address ang browser upang makapag-load ng isang website..",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "Hindi mabilis ang pagbalik ng sagot ng iyong DNS server. Tina-translate ng isang DNS server ang isang hostname (hal. www.google.com) sa isang IP address. Dapat mayroong kokonektahang IP address ang browser upang makapag-load ng isang website.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "Mabilis na naibalik ng iyong DNS server ang sagot sa iyong mga hiniling! Tina-translate ng isang DNS server ang isang hostname (hal. www.google.com) sa isang IP address. Dapat mayroong kokonektahang IP address ang browser upang makapag-load ng isang website.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "Sinusubukang ayusin ang hostname #: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "Resultang natanggap para sa pagresolba ng DNS. Numero ng Pagsubok / Kasalukuyang Oras / Itinagal na Oras (ms) / Oras ng Pagsisimula (ms): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "Kabuuang oras ng pagresolba ng DNS para sa lahat ng pagsubok (ms): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "Kabuuang naayos na mga host ng DNS: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "Average na tagal ng pagresolba ng DNS (ms): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "Benchmark ng average na tagal ng pagresolba ng DNS (ms) kung saan nagbibigay ng hatol na walang problema kapag mas mabilis doon ang pagresolba ng DNS: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "Benchmark ng average na tagal ng pagresolba ng DNS (ms) kung saan nagbibigay ng hatol na may posibleng problema kapag kasing tagal nito ang pagresolba ng DNS: ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "Benchmark ng average na tagal ng pagresolba ng DNS (ms) kung saan nagbibigay ng hatol na may problema kapag mas matagal doon ang pagresolba ng DNS: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "Pagsubok sa Pag-poison ng DNS",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "Nagbalik ang DNS server ng mga inaasahang resulta",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "Ang mga resulta ng DNS ay inaasahan at mukhang tumpak",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "Hindi inaasahan ang mga resulta ng DNS at maaaring poisoned ito.",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "Ibinalik ang isang poisoned na tugon ng DNS. Maaaring magbalik ang isang poisoned na DNS server ng di-wastong IP address at i-divert ang iyong trapiko sa isang host na iba sa nilalayon.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "Itinuturing na poisoned ang mga resulta ng DNS kapag hindi ibinabalik ng resolver ang inaasahang IP address.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "Hindi itinuturing na poisoned ang mga resulta ng DNS kapag ibinabalik ng resolver ang inaasahang IP address.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "# ng Pagsubok / Hostname ng pagsubok : ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " walang ibinalik na field ng address ng DNS ang pagsubok (nakatakda sa null)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " pagsubok; walang resultang status code; ia-abort ang pagsubok dahil sa pagkabigo ng pagsubok.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " nagbalik ang pagsubok ng status code: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " nagbalik ng naayos DNS address: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "Pagsubok sa Firewall ng TCP",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "Na-block ang trapiko ng Internet sa port ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "Mukhang na-block ang trapiko ng Internet sa port ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "Pinapayagan ang trapiko ng Internet sa port ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "May ipinapatupad na paghihigpit sa iyong network para sa isang karaniwang ginagamit na koneksyon sa Internet.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "Mukhang may ipinapatupad na paghihigpit sa iyong network para sa isang karaniwang ginagamit na koneksyon sa Internet.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "Nagtagumpay tayo sa pagkonekta sa port ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " Sumusubok ng TCP connection # / hostname / port : ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " Ibinalik ng pagsubok sa firewall ng TCP ang status code ng TCP na: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "Mga resulta ng pagsubok sa firewall: Nagpatakbo ng mga pagsubok / nasuri ang port / bilang ng mga nabigong koneksyon: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "Nabigo ang pagtangka ng pagsubok sa koneksyon at hindi nagbalik ng tagumpay na status code ng TCP mula sa stack ng network ng Chrome ngunit nagbalik sa halip ng status code na: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "Hindi available ang nakitang resolver ng DNS, kaya hindi namin matukoy kung may firewall",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "Hindi available ang nakitang network, kaya hindi namin matukoy kung may firewall",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "Nagbibigay ng hatol na walang problema kapag ang porsyento ng mga nabigong resulta ng pagsubok sa koneksyong TCP ay mas mababa sa o katumbas ng: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "Nagbibigay ng hatol na may problema kapag ang porsyento ng mga nabigong resulta ng pagsubok sa koneksyong TCP ay katumbas ng: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "Nagbibigay ng hatol na may posibleng problema kapag ang bilang ng mga nabigong resulta ng pagsubok sa koneksyong TCP ay nasa pagitan ng: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "Pagsubok sa HTTP Captive Portal",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "Ang trapiko sa Internet ay na-block ng captive portal",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "Hindi magawang maayos na sumubok para sa isang HTTP Captive Portal",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "May nakitang hindi ligtas na access sa Internet",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "Ang captive portal ay isang website kung saan hinihiling ng network sa mga user nito na tingnan at makipag-ugnayan dito bago mabigyan ng access upang malayang makapag-browse sa Internet. May nakitang captive portal sa iyong network, na nangangahulugang naka-block ang hindi pinaghihigpitang access sa Internet.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "May problema na pumipigil sa pagsubok ng isang HTTP Captive Portal. Ang pinaka-karaniwang dahilan kung bakit ito nangyayari ay kung ang lahat ng trapiko sa iyong network ay tinatanggihan o bina-block.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "May nakitang bukas na access sa Internet. Ang captive portal ay isang website na hinihiling ng network sa mga user nito na tingnan at makipag-ugnayan bago mabigyan ng access upang malayang makapag-browse sa Internet.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "Magbabalik ang pagsubok sa HTTP captive portal ng hatol na walang problema kung magbabalik ang lahat ng kahilingan sa HTTP ng status code ng HTTP na 204",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "Nagbabalik ang pagsubok ng HTTP captive portal ng isang potensyal na hatol na may problema kung mayroong problema sa network na higit sa sumusunod na porsyento ng mga kahilingan ng HTTP: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "Magbabalik ang pagsubok sa HTTP captive portal ng hatol na may problema kung hindi magbabalik ang alinman sa mga kahilingan sa HTTP ng status code ng HTTP na 204",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "# ng error sa kahilingan / status ng error: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "Numero ng tugon / code sa pagtugon ng HTTP: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "Numero ng tugon / mga header sa pagtugon ng HTTP: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "Numero ng kahilingan / buong haba ng pagtugon: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "Pagsubok sa Latency ng HTTP ng Mga Website ng Google",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "Masyadong nagtagal ang mga kahilingan sa web sa Google",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "Nagtagal kaysa sa inaasahan ang mga kahilingan sa web sa Google",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "Nakatanggap ng mabibilis na tugon mula sa mga website ng Google",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Nagtatagal ito kaysa sa nararapat sa pagtanggap ng pagtugon mula sa mga website ng Google, na nagpapahiwatig nf mabagal na network.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Bahagya itong nagtatagal kaysa dapat sa pagtanggap ng pagtugon mula sa mga website ng Google, na nagpapahiwatig ng mabagal na network.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "Mabilis na tinatanggap ang mga kahilingan sa web sa Google.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "Error sa # ng kahilingan / status ng error: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "Average na oras ng pagtugon ng HTTP (ms): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "Kabuuang bilang ng mga kahilingan sa HTTP: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "Kabuuang oras ng pagtugon ng HTTP (ms): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "# ng pagtugon ng HTTP / oras nang matanggap (microtimestamp) / oras na itinagal (ms): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "Benchmark ng average na tagal ng latency ng HTTP (ms) kung saan nagbibigay ng hatol na walang problema kapag mas mabilis doon ang latency ng HTTP: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "Benchmark ng average na tagal ng latency ng HTTP (ms) kung saan nagbibigay ng hatol na may posibleng problema kapag kasing bilis nito ang latency ng HTTP: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "Benchmark ng average na tagal ng latency ng HTTP (ms) kung saan nagbibigay ng hatol na may problema kapag mas matagal doon ang latency ng HTTP: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "Pagsubok sa Lakas ng Signal ng WiFi ng ChromeOS",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "Hindi natuloy ang pagsubok sa lakas ng signal ng WiFi",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "Hindi mapapatakbo ang pagsubok, walang nakitang koneksyon sa Wi-Fi.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "Mahina ang signal ng network",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "Mahina ang signal ng WiFi network.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "Malakas ang signal ng network",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "Malakas ang signal ng WiFi network.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "Pangalan ng signal / lakas ng signal ng network: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "Benchmark ng lakas ng signal ng ChromeOS kung saan nagbibigay ng hatol na walang problema kapag mas malakas doon ang signal: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "Benchmark ng lakas ng signal ng ChromeOS kung saan nagbibigay ng hatol na may problema kapag mas mahina roon ang signal: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "Pagsubok sa Pag-ping sa Gateway",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "Hindi magawang mag-ping sa gateway",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "Hindi nakakakuha ng mabilis na tugon kapag pini-ping ang gateway.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "Naaabot ang gateway",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "Nagkakaroon ng mabilisang tugon kapag pini-ping ang gateway.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "Threshold para sa latency (ms) ng pag-ping sa gateway kung saan nagbibigay kami ng hatol na walang problema kapag mas mababa roon ang latency: ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "Threshold para sa latency (ms) ng pag-ping sa gateway kung saan nagbibigay kami ng hatol na may problema kapag mas mataas doon ang latency: ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "Hindi kailanman nakatanggap ng packet ng pagtugon ang query ICMP na direkta sa gateway IP.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "Latency ng packet ng ICMP (ms): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "Hindi matukoy ang IP ng gateway",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "Natukoy ang IP ng gateway na: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "Ang ibinalik na IP mula sa pagpapadala ng packet ng ICMP sa isang malayong host na may TTL na 1 ay pareho sa IP ng malayong host: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "Pagsubok sa Pagkakakonekta ng Hangouts",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "Available ang koneksyon sa Hangouts",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "Matagumpay na nakakonekta sa serbisyo ng Hangouts.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Mukhang bahagyang hindi maganda ang koneksyon sa Hangouts",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "Hindi makakonekta sa serbisyo sa media ng Hangouts sa port 19302 hanggang 19309 ng UPD.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Hindi magawa ang koneksyon sa Hangout",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Mukhang naka-block ang mga port at host na kinakailangan upang makakonekta sa Hangouts.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "Hindi makakonekta sa serbisyo sa media ng Hangouts sa port 443 ng TCP at sa port 19302 hanggang 19309 ng UDP.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Hindi makakonekta sa serbisyo sa chat ng Hangouts.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "Hindi makakonekta sa serbisyo sa chat ng Hangouts o sa serbisyo sa media ng Hangouts sa port 443 ng TCP.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "Nagtagumpay ang koneksyong TCP sa port 443 para sa host ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "Nabigo at naka-block ang koneksyong TCP sa port 443 para sa host ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "Nabigo at naka-block ang koneksyong UDP sa destination port ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "Nagtagumpay ang koneksyong UDP sa destination port ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "Magbabalik ang pagsubok sa naka-block ng Hangouts ng hatol na walang problema kung: (1) may magagawang koneksyon sa stun.l.google.com sa anumang port ng UDP mula 19302 hanggang 19309 (2) May magagawang koneksyong TCP sa apis.google.com, clients6.google.com, plus.google.com, at talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "Magbabalik ang pagsubok sa naka-block ng Hangouts ng hatol na may problema kung: (1) naka-block ang lahat ng destination port ng UDP mula 19302 hanggang 19309 para sa stun.l.google.com (2) Mabibigo ang isang koneksyong TCP sa alinman sa mga sumusunod na host sa port 443: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "Pagsubok sa Pag-encrypt ng WiFi",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "Hindi natuloy ang pasubok ng pag-encrypt sa WiFi",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "Hindi napatakbo ang pagsubok ng pag-encrypt sa WiFi, walang WiFi network.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "Malakas ang paraan ng pag-encrypt sa WiFi",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "Malakas ang paraan sa pag-encrypt ng WiFi na ginagamit ng iyong machine.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "Bahagyang secure lang ang paraan ng pag-encrypt ng WiFi",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "Hindi malakas gaya ng inaasahan ang paraan ng pag-encrypt ng WiFi na ginagamit ng iyong koneksyon sa network.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "Hindi secure ang paraan ng pag-encrypt ng WiFi",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "Hindi secure ang paraan ng pag-encrypt ng WiFi na ginagamit ng iyong koneksyon sa network.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "Mga paraan ng pag-encrypt ng WiFi kung saan nakakuha ng hatol na may problema: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "Mga paraan ng pag-encrypt ng WiFi kung saan nakakuha ng hatol na walang problema: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "Makakakuha ng hatol na maaaring may problema kung hindi kami sigurado tungkol sa paraan ng pag-encrypt ng WiFi",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "Bilang ng mga nakitang available na network: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "Paraan ng pag-encrypt na ginamit ng kasalukuyang nakakonektang WiFi network: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "Pagsubok sa Website ng Google na End-to-End",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "Available ang mga website ng Google",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "Mukhang naglo-load nang maayos ang mga website ng Google nang walang anumang uri ng problema sa pagkakakonekta.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Hindi makuha at ma-load nang maayos ang mga website ng Google.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "Nagkaproblema habang sinusubukang i-access ang mga website ng Google. Maaaring dahil ito sa ilang isyu kabilang ang captive portal, pagpo-poison sa dns, pag-atake na man-in-the-middle at iba pang mga paraan ng pagbabago sa network.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "Itinuturing na matagumpay ang pag-access sa mga website ng Google mula sa isang end-to-end na perspektibo kung makakapagtatag ng HTTPS na koneksyon sa lahat ng partikular na sinubukang website ng serbisyo ng Google",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "Itinuturing na may problema ang pag-access sa mga website ng Google mula sa isang end-to-end na perspektibo kung hindi makapagtatag ng HTTPS na koneksyon sa alinman sa mga partikular na sinubukang website ng serbisyo ng Google",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "# ng Pagsubok / Hostname ng pagsubok : ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "Nagkaroon ng error noong sinusubukang kumonekta sa sumusunod na hostname, susubukang muli: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "Nagkaroon ng mga nagpapatuloy na error kapag kumokonekta sa sumusunod na hostname, na mukhang may problema sa connectivity: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "Matagumpay na natapos ang kahilingan sa sumusunod na hostname na may sumusunod na status code: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

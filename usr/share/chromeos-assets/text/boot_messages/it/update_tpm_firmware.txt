@@ -1,0 +1,4 @@
+Installazione dell'aggiornamento in corso…
+
+Non spegnere il dispositivo. Si riavvierà automaticamente
+al termine dell'aggiornamento.

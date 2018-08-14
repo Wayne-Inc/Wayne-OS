@@ -1,0 +1,4 @@
+﻿
+Järjestelmäsi käynnistettiin viimeksi kehittäjätilassa.
+Palataan normaalitilaan…
+Järjestelmä käynnistyy uudelleen, kun se on valmis.

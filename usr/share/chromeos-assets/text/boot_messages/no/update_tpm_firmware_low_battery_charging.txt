@@ -1,0 +1,5 @@
+Det er for lite batteri igjen til å starte oppdateringen.
+
+Lader …
+
+Oppdateringen starter automatisk når batteriet er tilstrekkelig ladet.

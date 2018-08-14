@@ -1,0 +1,4 @@
+Värskenduse installimine …
+
+Ärge lülitage seadet välja. See taaskäivitub automaatselt,
+kui värskendamine lõpetatakse.

@@ -1,0 +1,5 @@
+﻿
+Enhedsejeren har deaktiveret Udviklertilstand for denne enhed. Bed enhedsejeren om at fjerne restriktionen, hvis du vil bruge Udviklertilstand.
+
+
+Slå udviklerkontakten til og , og genstart enheden for at gå tilbage til Verificeret tilstand.

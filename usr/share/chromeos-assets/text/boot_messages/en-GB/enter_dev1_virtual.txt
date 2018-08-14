@@ -1,0 +1,8 @@
+﻿
+Your system is transitioning to Developer Mode.
+Local data has been cleared.
+
+Modifications you make to the system are not supported by Google, may cause
+hardware issues and may void warranty.
+
+To cancel, turn your computer off now.

@@ -1,0 +1,3 @@
+Update installeren...
+
+Schakel het apparaat niet uit. Het apparaat wordt automatisch opnieuw opgestart wanneer de update is voltooid.

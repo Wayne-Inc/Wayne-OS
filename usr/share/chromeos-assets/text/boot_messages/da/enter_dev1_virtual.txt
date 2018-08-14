@@ -1,0 +1,8 @@
+﻿
+Dit system er ved at skifte til udviklertilstand.
+Lokale data er blevet ryddet.
+
+Ændringer, du foretager i systemet, understøttes ikke af Google og kan forårsage
+problemer med hardware og kan ugyldiggøre garantien.
+
+Hvis du vil annullere, skal du slukke computeren nu.

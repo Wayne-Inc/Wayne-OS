@@ -1,0 +1,5 @@
+﻿
+Il proprietario del dispositivo ha disattivato la Modalità sviluppatore per questo dispositivo. Se desideri utilizzare la Modalità sviluppatore, chiedi al proprietario di rimuovere la limitazione.
+
+
+Il sistema verrà riavviato in Modalità verificata.

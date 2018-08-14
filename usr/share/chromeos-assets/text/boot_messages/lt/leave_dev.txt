@@ -1,0 +1,4 @@
+﻿
+Sistema paskutinį kartą paleista kūrėjo režimu.
+Grąžinama į normalų (patvirtintą) režimą...
+Baigus sistema bus paleista iš naujo.

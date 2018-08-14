@@ -1,0 +1,5 @@
+﻿
+Enhetens ägare har inaktiverat utvecklarläget för enheten. Be ägaren att ta bort begränsningen om du vill använda utvecklarläget.
+
+
+Enheten startas om i verifierat läge av systemet.

@@ -1,0 +1,5 @@
+﻿
+Właściciel urządzenia wyłączył na nim tryb programisty. Jeśli chcesz używać tego trybu, poproś właściciela urządzenia o usunięcie tego ograniczenia.
+
+
+Zmień ustawienie trybu programisty i uruchom ponownie urządzenie, by powrócić do trybu zweryfikowanego.

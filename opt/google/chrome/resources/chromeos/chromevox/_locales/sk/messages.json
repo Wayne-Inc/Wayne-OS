@@ -1,0 +1,3082 @@
+﻿{
+  "LOCALE": {
+    "message": "sk"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox \u2013 hlas prehliada\u010da Chrome"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Zastavi\u0165 re\u010d"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "Povoli\u0165 alebo zak\u00e1za\u0165 r\u00fdchly re\u017eim"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "K\u013e\u00fa\u010d predpony"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "Prejs\u0165 na \u010fal\u0161iu zamerate\u013en\u00fa polo\u017eku"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "Prejs\u0165 na predch\u00e1dzaj\u00facu zamerate\u013en\u00fa polo\u017eku"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "Prejs\u0165 sp\u00e4\u0165"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "Prejs\u0165 dopredu"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Posun\u00fa\u0165 do\u013eava"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "Posun\u00fa\u0165 doprava"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "Prejs\u0165 sp\u00e4\u0165 po\u010das nepretr\u017eit\u00e9ho \u010d\u00edtania"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "Prejs\u0165 dopredu po\u010das nepretr\u017eit\u00e9ho \u010d\u00edtania"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Zn\u00ed\u017ei\u0165 podrobnos\u0165 navig\u00e1cie"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "Zv\u00fd\u0161i\u0165 podrobnos\u0165 navig\u00e1cie"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "Prejs\u0165 na aktu\u00e1lnu polo\u017eku"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Klikn\u00fa\u0165 na aktu\u00e1lnu polo\u017eku"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Ozn\u00e1mi\u0165 webov\u00fa adresu za odkazom"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Ozn\u00e1mi\u0165 n\u00e1zov aktu\u00e1lnej str\u00e1nky"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Ozn\u00e1mi\u0165 webov\u00fa adresu aktu\u00e1lnej str\u00e1nky"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "Za\u010da\u0165 \u010d\u00edta\u0165 z aktu\u00e1lneho miesta"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "Otvori\u0165 ponuky roz\u0161\u00edrenia ChromeVox"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "Skry\u0165 pomocn\u00edka roz\u0161\u00edrenia ChromeVox"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Stla\u010den\u00edm tla\u010didiel hore alebo dole si prehliadnete pr\u00edkazy a tla\u010didlom Enter ich aktivujete"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "Otvori\u0165 pr\u00edru\u010dku roz\u0161\u00edrenia ChromeVox"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "Vyh\u013ead\u00e1vanie ChromeVox na str\u00e1nke"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "Otvori\u0165 str\u00e1nku mo\u017enost\u00ed"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "Otvori\u0165 re\u017eim u\u010denia"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Zn\u00ed\u017ei\u0165 r\u00fdchlos\u0165 re\u010di"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "Zv\u00fd\u0161i\u0165 r\u00fdchlos\u0165 re\u010di"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Zn\u00ed\u017ei\u0165 v\u00fd\u0161ku hlasu"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "Zv\u00fd\u0161i\u0165 v\u00fd\u0161ku hlasu"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Zn\u00ed\u017ei\u0165 hlasitos\u0165 re\u010di"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "Zv\u00fd\u0161i\u0165 hlasitos\u0165 re\u010di"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "Zobrazi\u0165 zoznam formul\u00e1rov"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "Zobrazi\u0165 zoznam nadpisov"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "Zobrazi\u0165 zoznam odkazov"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "Zobrazi\u0165 zoznam tabuliek"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "Zobrazi\u0165 zoznam orienta\u010dn\u00fdch bodov"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "Predch\u00e1dzaj\u00faci riadok tabu\u013eky"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "\u010eal\u0161\u00ed riadok tabu\u013eky"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "Predch\u00e1dzaj\u00faci st\u013apec tabu\u013eky"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "\u010eal\u0161\u00ed st\u013apec tabu\u013eky"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Ozn\u00e1mi\u0165 hlavi\u010dky aktu\u00e1lnej bunky"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Ozn\u00e1mi\u0165 aktu\u00e1lne s\u00faradnice bunky"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Vykona\u0165 odhad v hlavi\u010dke riadka aktu\u00e1lnej bunky"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Vykona\u0165 odhad v hlavi\u010dke st\u013apca aktu\u00e1lnej bunky"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "Prejs\u0165 na za\u010diatok tabu\u013eky"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "Prejs\u0165 na koniec tabu\u013eky"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "Prejs\u0165 na za\u010diatok aktu\u00e1lneho riadka"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "Prejs\u0165 na koniec aktu\u00e1lneho riadka"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "Prejs\u0165 na za\u010diatok aktu\u00e1lneho st\u013apca"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "Prejs\u0165 na koniec aktu\u00e1lneho st\u013apca"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "\u010eal\u0161\u00ed nadpis 1. \u00farovne"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "Predch\u00e1dzaj\u00faci nadpis 1. \u00farovne"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "\u010eal\u0161\u00ed nadpis 2. \u00farovne"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "Predch\u00e1dzaj\u00faci nadpis 2. \u00farovne"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "\u010eal\u0161\u00ed nadpis 3. \u00farovne"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "Predch\u00e1dzaj\u00faci nadpis 3. \u00farovne"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "\u010eal\u0161ia hlavi\u010dka 4. \u00farovne"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "Predch\u00e1dzaj\u00faci nadpis 4. \u00farovne"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "\u010eal\u0161\u00ed nadpis 5. \u00farovne"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "Predch\u00e1dzaj\u00faci nadpis 5. \u00farovne"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "\u010eal\u0161\u00ed nadpis 6. \u00farovne"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "Predch\u00e1dzaj\u00faca hlavi\u010dka 6. \u00farovne"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "\u010eal\u0161ie rozba\u013eovacie pole"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "Predch\u00e1dzaj\u00face rozba\u013eovacie pole"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "\u010eal\u0161ia upravite\u013en\u00e1 textov\u00e1 oblas\u0165"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "Predch\u00e1dzaj\u00faca upravite\u013en\u00e1 textov\u00e1 oblas\u0165"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "\u010eal\u0161ie pole formul\u00e1ra"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "Predch\u00e1dzaj\u00face pole formul\u00e1ra"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "\u010eal\u0161\u00ed obr\u00e1zok"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "Predch\u00e1dzaj\u00faci obr\u00e1zok"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "\u010eal\u0161\u00ed nadpis"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "Predch\u00e1dzaj\u00faci nadpis"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "\u010eal\u0161ia polo\u017eka zoznamu"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "Predch\u00e1dzaj\u00faca polo\u017eka v zozname"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "\u010eal\u0161\u00ed skok"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "Predch\u00e1dzaj\u00faci skok"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "\u010eal\u0161\u00ed odkaz"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "Predch\u00e1dzaj\u00faci odkaz"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "\u010eal\u0161\u00ed zoznam"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "Predch\u00e1dzaj\u00faci zoznam"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "\u010eal\u0161\u00ed matematick\u00fd v\u00fdraz"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "Predch\u00e1dzaj\u00faci matematick\u00fd v\u00fdraz"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "\u010eal\u0161ie m\u00e9di\u00e1"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "Predch\u00e1dzaj\u00face m\u00e9di\u00e1"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "\u010eal\u0161\u00ed blok cit\u00e1cie"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "Predch\u00e1dzaj\u00faci blok cit\u00e1cie"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "\u010eal\u0161\u00ed prep\u00edna\u010d"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "Predch\u00e1dzaj\u00faci prep\u00edna\u010d"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "\u010eal\u0161\u00ed pos\u00fava\u010d"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "Predch\u00e1dzaj\u00faci pos\u00fava\u010d"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "\u010eal\u0161ia tabu\u013eka"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "\u010eal\u0161\u00ed nav\u0161t\u00edven\u00fd odkaz"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "Predch\u00e1dzaj\u00faca tabu\u013eka"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Predch\u00e1dzaj\u00faci nav\u0161t\u00edven\u00fd odkaz"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "\u010eal\u0161ie tla\u010didlo"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "Predch\u00e1dzaj\u00face tla\u010didlo"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "\u010eal\u0161ie za\u010diarkavacie pol\u00ed\u010dko"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "Predch\u00e1dzaj\u00face za\u010diarkavacie pol\u00ed\u010dko"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "\u010eal\u0161\u00ed orienta\u010dn\u00fd bod"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "Prech\u00e1dzaj\u00faci orienta\u010dn\u00fd bod"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "Ukazovate\u013e ladenia"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Oznamuje stru\u010dn\u00fd popis aktu\u00e1lnej poz\u00edcie"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Oznamuje \u00fapln\u00fd popis aktu\u00e1lnej poz\u00edcie"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "Mo\u017enosti roz\u0161\u00edrenia ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Virtu\u00e1lna Braillova obrazovka"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "Simuluje v\u00fdstup obnovite\u013en\u00e9ho hmatov\u00e9ho displeja na paneli ChromeVox v\u00a0hornej \u010dasti obrazovky."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "Riadky:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "Bunky v\u00a0ka\u017edom riadku:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Aktu\u00e1lny \u0161t\u00fdl zobrazenia je prekladan\u00fd."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Aktu\u00e1lny \u0161t\u00fdl zobrazenie je ved\u013ea seba."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Zmeni\u0165 \u0161t\u00fdl zobrazenia na prekladan\u00fd"
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Zmeni\u0165 \u0161t\u00fdl zobrazenia na ved\u013ea seba"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "Pomocou mo\u017enost\u00ed ni\u017e\u0161ie si m\u00f4\u017eete prisp\u00f4sobi\u0165 roz\u0161\u00edrenie ChromeVox. Zmeny sa prejavia okam\u017eite."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "Zameranie zmen\u00edte pomocou my\u0161i."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "Zobrazi\u0165 kontext polo\u017eky pred \u010fal\u0161\u00edmi inform\u00e1ciami (ako je jej n\u00e1zov)."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "Vylep\u0161enie \u0161pecifick\u00fdch webov\u00fdch str\u00e1nok (napr\u00edklad Vyh\u013ead\u00e1vania Google)"
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "Povoli\u0165 podrobn\u00e9 popisy."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Po na\u010d\u00edtan\u00ed str\u00e1nku automaticky pre\u010d\u00edta\u0165."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Pri prehr\u00e1van\u00ed zvuku\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "Pri hlasovej odozve ChromeVox zachova\u0165 norm\u00e1lnu hlasitos\u0165 prehr\u00e1vania"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "Pri hlasovej odozve ChromeVox zn\u00ed\u017ei\u0165 hlasitos\u0165 prehr\u00e1vania"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "Pri hlasovej odozve ChromeVox pozastavi\u0165 prehr\u00e1vanie"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "Pri \u00faprave textu umiestnite kurzor medzi znaky (podobne ako v syst\u00e9me Mac OS X)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Hlasy"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Vybra\u0165 aktu\u00e1lny hlas:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Braillovo p\u00edsmo"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "Prepn\u00fa\u0165 na osembodov\u00e9 Braillovo p\u00edsmo"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "Prepn\u00fa\u0165 na \u0161es\u0165bodov\u00e9 Braillovo p\u00edsmo"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "Vyberte \u0161es\u0165bodov\u00fa Braillovu tabu\u013eku:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, stupe\u0148 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), \u00farove\u0148 $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "Vyberte osembodov\u00fa Braillovu tabu\u013eku"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "Povoli\u0165 zalamovanie slov"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Kl\u00e1vesov\u00e9 skratky"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "Ak chcete zmeni\u0165 aktu\u00e1lnu kl\u00e1vesov\u00fa mapu, vyberte mo\u017enos\u0165 zo zoznamu ni\u017e\u0161ie."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Obnovi\u0165 aktu\u00e1lnu mapu kl\u00e1vesov"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "Ak chcete prisp\u00f4sobi\u0165 kl\u00e1vesov\u00e9 skratky pre \u010dasto pou\u017e\u00edvan\u00e9 pr\u00edkazy, zadajte ich do zodpovedaj\u00facich pol\u00ed ni\u017e\u0161ie."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "Kl\u00e1vesy modifik\u00e1tora"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "Kl\u00e1ves modifik\u00e1tora slu\u017eby ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "Re\u017eim u\u010denia ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Po stla\u010den\u00ed \u013eubovo\u013en\u00e9ho kl\u00e1vesu sa dozviete jeho n\u00e1zov. Kombin\u00e1ciou kl\u00e1vesov Ctrl+W re\u017eim u\u010denia ukon\u010d\u00edte."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "karta sa vytvorila"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "karta $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "okno, karta $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "okno inkognito, karta $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "otvorila sa ponuka $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "ponuka zatvoren\u00e1"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "za\u010diarkavacie pol\u00ed\u010dko $1$ je za\u010diarknut\u00e9",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "za\u010diarknut\u00e9"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, za\u010diarkavacie pol\u00ed\u010dko nie je za\u010diarknut\u00e9",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "neza\u010diarknut\u00e9"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$, zapnut\u00e9",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$, vypnut\u00e9",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, prep\u00edna\u010d bol vybran\u00fd",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "vybran\u00e9"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, prep\u00edna\u010d nie je vybran\u00fd",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "nevybran\u00e9"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, ponuka",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, polo\u017eka ponuky",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, polo\u017eka ponuky s podponukou",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, okno",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, textov\u00e9 pole",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, textov\u00e9 pole",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, textov\u00e9 pole pre heslo",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, textov\u00e9 pole pre heslo",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, tla\u010didlo",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, rozba\u013eovacie pole",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, rozba\u013eovacie pole",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, pole zoznamu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, pole zoznamu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, odkaz",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, karta",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "Pos\u00fava\u010d $1$ $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", vybran\u00e9"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", nevybran\u00e9"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$ z $2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " \u00farove\u0148 $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "Hodnotenie: $1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "V\u00fd\u0161ka: $1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "Hlasitos\u0165: $1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "Ukon\u010dili ste dial\u00f3gov\u00e9 okno"
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "Ukon\u010den\u00e9 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "Vstup do dial\u00f3gov\u00e9ho okna"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "odstr\u00e1nen\u00e9:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "R\u00fdchly re\u017eim bol povolen\u00fd"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "R\u00fdchly re\u017eim bol zak\u00e1zan\u00fd"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Pomocn\u00edk pre kl\u00e1vesnicu"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Kontextov\u00e1 ponuka"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "Zoznam $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "Ak chcete prehliada\u0165, pou\u017eite kl\u00e1vesy hore a dole. Ak chcete h\u013eada\u0165, za\u010dnite p\u00edsa\u0165."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "Ukon\u010den\u00e9"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "Koniec bunky"
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "Nena\u0161la sa \u017eiadna webov\u00e1 adresa"
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "Op\u00fa\u0161\u0165ate tabu\u013eku"
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "Op\u00fa\u0161\u0165ate mrie\u017eku"
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "V tabu\u013eke"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Nena\u0161la sa \u017eiadna tabu\u013eka"
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Mimo tabu\u013eky"
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Nie ste v\u00a0re\u017eime tabu\u013eky."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "Ni\u017e\u0161ie nie je \u017eiadna bunka"
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Vy\u0161\u0161ie nie je \u017eiadna bunka"
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Vpravo nie je \u017eiadna bunka"
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "V\u013eavo nie je \u017eiadna bunka"
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "Pr\u00e1zdna bunka"
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Roz\u0161\u00edren\u00e9"
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Hlavi\u010dka riadka:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Pr\u00e1zdna hlavi\u010dka riadka"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Hlavi\u010dka st\u013apca:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Pr\u00e1zdna hlavi\u010dka st\u013apca"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "\u017diadne hlavi\u010dky"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Pr\u00e1zdne hlavi\u010dky"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "riadok $1$ z $2$, st\u013apec $3$ z $4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "Tabu\u013eka $1$, $2$ x $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "tabl. $1$ $2$ x $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "riadok $1$ st\u013apec $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "r$1$s$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "\u017diadne \u010fal\u0161ie za\u010diarkavacie pol\u00ed\u010dko"
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "\u017diadne prech\u00e1dzaj\u00face za\u010diarkavacie pol\u00ed\u010dko"
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "\u017diadne \u010fal\u0161ie upravite\u013en\u00e9 textov\u00e9 pole"
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "\u017diadne predch\u00e1dzaj\u00face upravite\u013en\u00e9 textov\u00e9 pole"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "\u017diadny \u010fal\u0161\u00ed nadpis"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci nadpis"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "\u017diadny \u010fal\u0161\u00ed nadpis 1. \u00farovne"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci nadpis 1. \u00farovne"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "\u017diadny \u010fal\u0161\u00ed nadpis 2. \u00farovne"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci nadpis 2. \u00farovne"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "\u017diadny \u010fal\u0161\u00ed nadpis 3. \u00farovne"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci nadpis 3. \u00farovne"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "\u017diadny \u010fal\u0161\u00ed nadpis 4. \u00farovne"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "\u017diaden predch\u00e1dzaj\u00faci nadpis 4. \u00farovne"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "\u017diadny \u010fal\u0161\u00ed nadpis 5. \u00farovne"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci nadpis 5. \u00farovne"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "\u017diadny \u010fal\u0161\u00ed nadpis 6. \u00farovne"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci nadpis 6. \u00farovne"
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "\u017diadna \u010fal\u0161ia polo\u017eka, ktor\u00e1 nie je odkazom"
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "\u017diadna predch\u00e1dzaj\u00faca polo\u017eka, ktor\u00e1 nie je odkazom"
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "\u017diadne \u010fal\u0161ie ukotvenie"
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "\u017diadne predch\u00e1dzaj\u00face ukotvenie"
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "\u017diadny \u010fal\u0161\u00ed odkaz"
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci odkaz"
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "\u017diadna \u010fal\u0161ia tabu\u013eka"
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "\u017diadna predch\u00e1dzaj\u00faca tabu\u013eka"
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "\u017diadny \u010fal\u0161\u00ed nav\u0161t\u00edven\u00fd odkaz"
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci nav\u0161t\u00edven\u00fd odkaz"
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "\u017diadny nasleduj\u00faci matematick\u00fd v\u00fdraz"
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci matematick\u00fd v\u00fdraz"
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "\u017diadna \u010fal\u0161ia miniaplik\u00e1cia pre m\u00e9di\u00e1"
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "\u017diadna predch\u00e1dzaj\u00faca miniaplik\u00e1cia pre m\u00e9di\u00e1"
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "\u017diadny \u010fal\u0161\u00ed zoznam"
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci zoznam"
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "\u017diadna \u010fal\u0161ia polo\u017eka zoznamu"
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "\u017diadna predch\u00e1dzaj\u00faca polo\u017eka zoznamu"
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "\u017diadny \u010fal\u0161\u00ed prvok blockquote"
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci prvok blockquote"
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "\u017diadne \u010fal\u0161ie pole formul\u00e1ra"
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "\u017diadne predch\u00e1dzaj\u00face pole formul\u00e1ra"
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "\u017diadny \u010fal\u0161\u00ed bod presko\u010denia"
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci bod presko\u010denia"
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "\u017diadny \u010fal\u0161\u00ed orienta\u010dn\u00fd bod ARIA"
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci orienta\u010dn\u00fd bod ARIA"
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "\u017diadne \u010fal\u0161ie rozba\u013eovacie pole"
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "\u017diadne predch\u00e1dzaj\u00face rozba\u013eovacie pole"
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "\u017diadne \u010fal\u0161ie tla\u010didlo"
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "\u017diadne predch\u00e1dzaj\u00face tla\u010didlo"
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "\u017diadna \u010fal\u0161ia grafika"
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "\u017diadna predch\u00e1dzaj\u00faca grafika"
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "\u017diadny \u010fal\u0161\u00ed pos\u00fava\u010d"
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci pos\u00fava\u010d"
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "\u017diadny \u010fal\u0161\u00ed prep\u00edna\u010d"
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci prep\u00edna\u010d"
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "\u017diadna \u010fal\u0161ia sekcia"
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "\u017diadna predch\u00e1dzaj\u00faca sekcia"
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "\u017diadny nasleduj\u00faci ovl\u00e1dac\u00ed prvok"
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci ovl\u00e1dac\u00ed prvok"
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "Kliknut\u00e9"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "dvakr\u00e1t kliknut\u00e9"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "\u017diadne nadpisy"
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "\u017diadne odkazy"
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "\u017diadne formul\u00e1re"
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "\u017diadne tabu\u013eky"
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "\u017diadne orienta\u010dn\u00e9 body ARIA"
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "\u017diadne presko\u010denia"
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$ z $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "m\u00e1 podponuku"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "m\u00e1 kontextov\u00e9 okno"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+kontextov\u00e9 okno"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "Min. $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "min:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "Max. $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "max:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "Upozornenie"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "upozornenie"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "Dial\u00f3gov\u00e9 okno s upozornen\u00edm"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "dial\u00f3g s upozornen\u00edm"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "Tla\u010didlo"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "tla\u010didlo"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "Za\u010diarkavacie pol\u00ed\u010dko"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Pole s v\u00fdberom"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "Dial\u00f3gov\u00e9 okno"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "dial\u00f3gov\u00e9 okno"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "Mrie\u017eka"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "mrie\u017eka"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "Bunka"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "riadok $1$ st\u013apec $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Odkaz"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "odkaz"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "Pole s ponukou"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "pole zoznamu"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "Denn\u00edk"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "denn\u00edk"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Marquee"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "pohybliv\u00fd prvok"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Ponuka"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "ponuka"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Panel s\u00a0ponukami"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Polo\u017eka ponuky"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Za\u010diarkavacie pol\u00ed\u010dko polo\u017eky ponuky"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Prep\u00edna\u010d polo\u017eky ponuky"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "Kontextov\u00e9 tla\u010didlo"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Panel priebehu"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Indik\u00e1tor priebehu"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "Prep\u00edna\u010d"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Skupina prep\u00edna\u010dov"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Panel pos\u00favania"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Posuvn\u00edk"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "pos\u00fava\u010d"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "Tla\u010didlo ot\u00e1\u010dania"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "Stav"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "stav"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Karta"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "karta"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "Tabu\u013eka"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "tabu\u013eka"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "Zoznam kariet"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "Panel karty"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Textov\u00e9 pole"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "\u010casova\u010d"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "\u010dasova\u010d"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "Panel s n\u00e1strojmi"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "Popis"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "Strom"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "strom"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "Polo\u017eka stromu"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "\u010cl\u00e1nok"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "\u010dl\u00e1nok"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "Aplik\u00e1cia"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "aplik\u00e1cia"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Banner"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "banner"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Hlavi\u010dka st\u013apca"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "Doplnkov\u00e9"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "doplnkov\u00e9"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Inform\u00e1cie o obsahu"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "Defin\u00edcia"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "defin\u00edcia"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Adres\u00e1r"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "adres\u00e1r"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Dokument"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "dokument"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Formul\u00e1r"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "formul\u00e1r"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Skupina"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "skupina"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Nadpis"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "Obr\u00e1zok"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "obr\u00e1zok"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "Zoznam"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "zoznam"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "Polo\u017eka zoznamu"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "polo\u017eka zoznamu"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Hlavn\u00e9"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "hlavn\u00e9"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Matematika"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Navig\u00e1cia"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "navig\u00e1cia"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Pozn\u00e1mka"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "pozn\u00e1mka"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Oblas\u0165"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "oblas\u0165"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Hlavi\u010dka riadka"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "Vyh\u013ead\u00e1vanie"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "search"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Odde\u013eova\u010d"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "Meter"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "meter"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Vlo\u017een\u00e9 automatick\u00e9 dop\u013a\u0148anie"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "Zoznam automatick\u00e9ho dop\u013a\u0148ania"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Vlo\u017een\u00e9 automatick\u00e9 dop\u013a\u0148anie a zoznam"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "Za\u010diarknut\u00e9"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "Neza\u010diarknut\u00e9"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "\u010ciasto\u010dne za\u010diarknut\u00e9"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Deaktivovan\u00e9"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "Rozbalen\u00e9"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "Zbalen\u00e9"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "Neplatn\u00fd vstup"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "Na\u0161la sa gramatick\u00e1 chyba"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "gramatick\u00e1 chyba"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "Zistila sa pravopisn\u00e1 chyba"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "preklep"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "Viac riadkov"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "Hromadn\u00fd v\u00fdber"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "viac volieb"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Stla\u010den\u00e9"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Nestla\u010den\u00e9"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "\u010ciasto\u010dne stla\u010den\u00e9"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Iba na \u010d\u00edtanie"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "iba na \u010d\u00edtanie"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "Povinn\u00e9"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Vybrat\u00e9"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Nevybran\u00e9"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Nav\u0161t\u00edven\u00fd odkaz"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "Nav\u0161t\u00edven\u00e9"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "Nadpis 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "Nadpis 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "Nadpis 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "Nadpis 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "Nadpis 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "Nadpis 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "Polo\u017eka zoznamu"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "polo\u017eka zoznamu"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "\u010c\u00edslovan\u00fd zoznam"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "zoznam"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Pole s v\u00fdberom"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "Textov\u00e1 oblas\u0165"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "tabu\u013eka"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tabu\u013eka"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "Zoznam"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "zoznam"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Sekcia"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Navig\u00e1cia"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "navig\u00e1cia"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "\u010cl\u00e1nok"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "\u010dl\u00e1nok"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "Ved\u013ea"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "odsaden\u00fd text"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Skupina nadpisov"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Hlavi\u010dka"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "hlavi\u010dka"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "P\u00e4ta"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "p\u00e4ta"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "\u010cas"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "Zna\u010dka"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "zna\u010dka"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Video"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "video"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "Zvuk"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "zvuk"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "V\u00fdber farieb"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "v\u00fdber farieb"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "Ovl\u00e1danie d\u00e1tumu a \u010dasu"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "d\u00e1tum a \u010das"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Ovl\u00e1dac\u00ed prvok \u010dasu"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "\u010das"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "Ovl\u00e1danie d\u00e1tumu a \u010dasu"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "d\u00e1tum a \u010das"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "Ovl\u00e1dac\u00ed prvok D\u00e1tum"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "d\u00e1tum"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Upravi\u0165 text, vstup e-mailovej adresy"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@upr osembodov\u00e9"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "V\u00fdber s\u00faboru"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "s\u00fabor"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "Ovl\u00e1dac\u00ed prvok Mesiac"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "mesiac"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "\u00daprava iba numerick\u00e9ho textu"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "Text \u00fapravy hesla"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "Obnovi\u0165"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "obnovenie"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Upravi\u0165 text, vstup vyh\u013ead\u00e1vania"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Upravi\u0165 text"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Upravi\u0165 text, vstup webovej adresy"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "upraven\u00e9 URL \u2013 osembodov\u00e9"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Ovl\u00e1dac\u00ed prvok T\u00fd\u017ede\u0148 roka"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "t\u00fd\u017ede\u0148"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Intern\u00fd odkaz"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Pr\u00e1zdne"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "Medzera"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "s $1$ polo\u017ekami",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "s {COUNT,plural, =1{# polo\u017ekou}few{# polo\u017ekami}many{# polo\u017ekami}other{# polo\u017ekami}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}few{#}many{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "s podponukou"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "m\u00e1 kontextov\u00e9 okno"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "m\u00e1 kontextov\u00e9 okno"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "Po\u010det polo\u017eiek v zbierke $1$: $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "Medzera"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Backspace"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Tab"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Do\u013eava"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Hore"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "Doprava"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Dole"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Nezn\u00e1my odkaz"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "Aktiv\u00e1cia a deaktiv\u00e1cia roz\u0161\u00edrenia ChromeVox."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "Roz\u0161\u00edrenie ChromeVox je teraz neakt\u00edvne"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "Prepnutie na klasick\u00fd re\u017eim ChromeVox."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "Predch\u00e1dzaj\u00faci odli\u0161n\u00fd prvok"
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "\u010eal\u0161\u00ed odli\u0161n\u00fd prvok"
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "Predch\u00e1dzaj\u00faci podobn\u00fd prvok"
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "\u010eal\u0161\u00ed podobn\u00fd prvok"
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "\u017diadne \u010fal\u0161ie podobn\u00e9 prvky"
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "\u017diadne \u010fal\u0161ie odli\u0161n\u00e9 prvky"
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "Vst\u00fapi\u0165 do re\u017eimu presk\u00famavania skup\u00edn"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Presk\u00famavanie skup\u00edn"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Objekt"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Skupina"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "Tabu\u013eka"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Riadok"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "St\u013apec"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Riadok"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "St\u013apec"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "riadok"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "st\u013apec"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "Strom jazyka Math ML"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "Rozlo\u017eenie jazyka Math ML"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "Token jazyka Math ML"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "List jazyka Math ML"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "Vizu\u00e1lne"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "Vlastn\u00e9"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "Riadok"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "Veta"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "Slovo"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Znak"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "N\u00e1js\u0165 na str\u00e1nke"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Zadajte vyh\u013ead\u00e1vac\u00ed dopyt"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "Vyh\u013ead\u00e1vanie na str\u00e1nke bolo ukon\u010den\u00e9"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "\u017diadne \u010fal\u0161ie v\u00fdsledky"
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "Kl\u00e1ves modifik\u00e1tora"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "Navig\u00e1cia roz\u0161\u00edrenia ChromeVox"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Inform\u00e1cie"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "Pr\u00edkazy pomocn\u00edka"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Ovl\u00e1danie re\u010di"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "Preh\u013ead"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "Tabu\u013eky"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "Pr\u00edkazy na presko\u010denie"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Braillovo p\u00edsmo"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "V\u00fdvoj\u00e1r"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Klasick\u00e1 kl\u00e1vesov\u00e1 mapa"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "\u010eal\u0161ia mapa kl\u00e1vesov"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "Ploch\u00e1 mapa kl\u00e1vesov"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "Experiment\u00e1lna mapa kl\u00e1vesov"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "Povoli\u0165 zapisovanie do denn\u00edka TTS"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "Za\u010dnite v\u00fdber"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "Ukon\u010di\u0165 v\u00fdber"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "V\u00fdber je "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "Za\u010da\u0165 alebo ukon\u010di\u0165 v\u00fdber"
+  },
+  "CHROMEVOX_COPY": {
+    "message": "kop\u00edrova\u0165 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "vystrihn\u00fa\u0165 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "prilepi\u0165 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "vybran\u00e9"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "nevybran\u00e9"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "pridan\u00e9 do v\u00fdberu"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "odstr\u00e1nen\u00e9 z v\u00fdberu"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "a potom"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "a potom zadajte"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "Modifik\u00e1tor slu\u017eby ChromeVox"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "Kl\u00e1ves $1$ je u\u017e k pr\u00edkazu priraden\u00fd",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Matematika"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Nejde o matematiku"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "AM / PM"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "hodiny"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "min\u00faty"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "sekundy"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "milisekundy"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "AM"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "PM"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "t\u00fd\u017ede\u0148"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "janu\u00e1r"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "febru\u00e1r"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "marec"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "apr\u00edl"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "m\u00e1j"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "j\u00fan"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "j\u00fal"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "august"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "september"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "okt\u00f3ber"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "november"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "december"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "\u017diadna interpunkcia"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "\u010ciasto\u010dn\u00e1 interpunkcia"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "\u00dapln\u00e1 interpunkcia"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Kl\u00e1vesom Enter polo\u017eku prijmete, kl\u00e1vesom Escape zru\u0161\u00edte akciu, \u0161\u00edpkou dole prejdete na \u010fal\u0161iu polo\u017eku a \u0161\u00edpkou hore na predch\u00e1dzaj\u00facu polo\u017eku."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "kliknute\u013en\u00e9"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "Predch\u00e1dzaj\u00faci znak"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "\u010eal\u0161\u00ed znak"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "Predch\u00e1dzaj\u00face slovo"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "\u010eal\u0161ie slovo"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "Predch\u00e1dzaj\u00faca veta"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "\u010eal\u0161ia veta"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "Predch\u00e1dzaj\u00faci riadok"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "\u010eal\u0161\u00ed riadok"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "Predch\u00e1dzaj\u00faci objekt"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "\u010eal\u0161\u00ed objekt"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "Predch\u00e1dzaj\u00faca skupina"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "\u010eal\u0161ia skupina"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "Orienta\u010dn\u00fd bod"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Nestla\u010dili ste \u017eiadny modifik\u00e1tor. Stla\u010dte a podr\u017ete jeden alebo viac modifik\u00e1torov. Po dokon\u010den\u00ed zdvihnite prsty. Ozve sa hl\u00e1senie o tom, ktor\u00e9 kl\u00e1vesy boli nastaven\u00e9. Kl\u00e1vesom Tab t\u00fato akciu ukon\u010d\u00edte."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "Kl\u00e1ves $1$ je teraz nov\u00fd modifik\u00e1tor slu\u017eby ChromeVox.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "Kl\u00e1ves $1$ bol obnoven\u00fd",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "Prepnut\u00e9 na kl\u00e1ves $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "Prechod do hornej \u010dasti str\u00e1nky"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "Prechod do spodnej \u010dasti str\u00e1nky"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "Skok na za\u010diatok"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "Skok na koniec"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "Cyklicky strieda\u0165 zvukov\u00fa odozvu na interpunkciu"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Cyklicky strieda\u0165 zvukov\u00fa odozvu na zad\u00e1vanie textu"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "Pozastav\u00ed v\u0161etky aktu\u00e1lne hraj\u00face medi\u00e1lne miniaplik\u00e1cie"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "Otvori\u0165 dlh\u00fd popis na novej karte"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "\u017diadny dlh\u00fd popis"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Obr\u00e1zok s dlh\u00fdm popisom"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$ a\u017e $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$ \u2013 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "Po\u010det vybran\u00fdch polo\u017eiek: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "sld $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "v\u00fdber bol vymazan\u00fd"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "zvukov\u00e1 odozva na znaky"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "zvukov\u00e1 odozva na slov\u00e1"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "zvukov\u00e1 odozva na znaky a slov\u00e1"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "bez zvukovej odozvy na zad\u00e1vanie textu"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "zada\u0165 \u0161trukt\u00farovan\u00fd obsah, ako s\u00fa napr\u00edklad tabu\u013eky"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "ukon\u010di\u0165 \u0161trukt\u00farovan\u00fd obsah, ako s\u00fa napr\u00edklad tabu\u013eky"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "zadan\u00e9: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "riadok \u0161trukt\u00fary"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "riadok"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Prepn\u00fa\u0165 typ riadku medzi riadkom \u0161trukt\u00fary a rozlo\u017eenia"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "tabu\u013eka"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "predvolen\u00e1 navig\u00e1cia"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "matematika"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "Prepn\u00fa\u0165 medzi \u0161truktur\u00e1lnou a s\u00e9mantickou interpret\u00e1ciou matematick\u00fdch v\u00fdrazov"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "S\u00e9mantika je zapnut\u00e1"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "S\u00e9mantika je vypnut\u00e1"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Ak chcete upozornenia skontrolova\u0165, stla\u010dte kl\u00e1vesy Alt+Shift+A"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "\u017diadny \u010fal\u0161\u00ed \u010dl\u00e1nok"
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "\u017diadny predch\u00e1dzaj\u00faci \u010dl\u00e1nok"
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "Hovoren\u00e1 sp\u00e4tn\u00e1 v\u00e4zba ChromeVox je pripraven\u00e1"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "Slu\u017eba ChromeVox je pripraven\u00e1"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "Zvukov\u00e9 sign\u00e1ly s\u00fa zapnut\u00e9"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Zvukov\u00e9 sign\u00e1ly s\u00fa vypnut\u00e9"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "Zapn\u00fa\u0165 alebo vypn\u00fa\u0165 zvukov\u00fa sp\u00e4tn\u00fa v\u00e4zbu (zvukov\u00e9 sign\u00e1ly"
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "Pre\u010d\u00edta\u0165 nahlas aktu\u00e1lny \u010das a d\u00e1tum"
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "V:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "Odstr\u00e1nen\u00e9"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Vykona\u0165 predvolen\u00fa akciu"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{v\u00fdkri\u010dn\u00edk}few{# v\u00fdkri\u010dn\u00edky}many{# v\u00fdkri\u010dn\u00edka}other{# v\u00fdkri\u010dn\u00edkov}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{medzera}few{# medzery}many{# spaces}other{# medzier}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{obr\u00e1ten\u00fd d\u013a\u017ee\u0148}few{# obr\u00e1ten\u00e9 d\u013a\u017ene}many{# backticks}other{# obr\u00e1ten\u00fdch d\u013a\u017e\u0148ov}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{VLNOVKA}few{# vlnovky}many{# tildes}other{# vlnoviek}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{zavin\u00e1\u010d}few{# zavin\u00e1\u010de}many{# at signs}other{# zavin\u00e1\u010dov}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{mrie\u017eka}few{# mrie\u017eky}many{# pound signs}other{# mrie\u017eok}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{dol\u00e1r}few{# znaky dol\u00e1ra}many{# dollar signs}other{# znakov dol\u00e1ra}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{percento}few{# znaky percenta}many{# percent signs}other{# znakov percenta}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{vsuvka}few{# vsuvky}many{# carets}other{# vsuviek}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{ampersand}few{# ampersandy}many{# ampersands}other{# ampersandov}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{hviezdi\u010dka}few{# hviezdi\u010dky}many{# asterisks}other{# hviezdi\u010diek}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{\u013eav\u00e1 z\u00e1tvorka}few{# \u013eav\u00e9 z\u00e1tvorky}many{# open parens}other{# \u013eav\u00fdch z\u00e1tvoriek}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{prav\u00e1 z\u00e1tvorka}few{# prav\u00e9 z\u00e1tvorky}many{# close parens}other{# prav\u00fdch z\u00e1tvoriek}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{poml\u010dka}few{# poml\u010dky}many{# dashes}other{# poml\u010diek}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{pod\u010diarkovn\u00edk}few{# pod\u010diarkovn\u00edky}many{# underscores}other{# pod\u010diarkovn\u00edkov}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{znak rovnosti}few{# znaky rovnosti}many{# equal signs}other{# znakov rovnosti}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{znak plus}few{# znaky plus}many{# plus signs}other{# znakov plus}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{\u013eav\u00e1 hranat\u00e1 z\u00e1tvorka}few{# \u013eav\u00e9 hranat\u00e9 z\u00e1tvorky}many{# left brackets}other{# \u013eav\u00fdch hranat\u00fdch z\u00e1tvoriek}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{prav\u00e1 hranat\u00e1 z\u00e1tvorka}few{# prav\u00e9 hranat\u00e9 z\u00e1tvorky}many{# right brackets}other{# prav\u00fdch hranat\u00fdch z\u00e1tvoriek}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{\u013eav\u00e1 zlo\u017een\u00e1 z\u00e1tvorka}few{# \u013eav\u00e9 zlo\u017een\u00e9 z\u00e1tvorky}many{# left braces}other{# \u013eav\u00fdch zlo\u017een\u00fdch z\u00e1tvoriek}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{prav\u00e1 zlo\u017een\u00e1 z\u00e1tvorka}few{# prav\u00e9 zlo\u017een\u00e9 z\u00e1tvorky}many{# right braces}other{# prav\u00fdch zlo\u017een\u00fdch z\u00e1tvoriek}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{zvisl\u00e1 \u010diara}few{# zvisl\u00e9 \u010diary}many{# vertical pipes}other{# zvisl\u00fdch \u010diar}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{bodko\u010diarka}few{# bodko\u010diarky}many{# semicolons}other{# bodko\u010diarok}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{dvojbodka}few{# dvojbodky}many{# colons}other{# dvojbodiek}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{\u010diarka}few{# \u010diarky}many{# commas}other{# \u010diarok}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{bodka}=3{v\u00fdpustka}few{# bodky}many{# dots}other{# bodiek}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{znak je men\u0161ie ako}few{# znaky je men\u0161ie ako}many{# less than signs}other{# znakov je men\u0161ie ako}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{znak je v\u00e4\u010d\u0161ie ako}few{# znaky je v\u00e4\u010d\u0161ie ako}many{# greater than signs}other{# znakov je v\u00e4\u010d\u0161ie ako}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{lomka}few{# lomky}many{# slashes}other{# lomiek}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{ot\u00e1znik}few{# ot\u00e1zniky}many{# question marks}other{# ot\u00e1znikov}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{\u00favodzovka}few{# \u00favodzovky}many{# quotes}other{# \u00favodzoviek}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{apostrof}few{# apostrofy}many{# apostrophes}other{# apostrofov}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{tabul\u00e1tor}few{# tabul\u00e1tory}many{# tabs}other{# tabul\u00e1torov}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{opa\u010dn\u00e1 lomka}few{# opa\u010dn\u00e9 lomky}many{# backslashes}other{# opa\u010dn\u00fdch lomiek}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{bod}few{# body}many{# bodu}other{# bodov}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "Kliknite na polo\u017eku pod naviga\u010dn\u00fdm kl\u00e1vesom $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "Posun\u00fa\u0165 sp\u00e4\u0165"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "Posun\u00fa\u0165 zobrazenie dopredu"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "Braille \u2013 predch\u00e1dzaj\u00faci riadok"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "Braille \u2013 \u010fal\u0161\u00ed riadok"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "Presun\u00fa\u0165 zobrazenie Braillovho p\u00edsma do hornej \u010dasti str\u00e1nky"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "Presun\u00fa\u0165 zobrazenie Braillovho p\u00edsma do dolnej \u010dasti str\u00e1nky"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "bodka $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "bodky $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ akord",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "Zobrazi\u0165 obr\u00e1zok na braillovej obrazovke"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "m\u00e1 pr\u00edstupov\u00fd k\u013e\u00fa\u010d $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "pr\u00edstupov\u00fd k\u013e\u00fa\u010d:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"arab\u010dina\",\n        \"bg\": \"bulhar\u010dina\",\n        \"ca\": \"katal\u00e1n\u010dina\",\n        \"cs\": \"\u010de\u0161tina\",\n        \"da\": \"d\u00e1n\u010dina\",\n        \"de\": \"nem\u010dina\",\n        \"de_CH\": \"nem\u010dina (\u0160vaj\u010diarsko)\",\n        \"de_DE\": \"nem\u010dina (Nemecko)\",\n        \"el\": \"gr\u00e9\u010dtina\",\n        \"en\": \"angli\u010dtina\",\n        \"en_CA\": \"angli\u010dtina (Kanada)\",\n        \"en_GB\": \"angli\u010dtina (Spojen\u00e9 kr\u00e1\u013eovstvo)\",\n        \"en_US\": \"angli\u010dtina (Spojen\u00e9 \u0161t\u00e1ty)\",\n        \"es\": \"\u0161paniel\u010dina\",\n        \"et\": \"est\u00f3n\u010dina\",\n        \"fr\": \"franc\u00faz\u0161tina\",\n        \"fr_CA\": \"franc\u00faz\u0161tina (Kanada)\",\n        \"fr_FR\": \"franc\u00faz\u0161tina (Franc\u00fazsko)\",\n        \"fi\": \"f\u00edn\u010dina\",\n        \"he\": \"hebrej\u010dina\",\n        \"hi\": \"hind\u010dina\",\n        \"hr\": \"chorv\u00e1t\u010dina\",\n        \"hu\": \"ma\u010far\u010dina\",\n        \"is\": \"island\u010dina\",\n        \"it\": \"talian\u010dina\",\n        \"ko\": \"k\u00f3rej\u010dina\",\n        \"lt\": \"litov\u010dina\",\n        \"lv\": \"loty\u0161tina\",\n        \"nb\": \"n\u00f3r\u010dina bokm\u00e5l\",\n        \"nl\": \"holand\u010dina\",\n        \"pl\": \"po\u013e\u0161tina\",\n        \"pt\": \"portugal\u010dina\",\n        \"ro\": \"rumun\u010dina\",\n        \"ru\": \"ru\u0161tina\",\n        \"sk\": \"sloven\u010dina\",\n        \"sl\": \"slovin\u010dina\",\n        \"sr\": \"srb\u010dina\",\n        \"sv\": \"\u0161v\u00e9d\u010dina\",\n        \"tr\": \"ture\u010dtina\",\n        \"vi\": \"vietnam\u010dina\",\n        \"zh\": \"\u010d\u00edn\u0161tina\",\n        \"zh_TW\": \"\u010d\u00edn\u0161tina (tradi\u010dn\u00e1)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Koniec textu"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "End"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "nov\u00fd riadok"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "vr\u00e1ti\u0165"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "\u010eal\u0161ie stla\u010denie kl\u00e1vesa bude ignorovan\u00e9"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Presko\u010di\u0165 kl\u00e1ves"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "Zobrazi\u0165 kontextov\u00fa ponuku"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Prepn\u00fa\u0165 Braillove titulky"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Titulky v Braillovom p\u00edsme s\u00fa zapnut\u00e9"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Titulky v Braillovom p\u00edsme s\u00fa vypnut\u00e9"
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "Mal\u00e9 a\u00a0ve\u013ek\u00e9 p\u00edsmen\u00e1 sa ignoruj\u00fa."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "Rozli\u0161uj\u00fa sa mal\u00e9 a\u00a0ve\u013ek\u00e9 p\u00edsmen\u00e1."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "sp\u00e4\u0165"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "dopredu"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "obnovenie"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "prepnutie na cel\u00fa obrazovku"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "preh\u013ead okien"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "Zn\u00ed\u017eenie jasu"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "Zv\u00fd\u0161enie jasu"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "stlmenie hlasitosti"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "zn\u00ed\u017eenie hlasitosti"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "zv\u00fd\u0161enie hlasitosti"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "Panel ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "Ponuky ChromeVox"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "Pr\u00edru\u010dka roz\u0161\u00edrenia ChromeVox"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "Ponuky ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "Mo\u017enosti roz\u0161\u00edrenia ChromeVox"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "Zak\u00e1za\u0165 ChromeVox"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(akt\u00edvne)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Presko\u010denie"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Re\u010d"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "Karty"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "Akcie"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "\u017diadne polo\u017eky."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Nahl\u00e1si\u0165 probl\u00e9m"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "Aplik\u00e1cia ChromeVox bola aktualizovan\u00e1"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Ak chcete z\u00edska\u0165 \u010fal\u0161ie inform\u00e1cie o\u00a0novink\u00e1ch, stla\u010dte tla\u010didl\u00e1 ChromeVox + O\u00a0+ N"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "Zobrazi\u0165 pozn\u00e1mky k\u00a0aktualiz\u00e1cii"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "Zavrie\u0165 n\u00e1vod pre ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "Dozadu"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "\u010ealej"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "Vitajte v\u00a0\u010d\u00edta\u010dke ChromeVox!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "Pou\u017e\u00edvate hovoren\u00fa sp\u00e4tn\u00fa v\u00e4zbu \u010d\u00edta\u010dky ChromeVox prv\u00fdkr\u00e1t? Tento stru\u010dn\u00fd n\u00e1vod v\u00e1m vysvetl\u00ed z\u00e1klady potrebn\u00e9 na za\u010datie pou\u017e\u00edvania \u010d\u00edta\u010dky ChromeVox."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "Ak chcete pokra\u010dova\u0165, stla\u010dte Enter. Vr\u00e1tite sa pomocou kl\u00e1vesa Backspace."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "Zapnutie, vypnutie a\u00a0zastavenie"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "Ak chcete ChromeVox do\u010dasne zastavi\u0165, stla\u010dte kl\u00e1ves Ctrl."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "Ak chcete zapn\u00fa\u0165 alebo vypn\u00fa\u0165 \u010d\u00edta\u010dku ChromeVox, stla\u010dte kombin\u00e1ciu kl\u00e1vesov Control + Alt + Z."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "Kl\u00e1ves modifik\u00e1tora \u010d\u00edta\u010dky ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "V\u00a0\u010d\u00edta\u010dke ChromeVox sl\u00fa\u017ei kl\u00e1ves H\u013eada\u0165 ako kl\u00e1ves modifik\u00e1tora. V\u00e4\u010d\u0161ina skratiek \u010d\u00edta\u010dky ChromeVox sa za\u010d\u00edna kl\u00e1vesom H\u013eada\u0165. Na navig\u00e1ciu budete tie\u017e pou\u017e\u00edva\u0165 kl\u00e1vesy so \u0161\u00edpkami."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "Kl\u00e1ves H\u013eada\u0165 sa na Chromebooku nach\u00e1dza priamo nad \u013eav\u00fdm kl\u00e1vesom Shift."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "Po stla\u010den\u00ed \u013eubovo\u013en\u00e9ho kl\u00e1vesa po\u010das tohto n\u00e1vodu zaznie jeho n\u00e1zov."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Z\u00e1kladn\u00e1 navig\u00e1cia"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "Ak chcete prech\u00e1dza\u0165 medzi polo\u017ekami na str\u00e1nke smerom dopredu, stla\u010dte kombin\u00e1ciu kl\u00e1vesov H\u013eada\u0165 + \u0161\u00edpka doprava. Ak chcete prech\u00e1dza\u0165 smerom dozadu, stla\u010dte kombin\u00e1ciu kl\u00e1vesov H\u013eada\u0165 + \u0161\u00edpka do\u013eava. Ak chcete prejs\u0165 na \u010fal\u0161\u00ed riadok, stla\u010dte kombin\u00e1ciu kl\u00e1vesov H\u013eada\u0165 + \u0161\u00edpka hore. Ke\u010f prejdete na polo\u017eku, na ktor\u00fa chcete klikn\u00fa\u0165, stla\u010dte kombin\u00e1ciu kl\u00e1vesov H\u013eada\u0165 + medzern\u00edk."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "Pomocou kombin\u00e1cie kl\u00e1vesov H\u013eada\u0165 + \u0161\u00edpka doprava sk\u00faste n\u00e1js\u0165 tla\u010didlo \u010ealej a\u00a0pomocou kombin\u00e1cie kl\u00e1vesov H\u013eada\u0165 + medzern\u00edk na\u0148 kliknite."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "Pr\u00edkazy na presko\u010denie"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Ak chcete prejs\u0165 na konkr\u00e9tne typy prvkov, pou\u017eite pr\u00edkazy na presko\u010denie. Ak chcete prech\u00e1dza\u0165 dopredu medzi nadpismi, stla\u010dte kombin\u00e1ciu kl\u00e1vesov H\u013eada\u0165 + H. Ak chcete prejs\u0165 dozadu, stla\u010dte kombin\u00e1ciu kl\u00e1vesov H\u013eada\u0165 + Shift + H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "Toto je druh\u00fd nadpis. Pokra\u010dujte; stla\u010dte bu\u010f H\u013eada\u0165+H, alebo H\u013eada\u0165+Shift+H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "Toto je posledn\u00fd nadpis. Stla\u010den\u00edm kombin\u00e1cie kl\u00e1vesov H\u013eada\u0165+H prejdete na prv\u00fd nadpis. Stla\u010den\u00edm kombin\u00e1cie kl\u00e1vesov H\u013eada\u0165+Shift+H prejdete na druh\u00fd nadpis na tejto str\u00e1nke."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Ponuky s\u00a0pr\u00edkazmi"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "Ak chcete presk\u00fama\u0165 v\u0161etky pr\u00edkazy a\u00a0skratky \u010d\u00edta\u010dky ChromeVox, stla\u010dte kombin\u00e1ciu kl\u00e1vesov H\u013eada\u0165 + Bodka, n\u00e1sledne prech\u00e1dzajte ponukami pomocou kl\u00e1vesov so \u0161\u00edpkami a\u00a0po\u017eadovan\u00fd pr\u00edkaz aktivujte kl\u00e1vesom Enter. Na t\u00fato obrazovku sa vr\u00e1tite po stla\u010den\u00ed kombin\u00e1cie kl\u00e1vesov H\u013eada\u0165+o s\u00a0n\u00e1sledn\u00fdm stla\u010den\u00edm kl\u00e1vesa t."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "U\u017eito\u010dn\u00e9 skratky Chromu"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "Nasleduj\u00face skratky nie s\u00fa pr\u00edkazy \u010d\u00edta\u010dky ChromeVox, ale s\u00fa st\u00e1le ve\u013emi u\u017eito\u010dn\u00e9 a\u00a0pom\u00f4\u017eu v\u00e1m z\u00edska\u0165 z\u00a0Chromu maximum.\nAk chcete prech\u00e1dza\u0165 dopredu medzi klikate\u013en\u00fdmi polo\u017ekami, ako s\u00fa tla\u010didl\u00e1 a\u00a0odkazy, stl\u00e1\u010dajte kl\u00e1ves Tab. Ak chcete prech\u00e1dza\u0165 dozadu, stl\u00e1\u010dajte kl\u00e1vesy Shift + Tab. \nAk chcete aktivova\u0165 panel s\u00a0adresou prehliada\u010da Chrome (naz\u00fdvan\u00fd tie\u017e v\u0161eobecn\u00e9 pole), stla\u010dte kl\u00e1vesy Control + L. \nAk chcete otvori\u0165 nov\u00fa kartu a\u00a0automaticky na \u0148u prejs\u0165, stla\u010dte kl\u00e1vesy Ctrl + T. Kurzor sa presunie do v\u0161eobecn\u00e9ho po\u013ea. \nAk chcete zavrie\u0165 kartu, stla\u010dte kombin\u00e1ciu kl\u00e1vesov Ctrl + W. \nAk chcete prech\u00e1dza\u0165 dopredu medzi otvoren\u00fdmi kartami, stla\u010dte kombin\u00e1ciu kl\u00e1vesov Ctrl + Tab. \nAk chcete otvori\u0165 ponuku prehliada\u010da Chrome, stla\u010dte kombin\u00e1ciu kl\u00e1vesov Alt + F."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "Ak chcete presko\u010di\u0165 na \u010fal\u0161ie \u010dasti obrazovky, napr\u00edklad na panel s\u00a0n\u00e1strojmi alebo oblas\u0165 ozn\u00e1men\u00ed, stla\u010dte kombin\u00e1ciu kl\u00e1vesov Ctrl + Dopredu. Kl\u00e1ves Dopredu sa na Chromebooku nach\u00e1dza priamo nad kl\u00e1vesom s\u00a0\u010d\u00edslicou 2."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "\u010eal\u0161ie inform\u00e1cie"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Blaho\u017eel\u00e1me! \u00daspe\u0161ne ste sa nau\u010dili z\u00e1klady pou\u017e\u00edvania \u010d\u00edta\u010dky ChromeVox. Ponuku s\u00a0pr\u00edkazmi \u010d\u00edta\u010dky ChromeVox m\u00f4\u017eete kedyko\u013evek otvori\u0165 stla\u010den\u00edm kombin\u00e1cie kl\u00e1vesov H\u013eada\u0165 + Bodka. Ak chcete o\u00a0\u010d\u00edta\u010dke ChromeVox a\u00a0syst\u00e9me Chrome OS z\u00edska\u0165 \u010fal\u0161ie inform\u00e1cie, pozrite si nasleduj\u00face \u010dl\u00e1nky.\nAk ste u\u017e s\u00a0n\u00e1vodom skon\u010dili, prejdite pomocou \u010d\u00edta\u010dky ChromeVox na tla\u010didlo Zavrie\u0165 a\u00a0kliknite na\u0148."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "\u010c\u00edta\u010dka ChromeVox bola aktualizovan\u00e1 na verziu 63."
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "V\u00a0tomto novom vydan\u00ed m\u00e1me pre v\u00e1s nieko\u013eko zauj\u00edmav\u00fdch zmien. Novinky:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "Klasick\u00e1 verzia bola odstr\u00e1nen\u00e1. Prep\u00edna\u010d na kl\u00e1vesnici umo\u017e\u0148uj\u00faci prepn\u00fa\u0165 sp\u00e4\u0165 na verziu ChromeVox Classic bol odstr\u00e1nen\u00fd."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "Podpora form\u00e1tovan\u00e9ho textu. ChromeVox teraz podporuje polia pre form\u00e1tovan\u00fd text vr\u00e1tane pr\u00edkazov na presko\u010denie, smerovania braillovho kurzora, v\u00fdberu at\u010f."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Aplik\u00e1cie Android pre Chrome. Ak m\u00e1te v\u00a0zariaden\u00ed Obchod Play, vysk\u00fa\u0161ajte ChromeVox s\u00a0aplik\u00e1ciami pre Android. Vysk\u00fa\u0161ajte experiment\u00e1lnu podporu stiahnut\u00edm prehliada\u010da Google Chrome Canary z\u00a0Obchodu Play."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Sp\u00e4tn\u00fa v\u00e4zbu n\u00e1m m\u00f4\u017eete ako zvy\u010dajne odosla\u0165 priamo tak, \u017ee stla\u010d\u00edte kombin\u00e1ciu kl\u00e1vesov H\u013eada\u0165 + A\u00a0a\u00a0potom kl\u00e1ves I. Te\u0161\u00edme sa na v\u00e1\u0161 n\u00e1zor."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "Zoznam pr\u00edkazov \u010d\u00edta\u010dky ChromeVox"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Kl\u00e1vesov\u00e9 stkratky Chromebooku"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "Pou\u017eitie funkci\u00ed dostupnosti dotykovej obrazovky Chromebooku"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "zanepr\u00e1zdnen\u00e9"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "zanepr\u00e1zdnen\u00e9"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "predvolen\u00e9"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "predvolen\u00e9"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "Zvuky"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox v\u00e1m poskytuje z\u00e1kladn\u00e9 aj dodato\u010dn\u00e9 inform\u00e1cie pomocou zvukov. M\u00f4\u017eete ich pou\u017ei\u0165 na r\u00fdchlej\u0161iu navig\u00e1ciu. Sta\u010d\u00ed sa nau\u010di\u0165, \u010do jednotliv\u00e9 zvuky znamenaj\u00fa. Ke\u010f si pr\u00e1cu osvoj\u00edte, m\u00f4\u017eete vypn\u00fa\u0165 podrobn\u00e9 hlasov\u00e9 popisy a\u00a0z\u00e1kladn\u00e9 inform\u00e1cie o\u00a0str\u00e1nke vyvodzova\u0165 zo zvukov. Ni\u017e\u0161ie n\u00e1jdete \u00fapln\u00fd zoznam zvukov aj ich defin\u00edci\u00ed."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Upozornenie t\u00fdkaj\u00face sa re\u017eimu"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Upozornenie net\u00fdkaj\u00face sa re\u017eimu"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Tla\u010didlo"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "Neza\u010diarknut\u00e9 pol\u00ed\u010dko"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "Za\u010diarknut\u00e9 pol\u00ed\u010dko"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Upravite\u013en\u00e9 textov\u00e9 pole"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "Neplatn\u00e9 stla\u010denie kl\u00e1vesa"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Odkaz"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "Rozba\u013eovac\u00ed zoznam alebo pole"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "Prebieha na\u010d\u00edtavanie str\u00e1nky"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Kontextov\u00e9 tla\u010didlo"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "Pos\u00fava\u010d"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Prejs\u0165 od za\u010diatku do konca alebo od konca po za\u010diatok v\u00a0r\u00e1mci str\u00e1nky, dial\u00f3gov\u00e9ho okna alebo in\u00e9ho kontajnera."
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "Stmavi\u0165 obrazovku"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "Zru\u0161i\u0165 stmavenie obrazovky"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Hlasov\u00e1 odozva je vypnut\u00e1"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Hlasov\u00e1 odozva je zapnut\u00e1"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "Zapn\u00fa\u0165 alebo vypn\u00fa\u0165 hlasov\u00fa odozvu"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "Prep\u00ednanie medzi 6 a\u00a08-bodov\u00fdm Braillov\u00fdm p\u00edsmom"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "Za\u010diatok pravopisnej chyby"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Koniec pravopisnej chyby"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "Za\u010diatok gramatickej chyby"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Koniec gramatickej chyby"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "Za\u010diatok zhody textu"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Koniec zhody textu"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "Za\u010diatok tu\u010dn\u00e9ho p\u00edsma"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Koniec tu\u010dn\u00e9ho p\u00edsma"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "Za\u010diatok kurz\u00edvy"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "Koniec kurz\u00edvy"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "Za\u010diatok pod\u010diarknutia"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Koniec pod\u010diarknutia"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "Za\u010diatok pre\u010diarknutia"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "Koniec pre\u010diarknutia"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "Za\u010diatok odkazu"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Koniec odkazu"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "Ak chcete pou\u017e\u00edva\u0165 roz\u0161\u00edren\u00e9 pr\u00edkazy Braillovho p\u00edsma, aktivujte kl\u00e1vesnicu na stavovom paneli v\u00a0\u010dasti Dostupnos\u0165."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "Bez n\u00e1zvu"
+  },
+  "CHROMEVOX_WARNING_NO_CURRENT_RANGE": {
+    "message": "Nie je ozna\u010den\u00e1 \u017eiadna polo\u017eka. Nov\u00e9 okno otvor\u00edte pomocou kombin\u00e1cie kl\u00e1vesov Ctrl + T."
+  },
+  "CHROMEVOX_HINT_CHECKABLE": {
+    "message": "Prepnete pomocou kl\u00e1vesa H\u013eada\u0165 a\u00a0medzern\u00edka."
+  },
+  "CHROMEVOX_HINT_CLICKABLE": {
+    "message": "Aktivujete stla\u010den\u00edm kl\u00e1vesa H\u013eada\u0165 a\u00a0medzern\u00edka."
+  },
+  "CHROMEVOX_HINT_AUTOCOMPLETE_LIST": {
+    "message": "Automatick\u00e9 dop\u013a\u0148anie aktivujete pomocou \u0161\u00edpky nahor alebo nadol."
+  },
+  "CHROMEVOX_HINT_AUTOCOMPLETE_INLINE": {
+    "message": "Automatick\u00e9 dop\u013a\u0148anie spust\u00edte zadan\u00edm textu."
+  },
+  "CHROMEVOX_HINT_TABLE": {
+    "message": "Prech\u00e1dzajte po bunk\u00e1ch pomocou kl\u00e1vesov H\u013eada\u0165 + Ctrl + Alt"
+  },
+  "CHROMEVOX_HINT_MENU": {
+    "message": "Prech\u00e1dzajte pomocou \u0161\u00edpky nahor alebo nadol. Aktivujete zadan\u00edm textu."
+  }
+}

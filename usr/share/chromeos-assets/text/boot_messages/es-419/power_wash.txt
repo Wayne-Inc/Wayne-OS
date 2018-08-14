@@ -1,0 +1,4 @@
+﻿
+Powerwash en curso...
+
+Este restablecimiento de la configuración de fábrica se realiza cuando se detectan errores graves o cuando eliges restablecer tu dispositivo. El Sistema operativo de Chrome quedará como nuevo y podrás volver a usar tu dispositivo en solo un minuto.

@@ -1,0 +1,1098 @@
+{
+  "appname": {
+    "message": "„Chrome“ ryšio diagnostika",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "„Chrome“ ryšio diagnostika (beta versija)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "„Chrome“ ryšio diagnostika (kūrėjų versija)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "Ryšio diagnostika",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "Ryšio diagnostika",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "Nustatymai",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "Didinti",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "Atkurti",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "Uždaryti",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "Slinkti į viršų",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "Slinkti į apačią",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_connection": {
+    "message": "Ryšys",
+    "description": "Attribute label for network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "Signalo stiprumas",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "MAC adresas",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "IP adresas",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "Potinklio kaukė",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "Tinklų sietuvas",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "all_test_groups_summary_title": {
+    "message": "Tinklo ryšio bandymai",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "Fiksuotasis portalas",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "Vietinis tinklas",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "Užkarda",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "„Google“ paslaugos",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "Vykdomi bandymai. Tai gali užtrukti kelias minutes...",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "Bandant atlikti ryšio diagnostikos bandymus įvyko klaida. Spustelėkite krumpliaračio piktogramą ir pasirinkite „Pakartotinai vykdyti bandymus“. Jei klaida išlieka, spustelėkite nuorodą „Siųsti atsiliepimą“ ir aprašykite problemą.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "Siųsti atsiliepimą",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "Tinklo nustatymai",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "Vykdyti diagnostiką",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "Pakartot. vykd. diagnost.",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "Grįžti atgal",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "Panašu, kad tinklo ryšys veikia tinkamai.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "Rodyti sėkmingus bandymus",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "Slėpti sėkmingus bandym.",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "Pakartot. vykd. diagnost.",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "Siųsti atsiliepimą...",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "Apie",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "Apie programą",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "Versija: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "Sėkmingi bandymai",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "Sėkmingas bandymas",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "Įspėjimai",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "Įspėjimas",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "Bandymo pavadinimas: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "Bandymo ID: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "Bandymo rezultatas: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "Neaptikta jokių problemų",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "Aptikta problema",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "Aptikta galima problema",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "Nepavyksta paleisti bandymo",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "Rodyti žurnalus...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "Slėpti žurnalus...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "Kopijuoti rezultatų žurnalus",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "SUVESTINĖ",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "KRITERIJAI",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "IŠSAMI INFORMACIJA",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "IŠSAMI PALAIKYMO INFORMACIJA",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "Pavyko",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "Nepavyko",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "Eilėje",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "Įspėjimas",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "Leidžiamas",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "Atšauktas",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "Šiuo metu nėra jokių bandymo rezultatų.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "Laukiama, kol bus atlikti papildomi bandymai. Užbaigus bus parodyti rezultatai.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "bandymai",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "Gauti neapdoroti duomenys iš UDP programinės jungties: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "Sėkmingai nuskaityti duomenys iš UDP programinės jungties, kurios dydis (baitais): ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "Klaida nuskaitant UDP duomenis. Klaidos kodas: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "Sėkmingai išsiųstų duomenų dydis (baitais): ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "UDP programinės jungties duomenų, kuriuos ruošiamasi siųsti, dydis (baitais): ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "UDP programinės jungties numerio / prieglobos / prievado kūrimas: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "UDP skirtojo laiko trukmės nustatymas (milisek.): ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "Gauti neapdoroti duomenys iš TCP programinės jungties: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "Sėkmingai nuskaityti duomenys iš TCP programinės jungties, kurios dydis (baitais): ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "Klaida nuskaitant TCP duomenis. Klaidos kodas: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "Sėkmingai išsiųstų duomenų dydis (baitais): ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "Duomenų, kuriuos ruošiamasi siųsti, dydis (baitais): ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "TCP ryšys užmegztas su priegloba / prievadu / būsenos kodu: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "Nepavyko užmegzti TCP ryšio su priegloba / prievadu / būsenos kodu: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "Ryšio trikties priežastis: nežinoma",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "TCP ryšys užmegztas su priegloba / prievadu: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "Ryšio trikties priežastis: baigėsi skirtasis laikas",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "Ryšio trikties priežastis: ryšys atmestas",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "TCP programinės jungties numerio / prieglobos / prievado kūrimas: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "TCP skirtojo laiko trukmės nustatymas (milisek.): ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "„Chrome“ interneto atjungimo bandymas",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "Neprisijungta prie tinklo",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "Interneto ryšys galimas",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "„Chrome“ neprijungta prie tinklo. Patikrinkite operacinės sistemos tinklo nustatymus.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Interneto ryšys pasiekiamas „Chrome“ naršyklėje.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "TCP programinių jungčių, pateikusių būsenos kodus „Internetas atjungtas“, procentinis dydis, kurio nepasiekus nepateikiama jokių sprendimų dėl problemos: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "TCP programinių jungčių, pateikusių būsenos kodus „Internetas atjungtas“, procentinis dydis, kurį atitinkant ar viršijus pateikiamas sprendimas dėl problemos: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " Po „Chrome“ interneto ryšio bandymo buvo pateiktas TCP būsenos kodas: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " Bandymo užmegzti TCP ryšį Nr. / prieglobos serveris / prievadas: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "„Chrome“ OS interneto atjungimo bandymas",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "Neprisijungta prie tinklo",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "Interneto ryšys galimas",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "Šis „Chromebook“ neprijungtas prie tinklo. Eikite į būsenos dėklą ir prisijunkite prie pasiekiamo tinklo.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Interneto ryšys pasiekiam.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "Kai tinklo, prie kurio prisijungta, sąsaja pateikia prisijungimo būsenos kodą, pateikiamas rezultatas, jog nėra problemos.",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "Kai tinklo, prie kurio prisijungta, sąsaja pateikia atsijungimo būsenos kodą, pateikiamas rezultatas, jog yra problema: ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "Aptiktų galimų tinklų skaičius: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "„Chrome“ versijos bandymas",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "„Google Chrome“ versija nėra naujausia",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "„Google Chrome“ versija nėra naujausia",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "Neturite naujausios „Google Chrome“ versijos. Tai reiškia, kad nepataisytos visos žinomos triktys ir galbūt dėl to kyla ryšio problemų. Spustelėkite „Chrome“ meniu naršyklės įrankių juostoje ir pasirinkite „Atnaujinti „Google Chrome“.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "Turite naujausią „Google Chrome“ versiją, todėl joje pataisytos visos žinomos ryšio triktys.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "Neapdorota naršyklės naudotojo priemonė: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "Naršyklės versijos numeris (trumpas): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "Naršyklės versijos numeris (visas): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "„Chrome“ versijos numerio slenkstis, kurį viršijus ar atitinkant nepateikiama jokių sprendimų dėl problemos: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "„Chrome“ versijos numerio slenkstis, kurio nepasiekus pateikiamas sprendimas dėl problemos: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "„Chrome“ OS versijos pavadinimas",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "„Chrome“ OS versija pasenusi",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "„Chrome“ OS versija naujausia",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "Naudojate ne naujausią „Chrome“ OS versiją. Todėl nepataisytos visos žinomos triktys ir galbūt dėl to kyla ryšio problemų.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "Naudojate naujausią „Chrome“ OS versiją, todėl joje pataisytos visos žinomos ryšio triktys.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Atliekant „Chrome“ OS versijos bandymą aptikta problema. „Chrome“ OS versija pasenusi. Seniausia galima naudoti versija: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Atliekant „Chrome“ OS versijos bandymą neaptikta problemų. „Chrome“ OS versija naujausia. Seniausia galima naudoti versija: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "Neapdorota naršyklės naudotojo priemonė: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "Trumpasis „Chrome“ OS platformos numeris: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "Visas „Chrome“ OS platformos numeris: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "„Chrome“ OS platformos numerio slenkstis, kurį viršijus ar atitinkant nepateikiama jokių sprendimų dėl problemos: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "„Chrome“ OS platformos numerio slenkstis, kurio nepasiekus pateikiamas sprendimas dėl problemos: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "Nustatymo priemonės pateikimo bandymas",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "Nėra pasiekiamo veikiančio DNS serverio",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "DNS serveris galimas",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "DNS serveris verčia prieglobos serverio pavadinimą (pvz., www.google.com) į IP adresą. Naršyklė turi turėti IP adresą, prie kurio galėtų prisijungti, kad būtų įkelta svetainė. „Chrome“ negali nustatyti norimos aplankyti svetainės IP adreso, nes jūsų DNS serveris neveikia. Susisiekite su savo IPT ar tinklo administratoriumi.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "„Chrome“ aptiko DNS serverį, kuris sėkmingai išvertė prieglobos serverio pavadinimą (pvz., www.google.com) į IP adresą.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "Bandoma nustatyti prieglobos serverio pavadinimą: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "DNS serveris pateikė DNS užklausos rezultatus.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "DNS serveris nepateikė jokių rezultatų.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "Prieglobos serverio pavadinimas nustatytas į IP adresą: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "DNS nustatymo priemonės bandymas pateikia vieną DNS užklausą ir pateikia sėkmingai atlikto bandymo rezultatą, jei pateikiamas tinkamas atsakas.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "DNS nustatymo priemonės bandymas pateikia vieną DNS užklausą ir pateikia nepavykusio bandymo rezultatą, jei nepateikiamas tinkamas atsakas.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "DNS serveris pateikė sėkmingą būsenos kodą: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "DNS serveris pateikė problemos būsenos kodą: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "Nustatymo priemonės delsos bandymas",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "DNS nustatymas užtruko per ilgai",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "DNS nustatymas užtruko ilgiau nei vidutiniškai",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "Greitai gauti DNS atsakymai",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "DNS serveris greitai nepateikė atsakymų. DNS serveris verčia prieglobos serverio pavadinimą (pvz., www.google.com) į IP adresą. Naršyklei reikalingas IP adresas, prie kurio būtų galima prisijungti, kad būtų galima įkelti svetainę.",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "DNS serveris nepateikė atsakymų pakankamai greitai. DNS serveris verčia prieglobos serverio pavadinimą (pvz., www.google.com) į IP adresą. Naršyklei reikalingas IP adresas, prie kurio būtų galima prisijungti, kad būtų galima įkelti svetainę.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "DNS serveris greitai pateikė atsakymus į užklausas. DNS serveris verčia prieglobos serverio pavadinimą (pvz., www.google.com) į IP adresą. Naršyklei reikalingas IP adresas, prie kurio būtų galima prisijungti, kad būtų galima įkelti svetainę.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "Bandymo nustatyti prieglobos serverio pavadinimą Nr.: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "Pateiktas DNS nustatymo rezultatas. Bandymo numeris / dabartinis laikas / trukmė (milisek.) / pradžios laikas (milisek.): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "Visas visų bandymų DNS nustatymo laikas (milisek.): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "Iš viso nustatytų DNS prieglobų: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "Vidutinis DNS nustatymo laikas (milisek.): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "Vidutinio DNS nustatymo laiko (milisek.) palyginimas, pagal kurį nepateikiama jokių sprendimų dėl problemos: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "Vidutinio DNS nustatymo laiko (milisek.) palyginimas, pagal kurį pateikiamas potencialus sprendimas dėl problemos: ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "Vidutinio DNS nustatymo laiko (milisek.) palyginimas, kurį viršijus pateikiamas sprendimas dėl problemos: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "DNS pažeidimo bandymas",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "DNS serveris pateikė tikėtinus rezultatus",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "DNS rezultatai buvo numatomi ir atrodo, jog yra tikslūs",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "DNS rezultatai buvo netikėti ir gali būti pažeisti",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "Pateiktas pažeistas DNS atsakas. Pažeistas DNS serveris gali pateikti netinkamą IP adresą ir nukreipti srautą į kitą prieglobą nei numatyta.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "DNS rezultatai laikomi pažeistais, kai nustatymo priemonė nepateikia IP adreso, kurio buvo tikėtasi.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "DNS rezultatai laikomi nepažeistais, kai nustatymo priemonė pateikia IP adresą, kurio buvo tikėtasi.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "Bandymo Nr. / bandymo prieglobos serverio pavadinimas: ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " po bandymo nepateiktas joks DNS adreso laukas (nustatyta į nulį)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " bandymas; nėra būsenos kodo rezultatų; nutraukiamas bandymas dėl bandymo trikties.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " po bandymo pateiktas būsenos kodas: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " pateiktas nustatytas DNS adresas: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "TCP užkardos bandymas",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "Interneto srautas užblokuotas prievade ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "Atrodo, kad interneto srautas užblokuotas prievade ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "Interneto srautas leidžiamas prievade ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "Tinkle taikomas dažnai naudojamo interneto ryšio apribojimas.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "Atrodo, kad tinkle taikomas dažnai naudojamo interneto ryšio apribojimas.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "Pavyko užmegzti ryšį prievade ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " Bandomas TCP ryšys Nr. / prieglobos serverio pavadinimas / prievadas: ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " Atlikus TCP užkardos bandymą pateiktas TCP būsenos kodas: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "Užkardos bandymo rezultatai: bandymai atlikti / prievadas patikrintas / nepavykusių ryšių skaičius: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "Ryšio bandymas nepavyko ir nebuvo pateiktas sėkmingas TCP būsenos kodas iš „Chrome“ tinklo, bet buvo pateiktas šis būsenos kodas: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "Aptikta DNS nustatymo priemonė negalima, todėl nepavyko nustatyti, ar užkarda egzistuoja",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "Aptiktas tinklas nepasiekiamas, todėl nepavyko nustatyti, ar užkarda egzistuoja",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "Nepateikiama jokių sprendimų dėl problemos, kai nepavykusių TCP ryšių bandymų rezultatų procentinis dydis yra mažesnis arba lygus: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "Pateikiamas sprendimas dėl problemos, kai nepavykusių TCP ryšių bandymų rezultatų procentinis dydis yra lygus ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "Pateikiamas sprendimas dėl problemos, kai nepavykusių TCP ryšių bandymų rezultatų procentinis dydis yra tarp: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "HTTP fiksuoto portalo bandymas",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "Interneto srautą užblokavo fiksuotasis portalas",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "Nepavyksta tinkamai atlikti HTTP fiksuotojo portalo bandymo",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "Aptikta atvira interneto prieiga",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "Fiksuotasis portalas – tai svetainė, kurią tinklas pateikia naudotojams peržiūrėti ir sąveikauti su ja prieš suteikiant prieigą laisvai naršyti internetą. Tinkle buvo rastas fiksuotasis portalas, o tai reiškia, kad neribota prieiga prie interneto yra užblokuota.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "Iškilo problema, dėl kurios neleidžiama atlikti HTTP fiksuotojo portalo bandymo. Dažniausiai pasitaikanti šios problemos priežastis – visas jūsų tinklo srautas atmetamas arba blokuojamas.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "Aptikta atvira prieiga prie interneto. Fiksuotasis portalas – tai svetainė, kurią tinklas pateikia naudotojams peržiūrėti ir sąveikauti su ja prieš suteikiant prieigą laisvai naršyti internetą.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "Jei visos HTTP užklausos pateikia 204 HTTP būsenos kodą, atlikus HTTP fiksuotojo portalo bandymą nepateikiama jokių sprendimų dėl problemos.",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "Atliekant HTTP fiksuotojo portalo bandymą pateikiamas sprendimas dėl problemos, jei yra tinklo dėklo problemų daugiau nei nurodytas HTTP užklausų procentas: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "HTTP fiksuotojo portalo bandymas pateikia sprendimą dėl problemos, jei bet kurios HTTP užklausos nepateikia 204 HTTP būsenos kodo.",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "Užklausos klaidos Nr. / klaidos būsena: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "Atsako numeris / HTTP atsako kodas: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "Atsako numeris / HTTP atsako antraštės: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "Užklausos numeris / visa atsako trukmė: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "„Google“ svetainių HTTP delsos bandymas",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "„Google“ skirtos žiniatinklio užklausos užtruko per ilgai",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "„Google“ skirtos žiniatinklio užklausos užtruko ilgiau nei tikėtasi",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "Iš „Google“ svetainių gauta skubotų atsakų",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Atsako gavimas iš „Google“ svetainių trunka ilgiau, nei turėtų, o tai reiškia, kad tinklas veikia lėtai.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Atsako gavimas iš „Google“ svetainių trunka šiek tiek ilgiau nei turėtų, o tai reiškia, kad tinklas veikia lėtai.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "„Google“ skirtos žiniatinklio užklausos greitai gaunamos.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "Užklausos klaidos Nr. / klaidos būsena: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "Vidutinis HTTP atsako laikas (milisek.): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "Visas HTTP užklausų skaičius: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "Visas HTTP atsako laikas (milisek.): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "HTTP atsako Nr. / gavimo laikas (mikrolaiko žymė) / praėjęs laikas (milisek.): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "Vidutinio HTTP delsos laiko (milisek.) palyginimas, pagal kurį nepateikiama jokių sprendimų dėl problemos: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "Vidutinio HTTP delsos laiko (milisek.) palyginimas, pagal kurį pateikiamas potencialus sprendimas dėl problemos: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "Vidutinio HTTP delsos laiko (milisek.) palyginimas, kurį viršijus pateikiamas sprendimas dėl problemos: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "„Chrome“ OS „Wi-Fi“ signalo stiprumo bandymas",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "„Wi-Fi“ signalo stiprumo bandymas nutrauktas",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "Nepavyko paleisti bandymo, neaptiktas „Wi-Fi“ ryšys.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "Tinklo signalas silpnas",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "„Wi-Fi“ tinklo signalas silpnas.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "Tinklo signalas stiprus",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "„Wi-Fi“ tinklo signalas stiprus.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "Tinklo signalo pavadinimas / signalo stiprumas: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "„Chrome“ OS signalo stiprumo palyginimas, kurį viršijus nepateikiama jokių sprendimų dėl problemos: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "„Chrome“ OS signalo stiprumo palyginimas, kurio nepasiekus pateikiamas sprendimas dėl problemos: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "Tinklų sietuvo patikros bandymas",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "Nepavyko patikrinti tinklų sietuvo ryšio",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "Tikrinant tinklų sietuvo ryšį nepateikiamas greitas atsakas.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "Tinklų sietuvas pasiekiamas",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "Tikrinant tinklų sietuvo ryšį pateikiamas greitas atsakas.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "Delsos (milisek.) slenkstis, skirtas tinklų sietuvo ryšiui patikrinti, kurį pasiekus nepateikiami jokie sprendimai dėl problemos: ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "Delsos (milisek.) slenkstis, skirtas tinklų sietuvo ryšiui patikrinti, kurį viršijus pateikiamas sprendimas dėl problemos: ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "Pagal ICMP užklausą, pateiktą tiesiogiai į tinklų sietuvo IP, niekada nebuvo gautas atsako paketas.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "ICMP paketo delsa (milisek.): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "Nepavyko nustatyti tinklų sietuvo IP",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "Nustatyta, kad tinklų sietuvo IP bus: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "IP, pateiktas išsiuntus ICMP paketą į nuotolinę prieglobą su 1 TTL, buvo toks pat kaip nuotolinės prieglobos IP: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "„Hangout“ ryšio bandymas",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "„Hangout“ ryšys pasiekiamas",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "Sėkmingai prisijungta prie „Hangout“ paslaugos.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Atrodo, kad „Hangout“ ryšys tapo silpnesnis",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "Nepavyko prisijungti prie „Hangout“ medijos paslaugos naudojant UDP prievadus nuo 19302 iki 19309.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Nepavyko užmegzti „Hangout“ ryšio",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Atrodo, kad prievadai ir prieglobos, reikalingi norint prisijungti prie „Hangout“, yra užblokuoti.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "Nepavyko prisijungti prie „Hangout“ medijos paslaugos naudojant TCP prievadą 443 ir UDP prievadus nuo 19302 iki 19309.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Nepavyko prisijungti prie „Hangout“ pokalbių paslaugos.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "Nepavyko prisijungti prie „Hangout“ pokalbių paslaugos arba „Hangout“ medijos paslaugos naudojant TCP prievadą 443.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "Sėkmingai užmegztas TCP ryšys naudojant prieglobos prievadą 443 ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "Nepavyko užmegzti TCP ryšio ir jis užblokuotas naudojant prieglobos prievadą 443 ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "Nepavyko užmegzti UDP ryšio ir jis užblokuotas naudojant paskirties prievadą ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "Pavyko užmegzti UDP ryšį naudojant paskirties prievadą ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "Užblokuotų „Hangout“ bandymas nepateikia jokių sprendimų dėl problemos, jei: 1. ryšį galima užmegzti su stun.l.google.com naudojant bet kurį UDP prievadą nuo 19302 iki 19309; 2. TCP ryšį galima užmegzti su apis.google.com, clients6.google.com, plus.google.com ir talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "Užblokuotų „Hangout“ bandymas pateikia sprendimą dėl problemos, jei: 1. visi UDP paskirties prievadai nuo 19 302 iki 19 309 blokuojami stun.l.google.com; 2. TCP ryšio su bet kuria iš toliau nurodytų prieglobų nepavyksta užmegzti naudojant prievadą 443: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "„Wi-Fi“ šifruotės bandymas",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "„Wi-Fi“ šifruotės bandymas nutrauktas",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "„Wi-Fi“ šifruotės bandymas nepaleistas, nėra „Wi-Fi“ tinklo ryšio.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "„Wi-Fi“ šifruotės metodas patikimas",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "Jūsų įrenginio naudojamas „Wi-Fi“ kodavimo metodas yra patikimas.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "„Wi-Fi“ kodavimo metodas tik iš dalies saugus",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "Tinklo ryšio naudojamas „Wi-Fi“ kodavimo metodas nėra pakankamai patikimas.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "„Wi-Fi“ tinklo kodavimo metodas nesaugus",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "Tinklo ryšio naudojamas „Wi-Fi“ tinklo kodavimo metodas nesaugus.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "„Wi-Fi“ kodavimo metodai, dėl kurių pateikiamas problemos sprendimas: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "„Wi-Fi“ kodavimo metodai, dėl kurių nepateikiamas joks problemos sprendimas: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "Potencialus problemos sprendimas pateikiamas, jei nesame tikri dėl „Wi-Fi“ kodavimo metodo",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "Aptiktų galimų tinklų skaičius: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "Šiuo metu prijungto „Wi-Fi“ tinklo naudojamas kodavimo metodas: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "Išsamus „Google“ svetainės bandymas",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "„Google“ svetainės pasiekiamos",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "„Google“ svetainės tinkamai įkeliamos ir nėra jokių ryšio problemų.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Nepavyko tinkamai nuskaityti ir įkelti „Google“ svetainių.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "Bandant pasiekti „Google“ svetaines iškilo problema. Tai galėjo nutikti dėl įvairių problemų, susijusių su fiksuotuoju portalu, DNS pažeidimu, užgrobėjo įsikišimu ir kitomis tinklo klastojimo formomis.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "Prieiga prie „Google“ svetainių laikoma visiškai sėkminga, jei galima užmegzti HTTPS ryšį su visomis konkrečiomis tikrinamomis „Google“ paslaugų svetainėmis",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "Prieiga prie „Google“ svetainių laikoma problemine, jei nepavyksta užmegzti HTTPS ryšio su jokiomis konkrečiomis tikrinamomis „Google“ paslaugų svetainėmis",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "Bandymo Nr. / bandymo prieglobos serverio pavadinimas: ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "Bandant prisijungti prie nurodyto prieglobos serverio pavadinimo įvyko klaida. Bandysime dar kartą: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "Prisijungiant prie nurodyto pavadinimo prieglobos serverio, kuriame buvo ryšio problemų, nuolat kildavo klaidų: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "Užklausa dėl nurodyto prieglobos serverio pavadinimo įvykdyta sėkmingai pateikus nurodytą būsenos kodą: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

@@ -1,0 +1,4 @@
+﻿
+Preparando el sistema para el modo de desarrollador...
+Este proceso puede tardar unos minutos.
+No apagues el ordenador hasta que se reinicie.

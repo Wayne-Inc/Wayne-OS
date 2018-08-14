@@ -1,0 +1,5 @@
+﻿
+Pemilik perangkat telah menonaktifkan Mode Pengembang untuk perangkat ini. Minta pemilik perangkat untuk membuang batasan jika Anda ingin menggunakan Mode Pengembang.
+
+
+Geser Tombol Pengalih Pengembang dan mulai ulang perangkat untuk kembali ke Mode Terverifikasi.

@@ -1,0 +1,48 @@
+<div id="ccd-header">
+  <div id="header-title-container"
+      ng-bind="headerCtrl.i18n.getMsg('apptitle')"></div>
+  <div id="header-options-container">
+    <button id="top-settings-btn" tabindex="1"
+        aria-label="{{headerCtrl.i18n.getMsg('aria_label_settings')}}"
+        ng-show="headerCtrl.shouldShowMenuSettings"
+        ng-click="headerCtrl.settingsBtnClicked()"></button>
+    <button id="top-maximize-btn" tabindex="20"
+        aria-label="{{headerCtrl.i18n.getMsg('aria_label_maximize')}}"
+        ng-click="headerCtrl.maxamizeBtnClick()"
+        ng-show="headerCtrl.shouldShowMaximize"></button>
+    <button id="top-close-btn" tabindex="21"
+        aria-label="{{headerCtrl.i18n.getMsg('aria_label_close')}}"
+        ng-click="headerCtrl.closeBtnClicked()"></button>
+  </div>
+  <div id="settings-container"
+      ng-class="{'settings-visible': headerCtrl.isMenuSettingsExpanded, 'element-hidden': !headerCtrl.isMenuSettingsExpanded}">
+    <div tabindex="5">
+      <a ng-bind="headerCtrl.i18n.getMsg('setting_rerun_tests')"
+          ng-click="headerCtrl.rerunTestsBtnClicked($event)"
+          ng-keuup="headerCtrl.rerunTestsBtnClicked($event)"></a>
+    </div>
+    <div tabindex="6"
+        ng-click="headerCtrl.sendFeedbackBtnClicked($event)"
+        ng-keyup="headerCtrl.sendFeedbackBtnClicked($event)">
+      <a ng-bind="headerCtrl.i18n.getMsg('setting_send_feedback')"></a>
+    </div>
+    <div tabindex="7"
+        ng-click="headerCtrl.aboutAppBtnClicked($event)"
+        ng-keyup="headerCtrl.aboutAppBtnClicked($event)">
+      <a ng-bind="headerCtrl.i18n.getMsg('setting_about')"></a>
+    </div>
+  </div>
+  <div id="about-container" tabindex="8"
+      cm-set-focus="headerCtrl.isAboutAppVisible"
+      ng-blur="headerCtrl.aboutAppBtnClose($event)"
+      ng-class="{'about-visible': headerCtrl.isAboutAppVisible, 'element-hidden': !headerCtrl.isAboutAppVisible}">
+    <span ng-bind="headerCtrl.i18n.getMsg('about_app')"></span><br>
+    <span ng-bind="headerCtrl.i18n.getMsg('about_version_num')"></span>
+     <span ng-bind="headerCtrl.aboutAppVersionNumber"></span>
+  </div>
+</div>
+
+<div id="ccd-status-bar">
+  <progress id="ccd-status-bar-elem" max="100"
+      value="{{headerCtrl.testSuiteProgressPercent}}"></progress>
+</div>

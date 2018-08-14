@@ -1,0 +1,4 @@
+Touchpad firmware updating...
+
+Please don't touch the touchpad.
+This will take around 2 minutes.

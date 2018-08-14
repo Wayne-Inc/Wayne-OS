@@ -1,0 +1,5 @@
+Akumuliatorius per daug išsikrovęs, kad būtų galima atnaujinti.
+
+Įkraunama...
+
+Atnaujinimo procesas prasidės automatiškai, kai akumuliatorius bus pakankamai įkrautas.

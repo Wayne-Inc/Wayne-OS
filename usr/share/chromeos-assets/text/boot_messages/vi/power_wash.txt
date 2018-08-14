@@ -1,0 +1,4 @@
+﻿
+Đang tiến hành Powerwash...
+
+Powerwash diễn ra khi phát hiện thấy lỗi nghiêm trọng hoặc khi bạn chọn đặt lại thiết bị của mình. Quá trình này sẽ đặt lại Chrome OS về như mới và bạn sẽ hoạt động trở lại chỉ sau một phút.

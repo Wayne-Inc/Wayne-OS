@@ -1,0 +1,3 @@
+Akumulator ima premalo energije za posodobitev.
+
+Chromebook priklopite na vir napajanja. Posodobitev se bo samodejno začela, ko bo akumulator dovolj napolnjen.

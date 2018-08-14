@@ -1,0 +1,6 @@
+Something went wrong and the update wasn't successful.
+
+You may need to recover your device. For more information on
+ChromeOS recovery, visit: https://www.google.com/chromeos/recovery
+
+Press the space bar to reboot.

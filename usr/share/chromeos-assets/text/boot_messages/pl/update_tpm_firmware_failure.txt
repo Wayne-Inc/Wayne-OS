@@ -1,0 +1,5 @@
+Coś poszło nie tak i nie udało się zainstalować aktualizacji.
+
+Możliwe, że trzeba będzie przywrócić system na urządzeniu. Więcej informacji o przywracaniu Chrome OS znajdziesz na stronie: https://www.google.com/chromeos/recovery
+
+Naciśnij spację, by zrestartować urządzenie.

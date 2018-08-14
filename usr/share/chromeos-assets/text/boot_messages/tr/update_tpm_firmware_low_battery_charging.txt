@@ -1,0 +1,6 @@
+Pil gücü güncelleme için yeterli değil.
+
+Şarj ediliyor...
+
+Pilin gücü yeterli olduğunda güncelleme
+otomatik olarak başlar.

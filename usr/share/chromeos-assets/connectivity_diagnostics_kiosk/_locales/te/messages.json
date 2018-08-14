@@ -1,0 +1,1098 @@
+{
+  "appname": {
+    "message": "Chrome కనెక్టివిటీ విశ్లేషణలు",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Chrome కనెక్టివిటీ విశ్లేషణలు (బీటా)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "Chrome కనెక్టివిటీ విశ్లేషణలు (డెవ)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "కనెక్టివిటీ విశ్లేషణలు",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "కనెక్టివిటీ విశ్లేషణలు",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "సెట్టింగ్‌లు",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "గరిష్టీకరించు",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "పునరుద్ధరించు",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "మూసివేయి",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "పైకి స్క్రోల్ చేయి",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "క్రిందికి స్క్రోల్ చేయి",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_connection": {
+    "message": "కనెక్షన్",
+    "description": "Attribute label for network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "సిగ్నల్ సామర్థ్యం",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "MAC చిరునామా",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "IP చిరునామా",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "సబ్‌నెట్ మాస్క్",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "గేట్‌వే",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "all_test_groups_summary_title": {
+    "message": "నెట్‌వర్క్ కనెక్షన్ పరీక్షలు",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "క్యాప్టివ్ పోర్టల్",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "స్థానిక నెట్‌వర్క్",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "ఫైర్‌వాల్",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "Google సేవలు",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "పరీక్షలను అమలు చేస్తోంది. దీనికి కొన్ని నిమిషాలు పట్టవచ్చు...",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "కనెక్టివిటీ విశ్లేషణల పరీక్షలను అమలు చేస్తున్నప్పుడు లోపం సంభవించింది. గేర్ చిహ్నాన్ని క్లిక్ చేసి, 'పరీక్షలను మళ్లీ అమలు చేయి' ఎంచుకోండి. ఈ లోపం కొనసాగితే, దయచేసి అభిప్రాయాన్ని పంపు లింక్ క్లిక్ చేసి, సమస్యను వివరించండి.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "అభిప్రాయాన్ని పంపండి",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "నెట్‌వర్క్ సెట్టింగ్‌లు",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "విశ్లేషణలు అమలు చేయండి",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "విశ్లేషణలను మళ్లీ అమలు చేయండి",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "వెనుకకు వెళ్లండి",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "మీ నెట్‌వర్క్ కనెక్షన్ సరిగ్గానే పని చేస్తున్నట్లు కనిపిస్తోంది.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "ఉత్తీర్ణత సాధించిన పరీక్షలను చూపు",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "ఉత్తీర్ణత సాధించిన పరీక్షలను దాచు",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "విశ్లేషణలను మళ్లీ అమలు చేయండి",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "అభిప్రాయాన్ని పంపండి...",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "పరిచయం",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "అనువర్తనం పరిచయం",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "సంస్కరణ: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "ఉత్తీర్ణత సాధించిన పరీక్షలు",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "ఉత్తీర్ణత సాధించిన పరీక్ష",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "హెచ్చరికలు",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "హెచ్చరిక",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "పరీక్ష పేరు: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "పరీక్ష ID: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "పరీక్ష ఫలితం: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "సమస్య ఏదీ గుర్తించబడలేదు",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "సమస్య గుర్తించబడింది",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "సంభావ్య సమస్య గుర్తించబడింది",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "పరీక్షను అమలు చేయడం సాధ్యపడదు",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "లాగ్‌లను చూపు...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "లాగ్‌లను దాచు...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "ఫలితం లాగ్‌లను కాపీ చేయి",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "సారాంశం",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "ప్రమాణం",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "వివరాలు",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "మద్దతు వివరాలు",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "ఉత్తీర్ణం అయ్యాయి",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "విఫలమయ్యాయి",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "క్రమవరుసలో ఉంచబడ్డాయి",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "హెచ్చరిక",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "అమలు అవుతున్నాయి",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "రద్దు చేయబడ్డాయి",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "ప్రస్తుతం పరీక్ష ఫలితాలు ఏవీ అందుబాటులో లేవు.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "అదనపు పరీక్షలు పెండింగ్‌లో ఉన్నాయి. పూర్తయిన తర్వాత ఫలితాలు ప్రదర్శించబడతాయి.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "పరీక్షలు",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "UDP సాకెట్ నుండి స్వీకరించిన ప్రాసెస్ చేయబడని డేటా: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "UDP సాకెట్ నుండి ఈ పరిమాణం (బైట్‌లు) గల డేటా విజయవంతంగా చదవబడింది: ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "UDP డేటాను చదవడంలో లోపం. లోపం కోడ్: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "ఈ పరిమాణం (బైట్‌లు) గల డేటా విజయవంతంగా పంపబడింది: ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "ఈ పరిమాణం (బైట్‌లు) గల UDP సాకెట్ డేటాను పంపడానికి సిద్ధం చేస్తోంది: ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "UDP సాకెట్, సంఖ్య / హోస్ట్ / పోర్ట్‌ను సృష్టిస్తోంది: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "UDP సమయ ముగింపు నిడివి (మిసె) సెట్టింగ్: ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "TCP సాకెట్ నుండి స్వీకరించిన ముడి రూప డేటా: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "TCP సాకెట్ నుండి ఈ పరిమాణం (బైట్‌లు) గల డేటా విజయవంతంగా చదవబడింది: ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "TCP డేటాను చదవడంలో లోపం. లోపం కోడ్: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "ఈ పరిమాణం (బైట్‌లు) గల డేటా విజయవంతంగా పంపబడింది: ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "ఈ పరిమాణం (బైట్‌లు) గల డేటాను పంపడానికి సిద్ధం చేస్తోంది: ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "హోస్ట్ / పోర్ట్ / స్థితి కోడ్‌తో TCP కనెక్షన్ ఏర్పాటైంది: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "హోస్ట్ / పోర్ట్ / స్థితి కోడ్‌తో TCP కనెక్షన్ విఫలమైంది: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "కనెక్షన్ వైఫల్య కారణం: తెలియదు",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "హోస్ట్ / పోర్ట్‌తో TCP కనెక్షన్ విజయవంతంగా ఏర్పాటైంది: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "కనెక్షన్ వైఫల్య కారణం: గడువు ముగిసింది",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "కనెక్షన్ వైఫల్య కారణం: కనెక్షన్ నిరాకరించబడింది",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "TCP సాకెట్, నంబర్ / హోస్ట్ / పోర్ట్‌ను సృష్టిస్తోంది: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "TCP సమయ ముగింపు నిడివి (మిసె) సెట్టింగ్: ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "Chrome ఇంటర్నెట్ డిస్‌కనెక్ట్ చేయబడే పరీక్ష",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "నెట్‌వర్క్‌కు కనెక్ట్ కాలేదు",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "ఇంటర్నెట్ కనెక్షన్ అందుబాటులో ఉంది",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "Chrome నెట్‌వర్క్‌కు కనెక్ట్ కాలేదు. దయచేసి మీ ఆపరేటింగ్ సిస్టమ్ నెట్‌వర్క్ సెట్టింగ్‌లను తనిఖీ చేయండి.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Chrome బ్రౌజర్ కోసం ఇంటర్నెట్ కనెక్షన్ అందుబాటులో ఉంది.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "ఇంటర్నెట్ డిస్‌కనెక్ట్ చేయబడిన స్థితి కోడ్‌లు అందించే TCP సాకెట్‌ల శాతం దీని కంటే తక్కువ ఉంటే సమస్య లేదు నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "ఇంటర్నెట్ డిస్‌కనెక్ట్ చేయబడిన స్థితి కోడ్‌లు అందించే TCP సాకెట్‌ల శాతం దీనికి సమానంగా లేదా దీని కంటే ఎక్కువగా ఉంటే సమస్య ఉంది నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " Chrome ఇంటర్నెట్ కనెక్షన్ పరీక్ష అందించిన TCP స్థితి కోడ్: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " # / హోస్ట్ పేరు / పోర్ట్‌కు TCP కనెక్షన్ ప్రయత్నం జరగబోతోంది : ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "ChromeOS ఇంటర్నెట్ డిస్‌కనెక్ట్ చేయబడే పరీక్ష",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "నెట్‌వర్క్‌కు కనెక్ట్ కాలేదు",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "ఇంటర్నెట్ కనెక్షన్ అందుబాటులో ఉంది",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "ఈ Chromebook నెట్‌వర్క్‌కు కనెక్ట్ చేయబడలేదు. దయచేసి స్థితి ట్రేకి వెళ్లి, అందుబాటులో ఉన్న నెట్‌వర్క్‌కు కనెక్ట్ అవ్వండి.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "ఇంటర్నెట్ కనెక్షన్ అందుబాటులో ఉంది.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "కనెక్ట్ చేయబడిన నెట్‌వర్క్ ఇంటర్‌ఫేస్ కనెక్ట్ అయిన స్థితి కోడ్‌ను అందించినప్పుడు సమస్య లేదు ఫలితం అందుతుంది",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "కనెక్ట్ చేయబడిన నెట్‌వర్క్ ఇంటర్‌ఫేస్ డిస్‌కనెక్ట్ అయిన స్థితి కోడ్‌ను అందించినప్పుడు సమస్య ఉంది ఫలితం అందుతుంది: ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "కనుగొనబడిన అందుబాటులో ఉన్న నెట్‌వర్క్‌ల సంఖ్య: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "Chrome సంస్కరణ పరీక్ష",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "Google Chrome తాజా సంస్కరణను ఉపయోగించడం లేదు",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "Google Chrome తాజా సంస్కరణ",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "మీరు Google Chrome తాజా సంస్కరణను కలిగి లేరు. మీకు అన్ని బగ్ పరిష్కారాలు తెలియకపోవచ్చు మరియు కనెక్టివిటీ సమస్యలను ఎదుర్కొనవచ్చు. బ్రౌజర్ సాధనపట్టీలో Chrome మెను క్లిక్ చేసి, Google Chromeను నవీకరించు ఎంచుకోండి.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "మీరు Google Chrome తాజా సంస్కరణను కలిగి ఉన్నారు మరియు అందువలన మీకు కనెక్టివిటీ బగ్‌ల కోసం అన్ని పరిష్కారాలు తెలియజేయబడతాయి.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "ప్రాసెస్ చేయబడిన ఫైల్‌ల కోసం బ్రౌజర్ వినియోగదారు-ఏజెంట్: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "బ్రౌజర్ సంస్కరణ సంఖ్య (క్లుప్తం): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "బ్రౌజర్ సంస్కరణ సంఖ్య (పూర్తిగా): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "మేము Chrome సంస్కరణ సంఖ్య యొక్క థ్రెష్‌హోల్డ్ దీని కంటే ఎక్కువ లేదా సమానంగా ఉంటే సమస్య లేదు నిర్ణయం అమలు చేస్తాము: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "మేము Chrome సంస్కరణ సంఖ్య యొక్క థ్రెష్‌హోల్డ్ దీని కంటే తక్కువ ఉంటే సమస్య ఉంది నిర్ణయం అమలు చేస్తాము: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "ChromeOS సంస్కరణ పేరు",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "Chrome OS కాలం చెల్లింది",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "Chrome OS తాజాగా ఉంది",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "మీరు Chrome OS యొక్క అత్యంత ఇటీవలి సంస్కరణను ఉపయోగించడం లేదు. పర్యవసానంగా, మీకు అన్ని బగ్ పరిష్కారాలు తెలియకపోవచ్చు మరియు అందువలన మీరు కనెక్టివిటీ సమస్యలను ఎదుర్కొనవచ్చు.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "మీరు Chrome OS యొక్క ఇటీవలి సంస్కరణను ఉపయోగిస్తున్నారు మరియు అందువలన మీకు కనెక్టివిటీ బగ్‌ల కోసం అన్ని పరిష్కారాలు తెలియజేయబడతాయి.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Chrome OS సంస్కరణ పరీక్షలో సమస్య గుర్తించబడింది. Chrome OS సంస్కరణ కాలం చెల్లినది. ఇప్పుడు ఇది కనిష్ట సంస్కరణ: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Chrome OS పరీక్షలో సమస్య గుర్తించబడలేదు. Chrome OS సంస్కరణ తాజాగా ఉంది. ఇప్పుడు ఇది కనిష్ట సంస్కరణ: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "ప్రాసెస్ చేయబడిన ఫైల్‌ల కోసం బ్రౌజర్ వినియోగదారు-ఏజెంట్: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "క్లుప్త Chrome OS ప్లాట్‌ఫారమ్ సంఖ్య: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "పూర్తి Chrome OS ప్లాట్‌ఫారమ్ సంఖ్య: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "మేము ChromeOS ప్లాట్‌ఫారమ్ సంఖ్య యొక్క థ్రెష్‌హోల్డ్ దీని కంటే ఎక్కువ లేదా సమానంగా ఉంటే సమస్య లేదు నిర్ణయం అమలు చేస్తాము: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "మేము ChromeOS ప్లాట్‌ఫారమ్ సంఖ్య యొక్క థ్రెష్‌హోల్డ్ దీని కంటే తక్కువ ఉంటే సమస్య ఉంది నిర్ణయం అమలు చేస్తాము: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "నిశ్చయకర్త ప్రస్తుత పరీక్ష",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "పని చేస్తున్న DNS సర్వర్ అందుబాటులో లేదు",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "DNS సర్వర్ అందుబాటులో ఉంది",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "DNS సర్వర్ హోస్ట్ పేరును (ఉదా. www.google.com) IP చిరునామాగా అనువదిస్తుంది. వెబ్‌సైట్‌ను లోడ్ చేయడం కోసం బ్రౌజర్ కనెక్ట్ కావలసిన దాని IP చిరునామాను తప్పనిసరిగా కలిగి ఉండాలి. మీ DNS సర్వర్ పని చేయకుండా ఉన్నందున Chrome మీరు సందర్శించాలనుకుంటున్న వెబ్‌సైట్ యొక్క IPని గుర్తించలేకపోయింది. దయచేసి మీ ISPని లేదా నెట్‌వర్క్ నిర్వాహకుడిని సంప్రదించండి.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "హోస్ట్ పేరుని (ఉదా. www.google.com) IP చిరునామాకి విజయవంతంగా అనువదించిన DNS సర్వర్‌ను Chrome గుర్తించింది.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "హోస్ట్ పేరుని పరిష్కరించడానికి ప్రయత్నిస్తోంది: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "DNS సర్వర్ DNS ప్రశ్న ఫలితాలను అందించింది.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "DNS సర్వర్ ఏ ఫలితాన్ని అందించలేదు.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "IP చిరునామాగా మార్చబడిన హోస్ట్ పేరు: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "DNS పరిష్కరిణి పరీక్ష ఒక DNS ప్రశ్నను అమలు చేస్తుంది మరియు చెల్లుబాటు అయ్యే ప్రతిస్పందన అందితే ఉత్తీర్ణత సాధించిన ఫలితాన్ని అందిస్తుంది.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "DNS పరిష్కరిణి పరీక్ష ఒక DNS ప్రశ్నను అమలు చేస్తుంది మరియు చెల్లుబాటు అయ్యే ప్రతిస్పందన అందకపోతే విఫలమైన ఫలితాన్ని అందిస్తుంది.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "DNS సర్వర్ ఈ విజయవంతమైన స్థితి కోడ్‌ను అందించింది: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "DNS సర్వర్ ఈ సమస్య స్థితి కోడ్‌ని అందించింది: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "పరిష్కరిణి గుప్తత పరీక్ష",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "DNS రిజల్యూషన్‌కు చాలా ఎక్కువ సమయం పట్టింది",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "DNS రిజల్యూషన్‌కు సగటు కంటే ఎక్కువ సమయం పట్టింది",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "వేగవంతమైన DNS ప్రతిస్పందనలు స్వీకరించబడ్డాయి",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "మీ DNS సర్వర్ శీఘ్రంగా సమాధానాలను అందించలేకపోయింది. DNS సర్వర్ హోస్ట్ పేరును (ఉదా. www.google.com) IP చిరునామాగా అనువదిస్తుంది. వెబ్‌సైట్‌ను లోడ్ చేయడం కోసం బ్రౌజర్ కనెక్ట్ కావడానికి IP చిరునామాను తప్పనిసరిగా కలిగి ఉండాలి..",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "మీ DNS సర్వర్ శీఘ్రంగా సమాధానాలను అందించలేకపోయింది. DNS సర్వర్ హోస్ట్ పేరును (ఉదా. www.google.com) IP చిరునామాగా అనువదిస్తుంది. వెబ్‌సైట్‌ను లోడ్ చేయడం కోసం బ్రౌజర్ కనెక్ట్ కావడానికి IP చిరునామాను తప్పనిసరిగా కలిగి ఉండాలి.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "మీ DNS సర్వర్ శీఘ్రంగా సమాధానాలను అందించలేకపోయింది! DNS సర్వర్ హోస్ట్ పేరును (ఉదా. www.google.com) IP చిరునామాగా అనువదిస్తుంది. వెబ్‌సైట్‌ను లోడ్ చేయడం కోసం బ్రౌజర్ కనెక్ట్ కావడానికి IP చిరునామాను తప్పనిసరిగా కలిగి ఉండాలి..",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "హోస్ట్ పేరు #ను పరిష్కరించడానికి ప్రయత్నిస్తోంది: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "DNS రిజల్యూషన్ కోసం ఫలితం స్వీకరించబడింది. పరీక్ష సంఖ్య / ప్రస్తుత సమయం / తీసుకున్న సమయం (మిసె) / ప్రారంభించిన సమయం (మిసె): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "అన్ని పరీక్షల కోసం మొత్తం DNS రిజల్యూషన్ సమయం (మిసె): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "పరిష్కరించబడిన DNS హోస్ట్‌ల మొత్తం: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "సగటు DNS రిజల్యూషన్ సమయం (మిసె): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "సగటు DNS రిజల్యూషన్ సమయం (మిసె) ఈ ప్రమాణం కంటే తక్కువ ఉన్నప్పుడు సమస్య లేదు నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "సగటు DNS రిజల్యూషన్ సమయం (మిసె) ఈ ప్రమాణానికి మధ్య ఉన్నప్పుడు సంభావ్య సమస్య ఉంది నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "సగటు DNS రిజల్యూషన్ సమయం (మిసె) ఈ ప్రమాణం కంటే ఎక్కువ ఉన్నప్పుడు సమస్య ఉంది నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "DNS విషపూరిత పరీక్ష",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "DNS సర్వర్ ఆశించిన ఫలితాలను అందించింది",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "DNS ఫలితాలు ఆశించినవి కనుక ఖచ్చితమైనవిగా కనిపిస్తాయి",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "DNS ఫలితాలు ఆశించనివి కనుక విషపూరితం అయ్యి ఉండవచ్చు",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "విషపూరిత DNS ప్రతిస్పందన అందించబడింది. విషపూరిత DNS సర్వర్ తప్పు IP చిరునామాను అందించవచ్చు మరియు మీ ట్రాఫిక్‌ను ఉద్దేశించిన హోస్ట్‌కు కాకుండా వేరే దానికి మళ్లించవచ్చు.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "పరిష్కరిణి ఆశించిన IP చిరునామాను అందించలేకపోయినప్పుడు DNS ఫలితాలు విషపూరితమైనవిగా పరిగణించబడతాయి.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "పరిష్కరిణి ఆశించిన IP చిరునామాను అందించినప్పుడు DNS ఫలితాలు విషపూరితం కానివిగా పరిగణించబడతాయి.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "పరీక్ష # / పరీక్ష హోస్ట్ పేరు : ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " పరీక్షలో DNS చిరునామా ఫీల్డ్ ఏదీ అందించబడలేదు (శూన్యానికి సెట్ చేయండి)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " పరీక్ష; ఫలితం స్థితి కోడ్ లేదు; పరీక్ష వైఫల్యం కారణంగా పరీక్షను రద్దు చేస్తోంది.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " పరీక్ష స్థితి కోడ్‌ని అందించింది: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " నిశ్చయించిన DNS చిరునామా అందించబడింది: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "TCP ఫైర్‌వాల్ పరీక్ష",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "పోర్ట్‌లో ఇంటర్నెట్ ట్రాఫిక్ బ్లాక్ చేయబడింది ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "పోర్ట్‌లో ఇంటర్నెట్ ట్రాఫిక్ బ్లాక్ చేయబడినట్లు కనిపిస్తోంది ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "పోర్ట్‌లో ఇంటర్నెట్ ట్రాఫిక్ అనుమతించబడింది ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "సాధారణంగా ఉపయోగించే ఇంటర్నెట్ కనెక్షన్ కోసం మీ నెట్‌వర్క్‌లో పరిమితి ఉంది.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "సాధారణంగా ఉపయోగించే ఇంటర్నెట్ కనెక్షన్ కోసం మీ నెట్‌వర్క్‌లో పరిమితి ఉన్నట్లుగా కనిపిస్తోంది.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "మేము పోర్ట్‌లో విజయవంతంగా కనెక్షన్‌ను అందించాము ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " TCP కనెక్షన్ # / హోస్ట్ పేరు / పోర్ట్‌ను ప్రయత్నిస్తోంది : ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " TCP ఫైర్‌వాల్ పరీక్ష TCP ఈ స్థితి కోడ్‌ని అందించింది: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "ఫైర్‌వాల్ పరీక్ష ఫలితాలు: అమలు చేసిన పరీక్షలు / తనీఖీ చేయబడిన పోర్ట్ / విఫలమైన కనెక్షన్‌ల సంఖ్య: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "కనెక్షన్ పరీక్ష ప్రయత్నం విఫలమైంది మరియు Chrome నెట్‌వర్క్ స్టాక్ నుండి TCP విజయవంతమైన స్థితి కోడ్‌ని అందించలేదు కానీ దానికి బదులుగా స్థితి కోడ్ అందించబడింది: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "గుర్తించబడిన DNS పరిష్కరిణి అందుబాటులో లేదు, అందువలన మేము ఫైర్‌వాల్ ఉందో లేదో గుర్తించలేకపోయాము",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "గుర్తించబడిన నెట్‌వర్క్ అందుబాటులో లేదు, అందువలన మేము ఫైర్‌వాల్ ఉందో లేదో గుర్తించలేకపోయాము",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "విఫలమైన TCP కనెక్షన్ పరీక్ష ఫలితాల శాతం దీని కంటే తక్కువ లేదా సమానంగా ఉన్నప్పుడు సమస్య లేదు నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "విఫలమైన TCP కనెక్షన్ పరీక్ష ఫలితాల శాతం దీనికి సమానంగా ఉన్నప్పుడు సమస్య ఉంది నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "విఫలమైన TCP కనెక్షన్ పరీక్ష ఫలితాల సంఖ్య వీటి మధ్య ఉన్నప్పుడు సంభావ్య సమస్య ఉంది నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "HTTP క్యాప్టివ్ పోర్టల్ పరీక్ష",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "క్యాప్టివ్ పోర్టల్ ద్వారా ఇంటర్నెట్ ట్రాఫిక్ బ్లాక్ చేయబడింది",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "HTTP క్యాప్టివ్ పోర్టల్ కోసం సరిగ్గా పరీక్షించడం సాధ్యపడలేదు",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "ఓపెన్ ఇంటర్నెట్ ప్రాప్యత గుర్తించబడింది",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "క్యాప్టివ్ పోర్టల్ అనేది ఇంటర్నెట్‌ను ఉచితంగా బ్రౌజ్ చేయడం కోసం ప్రాప్యత మంజూరు చేయబడటానికి ముందు నెట్‌వర్క్‌కు దాని వినియోగదారులు వీక్షించడం మరియు పరస్పర చర్య చేయడం అవసరమయ్యే వెబ్‌సైట్. క్యాప్టివ్ పోర్టల్ మీ నెట్‌వర్క్‌లో కనుగొనబడింది, అంటే ఇంటర్నెట్‌కు అపరిమిత ప్రాప్యత బ్లాక్ చేయబడిందని దీని అర్థం.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "HTTP క్యాప్టివ్ పోర్టల్ యొక్క పరీక్షను నిరోధించడంలో సమస్య ఏర్పడింది. అత్యంత సాధారణ కారణం వలన మీ మొత్తం నెట్‌వర్క్ ట్రాఫిక్ తిరస్కరించబడితే లేదా బ్లాక్ చేయబడితే ఇది సంభవిస్తుంది.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "ఓపెన్ ఇంటర్నెట్ ప్రాప్యత గుర్తించబడింది. క్యాప్టివ్ పోర్టల్ అనేది ఇంటర్నెట్‌ను ఉచితంగా బ్రౌజ్ చేయడం కోసం ప్రాప్యత మంజూరు చేయబడటానికి ముందు నెట్‌వర్క్‌కి దాని వినియోగదారులు వీక్షించడం మరియు పరస్పర చర్య చేయడం కోసం అవసరమయ్యే వెబ్‌సైట్.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "అన్ని HTTP అభ్యర్ధనలు 204 HTTP స్థితి కోడ్‌ను అందిస్తే HTTP క్యాప్టివ్ పోర్టల్ పరీక్ష సమస్య లేదు నిర్ణయాన్ని అందిస్తుంది",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "నెట్‌వర్క్ స్టాక్ సమస్యలు కింది HTTP అభ్యర్థనల శాతం కంటే ఎక్కువగా ఉంటే HTTP క్యాప్టివ్ పోర్టల్ పరీక్ష సంభావ్య సమస్య ఉంది నిర్ణయాన్ని అందిస్తుంది: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "HTTP అభ్యర్థనల్లో ఏదైనా 204 HTTP స్థితి కోడ్‌ను అందించకపోతే HTTP క్యాప్టివ్ పోర్టల్ పరీక్ష సమస్య ఉంది నిర్ణయాన్ని అందిస్తుంది",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "అభ్యర్థనలో లోపం # / లోపం స్థితి: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "ప్రతిస్పందన సంఖ్య / HTTP ప్రతిస్పందన కోడ్: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "ప్రతిస్పందన సంఖ్య / HTTP ప్రతిస్పందన ముఖ్యశీర్షికలు: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "అభ్యర్థన సంఖ్య / పూర్తి ప్రతిస్పందన నిడివి: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "Google వెబ్‌సైట్‌ల HTTP గుప్తత పరీక్ష",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "Googleకు చేసే వెబ్ అభ్యర్థనలకు చాలా ఎక్కువ సమయం పట్టింది",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "Googleకు చేసే వెబ్ అభ్యర్థనలకు ఆశించిన దానికంటే ఎక్కువ సమయం పట్టింది",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "Google వెబ్‌సైట్‌ల నుండి వేగవంతమైన ప్రతిస్పందనలు స్వీకరించబడ్డాయి",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Google వెబ్‌సైట్‌ల నుండి ప్రతిస్పందనను స్వీకరించడానికి పట్టే సమయం కంటే ఎక్కువ సమయం పడుతోంది, అంటే నెట్‌వర్క్ నెమ్మదిగా ఉందని సూచించబడుతోంది.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Google వెబ్‌సైట్‌ల నుండి ప్రతిస్పందనను స్వీకరించడానికి తీసుకోవలసిన సమయం కంటే కొంచెం ఎక్కువ సమయం పడుతోంది, అనగా నెట్‌వర్క్ నెమ్మదిగా ఉందని సూచించబడుతోంది.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "Googleకు వెబ్ అభ్యర్థనలు శీఘ్రంగా స్వీకరించబడుతున్నాయి.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "అభ్యర్థనలో లోపం # / లోపం స్థితి: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "సగటు HTTP ప్రతిస్పందన సమయం (మిసె): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "HTTP అభ్యర్థనల మొత్తం సంఖ్య: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "మొత్తం HTTP ప్రతిస్పందన సమయం (మిసె): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "HTTP ప్రతిస్పందన # / స్వీకరించిన సమయం (సూక్ష్మసమయముద్ర) / గడిచిన సమయం(మిసె): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "సగటు HTTP గుప్తత సమయం (మిసె) ఈ ప్రమాణం కంటే తక్కువ ఉంటే సమస్య లేదు నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "సగటు HTTP గుప్తత సమయం (మిసె) ఈ ప్రమాణానికి మధ్య ఉంటే సంభావ్య సమస్య ఉంది నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "సగటు HTTP గుప్తత సమయం (మిసె) ఈ ప్రమాణం కంటే ఎక్కువ ఉంటే సమస్య ఉంది నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "ChromeOS WiFi సిగ్నల్ సామర్థ్యం పరీక్ష",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "WiFi సిగ్నల్ సామర్థ్యం పరీక్ష రద్దు చేయబడింది",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "Wi-Fi కనెక్షన్ ఏదీ గుర్తించబడనందున పరీక్షను అమలు చేయడం సాధ్యపడలేదు.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "నెట్‌వర్క్ సిగ్నల్ సామర్థ్యం బలహీనంగా ఉంది",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "WiFi నెట్‌వర్క్ యొక్క సిగ్నల్ సామర్థ్యం బలహీనంగా ఉంది.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "నెట్‌వర్క్ సిగ్నల్ సామర్థ్యం బలంగా ఉంది",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "WiFi నెట్‌వర్క్ యొక్క సిగ్నల్ సామర్థ్యం బలంగా ఉంది.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "నెట్‌వర్క్ సిగ్నల్ పేరు / సిగ్నల్ సామర్థ్యం: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "ChromeOS సిగ్నల్ సామర్థ్యం ఈ ప్రమాణం కంటే ఎక్కువ ఉంటే సమస్య లేదు అనే నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "ChromeOS సిగ్నల్ సామర్థ్యం ఈ ప్రమాణం కంటే తక్కువ ఉంటే సమస్య ఉంది అనే నిర్ణయం అమలు చేయబడుతుంది: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "పింగ్ గేట్‌వే పరీక్ష",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "గేట్‌వేని పింగ్ చేయడం సాధ్యపడలేదు",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "గేట్‌వేని పింగ్ చేసినప్పుడు శీఘ్ర ప్రతిస్పందన అందించబడలేదు.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "గేట్‌వే అందుబాటులో ఉంది",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "గేట్‌వేని పింగ్ చేసినప్పుడు శీఘ్ర ప్రతిస్పందన అందించబడుతుంది.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "గేట్‌వే పింగ్ చేయడానికి గుప్తత (మిసె) యొక్క థ్రెష్‌హోల్డ్ దీనికంటే తక్కువ ఉంటే మేము సమస్య లేదు నిర్ణయం అమలు చేస్తాము: ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "గేట్‌వే పింగ్ చేయడానికి గుప్తత (మిసె) యొక్క థ్రెష్‌హోల్డ్ దీనికంటే ఎక్కువ ఉంటే మేము సమస్య ఉంది నిర్ణయం అమలు చేస్తాము: ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "నేరుగా గేట్‌వే IPకి చేసిన ICMP ప్రశ్న ప్రతిస్పందన ప్యాకెట్‌ను ఎంతమాత్రమూ స్వీకరించలేదు.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "ICMP ప్యాకెట్ గుప్తత (మిసె): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "గేట్‌వే యొక్క IP నిశ్చయించబడలేదు",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "గేట్‍వే యొక్క IP ఇలా నిశ్చయించబడింది: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "రిమోట్ హోస్ట్‌కు 1 TTLతో ICMP ప్యాకెట్‌ను పంపడం వలన అందించబడిన IP, అలాగే రిమోట్ హోస్ట్ యొక్క IP రెండూ ఒకేలా ఉన్నాయి: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "Hangouts కనెక్టివిటీ పరీక్ష",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "Hangouts కనెక్షన్ అందుబాటులో ఉంది",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "Hangouts సేవకు విజయవంతంగా కనెక్ట్ చేయబడింది.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Hangouts కనెక్షన్ పాక్షికంగా బలహీనంగా ఉన్నట్లు కనిపిస్తోంది",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "UDP పోర్ట్‌లు 19302 నుండి 19309 మధ్య వాటిలో Hangouts మీడియా సేవకు కనెక్ట్ చేయడం సాధ్యపడలేదు.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Hangout కనెక్షన్ ఏర్పాటు సాధ్యపడలేదు",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Hangoutsకు కనెక్ట్ కావడానికి అవసరమైన పోర్ట్‌లు మరియు హోస్ట్‌లు బ్లాక్ చేయబడినట్లుగా కనిపిస్తోంది.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "TCP పోర్ట్ 443లో మరియు UDP పోర్ట్‌లు 19302 నుండి 19309 మధ్య వాటిలో Hangouts మీడియా సేవకు కనెక్ట్ చేయడం సాధ్యపడలేదు.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Hangouts చాట్ సేవకు కనెక్ట్ చేయడం సాధ్యపడలేదు.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "TCP పోర్ట్ 443లో Hangouts చాట్ సేవకు లేదా Hangouts మీడియా సేవకు కనెక్ట్ చేయడం సాధ్యపడలేదు.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "పోర్ట్ 443లో హోస్ట్ కోసం TCP కనెక్షన్ విజయవంతమైంది ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "పోర్ట్ 443లో TCP కనెక్షన్ విఫలమైంది మరియు బ్లాక్ చేయబడింది ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "లక్ష్య పోర్ట్‌లో UDP కనెక్షన్ విఫలమైంది మరియు బ్లాక్ చేయబడింది ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "లక్ష్య పోర్ట్‌లో UDP కనెక్షన్ విజయవంతమైంది ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "Hangouts నిరుద్ధ పరీక్షలో సమస్య లేదు నిర్ణయం ఈ పరిస్థితుల్లో అందించబడుతుంది: (1) 19302 నుండి 19309 మధ్య ఏ UDP పోర్ట్‌లో అయినా stun.l.google.comకి కనెక్షన్ ఏర్పాటు చేయగలిగినప్పుడు (2) apis.google.com, clients6.google.com, plus.google.com మరియు talkgadget.google.comకి TCP కనెక్షన్ ఏర్పాటు చేయగలిగినప్పుడు",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "Hangouts నిరుద్ధ పరీక్షలో సమస్య ఉంది నిర్ణయం ఈ పరిస్థితుల్లో అందించబడుతుంది: (1) stun.l.google.com కోసం 19302 మొదలుకొని 19309 వరకు అన్ని UDP లక్ష్య పోర్ట్‌లు బ్లాక్ చేయబడినప్పుడు (2) పోర్ట్ 443లో ఏవైనా క్రింది హోస్ట్‌లకు TCP కనెక్షన్ విఫలమైనప్పుడు: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "WiFi గుప్తీకరణ పరీక్ష",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "WiFi గుప్తీకరణ పరీక్ష రద్దు చేయబడింది",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "WiFi నెట్‌వర్క్ ఏదీ లేనందున WiFi గుప్తీకరణ పరీక్షను అమలు చేయడం సాధ్యపడలేదు.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "WiFi గుప్తీకరణ పద్ధతి శక్తివంతంగా ఉంది",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "మీ మెషీన్ ద్వారా ఉపయోగించబడిన WiFi గుప్తీకరణ పద్ధతి శక్తివంతంగా ఉంది.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "WiFi గుప్తీకరణ పద్ధతి పాక్షికంగా మాత్రమే సురక్షితంగా ఉంది",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "మీ నెట్‌వర్క్ కనెక్షన్ ద్వారా ఉపయోగించబడిన WiFi గుప్తీకరణ పద్ధతి ఆశించినంత శక్తివంతంగా లేదు.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "WiFi నెట్‌వర్క్ గుప్తీకరణ పద్ధతి అసురక్షితంగా ఉంది",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "మీ నెట్‌వర్క్ కనెక్షన్ ద్వారా ఉపయోగించబడిన WiFi నెట్‌వర్క్ గుప్తీకరణ పద్ధతి అసురక్షితంగా ఉంది.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "సమస్య ఉంది నిర్ణయం అమలు చేయబడే WiFi గుప్తీకరణ పద్ధతులు: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "సమస్య లేదు నిర్ణయం అమలు చేయబడే WiFi గుప్తీకరణ పద్ధతులు: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "WiFi గుప్తీకరణ పద్ధతి గురించి మాకు స్పష్టంగా తెలియకపోతే, సంభావ్య సమస్య ఉంది నిర్ణయం అమలు చేయబడుతుంది",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "కనుగొనబడిన అందుబాటులో ఉన్న నెట్‌వర్క్‌ల సంఖ్య: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "ప్రస్తుతం కనెక్ట్ చేయబడిన WiFi నెట్‌వర్క్ ద్వారా ఉపయోగించబడిన గుప్తీకరణ పద్ధతి: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "తొలి నుండి తుది వరకు పూర్తి స్థాయిలో Google వెబ్‌సైట్ పరీక్ష",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "Google వెబ్‌సైట్‌లు అందుబాటులో ఉన్నాయి",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "Google వెబ్‌సైట్‌లు ఏ రకమైన కనెక్టివిటీ సమస్య లేకుండా సరిగ్గానే లోడ్ అవుతున్నట్లు కనిపిస్తోంది.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Google వెబ్‌సైట్‌లు సరిగ్గా పునరుద్ధరించబడలేదు మరియు లోడ్ చేయబడలేదు.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "Google వెబ్‌సైట్‌లను ప్రాప్యత చేయడానికి ప్రయత్నిస్తున్నప్పుడు సమస్య సంభవించింది. క్యాప్టివ్ పోర్టల్, dns విషపూరితం, మధ్యలో మనిషి దాడి చేయడం మరియు ఇతర రూపాల్లో నెట్‌వర్క్ ట్యాంపరింగ్ జరగడం వంటి అనేక సమస్యల వలన ఇది సంభవించి ఉండవచ్చు.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "పరీక్షించిన నిర్దిష్ట Google సేవ వెబ్‌సైట్‌ల్లో వేటికైనా HTTPS కనెక్షన్‌ను ఏర్పాటు చేయడం సాధ్యపడితే, Google వెబ్‌సైట్‌లకు గల ప్రాప్యతకు సంబంధించి అటువైపు ఇటువైపు మధ్య ఉండే అనుసంధానం విజయవంతమైనట్లు పరిగణించబడుతుంది",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "పరీక్షించిన నిర్దిష్ట Google సేవ వెబ్‌సైట్‌ల్లో వేటికీ HTTPS కనెక్షన్‌ను ఏర్పాటు చేయడం సాధ్యపడకుంటే, Google వెబ్‌సైట్‌లకు గల ప్రాప్యతకు సంబంధించి అటువైపు ఇటువైపు మధ్య ఉండే అనుసంధానంలో సమస్య ఉన్నట్లు పరిగణించబడుతుంది",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "పరీక్ష # / పరీక్ష హోస్ట్ పేరు : ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "క్రింది హోస్ట్ పేరుకి కనెక్ట్ చేయడానికి ప్రయత్నిస్తున్నప్పుడు లోపం సంభవించింది, మళ్లీ ప్రయత్నిస్తాము: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "క్రింది హోస్ట్ పేరుకి కనెక్ట్ చేస్తున్నప్పుడు నిరంతరంగా లోపాలు సంభవించాయి, కనెక్టివిటీ సమస్య ఉన్నట్లుగా కనిపిస్తోంది: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "క్రింది స్థితి కోడ్‌తో క్రింది హోస్ట్ పేరు కోసం చేసిన అభ్యర్థన విజయవంతంగా పూర్తయింది: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

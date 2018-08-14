@@ -1,0 +1,4 @@
+﻿
+Powerwash i gang...
+
+Powerwash udføres, når der opdages alvorlige fejl, eller når du nulstiller din enhed. Det nulstiller Chrome OS til at være som nyt, og du kan bruge systemet igen om et øjeblik.

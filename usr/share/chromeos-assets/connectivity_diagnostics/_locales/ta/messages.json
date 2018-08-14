@@ -1,0 +1,1122 @@
+{
+  "appname": {
+    "message": "Chrome இணைப்புநிலை சரிபார்ப்பு",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name. [CHAR LIMIT=44]"
+  },
+  "appname_beta": {
+    "message": "Chrome இணைப்புநிலை சரிபார்ப்பு (பீட்டா)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Beta). [CHAR LIMIT=44]"
+  },
+  "appname_dev": {
+    "message": "Chrome இணைப்புநிலை சரிபார்ப்பு (Dev)",
+    "description": "[CHAR LIMIT=44] String CANNOT be longer than 44 chars under any circumstances or we cannot use the entire translation file. Title of the Chrome App name (Dev). [CHAR LIMIT=44]"
+  },
+  "apptitle": {
+    "message": "இணைப்புநிலை சரிபார்ப்பு",
+    "description": "HTML and header page title. [CHAR LIMIT=44]"
+  },
+  "apptitle_ucase": {
+    "message": "இணைப்புநிலை சரிபார்ப்பு",
+    "description": "HTML and header page title."
+  },
+  "aria_label_settings": {
+    "message": "அமைப்புகள்",
+    "description": "ARIA label for the settings button."
+  },
+  "aria_label_maximize": {
+    "message": "பெரிதாக்கு",
+    "description": "ARIA label for the maximize button."
+  },
+  "aria_label_restore": {
+    "message": "மீட்டமை",
+    "description": "ARIA label for the restore button."
+  },
+  "aria_label_close": {
+    "message": "மூடு",
+    "description": "ARIA label for the close button."
+  },
+  "aria_label_scroll_up": {
+    "message": "மேலே உருட்டு",
+    "description": "ARIA label for the scroll up button."
+  },
+  "aria_label_scroll_down": {
+    "message": "கீழே உருட்டு",
+    "description": "ARIA label for the scroll down button."
+  },
+  "network_settings_wireless_connection": {
+    "message": "வைஃபை",
+    "description": "Description of a wireless connection"
+  },
+  "network_settings_ethernet_connection": {
+    "message": "ஈதர்நெட்",
+    "description": "Description of a wired network connection"
+  },
+  "network_settings_ssid": {
+    "message": "SSID",
+    "description": "Attribute label for network ssid"
+  },
+  "network_settings_signal_strength": {
+    "message": "சிக்னல் வலிமை",
+    "description": "Attribute label for network signal strength"
+  },
+  "network_settings_mac_address": {
+    "message": "MAC முகவரி",
+    "description": "Attribute label for mac address"
+  },
+  "network_settings_ip_address": {
+    "message": "IP முகவரி",
+    "description": "Attribute label for ip address of the machine"
+  },
+  "network_settings_subnet_mask": {
+    "message": "சப்நெட் மாஸ்க்",
+    "description": "Attribute label for subnet mask"
+  },
+  "network_settings_gateway": {
+    "message": "கேட்வே",
+    "description": "Attribute label for the network gateway"
+  },
+  "network_settings_dns": {
+    "message": "DNS",
+    "description": "Attribute label for the dns servers"
+  },
+  "network_settings_dns_not_detected": {
+    "message": "DNS கண்டறியப்படவில்லை",
+    "description": "Message when the DNS nameservers cannot be detected"
+  },
+  "network_settings_connection_title": {
+    "message": "இணைப்பு",
+    "description": "Attribute label for the Connection."
+  },
+  "network_settings_connection": {
+    "message": "இணைப்பு",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "network_settings_network_secure": {
+    "message": "(பாதுகாப்பானது)",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "network_settings_network_insecure": {
+    "message": "(பாதுகாப்பற்றது)",
+    "description": "Used to describe a network connection. Example use: Wi-Fi connection secure."
+  },
+  "all_test_groups_summary_title": {
+    "message": "நெட்வொர்க் இணைப்பு சோதனைகள்",
+    "description": "Title for the all test group page."
+  },
+  "captive_portal_test_group_summary_title": {
+    "message": "கேப்டிவ் போர்ட்டல்",
+    "description": "Title for the connectivity test group that is captive portal"
+  },
+  "local_network_test_group_summary_title": {
+    "message": "அக நெட்வொர்க்",
+    "description": "Title for the connectivity test group that is local network"
+  },
+  "dns_test_group_summary_title": {
+    "message": "DNS",
+    "description": "Title for the connectivity test group that is DNS"
+  },
+  "firewall_test_group_summary_title": {
+    "message": "ஃபயர்வால்",
+    "description": "Title for the connectivity test group that is firewall"
+  },
+  "google_services_test_group_summary_title": {
+    "message": "Google சேவைகள்",
+    "description": "Title for the connectivity test group that is Google services"
+  },
+  "tests_running_message": {
+    "message": "சோதனைகள் இயக்கப்படுகின்றன. அதற்கு சில நிமிடங்கள் ஆகலாம்...",
+    "description": "Text to inform the user the tests are running."
+  },
+  "tests_failed_message": {
+    "message": "இணைப்புநிலைச் சரிபார்ப்பிற்கான சோதனைகள் இயக்கப்படும்போது பிழை ஏற்பட்டது. பற்சக்கர ஐகானைக் கிளிக் செய்து, ’சோதனைகளை மீண்டும் இயக்கு’ என்பதைத் தேர்வுசெய்யவும். இந்தப் பிழை தொடர்ந்தால், கருத்துத் தெரிவி என்ற இணைப்பைக் கிளிக் செய்து, அதில் சிக்கலை விவரிக்கவும்.",
+    "description": "Test to display to inform the user that the tests failed"
+  },
+  "footer_send_feedback": {
+    "message": "கருத்தை அனுப்பு",
+    "description": "Text in the bottom footer bar to send feedback"
+  },
+  "footer_network_settings": {
+    "message": "நெட்வொர்க் அமைப்புகள்",
+    "description": "Text in the bottom footer bar to view network settings"
+  },
+  "footer_run_diagnostics": {
+    "message": "சரிபார்ப்பை இயக்கு",
+    "description": "Text in the bottom footer bar to run CCD diagnostics"
+  },
+  "footer_rerun_diagnostics": {
+    "message": "சரிபார்ப்பை மீண்டும் இயக்கு",
+    "description": "Text in the bottom footer bar to rerun CCD diagnostics"
+  },
+  "footer_go_back": {
+    "message": "திரும்பு",
+    "description": "Text in the bottom footer bar to go back [CHAR LIMIT=20]"
+  },
+  "result_no_connectivity_problems": {
+    "message": "உங்களின் நெட்வொர்க் இணைப்பு சரியான முறையில் செயல்படுவதாகத் தெரிகிறது.",
+    "description": "Tests did not find a problem"
+  },
+  "setting_show_passing_test": {
+    "message": "வெற்றிபெறும் சோதனைகளைக் காட்டு",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_hide_passing_test": {
+    "message": "வெற்றிபெறும் சோதனைகளை மறை",
+    "description": "The setting that toggles whether to show passing tests [CHAR LIMIT=25]"
+  },
+  "setting_rerun_tests": {
+    "message": "சரிபார்ப்பை மீண்டும் இயக்கு",
+    "description": "The setting that allows a user to re-runs diagnostic tests [CHAR LIMIT=25]"
+  },
+  "setting_send_feedback": {
+    "message": "கருத்தை அனுப்பு...",
+    "description": "The setting that prompts the user to send feedback [CHAR LIMIT=25]"
+  },
+  "setting_about": {
+    "message": "அறிமுகம்",
+    "description": "The setting that lets the user learn about the app [CHAR LIMIT=25]"
+  },
+  "about_app": {
+    "message": "பயன்பாட்டின் அறிமுகம்",
+    "description": "The title for the About App feature"
+  },
+  "about_version_num": {
+    "message": "பதிப்பு: ",
+    "description": "The version number of the application"
+  },
+  "passing_tests_title": {
+    "message": "வெற்றிபெறும் சோதனைகள்",
+    "description": "Page section title for tests that passed"
+  },
+  "passing_test_title": {
+    "message": "வெற்றிபெறும் சோதனை",
+    "description": "Page section title for test that passed"
+  },
+  "warning_tests_title": {
+    "message": "எச்சரிக்கைகள்",
+    "description": "Page section title for tests that gave warnings"
+  },
+  "warning_test_title": {
+    "message": "எச்சரிக்கை",
+    "description": "Page section title for test that gave warning"
+  },
+  "test_result_log_test_name": {
+    "message": "சோதனையின் பெயர்: ",
+    "description": "In the logs for a test, print out the test name"
+  },
+  "test_result_log_test_id": {
+    "message": "சோதனை ஐடி: ",
+    "description": "In the logs for a test, print out the test ID"
+  },
+  "test_result_log_test_verdict": {
+    "message": "சோதனை முடிவு: ",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_no_problem": {
+    "message": "சிக்கல் எதுவும் கண்டறியப்படவில்லை",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_problem": {
+    "message": "சிக்கல் கண்டறியப்பட்டது",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_potential_problem": {
+    "message": "சாத்தியமான சிக்கல் கண்டறியப்பட்டது",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_log_verdict_failure_occurred": {
+    "message": "சோதனையை இயக்க முடியவில்லை",
+    "description": "In the logs for a test, print out the test verdict"
+  },
+  "test_result_show_logs": {
+    "message": "பதிவுகளைக் காட்டு...",
+    "description": "Link to show logs"
+  },
+  "test_result_hide_logs": {
+    "message": "பதிவுகளை மறை...",
+    "description": "Link to hide logs"
+  },
+  "test_result_copy_logs": {
+    "message": "முடிவு பதிவுகளை நகலெடு",
+    "description": "Link to copy result logs"
+  },
+  "test_result_log_summary": {
+    "message": "சுருக்கம்",
+    "description": "Show header in the logs for the summary section"
+  },
+  "test_result_log_criteria": {
+    "message": "திட்ட அளவு",
+    "description": "Show a header in the logs for the criteria section"
+  },
+  "test_result_log_details": {
+    "message": "விவரங்கள்",
+    "description": "Show a header in the logs for the details section"
+  },
+  "test_result_log_support_details": {
+    "message": "ஆதரவு விவரங்கள்",
+    "description": "Show a header in the logs for the support details section"
+  },
+  "tests_summary_group_status_passed": {
+    "message": "வெற்றி",
+    "description": "Current status of the group of tests if the group of tests passed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_failed": {
+    "message": "தோல்வி",
+    "description": "Current status of the group of tests if the group of tests failed [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_queued": {
+    "message": "வரிசைப்படுத்தப்பட்டது",
+    "description": "Current status of the group of tests if the group of tests are queued [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_warning": {
+    "message": "எச்சரிக்கை",
+    "description": "Current status of the group of tests if the group of tests resulted in a warning [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_running": {
+    "message": "இயக்கத்தில்",
+    "description": "Current status of the group of tests if the group of tests is running [CHAR LIMIT=12]"
+  },
+  "tests_summary_group_status_canceled": {
+    "message": "ரத்து செய்யப்பட்டன",
+    "description": "Current status of the group of tests if the group of tests is canceled [CHAR LIMIT=12]"
+  },
+  "tests_summary_sub_group_no_results": {
+    "message": "இப்போது எந்தச் சோதனை முடிவுகளும் கிடைக்கவில்லை.",
+    "description": "Indicate that there are no test results available for a specific group of connectivity tests."
+  },
+  "tests_summary_sub_group_tests_still_running": {
+    "message": "கூடுதல் சோதனைகள் நிலுவையில் உள்ளன. சோதனைகள் முடிந்ததும் முடிவுகள் காட்டப்படும்.",
+    "description": "Indicate that connectivity tests for a specific group are still running"
+  },
+  "tests_summary_sub_group_tests_title": {
+    "message": "சோதனைகள்",
+    "description": "Suffix for a test group name (e.g., 'Network tests', 'Google service tests', 'Firewall tests', 'Captive portal tests')"
+  },
+  "udpsocket_log_parsed_udp_response": {
+    "message": "UDP சாக்கெட்டிலிருந்து செயல்படுத்தப்படாத தரவு பெறப்பட்டது: ",
+    "description": "Log data from UDP socket"
+  },
+  "udpsocket_log_parsed_response_size": {
+    "message": "UDP சாக்கெட்டிலிருந்து பின்வரும் அளவிலுள்ள (பைட்கள்) தரவு வெற்றிகரமாகப் படிக்கப்பட்டது: ",
+    "description": "Log received UDP packet size"
+  },
+  "udpsocket_log_error_reading_udp_data": {
+    "message": "UDP தரவைப் படிப்பதில் பிழை. பிழைக் குறியீடு: ",
+    "description": "Log error reading UDP data"
+  },
+  "udpsocket_log_successfully_sent_data": {
+    "message": "பின்வரும் அளவு (பைட்கள்) தரவு வெற்றிகரமாக அனுப்பப்பட்டது: ",
+    "description": "Log successfully sent UDP data"
+  },
+  "udpsocket_log_preparing_to_send_data": {
+    "message": "பின்வரும் அளவிலுள்ள (பைட்கள்) UDP சாக்கெட் தரவை அனுப்ப தயார்செய்கிறது: ",
+    "description": "Log preparing to send UDP data"
+  },
+  "udpsocket_log_socket_created": {
+    "message": "UDP சாக்கெட், எண் / ஹோஸ்ட் / போர்ட்டை உருவாக்குகிறது: ",
+    "description": "Log UDP socket created"
+  },
+  "udpsocket_log_udp_timeout_setting": {
+    "message": "UDP நேர முடிவின் நீளத்தை அமைக்கிறது (மி.வி.): ",
+    "description": "Log UDP timeout setting"
+  },
+  "telnet_log_parsed_tcp_response": {
+    "message": "TCP சாக்கெட்டிலிருந்து செயல்படுத்தப்படாத தரவு பெறப்பட்டது: ",
+    "description": "Log data from TCP socket"
+  },
+  "telnet_log_parsed_response_size": {
+    "message": "TCP சாக்கெட்டிலிருந்து பின்வரும் அளவிலுள்ள (பைட்கள்) தரவு வெற்றிகரமாகப் படிக்கப்பட்டது: ",
+    "description": "Log received TCP size"
+  },
+  "telnet_log_error_reading_tcp_data": {
+    "message": "TCP தரவைப் படிப்பதில் பிழை. பிழைக் குறியீடு: ",
+    "description": "Log error reading TCP data"
+  },
+  "telnet_log_successfully_sent_data": {
+    "message": "பின்வரும் அளவிலுள்ள (பைட்கள்) தரவு வெற்றிகரமாக அனுப்பப்பட்டது: ",
+    "description": "Log successfully sent TCP data"
+  },
+  "telnet_log_preparing_to_send_data": {
+    "message": "பின்வரும் அளவிலுள்ள (பைட்கள்) தரவை அனுப்பத் தயார்செய்கிறது: ",
+    "description": "Log preparing to send TCP data"
+  },
+  "telnet_log_connection_established": {
+    "message": "பின்வரும் ஹோஸ்ட் / போர்ட் / நிலைக் குறியீட்டுடனான TCP இணைப்பு நிறுவப்பட்டது: ",
+    "description": "Log connection established"
+  },
+  "telnet_log_connection_failure": {
+    "message": "பின்வரும் ஹோஸ்ட் / போர்ட் / நிலைக் குறியீட்டுடனான TCP இணைப்புத் தோல்வியடைந்தது: ",
+    "description": "Log TCP connection failure"
+  },
+  "telnet_log_connection_failure_unknown": {
+    "message": "இணைப்புத் தோல்வியடைந்ததன் காரணம்: அறியப்படவில்லை",
+    "description": "Log TCP connection failure reason unknown"
+  },
+  "telnet_log_connection_established_successfully": {
+    "message": "பின்வரும் ஹோஸ்ட் / போர்ட் உடனான TCP இணைப்பு நிறுவப்பட்டது: ",
+    "description": "Log TCP connection established successfully"
+  },
+  "telnet_log_connection_failure_timeout": {
+    "message": "இணைப்புத் தோல்வியடைந்ததன் காரணம்: நேரம் முடிந்தது",
+    "description": "Log TCP connection failure due to timeout"
+  },
+  "telnet_log_connection_failure_refused": {
+    "message": "இணைப்புத் தோல்வியடைந்ததன் காரணம்: இணைப்பு மறுக்கப்பட்டது",
+    "description": "Log TCP connection failure due to refusal"
+  },
+  "telnet_log_socket_created": {
+    "message": "TCP சாக்கெட், எண் / ஹோஸ்ட் / போர்ட்டை உருவாக்குகிறது: ",
+    "description": "Log TCP socket created"
+  },
+  "telnet_log_tcp_timeout_setting": {
+    "message": "TCP நேர முடிவின் நீளத்தை (மி.வி.) அமைக்கிறது: ",
+    "description": "Log TCP timeout setting"
+  },
+  "chromeinternetdisconnectedtest_name": {
+    "message": "Chrome இணையம் துண்டிக்கப்பட்டதன் சோதனை",
+    "description": "Name for the Chrome Internet Disconnected test"
+  },
+  "chromeinternetdisconnectedtest_problem_title": {
+    "message": "பிணையத்துடன் இணைக்கப்படவில்லை",
+    "description": "Title for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_title": {
+    "message": "இணைய இணைப்பு உள்ளது",
+    "description": "Title for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_problem_subtitle": {
+    "message": "Chrome பிணையத்துடன் இணைக்கப்படவில்லை. உங்கள் இயக்க முறைமையின் பிணைய அமைப்புகளைச் சரிபார்க்கவும்.",
+    "description": "Subtitle for when a problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "Chrome உலாவிக்கு இணைய இணைப்பு கிடைக்கிறது.",
+    "description": "Subtitle for when no problem is found with the Chrome internet connection."
+  },
+  "chromeinternetdisconnectedtest_no_problem_threshold": {
+    "message": "சிக்கல் குறைந்த ஆய்வு முடிவில் பெறப்பட்டதின் கீழ் இணையம் துண்டிக்கப்பட்டதன் நிலைக் குறியீடுகளை வழங்கும் TCP சாக்கெட்டுகளின் சதவிகிதம்: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_problem_threshold": {
+    "message": "அதிக சிக்கல் உள்ள ஆய்வு முடிவுக்கு அதிகமாக அல்லது நிகராக உள்ள இணையம் துண்டிக்கப்பட்டதன் நிலைக் குறியீடுகளை வழங்கும் TCP சாக்கெட்டுகளின் சதவிகிதம்: ",
+    "description": "Logger record for percent of TCP sockets that return internet disconnected in order for test to fail"
+  },
+  "chromeinternetdisconnectedtest_log_connection_status_known": {
+    "message": " Chrome இணைய இணைப்புச் சோதனையானது TCP நிலைக் குறியீட்டை வழங்கியுள்ளது: ",
+    "description": "Logger record for when a TCP connection status code is known in the Chrome internet connection test."
+  },
+  "chromeinternetdisconnectedtest_log_connection_beginning": {
+    "message": " TCP இணைப்பு # / ஹோஸ்ட்பெயர் / போர்ட்டை முயற்சிக்க உள்ளது : ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "chromeosinternetdisconnectedtest_name": {
+    "message": "ChromeOS இணையம் துண்டிக்கப்பட்டதற்கான சோதனை",
+    "description": "Name for the ChromeOS Internet Disconnected test"
+  },
+  "chromeosinternetdisconnectedtest_problem_title": {
+    "message": "பிணையத்துடன் இணைக்கப்படவில்லை",
+    "description": "Title for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_title": {
+    "message": "இணைய இணைப்பு உள்ளது",
+    "description": "Title for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_problem_subtitle": {
+    "message": "இந்த Chromebook பிணையத்துடன் இணைக்கப்படவில்லை. நிலைத் தட்டுக்குச் சென்று, கிடைக்கின்ற பிணையத்துடன் இணைக்கவும்.",
+    "description": "Subtitle for when a problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_noproblem_subtitle": {
+    "message": "இணைய இணைப்பு உள்ளது.",
+    "description": "Subtitle for when no problem is found with the ChromeOS internet connection."
+  },
+  "chromeosinternetdisconnectedtest_no_problem_threshold": {
+    "message": "இணைக்கப்பட்ட பிணைய இடைமுகமானது இணைக்கப்பட்டதற்கான நிலைக் குறியீட்டை வழங்கும்போது சிக்கல் ஏதுமில்லை என்ற முடிவு பெறப்பட்டது",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a no problem result"
+  },
+  "chromeosinternetdisconnectedtest_problem_threshold": {
+    "message": "இணைக்கப்பட்ட பிணைய இடைமுகமானது துண்டிக்கப்பட்ட நிலைக் குறியீட்டை வழங்கும்போது சிக்கல் உள்ள முடிவு பெறப்பட்டது: ",
+    "description": "Condition under which the ChromeOS internet disconnected test returns a problem result"
+  },
+  "chromeosinternetdisconnectedtest_log_available_networks": {
+    "message": "கிடைக்கக்கூடிய, கண்டறியப்பட்ட நெட்வொர்க்குகளின் எண்ணிக்கை: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "chromeversiontest_name": {
+    "message": "Chrome பதிப்புச் சோதனை",
+    "description": "Name for the Chrome Version test"
+  },
+  "chromeversiontest_problem_title": {
+    "message": "Google Chrome இன் மிகச் சமீபத்திய பதிப்பு அல்ல",
+    "description": "Title for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_title": {
+    "message": "Google Chrome இன் மிகச் சமீபத்திய பதிப்பாகும்",
+    "description": "Title for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_problem_subtitle": {
+    "message": "உங்களிடம் மிகச் சமீபத்திய Google Chrome பதிப்பு இல்லை. அதாவது உங்களிடம் அறியப்பட்ட எல்லா பிழைத் திருத்தங்களும் இருக்காது, மேலும் இணைப்புச் சிக்கல்களையும் நீங்கள் சந்திக்கலாம். உலாவிக் கருவிப்பட்டியில் Chrome மெனுவைக் கிளிக் செய்து, Google Chrome ஐப் புதுப்பி என்பதைத் தேர்ந்தெடுக்கவும்.",
+    "description": "Subtitle for when a problem is found with the Chrome version."
+  },
+  "chromeversiontest_noproblem_subtitle": {
+    "message": "உங்களிடம் Google Chrome இன் சமீபத்திய பதிப்பு உள்ளது, எனவே இணைப்புச் சிக்கல்களுக்கான எல்லா அறியப்பட்ட திருத்தங்களும் உங்களிடம் உள்ளன.",
+    "description": "Subtitle for when no problem is found with the Chrome version."
+  },
+  "chromeversiontest_raw_useragent": {
+    "message": "அசல் கோப்புகளை உலாவுவதற்கான உலாவியின் பயனர்-ஏஜென்ட்: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeversiontest_short_browser": {
+    "message": "உலாவிப் பதிப்பு எண் (குறுகியது): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_full_browser": {
+    "message": "உலாவிப் பதிப்பு எண் (முழுமையானது): ",
+    "description": "Short browser version number"
+  },
+  "chromeversiontest_no_problem_version": {
+    "message": "நாங்கள் வழங்கும் சிக்கல் குறைந்த ஆய்வு முடிவுக்கு அதிகமாக அல்லது நிகராக உள்ள Chrome பதிப்பு எண்ணிற்கான தொடக்கம்: ",
+    "description": "Logger record for Chrome version test for which we render a no problem verdict."
+  },
+  "chromeversiontest_problem_version": {
+    "message": "நாங்கள் வழங்கும் அதிக சிக்கல் உள்ள ஆய்வு முடிவுக்குக் குறைவாக உள்ள Chrome பதிப்பு எண்ணிற்கான தொடக்கம்: ",
+    "description": "Logger record for Chrome version test for which we render a problem verdict."
+  },
+  "chromeosversiontest_name": {
+    "message": "ChromeOS பதிப்புப் பெயர்",
+    "description": "Name for the ChromeOS Version test"
+  },
+  "chromeosversiontest_problem_title": {
+    "message": "Chrome OS காலாவதியானது",
+    "description": "Title for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_title": {
+    "message": "Chrome OS புதுப்பித்த நிலையில் உள்ளது",
+    "description": "Title for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_subtitle": {
+    "message": "நீங்கள் Chrome OS இன் மிகச் சமீபத்திய பதிப்பைப் பயன்படுத்தவில்லை. எனவே, உங்களிடம் அறியப்பட்ட எல்லா பிழைத் திருத்தங்களும் இருக்காது, அதோடு நீங்கள் இணைப்புச் சிக்கல்களையும் சந்திக்க நேரிடலாம்.",
+    "description": "Subtitle for when a problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_subtitle": {
+    "message": "நீங்கள் Chrome OS இன் சமீபத்திய பதிப்பைப் பயன்படுத்துகிறீர்கள், எனவே உங்களிடம் இணைப்புச் சிக்கல்களுக்கான அறியப்பட்ட எல்லா பிழைதிருத்தங்களும் உள்ளன.",
+    "description": "Subtitle for when no problem is found with the ChromeOS version."
+  },
+  "chromeosversiontest_problem_record_log": {
+    "message": "Chrome OS பதிப்பின் சோதனையானது சிக்கலைக் கண்டறிந்துள்ளது. Chrome OS பதிப்பு காலாவதியானது. தற்போதைய குறைந்தபட்ச பதிப்பு: ",
+    "description": "Log record for recording that a problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_noproblem_record_log": {
+    "message": "Chrome OS பதிப்பின் சோதனை சிக்கல் எதையும் கண்டறியவில்லை. Chrome OS பதிப்பு புதுப்பித்த நிலையில் உள்ளது. தற்போதைய குறைந்தபட்ச பதிப்பு: ",
+    "description": "Log record for recording that no problem existed with the ChromeOS version."
+  },
+  "chromeosversiontest_raw_useragent": {
+    "message": "செயல்படுத்தப்படாத கோப்புகளை உலாவுவதற்கான உலாவியின் பயனர்-ஏஜென்ட்: ",
+    "description": "Raw browser user-agent"
+  },
+  "chromeosversiontest_short_platform": {
+    "message": "குறுகிய Chrome OS இயங்குதள எண்: ",
+    "description": "Short ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_full_platform": {
+    "message": "முழுமையான Chrome OS இயங்குதள எண்: ",
+    "description": "Full ChromeOS platform number parsed from the HTTP user-agent string"
+  },
+  "chromeosversiontest_no_problem_version": {
+    "message": "நாங்கள் வழங்கும் குறைந்த சிக்கல் உள்ள ஆய்வு முடிவுக்கு அதிகமாக அல்லது நிகராக உள்ள ChromeOS இயங்குதள எண்ணின் தொடக்கம்: ",
+    "description": "Logger record for ChromeOS platform number for which we render a no problem verdict."
+  },
+  "chromeosversiontest_problem_version": {
+    "message": "நாங்கள் வழங்கும் அதிக சிக்கல் உள்ள ஆய்வு முடிவுக்குக் குறைவாக உள்ள ChromeOS இயங்குதள எண்ணின் தொடக்கம்: ",
+    "description": "Logger record for ChromeOS platform number for which we render a problem verdict."
+  },
+  "resolverpresenttest_name": {
+    "message": "தீர்வி இருப்பதைக் கண்டறிவதற்கான சோதனை",
+    "description": "Name for the Resolver Present test"
+  },
+  "resolverpresenttest_problem_title": {
+    "message": "செயல்படும் DNS சேவையகம் கிடைக்கவில்லை",
+    "description": "Title for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_title": {
+    "message": "DNS சேவையகம் கிடைக்கிறது",
+    "description": "Title for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_problem_subtitle": {
+    "message": "DNS சேவையகமானது, ஹோஸ்ட்பெயரை (எ.கா. www.google.com) IP முகவரியாக மாற்றுகிறது. உலாவியானது இணையதளத்தை ஏற்ற வேண்டுமெனில், இணைப்பதற்கு அதனிடம் IP முகவரி இருக்க வேண்டும். உங்கள் DNS சேவையகமானது செயல்படாததால், நீங்கள் பார்க்க விரும்பும் இணையதளத்தின் IP ஐ Chrome ஆல் உறுதிசெய்ய முடியவில்லை. உங்கள் ISP அல்லது பிணைய நிர்வாகியைத் தொடர்புகொள்ளவும்.",
+    "description": "Subtitle for when a problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_noproblem_subtitle": {
+    "message": "DNS சேவையகம் வெற்றிகரமாக ஹோஸ்ட்பெயரை (எ.கா. www.google.com) IP முகவரியாக மாற்றியுள்ளதை Chrome கண்டறிந்தது.",
+    "description": "Subtitle for when no problem is found with the DNS Resolver Present test."
+  },
+  "resolverpresenttest_gettinghostname": {
+    "message": "பின்வரும் ஹோஸ்ட் பெயரைத் தீர்க்க முயற்சிக்கிறது: ",
+    "description": "Logger record denoting that the resolverpresenttest is about to resolve a hostname"
+  },
+  "resolverpresenttest_testcompleted": {
+    "message": "DNS சேவையகமானது, DNS வினவல் முடிவுகளை வழங்கியது.",
+    "description": "Logger record denoting that the resolverpresenttest is complete"
+  },
+  "resolverpresenttest_testfailed": {
+    "message": "DNS சேவையகம் எந்தவொரு முடிவையும் வழங்கவில்லை.",
+    "description": "Logger record denoting that the resolverpresenttest failed as the resolver did not return any result (even an error)"
+  },
+  "resolverpresenttest_hostnameresult": {
+    "message": "ஹோஸ்ட்பெயரானது பின்வரும் IP முகவரியாகத் தீர்க்கப்பட்டது: ",
+    "description": "Logger record denoting the IP result that the DNS resolved the hostname to"
+  },
+  "resolverpresenttest_criteria_success": {
+    "message": "DNS தீர்வி சோதனையானது ஒற்றை DNS வினவலைச் செயல்படுத்துகிறது, மேலும் சரியான பதில் வழங்கினால் வெற்றி பெற்ற முடிவை வழங்கும்.",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_criteria_failure": {
+    "message": "DNS தீர்வி சோதனையானது ஒற்றை DNS வினவலைச் செயல்படுத்துகிறது, மேலும் சரியான பதில் வழங்கப்படவில்லை எனில், தோல்வி பெற்ற முடிவை வழங்கும்.",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodesuccess": {
+    "message": "DNS சேவையகமானது வெற்றி நிலைக் குறியீட்டை வழங்கியுள்ளது: ",
+    "description": "Logger record denoting the successful DNS query status code result"
+  },
+  "resolverpresenttest_log_statuscodefailure": {
+    "message": "DNS சேவையகமானது சிக்கல் நிலைக் குறியீட்டை வழங்கியுள்ளது: ",
+    "description": "Logger record denoting the failed DNS query status code result"
+  },
+  "resolverlatencytest_name": {
+    "message": "தீர்வி தாமதத்தின் சோதனை",
+    "description": "Name for the Resolver Latency test"
+  },
+  "resolverlatencytest_problem_title": {
+    "message": "DNS ரெசல்யூஷன் நீண்ட நேரம் எடுத்தது",
+    "description": "Title for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potentialproblem_title": {
+    "message": "DNS ரெசல்யூஷன் சராசரியை விட நீண்ட நேரம் எடுத்தது",
+    "description": "Title for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_title": {
+    "message": "DNS பதில்கள் வேகமாகப் பெறப்பட்டன",
+    "description": "Title for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_problem_subtitle": {
+    "message": "உங்கள் DNS சேவையகம் பதில்களை விரைவாக வழங்கவில்லை. DNS சேவையகமானது ஹோஸ்ட்பெயரை (எ.கா. www.google.com), IP முகவரியாக மாற்றுகிறது. உலாவியானது இணையதளத்தை ஏற்ற வேண்டுமெனில், இணைப்பதற்கு அதனிடம் IP முகவரி இருக்க வேண்டும்..",
+    "description": "Subtitle for when a problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_potential_problem_subtitle": {
+    "message": "உங்கள் DNS சேவையகம் பதில்களை விரைவாக வழங்கவில்லை. DNS சேவையகமானது ஹோஸ்ட்பெயரை (எ.கா. www.google.com), IP முகவரியாக மாற்றுகிறது. உலாவியானது இணையதளத்தை ஏற்ற வேண்டுமெனில், இணைப்பதற்கு அதனிடம் IP முகவரி இருக்க வேண்டும்.",
+    "description": "Subtitle for when a potential problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_noproblem_subtitle": {
+    "message": "உங்கள் DNS சேவையகம் உங்கள் கோரிக்கைகளுக்கான பதில்களை விரைவாக வழங்கியது! DNS சேவையகமானது ஹோஸ்ட்பெயரை (எ.கா. www.google.com), IP முகவரியாக மாற்றுகிறது. உலாவியானது இணையதளத்தை ஏற்ற வேண்டுமெனில், இணைப்பதற்கு அதனிடம் IP முகவரி இருக்க வேண்டும்.",
+    "description": "Subtitle for when no problem is found with the DNS Latency test."
+  },
+  "resolverlatencytest_beginning_resolution": {
+    "message": "ஹோஸ்ட் பெயரான #ஐத் தீர்க்க முயற்சிக்கிறது: ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_queryresult_received": {
+    "message": "DNS ரெசல்யூஷனிற்கான முடிவு பெறப்பட்டது. சோதனை எண் / தற்போதைய நேரம் / எடுத்துக்கொண்ட நேரம் (மி.வி.) / தொடங்கிய நேரம் (மி.வி.): ",
+    "description": "Logger record for noting that DNS resolution is beginning."
+  },
+  "resolverlatencytest_total_resolution_time": {
+    "message": "எல்லா சோதனைகளுக்கான மொத்த DNS ரெசல்யூஷன் நேரம் (மி.வி.): ",
+    "description": "Logger record for noting the total DNS resolution time."
+  },
+  "resolverlatencytest_total_hosts_resolved": {
+    "message": "தீர்க்கப்பட்ட மொத்த DNS ஹோஸ்ட்கள்: ",
+    "description": "Logger record for noting the total hosts resolved."
+  },
+  "resolverlatencytest_average_resolution_time": {
+    "message": "சராசரி DNS ரெசல்யூஷன் நேரம் (மி.வி.): ",
+    "description": "Logger record for noting the average DNS resolution time."
+  },
+  "resolverlatencytest_no_problem_time": {
+    "message": "சிக்கல் குறைந்த ஆய்வு முடிவில் பெறப்பட்ட சராசரி DNS ரெசல்யூஷன் நேர (மி.வி.) பெஞ்ச்மார்க்: ",
+    "description": "Logger record for dns resolution time for which we render a no problem verdict."
+  },
+  "resolverlatencytest_potential_problem_time": {
+    "message": "சாத்தியமான சிக்கல் உள்ள ஆய்வு முடிவிற்கு இடையில் பெறப்பட்ட சராசரி DNS ரெசல்யூஷன் நேர (மி.வி.) பெஞ்ச்மார்க்: ",
+    "description": "Logger record for dns resolution time for which we render a potential problem verdict."
+  },
+  "resolverlatencytest_problem_time": {
+    "message": "சிக்கல் உள்ள ஆய்வு முடிவில் பெறப்பட்ட சராசரி DNS ரெசல்யூஷன் நேர (மி.வி.) பெஞ்ச்மார்க்: ",
+    "description": "Logger record for dns resolution time for which we render a problem verdict."
+  },
+  "dnspoisoningtest_name": {
+    "message": "DNS தீங்கு பரிசோதனை",
+    "description": "Name for DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_title": {
+    "message": "DNS சேவையகமானது எதிர்பார்த்த முடிவுகளை வழங்கியுள்ளது",
+    "description": "Title for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_noproblem_subtitle": {
+    "message": "DNS முடிவுகள் எதிர்பார்த்தப்படி இருந்தன, மேலும் துல்லியமானதாகத் தோன்றுகின்றன",
+    "description": "Subtitle for when no problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_title": {
+    "message": "DNS முடிவுகள் எதிர்பார்த்தவை அல்ல, தீங்குவிளைவிக்கலாம்",
+    "description": "Title for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_subtitle": {
+    "message": "தீங்குவிளைவிக்கும் DNS பதில்கள் பெறப்பட்டன. தீங்குவிளைவிக்கும் DNS சேவையகம் தவறான IP முகவரியை வழங்கி, குறிப்பிட்டதைத் தவிர்த்து மற்றொரு ஹோஸ்ட்டிற்கு உங்கள் ட்ராஃபிக்கைத் திசைதிருப்பலாம்.",
+    "description": "Subtitle for when a problem is found with the DNS poisoning test."
+  },
+  "dnspoisoningtest_problem_threshold": {
+    "message": "எதிர்பார்த்த IP முகவரியைத் தீர்வி வழங்காதபோது DNS முடிவுகள் தீங்கு விளைவிப்பவையாகக் கருதப்படும்.",
+    "description": "Log record for the threshold of a problem"
+  },
+  "dnspoisoningtest_no_problem_threshold": {
+    "message": "எதிர்பார்த்த IP முகவரியைத் தீர்வி வழங்கும்போது DNS முடிவுகள் தீங்கு விளைவிக்காதவையாகக் கருதப்படும்.",
+    "description": "Log record for the threshold of no problem"
+  },
+  "dnspoisoningtest_beginning_resolution": {
+    "message": "சோதனை # / சோதனை ஹோஸ்ட்பெயர் : ",
+    "description": "Logger record for noting a new DNS resolution attempt."
+  },
+  "dnspoisoningtest_no_addr_returned": {
+    "message": " DNS முகவரி புலம் எதுவுமில்லை என சோதனையின் முடிவு தெரிவித்தது (எதுவுமில்லை என்பதற்கு அமைக்கப்பட்டது)",
+    "description": "Logger record for when DNS resolution returns no address field."
+  },
+  "dnspoisoningtest_noresult_code_returned": {
+    "message": " சோதனை; முடிவு நிலைக் குறியீடு இல்லை; சோதனை தோல்வியடைந்ததன் காரணமாக ரத்துசெய்யப்படுகிறது.",
+    "description": "Logger record for when DNS resolution returns no result status code field."
+  },
+  "dnspoisoningtest_log_statuscode_returned": {
+    "message": " சோதனையானது பின்வரும் நிலைக் குறியீட்டை அனுப்பியுள்ளது: ",
+    "description": "Logger record for DNS response status code."
+  },
+  "dnspoisoningtest_log_address_returned": {
+    "message": " தீர்க்கப்பட்ட DNS முகவரியை அனுப்பியுள்ளது: ",
+    "description": "Logger record for DNS response address."
+  },
+  "tcpfirewalltest_name": {
+    "message": "TCP ஃபயர்வால் சோதனை",
+    "description": "Name for TCP Firewall test"
+  },
+  "tcpfirewalltest_problem_title": {
+    "message": "போர்ட்டில் இணைய ட்ராஃபிக் தடுக்கப்பட்டுள்ளது ",
+    "description": "Title for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_title": {
+    "message": "போர்ட்டில் இணைய ட்ராஃபிக் தடுக்கப்பட்டுள்ளதுபோல் தெரிகிறது ",
+    "description": "Title for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_title": {
+    "message": "போர்ட்டில் இணைய ட்ராஃபிக் அனுமதிக்கப்பட்டுள்ளது ",
+    "description": "Title for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_problem_subtitle": {
+    "message": "பொதுவாகப் பயன்படுத்தப்படும் இணைய இணைப்பிற்கு உங்கள் நெட்வொர்க்கில் வரம்பு உள்ளது.",
+    "description": "Subtitle for when a problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_potentialproblem_subtitle": {
+    "message": "பொதுவாகப் பயன்படுத்தப்படும் இணைய இணைப்பிற்கு உங்கள் நெட்வொர்க்கில் வரம்பு உள்ளதுபோல் தெரிகிறது.",
+    "description": "Subtitle for when a potential problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_noproblem_subtitle": {
+    "message": "போர்ட்டில் வெற்றிகரமாக இணைப்பை ஏற்படுத்தியுள்ளோம் ",
+    "description": "Subtitle for when no problem is found with the TCP Firewall test."
+  },
+  "tcpfirewalltest_log_connection_about_begun": {
+    "message": " TCP இணைப்பு # / ஹோஸ்ட்பெயர் / போர்ட்டை முயற்சிக்கிறது : ",
+    "description": "Logger record for when a TCP connection to a specific host and port is about to begin"
+  },
+  "tcpfirewalltest_log_connection_status_known": {
+    "message": " TCP ஃபயர்வால் சோதனையானது TCP நிலைக் குறியீட்டை அனுப்பியுள்ளது: ",
+    "description": "Logger record for when a TCP connection status code is known"
+  },
+  "tcpfirewalltest_log_analysis_summary": {
+    "message": "ஃபயர்வால் சோதனை முடிவுகள்: சோதனைகள் நடத்தப்பட்டன / போர்ட் சரிபார்க்கப்பட்டது / தோல்வியடைந்த இணைப்புகளின் எண்ணிக்கை: ",
+    "description": "Logger record for summarizing the analysis of the various TCP connections made in a test"
+  },
+  "tcpfirewalltest_log_count_failed_attempt": {
+    "message": "இணைப்புச் சோதனை முயற்சி தோல்வியடைந்தது, மேலும் Chrome பிணைய அடுக்கிலிருந்து TCP வெற்றி நிலைக் குறியீட்டை அனுப்பவில்லை, அதற்குப் பதிலாக பின்வரும் நிலைக் குறியீட்டை அனுப்பியுள்ளது: ",
+    "description": "Logger record for denoting failure of a TCP connection"
+  },
+  "tcpfirewalltest_log_dns_broken": {
+    "message": "கண்டுபிடிக்கப்பட்ட DNS தீர்வி கிடைக்கவில்லை, எனவே ஃபயர்வால் உள்ளதை எங்களால் தீர்மானிக்க முடியவில்லை",
+    "description": "Logger record for when TCP connections seem to fail due to DNS resolver not working"
+  },
+  "tcpfirewalltest_log_network_disconnected": {
+    "message": "கண்டுபிடிக்கப்பட்ட பிணையம் கிடைக்கவில்லை, எனவே ஃபயர்வால் உள்ளதை எங்களால் தீர்மானிக்க முடியவில்லை",
+    "description": "Logger record for when TCP connections seem to reveal that the network is unavailable"
+  },
+  "tcpfirewalltest_no_problem_threshold": {
+    "message": "தோல்வியடைந்த TCP இணைப்புச் சோதனை முடிவுகளின் சதவீதம் பின்வருவதற்குக் குறைவாக அல்லது சமமாக இருக்கும்போது குறைந்த சிக்கல் உள்ள ஆய்வு முடிவு வழங்கப்படும்: ",
+    "description": "Logger record for TCP firewall test for which we render a no problem verdict."
+  },
+  "tcpfirewalltest_problem_threshold": {
+    "message": "தோல்வியடைந்த TCP இணைப்பு சோதனை முடிவுகளின் சதவீதம் பின்வருவதற்குச் சமமாக இருக்கும்போது அதிக சிக்கல் உள்ள ஆய்வு முடிவு வழங்கப்படும்: ",
+    "description": "Logger record for TCP firewall test for which we render a problem verdict."
+  },
+  "tcpfirewalltest_potential_problem_threshold": {
+    "message": "தோல்வியடைந்த TCP இணைப்பு சோதனை முடிவுகளின் எண்ணிக்கை, பின்வருபவைக்கு இடையில் இருக்கும்போது சாத்தியமான சிக்கல் உள்ள ஆய்வு முடிவு வழங்கப்படும்: ",
+    "description": "Logger record for TCP firewall test for which we render a potential problem verdict."
+  },
+  "captiveportalhttptest_name": {
+    "message": "HTTP கேப்டிவ் போர்ட்டல் சோதனை",
+    "description": "Name for the Captive Portal HTTP test"
+  },
+  "captiveportalhttptest_problem_title": {
+    "message": "இணைய ட்ராஃபிக்கைக் கேப்டிவ் போர்ட்டல் தடுத்துள்ளது",
+    "description": "Title for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_title": {
+    "message": "HTTP கேப்டிவ் போர்ட்டலுக்கான சோதனையைச் சரியாக செய்ய முடியவில்லை",
+    "description": "Title for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_title": {
+    "message": "திறந்த இணைய அணுகல் கண்டறியப்பட்டது",
+    "description": "Title for when no problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_problem_subtitle": {
+    "message": "கேப்டிவ் போர்ட்டல் என்பது இணையத்தைக் கட்டுப்பாடின்றி உலாவுவதற்கான அணுகலைப் பிணையம் தனது பயனர்களுக்கு வழங்கும் முன், அவர்கள் பார்க்க மற்றும் இடைச்செயலாற்ற பிணையத்திற்குத் தேவைப்படும் இணையதளமாகும். உங்கள் பிணையத்தில் கேப்டிவ் போர்ட்டல் கண்டறியப்பட்டுள்ளது, அதாவது இணையத்திற்கான வரம்பற்ற அணுகல் தடுக்கப்பட்டுள்ளது.",
+    "description": "Subtitle for when a problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_potentialproblem_subtitle": {
+    "message": "HTTP கேப்டிவ் போர்ட்டலின் சோதனைகளைத் தடுக்கும் சிக்கல் உள்ளது. உங்களுடைய எல்லா பிணைய ட்ராஃபிக்கும் மறுக்கப்படுகிறது அல்லது தடுக்கப்படுகிறது எனில் இந்த வகையான பொது சிக்கல் ஏற்படும்.",
+    "description": "Subtitle for when potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_noproblem_subtitle": {
+    "message": "திறந்த இணைய அணுகல் கண்டறியப்பட்டது. கேப்டிவ் போர்ட்டல் என்பது இணையத்தைக் கட்டுப்பாடின்றி உலாவுவதற்கான அணுகலைப் பிணையம் தனது பயனர்களுக்கு வழங்கும் முன், அவர்கள் பார்க்க மற்றும் இடைச்செயலாற்ற பிணையத்திற்குத் தேவைப்படும் இணையதளமாகும்.",
+    "description": "Title for when a potential problem is found with the HTTP captive portal test."
+  },
+  "captiveportalhttptest_no_problem_threshold": {
+    "message": "எல்லா HTTP கோரிக்கைகளும் 204 HTTP நிலைக் குறியீட்டை வழங்கினால், HTTP கேப்டிவ் போர்ட்டல் சோதனையானது சிக்கல் குறைந்த ஆய்வு முடிவை வழங்குகிறது",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a no problem verdict"
+  },
+  "captiveportalhttptest_potentialproblem_threshold": {
+    "message": "பின்வரும் HTTP கோரிக்கைகளின் சதவீதத்தை விட பிணைய அடுக்குச் சிக்கல்கள் அதிகமாக இருந்தால், HTTP கேப்டிவ் போர்ட்டல் சாத்தியம் உள்ள சிக்கல் முடிவை வழங்குகிறது: ",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a potential problem verdict"
+  },
+  "captiveportalhttptest_problem_threshold": {
+    "message": "HTTP கோரிக்கைகளில் ஏதேனும் ஒன்று 204 HTTP நிலைக் குறியீட்டை வழங்கவில்லை எனில், HTTP கேப்டிவ் போர்ட்டல் சோதனையானது அதிக சிக்கல் உள்ள ஆய்வு முடிவை வழங்கும்",
+    "description": "Log record for the criteria under which the Captive Portal HTTP request returns a problem verdict"
+  },
+  "captiveportalhttptest_log_network_error": {
+    "message": "கோரிக்கை # இல் பிழை / பிழையின் நிலை: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "captiveportalhttptest_log_response_code": {
+    "message": "பதில் எண் / HTTP பதில் குறியீடு: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_http_response": {
+    "message": "பதில் எண் / HTTP பதில் தலைப்புகள்: ",
+    "description": "Logger record for full HTTP response length"
+  },
+  "captiveportalhttptest_log_response_length": {
+    "message": "கோரிக்கை எண் / முழுமையான பதிலின் நீளம்: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_name": {
+    "message": "Google இணையதளங்களின் HTTP தாமதச் சோதனை",
+    "description": "Name for the HTTP latency test"
+  },
+  "httplatencytest_problem_title": {
+    "message": "Google க்கான இணைய கோரிக்கைகள் நீண்ட நேரம் எடுத்தன",
+    "description": "Title for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_title": {
+    "message": "Google க்கான இணைய கோரிக்கைகள் எதிர்பார்த்ததைவிட நீண்ட நேரம் எடுத்தன",
+    "description": "Title for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_title": {
+    "message": "Google இணையதளங்களிலிருந்து விரைவு பதில்கள் பெறப்பட்டன",
+    "description": "Title for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_problem_subtitle": {
+    "message": "Google இணையதளங்களிலிருந்து பதிலைப் பெறுவதற்கு நிர்ணயித்ததை விட அதிக நேரம் எடுக்கிறது, இது மந்தமான பிணையத்தைக் குறிக்கிறது.",
+    "description": "Subtitle for when a problem is found in the HTTP latency test"
+  },
+  "httplatencytest_potentialproblem_subtitle": {
+    "message": "Google இணையதளங்களிலிருந்து பதிலைப் பெறுவதற்கு நிர்ணயித்ததை விட சற்று அதிகமான நேரம் எடுக்கிறது, இது மந்தமான பிணையத்தைக் குறிக்கிறது.",
+    "description": "Subtitle for when a potential problem is found in the HTTP latency test"
+  },
+  "httplatencytest_noproblem_subtitle": {
+    "message": "Google க்கான இணைய கோரிக்கைகள் விரைவாகப் பெறப்படுகின்றன.",
+    "description": "Subtitle for when no problem is found in the HTTP latency test"
+  },
+  "httplatencytest_log_network_error": {
+    "message": "கோரிக்கை # இல் பிழை / பிழையின் நிலை: ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_average_time": {
+    "message": "சராசரியான HTTP கோரிக்கை நேரம் (மி.வி): ",
+    "description": "Logger record for when TCP connection breaks an HTTP request"
+  },
+  "httplatencytest_log_num_requests": {
+    "message": "HTTP கோரிக்கைகளின் மொத்த எண்ணிக்கை: ",
+    "description": "Logger record for the total number of HTTP requests"
+  },
+  "httplatencytest_log_response_time": {
+    "message": "HTTP பதிலின் மொத்த நேரம் (மி.வி.): ",
+    "description": "Logger record for the total HTTP response time"
+  },
+  "httplatencytest_log_response_details": {
+    "message": "HTTP பதில் # / பெற்ற நேரம் (மைக்ரோடைம்ஸ்டாம்ப்) / கடந்த நேரம்(மி.வி.): ",
+    "description": "Logger record for the details of a specific response"
+  },
+  "httplatencytest_no_problem_time": {
+    "message": "சிக்கல் குறைந்த ஆய்வு முடிவில் பெறப்பட்ட சராசரி HTTP தாமத நேர (மி.வி.) பெஞ்ச்மார்க்: ",
+    "description": "Logger record for http latency time for which we render a no problem verdict."
+  },
+  "httplatencytest_potential_problem_time": {
+    "message": "சாத்தியமான சிக்கல் உள்ள ஆய்வு முடிவிற்கு இடையில் பெறப்பட்ட சராசரி HTTP தாமத நேர (மி.வி.) பெஞ்ச்மார்க்: ",
+    "description": "Logger record for http latency time for which we render a potential problem verdict."
+  },
+  "httplatencytest_problem_time": {
+    "message": "அதிக சிக்கல் உள்ள ஆய்வு முடிவில் பெறப்பட்ட சராசரி HTTP தாமத நேர (மி.வி.) பெஞ்ச்மார்க்: ",
+    "description": "Logger record for http latency time for which we render a problem verdict."
+  },
+  "chromeossignalstrengthtest_name": {
+    "message": "ChromeOS வைஃபை சிக்னலின் வலிமை சோதனை",
+    "description": "Name for the ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_title": {
+    "message": "வைஃபை சிக்னலின் வலிமை சோதனை நிறுத்தப்பட்டது",
+    "description": "Title for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_failure_subtitle": {
+    "message": "வைஃபை இணைப்பு இல்லை என்பதால், சோதனையை இயக்க முடியவில்லை.",
+    "description": "Subtitle for when a test failure occurs with ChromeOS Signal Strength test"
+  },
+  "chromeossignalstrengthtest_problem_title": {
+    "message": "பிணைய சிக்னலின் வலிமை குறைவாக உள்ளது",
+    "description": "Title for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_problem_subtitle": {
+    "message": "வைஃபை பிணையத்தின் சிக்னல் வலுவற்றதாக உள்ளது.",
+    "description": "Subtitle for when a problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_title": {
+    "message": "பிணைய சிக்னல் வலுவாக உள்ளது",
+    "description": "Title for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_noproblem_subtitle": {
+    "message": "வைஃபை பிணையத்தின் சிக்னல் வலுவானதாக உள்ளது.",
+    "description": "Subtitle for when no problem is found in the ChromeOS signal strength"
+  },
+  "chromeossignalstrengthtest_log_signal_strength": {
+    "message": "பிணைய சிக்னலின் பெயர் / சிக்னலின் வலிமை: ",
+    "description": "Logger record for the signal strength of a ChromeOS NIC connection"
+  },
+  "chromeossignalstrengthtest_no_problem_strength": {
+    "message": "சிக்கல் குறைந்த ஆய்வு முடிவில் பெறப்பட்ட ChromeOS சிக்னல் வலிமையின் பெஞ்ச்மார்க்: ",
+    "description": "Logger record for signal strength for which we render a no problem verdict."
+  },
+  "chromeossignalstrengthtest_problem_strength": {
+    "message": "அதிக சிக்கல் உள்ள ஆய்வு முடிவில் பெறப்பட்ட ChromeOS சிக்னல் வலிமையின் பெஞ்ச்மார்க்: ",
+    "description": "Logger record for signal strength for which we render a problem verdict."
+  },
+  "pinggatewaytest_name": {
+    "message": "பிங் கேட்வே சோதனை",
+    "description": "Name for the ping gateway test"
+  },
+  "pinggatewaytest_problem_title": {
+    "message": "கேட்வேயை பிங் செய்ய முடியவில்லை",
+    "description": "Title for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_problem_subtitle": {
+    "message": "கேட்வேயை பிங் செய்வது விரைவு பதிலை அளிக்கவில்லை.",
+    "description": "Subtitle for when a problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_title": {
+    "message": "கேட்வேயை அணுகமுடிகிறது",
+    "description": "Title for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_noproblem_subtitle": {
+    "message": "கேட்வேயை பிங் செய்வது விரைவு பதிலை அளிக்கிறது.",
+    "description": "Subtitle for when no problem is found in the ping gateway test"
+  },
+  "pinggatewaytest_no_problem_time": {
+    "message": "நாங்கள் வழங்கும் குறைந்த சிக்கல் உள்ள ஆய்வு முடிவுக்கு கேட்வேயை பிங் செய்வதற்கான தாமத நேர தொடக்கம் (மி.வி.): ",
+    "description": "Logger record for the gateway latency below which we render a no problem verdict."
+  },
+  "pinggatewaytest_problem_time": {
+    "message": "நாங்கள் வழங்கும் அதிக சிக்கல் உள்ள ஆய்வு முடிவுக்கு கேட்வேயைப் பிங் செய்வதற்கான தாமத நேர தொடக்கம் (மி.வி.): ",
+    "description": "Logger record for the gateway latency above which we render a problem verdict."
+  },
+  "pinggatewaytest_log_failure": {
+    "message": "ICMP வினவலானது கேட்வே IP க்கு நேரடியாக அனுப்பப்படும், இது பதில் தொகுப்பாக பெறப்படாது.",
+    "description": "Logger record for when there is no response to an ICMP packet"
+  },
+  "pinggatewaytest_log_latency": {
+    "message": "ICMP தொகுப்பு தாமத நிலை (மி.வி.): ",
+    "description": "Logger record for the latency of an ICMP packet in the ping gateway test"
+  },
+  "pinggatewaytest_log_gateway_unknown": {
+    "message": "கேட்வேயின் IP ஐத் தீர்மானிக்க முடியவில்லை",
+    "description": "Logger record for when the gateway of the IP could not be determined"
+  },
+  "pinggatewaytest_log_gateway_known": {
+    "message": "கேட்வேயின் IP ஆனது இவ்வாறு தீர்மானிக்கப்பட்டுள்ளது: ",
+    "description": "Logger record for the gateway of the IP"
+  },
+  "pinggatewaytest_log_same_ip_response": {
+    "message": "TTL 1 மூலம் தொலைநிலை ஹோஸ்ட்டிற்கு அனுப்பும் ICMP தொகுப்பு வழங்கிய IP ஆனது பின்வரும் தொலைநிலை ஹோஸ்ட்டின் IP போன்று உள்ளது: ",
+    "description": "Logger record for when the IP that is pinged returns the terminal destination IP and not the gateway IP"
+  },
+  "hangoutsblockedtest_name": {
+    "message": "Hangouts இணைப்பு சோதனை",
+    "description": "Name for the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_title": {
+    "message": "Hangouts இணைப்பு உள்ளது",
+    "description": "Title for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_noproblem_subtitle": {
+    "message": "Hangouts சேவையுடன் வெற்றிகரமாக இணைக்கப்பட்டது.",
+    "description": "Subtitle for when no problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_title": {
+    "message": "Hangouts இணைப்பானது பகுதியளவு சிதைந்துள்ளதுபோல் தெரிகிறது",
+    "description": "Title for when a potential problem is found in the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_potentialproblem_subtitle_udp_media_blocked": {
+    "message": "UDP போர்ட்கள் 19309 மூலம் 19302 இல் உள்ள Hangouts மீடியா சேவையுடன் இணைக்க முடியவில்லை.",
+    "description": "Subtitle for when a potential problem is found from the Hangouts blocked test whereby UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_title": {
+    "message": "Hangout இணைப்பை நிறுவ முடியவில்லை",
+    "description": "Title for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle": {
+    "message": "Hangouts உடன் இணைக்க தேவையான போர்ட்களும் ஹோஸ்ட்களும், தடுக்கப்பட்டுள்ளதாகத் தெரிகிறது.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test"
+  },
+  "hangoutsblockedtest_problem_subtitle_udp_media_tcp_media_blocked": {
+    "message": "TCP போர்ட் 443 மற்றும் UDP போர்ட்கள் 19309 மூலம் 19302 ஆகியவற்றில் உள்ள Hangouts மீடியா சேவையுடன் இணைக்க முடியவில்லை.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP and UDP is blocked to Hangouts media host."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_chat_blocked": {
+    "message": "Hangouts அரட்டைச் சேவையுடன் இணைக்க முடியவில்லை.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_problem_subtitle_tcp_media_tcp_chat_blocked": {
+    "message": "TCP போர்ட் 443 இல் உள்ள Hangouts அரட்டைச் சேவை அல்லது Hangouts மீடியா சேவையுடன் இணைக்க முடியவில்லை.",
+    "description": "Subtitle for when a problem is found from the Hangouts blocked test whereby TCP is blocked to Hangouts chat hosts."
+  },
+  "hangoutsblockedtest_log_tcp_connection_success": {
+    "message": "போர்ட் 443 இல் ஹோஸ்ட்டிற்கான TCP இணைப்பு வெற்றியடைந்தது ",
+    "description": "Log record for when a TCP connection succeeds on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_tcp_connection_failure": {
+    "message": "போர்ட் 443 இல், ஹோஸ்ட்டிற்கான TCP இணைப்புத் தோல்வியடைந்தது, மேலும் தடுக்கப்பட்டது ",
+    "description": "Log record for when a TCP connection appears to be blocked on port 443 to a required host"
+  },
+  "hangoutsblockedtest_log_udp_connection_failure": {
+    "message": "UDP இணைப்புத் தோல்வியடைந்தது, மேலும் இலக்கு போர்ட்டில் தடுக்கப்பட்டது ",
+    "description": "Log record for when a UDP connection appears to be blocked"
+  },
+  "hangoutsblockedtest_log_udp_connection_success": {
+    "message": "இலக்கு போர்ட்டில் UDP இணைப்பு வெற்றியடைந்தது ",
+    "description": "Log record for when a UDP connection can successfully send and receive data"
+  },
+  "hangoutsblockedtest_no_problem_criteria": {
+    "message": "Hangouts தடுப்பதற்கான சோதனையானது, இவ்வாறாக இருந்தால் சிக்கல் குறைந்த ஆய்வு முடிவை வழங்கும்: (1) 19302 இலிருந்து 19309 வரை உள்ள எந்தவொரு UDP போர்ட்டில் உள்ள stun.l.google.com இல் இணைப்பு நிறுவப்பட்டிருத்தல் (2) apis.google.com, clients6.google.com, plus.google.com மற்றும் talkgadget.google.com இல் TCP இணைப்பு நிறுவப்பட்டிருத்தல்",
+    "description": "Criteria under which the Hangouts blocked test returns a no problem verdict"
+  },
+  "hangoutsblockedtest_problem_criteria": {
+    "message": "Hangouts தடுப்பதற்கான சோதனையானது, இவ்வாறாக இருந்தால் சிக்கல் அதிகம் உள்ள ஆய்வு முடிவை வழங்கும்: (1) 19302 இலிருந்து 19309 வரை உள்ள எல்லா UDP இலக்கு போர்ட்களும் stun.l.google.com இல் தடுக்கப்பட்டிருத்தல் (2) போர்ட் 443 இல் பின்வரும் ஏதேனும் ஹோஸ்ட்களுக்கான TCP இணைப்பு தோல்வியடைதல்: apis.google.com, clients6.google.com, plus.google.com, talkgadget.google.com",
+    "description": "Criteria under which the Hangouts blocked test returns a problem verdict"
+  },
+  "wifiencryptiontest_name": {
+    "message": "வைஃபை குறியாக்கச் சோதனை",
+    "description": "Name for the WiFi Encryption test"
+  },
+  "wifiencryptiontest_failure_title": {
+    "message": "வைஃபை குறியாக்கச் சோதனை நிறுத்தப்பட்டது",
+    "description": "Title for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_failure_subtitle": {
+    "message": "வைஃபை நெட்வொர்க் இல்லாததால், வைஃபை குறியாக்கச் சோதனை இயக்கப்படவில்லை.",
+    "description": "Subtitle for when the WiFi Encryption test is not run"
+  },
+  "wifiencryptiontest_noproblem_title": {
+    "message": "வைஃபை குறியாக்க முறை வலுவாக உள்ளது",
+    "description": "Title for when no problem is found in the WiFi Encryption  blocked test"
+  },
+  "wifiencryptiontest_noproblem_subtitle": {
+    "message": "உங்கள் சாதனம் பயன்படுத்தும் வைஃபை குறியாக்க முறை வலுவாக உள்ளது.",
+    "description": "Subtitle for when no problem is found in the WiFi Encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_title": {
+    "message": "வைஃபை குறியாக்க முறை ஓரளவுக்கு மட்டுமே பாதுகாப்பானதாக உள்ளது",
+    "description": "Title for when a potential problem is found in the WiFi encryption test"
+  },
+  "wifiencryptiontest_potentialproblem_subtitle": {
+    "message": "உங்கள் பிணைய இணைப்பு பயன்படுத்தும் வைஃபை குறியாக்க முறை வலுவாக இல்லை.",
+    "description": "Subtitle for when a potential problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_title": {
+    "message": "வைஃபை பிணைய குறியாக்க முறைப் பாதுகாப்பாக இல்லை",
+    "description": "Title for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_subtitle": {
+    "message": "உங்கள் பிணைய இணைப்பு பயன்படுத்தும் வைஃபை குறியாக்க முறைப் பாதுகாப்பாக இல்லை.",
+    "description": "Subtitle for when a problem is found from the WiFi encryption test"
+  },
+  "wifiencryptiontest_problem_threshold": {
+    "message": "சிக்கல் அதிகம் உள்ள ஆய்வு முடிவில் பெறப்பட்ட வைஃபை குறியாக்க முறைகள்: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a problem"
+  },
+  "wifiencryptiontest_noproblem_threshold": {
+    "message": "சிக்கல் குறைந்த ஆய்வு முடிவில் பெறப்பட்ட வைஃபை குறியாக்க முறைகள்: ",
+    "description": "Logger record for criteria when WiFi encryption test renders a no problem"
+  },
+  "wifiencryptiontest_potentialproblem_threshold": {
+    "message": "வைஃபை குறியாக்க முறை பற்றி தெளிவாகத் தெரியவில்லை எனில், சாத்தியமான சிக்கல் உள்ள ஆய்வு முடிவு வழங்கப்படும்",
+    "description": "Logger record for criteria when WiFi encryption test renders a potential problem"
+  },
+  "wifiencryptiontest_log_available_networks": {
+    "message": "கிடைக்கக்கூடிய, கண்டறியப்பட்ட நெட்வொர்க்குகளின் எண்ணிக்கை: ",
+    "description": "Logger record for how many networks chrome.networkingPrivate found."
+  },
+  "wifiencryptiontest_log_network_encryption": {
+    "message": "தற்போது இணைக்கப்பட்ட வைஃபை பிணையத்தால் பயன்படுத்தப்படும் குறியாக்க முறை: ",
+    "description": "Logger record for the type of encryption used by the currently connected network"
+  },
+  "endtoendtest_name": {
+    "message": "என்ட்-டூ-என்ட் Google இணையதளச் சோதனை",
+    "description": "Name for End-to-End Google Website test."
+  },
+  "endtoendtest_noproblem_title": {
+    "message": "Google இணையதளங்கள் உள்ளன",
+    "description": "Title for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_noproblem_subtitle": {
+    "message": "எந்த இணைப்பு சிக்கலும் இல்லாமல் Google இணையதளங்கள் சரியாக ஏற்றப்படுகின்றன.",
+    "description": "Subtitle for when no problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_title": {
+    "message": "Google இணையதளங்களைச் சரியாக மீட்டெடுக்க மற்றும் ஏற்ற முடியவில்லை.",
+    "description": "Title for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_problem_subtitle": {
+    "message": "Google இணையதளங்களை அணுக முயற்சிக்கும் போது சிக்கல் ஏற்பட்டது. இது கேப்டிவ் போர்டல், dns தீங்கு, மேன் இன் தி மிடில் அட்டாக் மற்றும் பிற நெட்வொர்க் இணைப்புமுறை சிக்கல்கள் போன்ற சில சிக்கல்களினால் ஏற்பட்டிருக்கலாம்.",
+    "description": "Subtitle for when a problem is found with the end-to-end Google website test."
+  },
+  "endtoendtest_no_problem_threshold": {
+    "message": "சோதனை செய்த குறிப்பிட்ட Google சேவை இணையதளங்கள் எல்லாவற்றுடனும் HTTPS இணைப்பு உருவாக்கப்பட்டிருந்தால், என்ட் டூ என்டிலிருந்து Google இணையதளங்களுக்கான அணுகல் வெற்றியடைந்ததாகக் கருதப்படும்",
+    "description": "Log record for the threshold of no problem"
+  },
+  "endtoendtest_problem_threshold": {
+    "message": "சோதனை செய்த குறிப்பிட்ட Google சேவை இணையதளங்கள் ஏதேனும் ஒன்றுடன் HTTPS இணைப்பு உருவாக்கப்படவில்லை எனில், என்ட் டூ என்டிலிருந்து Google இணையதளங்களுக்கான அணுகலில் சிக்கல் இருப்பதாகக் கருதப்படும்",
+    "description": "Log record for the threshold of a problem"
+  },
+  "endtoendtest_beginning_resolution": {
+    "message": "சோதனை # / சோதனை ஹோஸ்ட்பெயர் : ",
+    "description": "Logger record for noting a new XHR is sent to check Google site availability."
+  },
+  "endtoendtest_error_in_request": {
+    "message": "பின்வரும் ஹோஸ்ட்பெயரை இணைக்கும் போது பிழை ஏற்பட்டது, மீண்டும் முயற்சிக்கவும்: ",
+    "description": "Logger record for when an error occurs trying to connect to a Google hostname."
+  },
+  "endtoendtest_error_in_request_on_final": {
+    "message": "பின்வரும் ஹோஸ்ட்பெயரை இணைக்கும் போது தொடர்ச்சியான பிழைகள் தோன்றுகின்றன, இது இணைப்பு சிக்கலைக் கொண்டுள்ளது போல் தெரிகிறது: ",
+    "description": "Logger record for when XHR to check Google website availability."
+  },
+  "endtoendtest_success_request": {
+    "message": "பின்வரும் நிலைக்குறியீடுடன் கூடிய பின்வரும் ஹோஸ்ட் பெயருக்கான கோரிக்கை வெற்றிகரமாக முடிந்தது: ",
+    "description": "Logger record for when an XHR request to check Google website availability"
+  }
+}

@@ -1,0 +1,4 @@
+﻿
+Powerwash wordt uitgevoerd...
+
+Er wordt een powerwash uitgevoerd wanneer kritieke fouten worden gedetecteerd, of wanneer u ervoor kiest uw apparaat opnieuw in te stellen. Hiermee wordt Chrome OS weer als nieuwe ingesteld en kunt u over een minuut weer aan de slag.

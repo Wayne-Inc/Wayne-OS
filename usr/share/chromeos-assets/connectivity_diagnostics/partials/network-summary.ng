@@ -1,0 +1,65 @@
+<div class="root-connected-view" ng-show="networkSummaryCtrl.networkInfo.isNetworkConnected">
+  <div class="flex-container">
+    <div class="img-col">
+      <div style="position: relative">
+        <div class="network-img-icon" ng-class="networkSummaryCtrl.getGetNetworkIconClassname()">&nbsp;</div>
+      </div>
+    </div>
+    <div class="attribute-col"
+        ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_connection_title')"></div>
+    <div class="flex" ng-bind="networkSummaryCtrl.networkInfo.connection"></div>
+  </div>
+  <div class="flex-container" ng-show="networkSummaryCtrl.isSsidShown">
+    <div class="img-col"></div>
+    <div class="attribute-col"
+        ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_ssid')"></div>
+    <div class="flex" ng-bind="networkSummaryCtrl.networkInfo.ssid"></div>
+  </div>
+  <div class="flex-container" ng-show="networkSummaryCtrl.isSignalStrengthShown">
+    <div class="img-col"></div>
+    <div class="attribute-col"
+        ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_signal_strength')"></div>
+    <div class="flex" ng-bind="networkSummaryCtrl.networkInfo.signalStrength"></div>
+  </div>
+  <div class="flex-container">
+    <div class="img-col"></div>
+    <div class="attribute-col"
+        ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_mac_address')"></div>
+    <div class="flex" ng-bind="networkSummaryCtrl.networkInfo.macAddress"></div>
+  </div>
+  <div class="flex-container">
+    <div class="img-col"></div>
+    <div class="attribute-col"
+        ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_ip_address')"></div>
+    <div class="flex" ng-bind="networkSummaryCtrl.networkInfo.ipAddress"></div>
+  </div>
+  <div class="flex-container">
+    <div class="img-col"></div>
+    <div class="attribute-col"
+        ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_subnet_mask')"></div>
+    <div class="flex" ng-bind="networkSummaryCtrl.networkInfo.subnetMask"></div>
+  </div>
+  <div class="flex-container">
+    <div class="img-col"></div>
+    <div class="attribute-col"
+        ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_gateway')"></div>
+    <div class="flex" ng-bind="networkSummaryCtrl.networkInfo.gateway"></div>
+  </div>
+  <div class="flex-container">
+    <div class="img-col"></div>
+    <div class="attribute-col"
+        ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_dns')"></div>
+    <div class="flex" ng-bind="networkSummaryCtrl.networkInfo.dns"></div>
+  </div>
+</div>
+
+<div class="root-connected-view" ng-show="!networkSummaryCtrl.networkInfo.isNetworkConnected">
+  <div class="flex-container">
+    <div class="img-col img-col-forced-height">
+      <div style="position: relative">
+        <div class="network-img-icon" ng-class="networkSummaryCtrl.getGetNetworkIconClassname()">&nbsp;</div>
+      </div>
+    </div>
+    <div><b><span ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_unable_to_connect')"></span>.</b><br><span ng-bind="networkSummaryCtrl.i18nService.getMsg('network_settings_check_connection')"></span>. <span ng-bind="networkSummaryCtrl.i18nService.getMsg('footer_run_diagnostics')"></span>.</div>
+  </div>
+</div>

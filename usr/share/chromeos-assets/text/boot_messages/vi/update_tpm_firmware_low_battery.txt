@@ -1,0 +1,4 @@
+Pin quá yếu để thực hiện thao tác cập nhật.
+
+Vui lòng kết nối Chromebook của bạn với nguồn điện. Quá trình cập nhật sẽ
+tự động bắt đầu ngay khi sạc đủ pin.

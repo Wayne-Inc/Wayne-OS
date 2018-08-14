@@ -1,0 +1,6 @@
+Nešto je pošlo po zlu i ažuriranje nije uspjelo.
+
+Možda ćete morati oporaviti uređaj. 
+Više informacija o oporavku OS-a Chrome potražite na stranici: https://www.google.com/chromeos/recovery
+
+Pritisnite razmaknicu da biste ponovo pokrenuli uređaj.

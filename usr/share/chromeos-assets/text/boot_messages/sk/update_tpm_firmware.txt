@@ -1,0 +1,4 @@
+Inštaluje sa aktualizácia...
+
+Zariadenie nevypínajte. Po dokončení aktualizácie
+sa automaticky reštartuje.

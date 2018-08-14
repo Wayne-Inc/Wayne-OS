@@ -1,0 +1,9 @@
+﻿
+O sistema está em transição para o modo de desenvolvedor.
+Os dados locais serão removidos.
+
+As modificações feitas no sistema não são suportadas pelo Google, podendo causar
+problemas de hardware e invalidar a garantia.
+
+Para cancelar, desligue o computador agora e coloque o seletor "Desenvolvedor" de volta para o
+modo verificado.

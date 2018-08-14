@@ -1,0 +1,6 @@
+# Copyright (c) 2012 The Chromium OS Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+ACTION!="remove", SUBSYSTEM=="input", ENV{ID_INPUT_MOUSE}=="1", RUN+="/opt/google/input/device_added"
+ACTION!="remove", SUBSYSTEM=="input", ENV{ID_INPUT_TOUCHPAD}=="1", RUN+="/opt/google/input/device_added"
+KERNEL=="event*", NAME="input/%k", MODE="660", GROUP="input"

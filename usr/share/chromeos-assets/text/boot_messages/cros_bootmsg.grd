@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grit base_dir="." latest_public_release="0" current_release="1"
+      source_lang_id="en" enc_check="möl">
+  <outputs>
+    <!-- No RC outputs. This file is for 'xmb' output - or anything that can
+         generate simple text files. -->
+  </outputs>
+  <translations>
+    <file path="ar.xtb" lang="ar" />
+    <file path="bg.xtb" lang="bg" />
+    <file path="bn.xtb" lang="bn" />
+    <file path="ca.xtb" lang="ca" />
+    <file path="cs.xtb" lang="cs" />
+    <file path="da.xtb" lang="da" />
+    <file path="de.xtb" lang="de" />
+    <file path="el.xtb" lang="el" />
+    <file path="es.xtb" lang="es" />
+    <file path="es-419.xtb" lang="es-419" />
+    <file path="et.xtb" lang="et" />
+    <file path="fa.xtb" lang="fa" />
+    <file path="fi.xtb" lang="fi" />
+    <file path="fil.xtb" lang="fil" />
+    <file path="fr.xtb" lang="fr" />
+    <file path="gu.xtb" lang="gu" />
+    <file path="hi.xtb" lang="hi" />
+    <file path="hr.xtb" lang="hr" />
+    <file path="hu.xtb" lang="hu" />
+    <file path="id.xtb" lang="id" />
+    <file path="it.xtb" lang="it" />
+    <file path="iw.xtb" lang="iw" />
+    <file path="ja.xtb" lang="ja" />
+    <file path="kn.xtb" lang="kn" />
+    <file path="ko.xtb" lang="ko" />
+    <file path="lt.xtb" lang="lt" />
+    <file path="lv.xtb" lang="lv" />
+    <file path="ml.xtb" lang="ml" />
+    <file path="mr.xtb" lang="mr" />
+    <file path="ms.xtb" lang="ms" />
+    <file path="nl.xtb" lang="nl" />
+    <file path="no.xtb" lang="no" />
+    <file path="pl.xtb" lang="pl" />
+    <file path="pt-BR.xtb" lang="pt-BR" />
+    <file path="pt-PT.xtb" lang="pt-PT" />
+    <file path="ro.xtb" lang="ro" />
+    <file path="ru.xtb" lang="ru" />
+    <file path="sk.xtb" lang="sk" />
+    <file path="sl.xtb" lang="sl" />
+    <file path="sr.xtb" lang="sr" />
+    <file path="sv.xtb" lang="sv" />
+    <file path="ta.xtb" lang="ta" />
+    <file path="te.xtb" lang="te" />
+    <file path="th.xtb" lang="th" />
+    <file path="tr.xtb" lang="tr" />
+    <file path="uk.xtb" lang="uk" />
+    <file path="vi.xtb" lang="vi" />
+    <file path="zh-CN.xtb" lang="zh-CN" />
+    <file path="zh-TW.xtb" lang="zh-TW" />
+  </translations>
+  <release seq="1">
+    <structures fallback_to_english="true">
+      <structure type="txt" name="ENTER_DEV1" file="en/enter_dev1.txt" />
+      <structure type="txt" name="ENTER_DEV1_VIRTUAL"
+        file="en/enter_dev1_virtual.txt"/>
+      <structure type="txt" name="ENTER_DEV2" file="en/enter_dev2.txt" />
+      <structure type="txt" name="LEAVE_DEV" file="en/leave_dev.txt" />
+      <structure type="txt" name="POWER_WASH" file="en/power_wash.txt" />
+      <structure type="txt" name="SELF_REPAIR" file="en/self_repair.txt" />
+      <structure type="txt" name="UPDATE_FIRMWARE"
+        file="en/update_firmware.txt" />
+      <structure type="txt" name="BLOCK_DEVMODE"
+        file="en/block_devmode.txt" />
+      <structure type="txt" name="BLOCK_DEVMODE_VIRTUAL"
+        file="en/block_devmode_virtual.txt" />
+      <structure type="txt" name="UPDATE_DETACHABLE_BASE_FIRMWARE"
+        file="en/update_detachable_base_firmware.txt" />
+      <structure type="txt" name="UPDATE_TOUCHPAD_FIRMWARE"
+        file="en/update_touchpad_firmware.txt" />
+      <structure type="txt" name="UPDATE_TPM_FIRMWARE"
+        file="en/update_tpm_firmware.txt" />
+      <structure type="txt" name="UPDATE_TPM_FIRMWARE_FAILURE"
+        file="en/update_tpm_firmware_failure.txt" />
+      <structure type="txt" name="UPDATE_TPM_FIRMWARE_LOW_BATTERY"
+        file="en/update_tpm_firmware_low_battery.txt" />
+      <structure type="txt" name="UPDATE_TPM_FIRMWARE_LOW_BATTERY_CHARGING"
+        file="en/update_tpm_firmware_low_battery_charging.txt" />
+    </structures>
+  </release>
+</grit>

@@ -1,0 +1,5 @@
+﻿
+Seadme omanik on arendaja režiimi selles seadmes keelanud. Kui soovite arendaja režiimi kasutada, paluge seadme omanikul piirang eemaldada.
+
+
+Süsteem taaskäivitatakse kinnitatud režiimis.

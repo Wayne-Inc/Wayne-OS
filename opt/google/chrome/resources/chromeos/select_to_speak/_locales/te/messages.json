@@ -1,0 +1,89 @@
+﻿{
+  "LOCALE": {
+    "message": "en"
+  },
+  "SELECT_TO_SPEAK_NAME": {
+    "message": "\u0c35\u0c3f\u0c28\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c0e\u0c02\u0c1a\u0c41\u0c15\u0c4b\u0c02\u0c21\u0c3f"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PAGE_TITLE": {
+    "message": "\u0c35\u0c3f\u0c28\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f-\u0c0e\u0c02\u0c1a\u0c41\u0c15\u0c4b\u0c02\u0c21\u0c3f \u0c38\u0c46\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c17\u0c4d\u200c\u0c32\u0c41"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_SPEECH": {
+    "message": "\u0c2a\u0c4d\u0c30\u0c38\u0c02\u0c17\u0c02"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "\u0c35\u0c3e\u0c2f\u0c3f\u0c38\u0c4d\u200c\u0c28\u0c3f \u0c0e\u0c02\u0c1a\u0c41\u0c15\u0c4b\u0c02\u0c21\u0c3f:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_DESCRIPTION": {
+    "message": "\u0c2a\u0c4d\u0c30\u0c38\u0c02\u0c17 \u0c35\u0c47\u0c17\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c0e\u0c02\u0c1a\u0c41\u0c15\u0c4b\u0c02\u0c21\u0c3f:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOWEST": {
+    "message": "\u0c05\u0c24\u0c4d\u0c2f\u0c02\u0c24 \u0c28\u0c46\u0c2e\u0c4d\u0c2e\u0c26\u0c3f"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_SLOW": {
+    "message": "\u0c28\u0c46\u0c2e\u0c4d\u0c2e\u0c26\u0c3f\u0c17\u0c3e"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_NORMAL": {
+    "message": "\u0c38\u0c3e\u0c27\u0c3e\u0c30\u0c23"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FAST": {
+    "message": "\u0c35\u0c47\u0c17\u0c02\u0c17\u0c3e"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTER": {
+    "message": "\u0c1a\u0c3e\u0c32\u0c3e \u0c35\u0c47\u0c17\u0c02\u0c17\u0c3e"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_RATE_FASTEST": {
+    "message": "\u0c05\u0c24\u0c4d\u0c2f\u0c02\u0c24 \u0c35\u0c47\u0c17\u0c35\u0c02\u0c24\u0c02"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT": {
+    "message": "\u0c39\u0c48\u0c32\u0c48\u0c1f\u0c3f\u0c02\u0c17\u0c4d"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DESCRIPTION": {
+    "message": "\u0c2a\u0c4d\u0c30\u0c24\u0c3f \u0c2a\u0c26\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c1a\u0c26\u0c3f\u0c35\u0c3f\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c26\u0c3e\u0c28\u0c3f\u0c28\u0c3f \u0c39\u0c48\u0c32\u0c48\u0c1f\u0c4d \u0c1a\u0c47\u0c2f\u0c3f"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_DESCRIPTION": {
+    "message": "\u0c2a\u0c26\u0c02 \u0c39\u0c48\u0c32\u0c48\u0c1f\u0c4d\u200c\u0c32 \u0c15\u0c4b\u0c38\u0c02 \u0c30\u0c02\u0c17\u0c41:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_BLUE": {
+    "message": "\u0c28\u0c40\u0c32\u0c02"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_ORANGE": {
+    "message": "\u0c28\u0c3e\u0c30\u0c3f\u0c02\u0c1c \u0c30\u0c02\u0c17\u0c41"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_YELLOW": {
+    "message": "\u0c2a\u0c38\u0c41\u0c2a\u0c41"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_GREEN": {
+    "message": "\u0c06\u0c15\u0c41\u0c2a\u0c1a\u0c4d\u0c1a"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_COLOR_PINK": {
+    "message": "\u0c17\u0c41\u0c32\u0c3e\u0c2c\u0c3f \u0c30\u0c02\u0c17\u0c41"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_DARK": {
+    "message": "\u0c2e\u0c41\u0c26\u0c41\u0c30\u0c41 \u0c28\u0c47\u0c2a\u0c25\u0c4d\u0c2f\u0c02"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_HIGHLIGHT_LIGHT": {
+    "message": "\u0c24\u0c47\u0c32\u0c3f\u0c15\u0c2a\u0c3e\u0c1f\u0c3f \u0c28\u0c47\u0c2a\u0c25\u0c4d\u0c2f\u0c02"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_DESCRIPTION": {
+    "message": "\u0c2a\u0c4d\u0c30\u0c38\u0c02\u0c17 \u0c38\u0c4d\u0c35\u0c30 \u0c38\u0c4d\u0c25\u0c3e\u0c2f\u0c3f\u0c28\u0c3f \u0c0e\u0c02\u0c1a\u0c41\u0c15\u0c4b\u0c02\u0c21\u0c3f:"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWEST": {
+    "message": "\u0c05\u0c24\u0c3f \u0c24\u0c15\u0c4d\u0c15\u0c41\u0c35"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOWER": {
+    "message": "\u0c24\u0c15\u0c4d\u0c15\u0c41\u0c35"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_LOW": {
+    "message": "\u0c24\u0c15\u0c4d\u0c15\u0c41\u0c35"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_NORMAL": {
+    "message": "\u0c38\u0c3e\u0c27\u0c3e\u0c30\u0c23"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGH": {
+    "message": "\u0c05\u0c27\u0c3f\u0c15\u0c02"
+  },
+  "SELECT_TO_SPEAK_OPTIONS_PITCH_HIGHEST": {
+    "message": "\u0c05\u0c24\u0c4d\u0c2f\u0c27\u0c3f\u0c15\u0c02"
+  }
+}

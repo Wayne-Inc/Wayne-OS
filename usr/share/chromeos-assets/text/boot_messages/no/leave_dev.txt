@@ -1,0 +1,4 @@
+﻿
+Systemet ditt ble sist startet opp i utviklermodus.
+Går tilbake til normal (bekreftet) modus …
+Når operasjonen er ferdig, starter systemet på nytt.

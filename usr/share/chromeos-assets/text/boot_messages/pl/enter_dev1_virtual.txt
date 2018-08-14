@@ -1,0 +1,8 @@
+﻿
+Twój system przechodzi teraz w tryb programisty.
+Dane lokalne zostały wyczyszczone.
+
+Modyfikacje, które wprowadzisz w systemie, nie są obsługiwane przez Google, mogą
+powodować problemy sprzętowe i unieważnić gwarancję.
+
+Aby anulować, wyłącz teraz komputer.

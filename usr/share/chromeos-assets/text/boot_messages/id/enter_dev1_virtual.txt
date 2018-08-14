@@ -1,0 +1,8 @@
+﻿
+Sistem Anda sedang dalam proses peralihan ke Mode Pengembang.
+Data lokal telah dihapus.
+
+Perubahan yang Anda lakukan ke sistem yang tidak didukung oleh Google dapat menyebabkan
+masalah perangkat keras dan dapat membatalkan garansi.
+
+Untuk membatalkan, matikan komputer sekarang.

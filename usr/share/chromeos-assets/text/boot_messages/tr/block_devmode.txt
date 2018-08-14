@@ -1,0 +1,5 @@
+﻿
+Cihaz sahibi bu cihaz için Geliştirici Modu'nu devre dışı bırakmış. Geliştirici Modu'nu kullanmak istiyorsanız lütfen cihaz sahibinden kısıtlamayı kaldırmasını isteyin.
+
+
+Lütfen Geliştirici Düğmesinin konumunu değiştirin ve Doğrulanmış Mod'a dönmek için cihazı yeniden başlatın.

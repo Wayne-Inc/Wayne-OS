@@ -1,0 +1,48 @@
+# Copyright 2017 The Chromium OS Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+accept: 1
+access: 1
+arch_prctl: 1
+bind: 1
+brk: 1
+chdir: 1
+close: 1
+dup2: 1
+exit_group: 1
+fcntl: 1
+flock: 1
+fstat: 1
+geteuid: 1
+getpeername: 1
+getrlimit: 1
+getsockname: 1
+getsockopt: 1
+# arg1 == SIOCGIFINDEX
+ioctl: arg1 == 0x8933
+listen: 1
+# Don't allow mmap with both PROT_WRITE and PROT_EXEC
+mmap: arg2 in 0xfffffffb || arg2 in 0xfffffffd
+mprotect: arg2 in 0xfffffffb || arg2 in 0xfffffffd
+munmap: 1
+open: 1
+poll: 1
+read: 1
+recvmsg: 1
+rt_sigaction: 1
+rt_sigprocmask: 1
+sendmsg: 1
+sendto: 1
+setgid: 1
+setgroups: arg0 == 0 && arg1 == 0
+set_robust_list: 1
+setsid: 1
+setsockopt: 1
+set_tid_address: 1
+setuid: 1
+socket: 1
+stat: 1
+umask: 1
+unlink: 1
+write: 1

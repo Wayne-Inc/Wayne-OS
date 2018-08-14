@@ -1,0 +1,4 @@
+﻿
+Poteka funkcija Powerwash ...
+
+Funkcija Powerwash se sproži, kadar so zaznane resne napake ali kadar se odločite za ponastavitev naprave. Funkcija ponastavi prvotne nastavitve sistema Chrome OS. V minuti boste lahko nadaljevali z delom.

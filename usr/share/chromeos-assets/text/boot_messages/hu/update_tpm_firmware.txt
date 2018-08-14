@@ -1,0 +1,4 @@
+Frissítés telepítése…
+
+Ne kapcsolja ki az eszközt. A frissítés befejezése után az eszköz
+automatikusan újraindul.

@@ -1,0 +1,24 @@
+{
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEIgqcph7Si8b8iQL1Bfg0L2uXeez55ctSYwZRWBpYu7pBDOxyQvcUotQiUkVrJJRZMp0/0H7ekaGSSkiHMaeOJGQmg3eTmYwJFyyNffEdQTn+41zQBEbfK0Kr1NpGLYDniX8ZI5vzsqSwBdpau9PAow3Njb6afN6v6GmJPoAdEQIDAQAB",
+  "name": "Chrome OS IME (Cangjie)",
+  "version": "1.0.0.0",
+  "default_locale": "en",
+  "permissions": [
+    "input",
+    "unlimitedStorage"
+  ],
+  "background": {
+    "page": "backgroundpage.html"
+  },
+  "input_components": [
+    {
+    "name": "__MSG_CANGJIE_INPUTMETHOD__",
+    "type": "ime",
+    "id": "zh-hant-t-i0-cangjie-1987",
+    "description": "Cangjie",
+    "language": "zh-TW",
+    "layouts": ["us"]
+    }
+  ],
+  "manifest_version": 2
+}

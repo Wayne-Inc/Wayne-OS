@@ -1,0 +1,4 @@
+Ini-install ang update...
+
+Huwag i-off ang device. Awtomatiko itong magre-reboot
+kapag tapos na ang update.

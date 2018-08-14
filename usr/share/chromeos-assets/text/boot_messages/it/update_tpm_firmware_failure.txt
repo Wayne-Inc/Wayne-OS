@@ -1,0 +1,6 @@
+Si è verificato un problema e l'aggiornamento non è stato eseguito.
+
+Potrebbe essere necessario ripristinare il dispositivo. Per ulteriori informazioni sul ripristino di
+ChromeOS, visita la pagina all'indirizzo: https://www.google.com/chromeos/recovery
+
+Premi la barra spaziatrice per riavviare.

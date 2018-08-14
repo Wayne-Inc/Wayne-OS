@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "en"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox\uff1a\u70ba Chrome \u63d0\u4f9b\u8a9e\u97f3\u6717\u8b80\u529f\u80fd"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "\u505c\u6b62\u8a9e\u97f3"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "\u555f\u7528/\u505c\u7528\u56fa\u5b9a\u6a21\u5f0f"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "\u524d\u7f6e\u9375"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "\u8df3\u81f3\u4e0b\u4e00\u500b\u53ef\u9078\u64c7\u7684\u9805\u76ee"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "\u8df3\u81f3\u4e0a\u4e00\u500b\u53ef\u9078\u64c7\u7684\u9805\u76ee"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "\u5411\u5f8c\u5c0e\u89bd"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "\u5411\u524d\u5c0e\u89bd"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "\u5de6\u79fb"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "\u53f3\u79fb"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "\u5728\u9023\u7e8c\u6717\u8b80\u6642\u5411\u5f8c\u8df3\u904e"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "\u5728\u9023\u7e8c\u6717\u8b80\u6642\u5411\u524d\u8df3\u904e"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "\u964d\u4f4e\u5c0e\u89bd\u7cbe\u7d30\u5ea6"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "\u589e\u52a0\u5c0e\u89bd\u7cbe\u7d30\u5ea6"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "\u5c0d\u76ee\u524d\u7684\u9805\u76ee\u9032\u884c\u64cd\u4f5c"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "\u6309\u4e00\u4e0b\u76ee\u524d\u7684\u9805\u76ee"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "\u6717\u8b80\u9023\u7d50\u7684\u7db2\u5740"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "\u6717\u8b80\u76ee\u524d\u7db2\u9801\u7684\u6a19\u984c"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "\u6717\u8b80\u76ee\u524d\u7db2\u9801\u7684\u7db2\u5740"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "\u5f9e\u76ee\u524d\u4f4d\u7f6e\u958b\u59cb\u6717\u8b80"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "\u958b\u555f ChromeVox \u9078\u55ae"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "\u96b1\u85cf ChromeVox \u8aaa\u660e"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "\u6309\u5411\u4e0a\u9375\u6216\u5411\u4e0b\u9375\u53ef\u67e5\u770b\u6307\u4ee4\uff0c\u6309 Enter \u9375\u53ef\u555f\u52d5"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "\u958b\u555f ChromeVox \u6559\u5b78\u8ab2\u7a0b"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "ChromeVox \u5f9e\u7db2\u9801\u4e2d\u5c0b\u627e"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "\u958b\u555f\u9078\u9805\u9801\u9762"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "\u958b\u555f\u5b78\u7fd2\u6a21\u5f0f"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "\u653e\u6162\u8aaa\u8a71\u901f\u5ea6"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "\u52a0\u5feb\u8aaa\u8a71\u901f\u5ea6"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "\u964d\u4f4e\u97f3\u8abf"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "\u63d0\u9ad8\u97f3\u8abf"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "\u964d\u4f4e\u8aaa\u8a71\u97f3\u91cf"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "\u589e\u52a0\u8aaa\u8a71\u97f3\u91cf"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "\u986f\u793a\u8868\u55ae\u6e05\u55ae"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "\u986f\u793a\u6a19\u984c\u6e05\u55ae"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "\u986f\u793a\u9023\u7d50\u6e05\u55ae"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "\u986f\u793a\u8868\u683c\u6e05\u55ae"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "\u986f\u793a\u5730\u6a19\u6e05\u55ae"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "\u4e0a\u4e00\u500b\u8868\u683c\u5217"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "\u4e0b\u4e00\u500b\u8868\u683c\u5217"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "\u4e0a\u4e00\u500b\u8868\u683c\u6b04"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "\u4e0b\u4e00\u500b\u8868\u683c\u6b04"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "\u6717\u8b80\u76ee\u524d\u5132\u5b58\u683c\u7684\u6a19\u984c"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "\u8b80\u51fa\u76ee\u524d\u7684\u5132\u5b58\u683c\u5ea7\u6a19"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "\u63a8\u6e2c\u76ee\u524d\u5132\u5b58\u683c\u7684\u5217\u6a19\u984c"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "\u63a8\u6e2c\u76ee\u524d\u5132\u5b58\u683c\u7684\u6b04\u6a19\u984c"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "\u524d\u5f80\u8868\u683c\u958b\u982d"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "\u524d\u5f80\u8868\u683c\u7d50\u5c3e"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "\u524d\u5f80\u76ee\u524d\u5217\u7684\u958b\u982d"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "\u524d\u5f80\u76ee\u524d\u5217\u7684\u7d50\u5c3e"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "\u524d\u5f80\u76ee\u524d\u6b04\u7684\u958b\u982d"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "\u524d\u5f80\u76ee\u524d\u6b04\u7684\u7d50\u5c3e"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "\u4e0b\u4e00\u500b\u7b2c 1 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "\u4e0a\u4e00\u500b\u7b2c 1 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "\u4e0b\u4e00\u500b\u7b2c 2 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "\u4e0a\u4e00\u500b\u7b2c 2 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "\u4e0b\u4e00\u500b\u7b2c 3 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "\u4e0a\u4e00\u500b\u7b2c 3 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "\u4e0b\u4e00\u500b\u7b2c 4 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "\u4e0a\u4e00\u500b\u7b2c 4 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "\u4e0b\u4e00\u500b\u7b2c 5 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "\u4e0a\u4e00\u500b\u7b2c 5 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "\u4e0b\u4e00\u500b\u7b2c 6 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "\u4e0a\u4e00\u500b\u7b2c 6 \u968e\u6a19\u984c"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "\u4e0b\u4e00\u500b\u4e0b\u62c9\u5f0f\u65b9\u584a"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "\u4e0a\u4e00\u500b\u4e0b\u62c9\u5f0f\u65b9\u584a"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "\u4e0b\u4e00\u500b\u53ef\u7de8\u8f2f\u7684\u6587\u5b57\u5340\u57df"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "\u4e0a\u4e00\u500b\u53ef\u7de8\u8f2f\u7684\u6587\u5b57\u5340\u57df"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "\u4e0b\u4e00\u500b\u8868\u55ae\u6b04\u4f4d"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "\u4e0a\u4e00\u500b\u8868\u55ae\u6b04\u4f4d"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "\u4e0b\u4e00\u500b\u5716\u5f62"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "\u4e0a\u4e00\u500b\u5716\u5f62"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "\u4e0b\u4e00\u500b\u6a19\u984c"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "\u4e0a\u4e00\u500b\u6a19\u984c"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "\u4e0b\u4e00\u500b\u6e05\u55ae\u9805\u76ee"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "\u4e0a\u4e00\u500b\u6e05\u55ae\u9805\u76ee"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "\u4e0b\u4e00\u500b\u8df3\u8f49"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "\u4e0a\u4e00\u500b\u8df3\u8f49"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "\u4e0b\u4e00\u500b\u9023\u7d50"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "\u4e0a\u4e00\u500b\u9023\u7d50"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "\u4e0b\u4e00\u500b\u6e05\u55ae"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "\u4e0a\u4e00\u500b\u6e05\u55ae"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "\u4e0b\u4e00\u500b\u6578\u5b78\u5143\u7d20"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "\u4e0a\u4e00\u500b\u6578\u5b78\u5143\u7d20"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "\u4e0b\u4e00\u500b\u5a92\u9ad4\u5143\u7d20"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "\u4e0a\u4e00\u500b\u5a92\u9ad4\u5143\u7d20"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "\u4e0b\u4e00\u500b\u5340\u584a\u5f15\u8ff0"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "\u4e0a\u4e00\u500b\u5340\u584a\u5f15\u8ff0"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "\u4e0b\u4e00\u500b\u5713\u5f62\u6309\u9215"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "\u4e0a\u4e00\u500b\u5713\u5f62\u6309\u9215"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "\u4e0b\u4e00\u500b\u6ed1\u687f"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "\u4e0a\u4e00\u500b\u6ed1\u687f"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "\u4e0b\u4e00\u500b\u8868\u683c"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "\u4e0b\u4e00\u500b\u9020\u8a2a\u904e\u7684\u9023\u7d50"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "\u4e0a\u4e00\u500b\u8868\u683c"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "\u4e0a\u4e00\u500b\u9020\u8a2a\u904e\u7684\u9023\u7d50"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "\u4e0b\u4e00\u500b\u6309\u9215"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "\u4e0a\u4e00\u500b\u6309\u9215"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "\u4e0b\u4e00\u500b\u6838\u53d6\u65b9\u584a"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "\u4e0a\u4e00\u500b\u6838\u53d6\u65b9\u584a"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "\u4e0b\u4e00\u500b\u5730\u6a19"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "\u4e0a\u4e00\u500b\u5730\u6a19"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "\u5075\u932f\u57fa\u6e96\u6e2c\u8a66"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "\u6717\u8b80\u76ee\u524d\u4f4d\u7f6e\u7684\u7c21\u77ed\u8aaa\u660e"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "\u6717\u8b80\u76ee\u524d\u4f4d\u7f6e\u7684\u5b8c\u6574\u8aaa\u660e"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "ChromeVox \u9078\u9805"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "\u865b\u64ec\u9ede\u5b57\u986f\u793a"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "\u5728\u756b\u9762\u9802\u7aef\u7684 ChromeVox \u9762\u677f\n        \u6a21\u64ec\u53ef\u66f4\u65b0\u9ede\u5b57\u986f\u793a\u5668\u7684\u8f38\u51fa\u7d50\u679c\u3002"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "\u884c\u6578\uff1a"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "\u5404\u884c\u5132\u5b58\u683c\u6578\u76ee\uff1a"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "\u76ee\u524d\u7684\u986f\u793a\u6a23\u5f0f\u70ba\u4ea4\u932f\u3002"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "\u76ee\u524d\u7684\u986f\u793a\u6a23\u5f0f\u70ba\u4e26\u6392\u3002"
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "\u5c07\u986f\u793a\u6a23\u5f0f\u8b8a\u66f4\u70ba\u4ea4\u932f\u3002"
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "\u5c07\u986f\u793a\u6a23\u5f0f\u8b8a\u66f4\u70ba\u4e26\u6392\u3002"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "\u4f7f\u7528\u4e0b\u65b9\u7684\u9078\u9805\u81ea\u8a02 ChromeVox\u3002\u8b8a\u66f4\u6703\u7acb\u5373\u751f\u6548\u3002"
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "\u4f7f\u7528\u6ed1\u9f20\u8b8a\u66f4\u7126\u9ede\u3002"
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "\u512a\u5148\u986f\u793a\u9805\u76ee\u7684\u95dc\u806f\u5167\u5bb9\uff0c\u518d\u986f\u793a\u5176\u4ed6\u8cc7\u8a0a (\u4f8b\u5982\u540d\u7a31)\u3002"
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "\u589e\u5f37\u7279\u5b9a\u7db2\u7ad9 (\u4f8b\u5982 Google \u641c\u5c0b)\u3002"
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "\u555f\u7528\u8a73\u7d30\u8aaa\u660e\u3002"
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "\u7db2\u9801\u8f09\u5165\u5b8c\u6210\u5f8c\u81ea\u52d5\u6717\u8b80\u7db2\u9801\u5167\u5bb9\u3002"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "\u64ad\u653e\u97f3\u8a0a\u6642\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "ChromeVox \u6717\u8b80\u6642\u4ecd\u7dad\u6301\u97f3\u8a0a\u7684\u6a19\u6e96\u97f3\u91cf"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "ChromeVox \u6717\u8b80\u6642\u8abf\u964d\u97f3\u8a0a\u7684\u64ad\u653e\u97f3\u91cf"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "ChromeVox \u6717\u8b80\u6642\u66ab\u505c\u64ad\u653e\u97f3\u8a0a"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "\u7de8\u8f2f\u6587\u5b57\u6642\u5c07\u6ed1\u9f20\u6e38\u6a19\u7f6e\u65bc\u5b57\u5143\u4e4b\u9593 (\u4f8b\u5982 Mac OS X)\u3002"
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "\u8a9e\u97f3"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "\u9078\u53d6\u76ee\u524d\u7684\u8a9e\u97f3\uff1a"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "\u9ede\u5b57"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "\u5207\u63db\u81f3 8 \u9ede\u9ede\u5b57"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "\u5207\u63db\u81f3 6 \u9ede\u9ede\u5b57"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "\u9078\u53d6 6 \u9ede\u9ede\u5b57\u8868\uff1a"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$\uff0c\u7b2c $2$ \u7d1a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$)\uff0c\u7b2c $3$ \u7d1a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "\u9078\u53d6 8 \u9ede\u9ede\u5b57\u8868\uff1a"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "\u5141\u8a31\u81ea\u52d5\u63db\u884c"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "\u9375\u76e4\u5feb\u901f\u9375"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "\u9078\u53d6\u4e0b\u65b9\u6e05\u55ae\u4e2d\u7684\u9078\u9805\uff0c\u5373\u53ef\u8b8a\u66f4\u76ee\u524d\u7684\u6309\u9375\u5c0d\u61c9\u914d\u7f6e\u3002"
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "\u91cd\u8a2d\u76ee\u524d\u7684\u6309\u9375\u5c0d\u61c9\u914d\u7f6e"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "\u5728\u4e0b\u65b9\u5c0d\u61c9\u7684\u6b04\u4f4d\u4e2d\u8f38\u5165\u6309\u9375\u914d\u7f6e\uff0c\u5373\u53ef\u70ba\u5e38\u7528\u6307\u4ee4\u81ea\u8a02\u9375\u76e4\u5feb\u901f\u9375\u3002"
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "\u8f14\u52a9\u9375"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "ChromeVox \u8f14\u52a9\u9375"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "ChromeVox \u5b78\u7fd2\u6a21\u5f0f"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "\u6309\u4e0b\u4efb\u4f55\u6309\u9375\u5373\u53ef\u807d\u5230\u8a72\u6309\u9375\u7684\u540d\u7a31\uff0c\u6309\u4e0b Ctrl \u9375 + W \u9375\u5373\u53ef\u95dc\u9589\u5b78\u7fd2\u6a21\u5f0f\u3002"
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "\u5df2\u5efa\u7acb\u65b0\u5206\u9801"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$\uff0c\u5206\u9801",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "\u8996\u7a97\u300c$1$\u300d\u5206\u9801",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "\u7121\u75d5\u5f0f\u8996\u7a97\u300c$1$\u300d\u5206\u9801",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "\u300c$1$\u300d\u9078\u55ae\u5df2\u958b\u555f",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "\u9078\u55ae\u5df2\u95dc\u9589"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "\u300c$1$\u300d\u6838\u53d6\u65b9\u584a\u5df2\u52fe\u9078",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "\u5df2\u52fe\u9078"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$\uff0c\u672a\u52fe\u9078\u7684\u6838\u53d6\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "\u672a\u52fe\u9078"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$\uff0c\u5df2\u958b\u555f",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$\uff0c\u5df2\u95dc\u9589",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "\u5df2\u9078\u53d6\u300c$1$\u300d\u5713\u5f62\u6309\u9215",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "\u5df2\u9078\u53d6"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$\uff0c\u672a\u9078\u53d6\u7684\u5713\u5f62\u6309\u9215",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "\u5df2\u53d6\u6d88\u9078\u53d6"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$\uff0c\u9078\u55ae",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$\uff0c\u9078\u55ae\u9805\u76ee",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$\uff0c\u9078\u55ae\u9805\u76ee (\u542b\u5b50\u9078\u55ae)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$\uff0c\u8996\u7a97",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$\uff0c$2$\uff0c\u6587\u5b57\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$\uff0c\u6587\u5b57\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$\uff0c$2$\uff0c\u5bc6\u78bc\u6587\u5b57\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$\uff0c\u5bc6\u78bc\u6587\u5b57\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$\uff0c\u6309\u9215",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$\uff0c$2$\uff0c\u4e0b\u62c9\u5f0f\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$\uff0c\u4e0b\u62c9\u5f0f\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$\uff0c$2$\uff0c\u6e05\u55ae\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$\uff0c\u6e05\u55ae\u65b9\u584a",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$\uff0c\u9023\u7d50",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$\uff0c\u5206\u9801",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "$1$ $2$ \u6ed1\u687f",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": "\uff0c\u5df2\u9078\u53d6"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": "\uff0c\u672a\u9078\u53d6"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " \u7b2c $1$ \u500b\uff0c\u5171 $2$ \u500b ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "\u7b2c $1$ \u500b\uff0c\u5171 $2$ \u500b",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " \u7b2c $1$ \u968e ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "\u901f\u5ea6\u70ba\u767e\u5206\u4e4b $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "\u97f3\u8abf\u70ba\u767e\u5206\u4e4b $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "\u97f3\u91cf\u70ba\u767e\u5206\u4e4b $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "\u7d50\u675f\u5c0d\u8a71\u65b9\u584a\u3002"
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "\u5df2\u96e2\u958b$1$\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "\u5df2\u9032\u5165\u5c0d\u8a71\u65b9\u584a"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "\u5df2\u79fb\u9664\uff1a"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "\u56fa\u5b9a\u6a21\u5f0f\u5df2\u555f\u7528"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "\u56fa\u5b9a\u6a21\u5f0f\u5df2\u505c\u7528"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "\u9375\u76e4\u8aaa\u660e"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "\u5167\u5bb9\u9078\u55ae"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "$1$\u985e\u6e05\u55ae\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "\u4f7f\u7528\u5411\u4e0a\u9375\u548c\u5411\u4e0b\u9375\u700f\u89bd\uff0c\u6216\u8f38\u5165\u5b57\u8a5e\u958b\u59cb\u641c\u5c0b\u3002"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "\u7d50\u675f"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "\u5132\u5b58\u683c\u7d50\u5c3e\u3002"
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "\u627e\u4e0d\u5230\u7db2\u5740"
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "\u96e2\u958b\u8868\u683c\u3002"
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "\u96e2\u958b\u7db2\u683c\u3002"
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "\u5728\u8868\u683c\u5167"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "\u627e\u4e0d\u5230\u8868\u683c\u3002"
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "\u4e0d\u5728\u8868\u683c\u5167\u3002"
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "\u672a\u5207\u63db\u81f3\u8868\u683c\u6a21\u5f0f\u3002"
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "\u4e0b\u65b9\u6c92\u6709\u5132\u5b58\u683c\u3002"
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "\u4e0a\u65b9\u6c92\u6709\u5132\u5b58\u683c\u3002"
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "\u53f3\u5074\u6c92\u6709\u5132\u5b58\u683c\u3002"
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "\u5de6\u5074\u6c92\u6709\u5132\u5b58\u683c\u3002"
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "\u7a7a\u767d\u5132\u5b58\u683c\u3002"
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "\u5df2\u64f4\u5c55\u3002"
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "\u5217\u6a19\u984c\uff1a"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "\u5217\u6a19\u984c\u6c92\u6709\u5167\u5bb9"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "\u6b04\u6a19\u984c\uff1a"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "\u6b04\u6a19\u984c\u6c92\u6709\u5167\u5bb9"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "\u6c92\u6709\u6a19\u984c"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "\u6a19\u984c\u6c92\u6709\u5167\u5bb9"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "\u7b2c $1$ \u5217\uff0c\u7b2c $3$ \u6b04 (\u5171 $2$ \u5217\uff0c$4$ \u6b04)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "\u300c$1$\u300d\u8868\u683c\uff0c\u542b $2$ \u5217 $3$ \u6b04",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "\u300c$1$\u300d\u8868\u683c $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "\u7b2c $1$ \u5217\uff0c\u7b2c $2$ \u6b04",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "\u7b2c $1$ \u5217\uff0c\u7b2c $2$ \u6b04",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u6838\u53d6\u65b9\u584a\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u6838\u53d6\u65b9\u584a\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "\u6c92\u6709\u53ef\u7de8\u8f2f\u7684\u6587\u5b57\u6b04\u4f4d\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u53ef\u7de8\u8f2f\u7684\u6587\u5b57\u6b04\u4f4d\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u7b2c 1 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u7b2c 1 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u7b2c 2 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u7b2c 2 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u7b2c 3 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u7b2c 3 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u7b2c 4 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u7b2c 4 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u7b2c 5 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u7b2c 5 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u7b2c 6 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u7b2c 6 \u968e\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u975e\u9023\u7d50\u9805\u76ee\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u975e\u9023\u7d50\u9805\u76ee\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u9328\u9ede\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u9328\u9ede\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u9023\u7d50\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u9023\u7d50\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u8868\u683c\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u8868\u683c\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u9020\u8a2a\u904e\u7684\u9023\u7d50\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u5df2\u9020\u8a2a\u7684\u9023\u7d50\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u6578\u5b78\u904b\u7b97\u5f0f\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u6578\u5b78\u904b\u7b97\u5f0f\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u5a92\u9ad4\u5c0f\u5de5\u5177\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u5a92\u9ad4\u5c0f\u5de5\u5177\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u6e05\u55ae\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u6e05\u55ae\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u6e05\u55ae\u9805\u76ee\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u6e05\u55ae\u9805\u76ee\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u5f15\u7528\u6a19\u8a18\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u5f15\u7528\u6a19\u8a18\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u8868\u55ae\u6b04\u4f4d\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u8868\u55ae\u6b04\u4f4d\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u8df3\u8e8d\u9ede\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u8df3\u8e8d\u9ede\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b ARIA \u5730\u6a19\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b ARIA \u5730\u6a19\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u4e0b\u62c9\u5f0f\u65b9\u584a\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u4e0b\u62c9\u5f0f\u65b9\u584a\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u6309\u9215\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u6309\u9215\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u5716\u5f62\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u5716\u5f62\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u6ed1\u687f\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u6ed1\u687f\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u5713\u5f62\u6309\u9215\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u5713\u5f62\u6309\u9215\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u5340\u6bb5\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u5340\u6bb5\u3002"
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u500b\u63a7\u5236\u9805\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u500b\u63a7\u5236\u9805\u3002"
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "\u6309\u4e86\u4e00\u4e0b"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "\u6309\u4e86\u5169\u4e0b"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "\u6c92\u6709\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "\u6c92\u6709\u9023\u7d50\u3002"
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "\u6c92\u6709\u8868\u55ae\u3002"
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "\u6c92\u6709\u8868\u683c\u3002"
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "\u6c92\u6709 ARIA \u5730\u6a19\u3002"
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "\u6c92\u6709\u8df3\u8e8d\u9ede\u3002"
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "\u7b2c $1$ \u500b\uff0c\u5171 $2$ \u500b",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "\u7b2c $1$ \u500b\uff0c\u5171 $2$ \u500b",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "\u542b\u5b50\u9078\u55ae"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "\u542b\u5f48\u51fa\u5f0f\u5143\u4ef6"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "\u542b\u5f48\u51fa\u5f0f\u5143\u4ef6"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "\u6700\u5c0f\u503c\uff1a$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "\u6700\u5c0f\u503c\uff1a$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "\u6700\u5927\u503c\uff1a$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "\u6700\u5927\u503c\uff1a$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "\u8b66\u793a"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "\u8b66\u793a"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "\u8b66\u793a\u5c0d\u8a71\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "\u8b66\u793a\u5c0d\u8a71\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "\u6309\u9215"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "\u6309\u9215"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "\u6838\u53d6\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "\u4e0b\u62c9\u5f0f\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "\u5c0d\u8a71\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "\u5c0d\u8a71\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "\u683c\u7dda"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "\u683c\u7dda"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "\u5132\u5b58\u683c"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "\u7b2c $1$ \u5217\uff0c\u7b2c $2$ \u6b04",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "\u9023\u7d50"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "\u9023\u7d50"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "\u6e05\u55ae\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "\u6e05\u55ae\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "\u7d00\u9304"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "\u7d00\u9304"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "\u8dd1\u99ac\u71c8"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "marquee"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "\u9078\u55ae"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "\u9078\u55ae"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "\u9078\u55ae\u5217"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "\u9078\u55ae\u9805\u76ee"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "\u9078\u55ae\u9805\u76ee\u6838\u53d6\u65b9\u584a"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "\u9078\u55ae\u9078\u9805\u5713\u5f62\u6309\u9215"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "\u5f48\u51fa\u5f0f\u6309\u9215"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "\u9032\u5ea6\u5217"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "\u9032\u5ea6\u6307\u6a19"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "\u5713\u5f62\u6309\u9215"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "\u5713\u5f62\u6309\u9215\u7fa4\u7d44"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "\u6372\u8ef8"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "\u6ed1\u687f"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "\u6ed1\u687f"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "\u5fae\u8abf\u6309\u9215"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "\u72c0\u614b"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "\u72c0\u614b"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "\u5206\u9801"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "\u5206\u9801"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "\u8868\u683c"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "\u8868\u683c"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "\u5206\u9801\u6e05\u55ae"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "\u5206\u9801\u9762\u677f"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "\u6587\u5b57\u6846"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "\u8a08\u6642\u5668"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "\u8a08\u6642\u5668"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "\u5de5\u5177\u5217"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "\u5de5\u5177\u63d0\u793a"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "\u6a39\u72c0\u7d50\u69cb"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "tree"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "\u6a39\u72c0\u76ee\u9304\u9805\u76ee"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "\u6587\u7ae0"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "\u6587\u7ae0"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "\u61c9\u7528\u7a0b\u5f0f"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "\u61c9\u7528\u7a0b\u5f0f"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "\u6a6b\u5e45"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "\u6a6b\u5e45"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "\u6b04\u6a19\u984c"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "\u4e92\u88dc"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "\u88dc\u5145"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "\u5167\u5bb9\u8cc7\u8a0a"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "\u5b9a\u7fa9"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "\u5b9a\u7fa9"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "\u76ee\u9304"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "\u76ee\u9304"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "\u6587\u4ef6"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "\u6587\u4ef6"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "\u8868\u55ae"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "\u8868\u55ae"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "\u7fa4\u7d44"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "\u7fa4\u7d44"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "\u6a19\u984c"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "\u5716\u7247"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "\u5716\u7247"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "\u6e05\u55ae"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "\u6e05\u55ae"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "\u6e05\u55ae\u9805\u76ee"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "\u6e05\u55ae\u9805\u76ee"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "\u4e3b\u8981\u5143\u7d20"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "\u4e3b\u8981\u5143\u7d20"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "\u6578\u5b78"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "\u6578\u5b78"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "\u5c0e\u89bd"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "\u5c0e\u89bd"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "\u9644\u8a3b"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "\u9644\u8a3b"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "\u5340\u57df"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "\u5340\u57df"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "\u5217\u6a19\u984c"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "\u641c\u5c0b"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "search"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "\u5206\u9694\u7dda"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "\u8a08\u91cf\u5668"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "\u8a08\u91cf\u5668"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "\u81ea\u52d5\u5373\u6642\u67e5\u8a62\u5167\u5d4c\u5143\u7d20"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "\u81ea\u52d5\u5373\u6642\u67e5\u8a62\u6e05\u55ae"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "\u81ea\u52d5\u5373\u6642\u67e5\u8a62\u5167\u5d4c\u5143\u7d20\u548c\u6e05\u55ae"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "\u5df2\u52fe\u9078"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "\u672a\u52fe\u9078"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "\u90e8\u5206\u5df2\u52fe\u9078"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "\u5df2\u505c\u7528"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "\u5df2\u5c55\u958b"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "\u5df2\u6536\u5408"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "\u8f38\u5165\u7121\u6548"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "\u5075\u6e2c\u5230\u6587\u6cd5\u932f\u8aa4"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "grammatical mistake"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "\u5075\u6e2c\u5230\u62fc\u5b57\u932f\u8aa4"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "\u62fc\u5b57\u932f\u8aa4"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "\u591a\u884c"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "\u591a\u91cd\u9078\u53d6"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "\u8907\u9078"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "\u5df2\u6309\u4e0b"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "\u672a\u6309\u4e0b"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "\u90e8\u5206\u5df2\u6309\u4e0b"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "\u552f\u8b80"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "\u552f\u8b80"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "\u5fc5\u8981"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "\u5df2\u9078\u53d6"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "\u672a\u9078\u53d6"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "\u9020\u8a2a\u904e\u7684\u9023\u7d50"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "\u66fe\u7d93\u9020\u8a2a\u904e"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "\u6a19\u984c 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "\u7b2c 1 \u968e"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "\u6a19\u984c 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "\u7b2c 2 \u968e"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "\u6a19\u984c 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "\u7b2c 3 \u968e"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "\u6a19\u984c 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "\u7b2c 4 \u968e"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "\u6a19\u984c 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "\u7b2c 5 \u968e"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "\u6a19\u984c 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "\u7b2c 6 \u968e"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "\u6e05\u55ae\u9805\u76ee"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "\u6e05\u55ae\u9805\u76ee"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "\u6392\u5e8f\u6e05\u55ae"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "\u6e05\u55ae"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "\u4e0b\u62c9\u5f0f\u65b9\u584a"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "\u6587\u5b57\u5340\u57df"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "\u8868\u683c"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "\u8868\u683c"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "\u6e05\u55ae"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "\u6e05\u55ae"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "\u5340\u6bb5"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "\u5c0e\u89bd"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "\u5c0e\u89bd"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "\u6587\u7ae0"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "\u6587\u7ae0"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "\u7368\u7acb\u5143\u7d20"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "\u7368\u7acb\u5143\u7d20"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "\u6a19\u984c\u7fa4\u7d44"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "\u9801\u9996"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "\u9801\u9996"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "\u9801\u5c3e"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "\u9801\u5c3e"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "\u6642\u9593"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "\u6a19\u8a18"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "\u6a19\u8a18"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "\u5f71\u7247"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "\u5f71\u7247"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "\u97f3\u8a0a"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "\u97f3\u8a0a"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "\u984f\u8272\u9078\u64c7\u5668"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "\u984f\u8272\u9078\u64c7\u5668"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "\u65e5\u671f\u6642\u9593\u63a7\u5236\u9805"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "\u65e5\u671f\u6642\u9593"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "\u6642\u9593\u63a7\u5236\u9805"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "time"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "\u65e5\u671f\u6642\u9593\u63a7\u5236\u9805"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "\u65e5\u671f\u6642\u9593"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "\u65e5\u671f\u63a7\u5236\u9805"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "\u65e5\u671f"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "\u7de8\u8f2f\u6587\u5b57\uff0c\u96fb\u5b50\u90f5\u4ef6\u9805\u76ee"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@\u7de8\u8f2f 8 \u9ede\u6b04\u4f4d"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "\u9078\u53d6\u6a94\u6848"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "\u6a94\u6848"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "\u6708\u63a7\u5236\u9805"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "\u6708"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "\u7de8\u8f2f\u6587\u5b57\u6642\u50c5\u9650\u8f38\u5165\u6578\u5b57"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "\u5bc6\u78bc\u6587\u5b57"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "\u91cd\u8a2d"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "\u91cd\u8a2d"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "\u7de8\u8f2f\u6587\u5b57\uff0c\u641c\u5c0b\u9805\u76ee"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "\u7de8\u8f2f\u6587\u5b57"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "\u7de8\u8f2f\u6587\u5b57\uff0c\u7db2\u5740\u9805\u76ee"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "\u7db2\u5740\u7de8\u8f2f 8 \u9ede\u6b04\u4f4d"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "\u9031\u6b21\u63a7\u5236\u9805"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "\u9031"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "\u5167\u90e8\u9023\u7d50"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "\u7a7a\u767d\u884c"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "\u7a7a\u683c"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "\u5217\u51fa $1$ \u500b\u9805\u76ee",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "\u9084\u6709 $1$ \u500b",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "\u5167\u542b {COUNT,plural, =1{# \u500b\u9805\u76ee}other{# \u500b\u9805\u76ee}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "\u767e\u5206\u4e4b $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "\u767e\u5206\u4e4b $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "\u542b\u5b50\u9078\u55ae"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "\u542b\u5f48\u51fa\u5f0f\u5143\u4ef6"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "\u542b\u5f48\u51fa\u5f0f\u5143\u4ef6"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "\u300c$1$\u300d\u96c6 (\u5171 $2$ \u500b\u9805\u76ee)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "\u7a7a\u683c"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Backspace \u9375"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Tab"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "\u5411\u5de6"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "\u5411\u4e0a\u9375"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "\u5411\u53f3"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "\u5411\u4e0b\u9375"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "\u672a\u77e5\u7684\u9023\u7d50"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "\u555f\u7528\u6216\u505c\u7528 ChromeVox\u3002"
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "ChromeVox \u73fe\u5728\u5df2\u505c\u7528\u3002"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "\u5207\u63db ChromeVox \u50b3\u7d71\u6a21\u5f0f\u3002"
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": "\uff0c "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "\u4e0a\u4e00\u500b\u4e0d\u540c\u7684\u5143\u7d20\u3002"
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "\u4e0b\u4e00\u500b\u4e0d\u540c\u7684\u5143\u7d20\u3002"
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "\u4e0a\u4e00\u500b\u76f8\u4f3c\u7684\u5143\u7d20\u3002"
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "\u4e0b\u4e00\u500b\u76f8\u4f3c\u7684\u5143\u7d20\u3002"
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "\u5df2\u7121\u985e\u4f3c\u5143\u7d20\u3002"
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "\u5df2\u7121\u5176\u4ed6\u5143\u7d20\u3002"
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "\u8f38\u5165\u7fa4\u7d44\u63a2\u7d22"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "\u6b63\u5728\u63a2\u7d22\u7fa4\u7d44"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "\u7269\u4ef6"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "\u7fa4\u7d44"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "\u8868\u683c"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "\u5217"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "\u6b04"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "\u5217"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "\u6b04"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "\u5217"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "\u6b04"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "MathML \u6a39\u72c0\u7d50\u69cb"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "MathML \u7248\u9762\u914d\u7f6e"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "MathML \u7b26\u8a18"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "MathML \u5206\u8449"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "\u8996\u5340"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "\u81ea\u8a02"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "\u884c"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "\u53e5\u5b50"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "\u55ae\u5b57"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "\u5b57\u5143"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "\u5728\u7db2\u9801\u4e2d\u5c0b\u627e\u3002"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "\u8f38\u5165\u641c\u5c0b\u67e5\u8a62\u3002"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "\u7d50\u675f\u5f9e\u7db2\u9801\u4e2d\u5c0b\u627e\u3002"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "\u6c92\u6709\u5176\u4ed6\u641c\u5c0b\u7d50\u679c\u3002"
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "\u8f14\u52a9\u9375"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "ChromeVox \u5c0e\u89bd"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "\u8cc7\u8a0a"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "\u8aaa\u660e\u6307\u4ee4"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "\u63a7\u5236\u8a9e\u97f3"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "\u7e3d\u89bd"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "\u8868\u683c"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "\u8df3\u8e8d\u6307\u4ee4"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "\u9ede\u5b57"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "\u958b\u767c\u4eba\u54e1\u9078\u9805"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "\u50b3\u7d71\u6309\u9375\u5c0d\u61c9\u914d\u7f6e"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Next \u6a5f\u78bc\u5c0d\u61c9"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "\u4e00\u822c\u6309\u9375\u5c0d\u61c9\u914d\u7f6e"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "\u5be6\u9a57\u6027\u6309\u9375\u5c0d\u61c9\u914d\u7f6e"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "\u555f\u7528 TTS \u8a18\u9304\u529f\u80fd"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "\u958b\u59cb\u9078\u53d6"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "\u7d50\u675f\u9078\u53d6"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "\u6240\u9078\u9805\u76ee\u662f "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "\u958b\u59cb\u6216\u7d50\u675f\u9078\u53d6\u3002"
+  },
+  "CHROMEVOX_COPY": {
+    "message": "\u8907\u88fd $1$\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "\u526a\u4e0b $1$\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "\u8cbc\u4e0a $1$\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "\u5df2\u9078\u53d6"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "\u5df2\u53d6\u6d88\u9078\u53d6"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "\u5df2\u52a0\u5165\u9078\u53d6\u7bc4\u570d"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "\u5df2\u5f9e\u6240\u9078\u7bc4\u570d\u4e2d\u79fb\u9664"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "\u7136\u5f8c\u6309\u4e0b"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "\u7136\u5f8c\u6309\u4e0b"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "ChromeVox \u8f14\u52a9\u9375"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "\u5df2\u5c07\u300c$1$\u300d\u6307\u6d3e\u7d66\u53e6\u4e00\u500b\u6307\u4ee4\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "\u6578\u5b78"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "\u6578\u5b78"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "\u975e\u6578\u5b78\u5167\u90e8"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "\u4e0a\u5348/\u4e0b\u5348"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "\u5c0f\u6642"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "\u5206\u9418"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "\u79d2"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "\u6beb\u79d2"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "AM"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "PM"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "\u9031"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "1 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "2 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "3 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "4 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "5 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "6 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "7 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "8 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "9 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "10 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "11 \u6708"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "12 \u6708"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "\u7121\u6a19\u9ede\u7b26\u865f"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "\u90e8\u5206\u6a19\u9ede\u7b26\u865f"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "\u6240\u6709\u6a19\u9ede\u7b26\u865f"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "\u6309 Enter \u9375\u63a5\u53d7\u6216 Esc \u9375\u53d6\u6d88\uff1b\u6309\u5411\u4e0b\u9375\u53ef\u79fb\u81f3\u4e0b\u4e00\u500b\u641c\u5c0b\u7d50\u679c\uff0c\u6309\u5411\u4e0a\u9375\u53ef\u79fb\u81f3\u4e0a\u4e00\u500b\u641c\u5c0b\u7d50\u679c\u3002"
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "\u53ef\u9ede\u64ca"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "\u4e0a\u4e00\u500b\u5b57\u5143"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "\u4e0b\u4e00\u500b\u5b57\u5143"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "\u4e0a\u4e00\u500b\u5b57\u8a5e"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "\u4e0b\u4e00\u500b\u5b57\u8a5e"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "\u4e0a\u4e00\u53e5"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "\u4e0b\u4e00\u53e5"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "\u4e0a\u4e00\u884c"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "\u4e0b\u4e00\u884c"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "\u4e0a\u4e00\u500b\u7269\u4ef6"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "\u4e0b\u4e00\u500b\u7269\u4ef6"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "\u4e0a\u4e00\u500b\u7fa4\u7d44"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "\u4e0b\u4e00\u500b\u7fa4\u7d44"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "\u5730\u6a19"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "\u4f60\u5c1a\u672a\u6309\u4e0b\u4efb\u4f55\u8f14\u52a9\u9375\u3002\u8acb\u6309\u4f4f\u4e00\u6216\u591a\u500b\u8f14\u52a9\u9375\uff0c\u5b8c\u6210\u5f8c\u5373\u53ef\u5c07\u624b\u6307\u79fb\u958b\uff0c\u6b64\u6642\u7cfb\u7d71\u6703\u900f\u904e\u8a9e\u97f3\u8aaa\u660e\u6309\u9375\u5df2\u6210\u529f\u8a2d\u5b9a\u3002\u5982\u8981\u7d50\u675f\uff0c\u8acb\u6309\u4e0b Tab \u9375\u3002"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "\u300c$1$\u300d\u73fe\u5df2\u8a2d\u70ba\u65b0\u7684 ChromeVox \u8f14\u52a9\u9375\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "\u300c$1$\u300d\u5df2\u91cd\u8a2d\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "\u5df2\u5207\u63db\u81f3\u300c$1$\u300d\u3002",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "\u524d\u5f80\u7db2\u9801\u9802\u7aef"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "\u524d\u5f80\u7db2\u9801\u5e95\u90e8"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "\u81ea\u52d5\u63db\u884c\u81f3\u9802\u7aef"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "\u81ea\u52d5\u63db\u884c\u81f3\u5e95\u90e8"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "\u5faa\u74b0\u6a19\u9ede\u7b26\u865f\u8a9e\u97f3\u56de\u61c9"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "\u5faa\u74b0\u8f38\u5165\u8a9e\u97f3\u56de\u61c9"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "\u66ab\u505c\u6240\u6709\u6b63\u5728\u64ad\u653e\u5a92\u9ad4\u7684\u5c0f\u5de5\u5177"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "\u5728\u65b0\u5206\u9801\u4e2d\u958b\u555f\u8a73\u7d30\u8aaa\u660e"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "\u7121\u8a73\u7d30\u8aaa\u660e"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "\u5716\u7247\u5177\u6709\u8a73\u7d30\u8aaa\u660e"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$ \u81f3 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$ \u81f3 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "\u5df2\u9078\u53d6 $1$ \u500b\u9805\u76ee",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "\u5df2\u9078\u53d6 $1$ \u9805",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "\u5df2\u6e05\u9664\u6240\u9078\u9805\u76ee"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "\u5b57\u5143\u8a9e\u97f3\u56de\u61c9"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "\u5b57\u8a5e\u8a9e\u97f3\u56de\u61c9"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "\u5b57\u5143\u548c\u5b57\u8a5e\u8a9e\u97f3\u56de\u61c9"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "\u7121\u8f38\u5165\u8a9e\u97f3\u56de\u61c9"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "\u9032\u5165\u7d50\u69cb\u5316\u5167\u5bb9\uff0c\u4f8b\u5982\u8868\u683c"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "\u96e2\u958b\u7d50\u69cb\u5316\u5167\u5bb9\uff0c\u4f8b\u5982\u8868\u683c"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "\u5df2\u9032\u5165$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "\u7d50\u69cb\u5316\u7684\u884c"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "\u884c"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "\u5207\u63db\u884c\u985e\u578b (\u7d50\u69cb\u5316\u6216\u7248\u9762\u914d\u7f6e)"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "\u8868\u683c"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "\u9810\u8a2d\u5c0e\u89bd"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "\u6578\u5b78"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "\u5207\u63db\u6578\u5b78\u904b\u7b97\u5f0f\u7684\u8f49\u8b6f\u65b9\u5f0f (\u9078\u64c7\u7d50\u69cb\u5316\u8f49\u8b6f\u6216\u8a9e\u610f\u8f49\u8b6f)"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "\u8a9e\u610f\u8f49\u8b6f\u529f\u80fd\u5df2\u958b\u555f"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "\u8a9e\u610f\u8f49\u8b6f\u529f\u80fd\u5df2\u95dc\u9589"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "\u6309\u4e0b Alt+Shift+A \u9375\u5373\u53ef\u67e5\u770b\u8b66\u793a\u5167\u5bb9"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "\u6c92\u6709\u4e0b\u4e00\u7bc7\u6587\u7ae0\u3002"
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "\u6c92\u6709\u4e0a\u4e00\u7bc7\u6587\u7ae0\u3002"
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "ChromeVox \u4e92\u52d5\u6717\u8b80\u5df2\u555f\u7528"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox \u5df2\u555f\u7528"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "\u807d\u89ba\u6a19\u793a\u5df2\u958b\u555f"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "\u807d\u89ba\u6a19\u793a\u5df2\u95dc\u9589"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "\u958b\u555f\u6216\u95dc\u9589\u97f3\u6548\u56de\u994b (\u807d\u89ba\u6a19\u793a)\u3002"
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "\u8aaa\u51fa\u76ee\u524d\u7684\u6642\u9593\u548c\u65e5\u671f\u3002"
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "\u641c\u5c0b\u7d50\u679c\uff1a$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "\u5df2\u522a\u9664"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "\u57f7\u884c\u9810\u8a2d\u52d5\u4f5c"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{\u9a5a\u5606\u865f}other{# \u500b\u9a5a\u5606\u865f}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{\u7a7a\u683c}other{# \u500b\u7a7a\u683c}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{\u53cd\u5f15\u865f}other{# \u500b\u53cd\u5f15\u865f}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{\u6ce2\u72c0\u7b26\u865f}other{# \u500b\u6ce2\u72c0\u7b26\u865f}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{@ \u7b26\u865f}other{# \u500b @ \u7b26\u865f}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{\u82f1\u938a\u7b26\u865f}other{# \u500b\u82f1\u938a\u7b26\u865f}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{\u7f8e\u5143}other{# \u500b\u7f8e\u5143\u7b26\u865f}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{\u767e\u5206\u6bd4\u7b26\u865f}other{# \u500b\u767e\u5206\u6bd4\u7b26\u865f}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{\u63d2\u5165\u7b26\u865f}other{# \u500b\u63d2\u5165\u7b26\u865f}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{& \u7b26\u865f}other{# \u500b & \u7b26\u865f}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{\u661f\u865f}other{# \u500b\u661f\u865f}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{\u5de6\u62ec\u5f27}other{# \u500b\u5de6\u62ec\u5f27}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{\u53f3\u62ec\u5f27}other{# \u500b\u53f3\u62ec\u5f27}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{\u7834\u6298\u865f}other{# \u500b\u7834\u6298\u865f}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{\u5e95\u7dda}other{# \u500b\u5e95\u7dda}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{\u7b49\u865f}other{# \u500b\u7b49\u865f}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{\u52a0\u865f}other{# \u500b\u52a0\u865f}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{\u5de6\u4e2d\u62ec\u5f27}other{# \u500b\u5de6\u4e2d\u62ec\u5f27}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{\u53f3\u4e2d\u62ec\u5f27}other{# \u500b\u53f3\u4e2d\u62ec\u5f27}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{\u5de6\u5927\u62ec\u5f27}other{# \u500b\u5de6\u5927\u62ec\u5f27}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{\u53f3\u5927\u62ec\u5f27}other{# \u500b\u53f3\u5927\u62ec\u5f27}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{\u76f4\u7acb\u7dda\u7b26\u865f}other{# \u500b\u76f4\u7acb\u7dda\u7b26\u865f}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{\u5206\u865f}other{# \u500b\u5206\u865f}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{\u5192\u865f}other{# \u500b\u5192\u865f}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{\u9017\u865f}other{# \u500b\u9017\u865f}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{\u9ede}=3{\u522a\u7bc0\u865f}other{# \u500b\u9ede}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{\u5c0f\u65bc\u7b26\u865f}other{# \u500b\u5c0f\u65bc\u7b26\u865f}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{\u5927\u65bc\u7b26\u865f}other{# \u500b\u5927\u65bc\u7b26\u865f}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{\u659c\u7dda}other{# \u500b\u659c\u7dda}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{\u554f\u865f}other{# \u500b\u554f\u865f}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{\u5f15\u865f}other{# \u500b\u5f15\u865f}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{\u55ae\u5f15\u865f}other{# \u500b\u55ae\u5f15\u865f}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{Tab \u5b57\u5143}other{# \u500b Tab \u5b57\u5143}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{\u53cd\u659c\u7dda}other{# \u500b\u53cd\u659c\u7dda}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{\u9805\u76ee\u7b26\u865f}other{# \u500b\u9805\u76ee\u7b26\u865f}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "\u6309\u4e00\u4e0b\u8def\u7531\u6a5f\u78bc $1$ \u4e0b\u65b9\u7684\u9805\u76ee",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "\u5411\u5f8c\u5e73\u79fb"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "\u5411\u524d\u5e73\u79fb"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "\u4e0a\u4e00\u884c\u9ede\u5b57"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "\u4e0b\u4e00\u884c\u9ede\u5b57"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "\u5c07\u9ede\u5b57\u986f\u793a\u756b\u9762\u79fb\u81f3\u9801\u9762\u9802\u7aef"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "\u5c07\u9ede\u5b57\u986f\u793a\u756b\u9762\u79fb\u81f3\u9801\u9762\u5e95\u90e8"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "\u9ede $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "\u9ede $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ \u540c\u6b65\u9078\u53d6",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "\u4ee5\u9ede\u5b57\u6a21\u5f0f\u6aa2\u8996\u5716\u5f62"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "\u6709\u5feb\u6377\u9375\u300c$1$\u300d",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "\u5feb\u6377\u9375\uff1a$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"\u963f\u62c9\u4f2f\u6587\",\n        \"bg\": \"\u4fdd\u52a0\u5229\u4e9e\u6587\",\n        \"ca\": \"\u5361\u9054\u9686\u5c3c\u4e9e\u6587\",\n        \"cs\": \"\u6377\u514b\u6587\",\n        \"da\": \"\u4e39\u9ea5\u6587\",\n        \"de\": \"\u5fb7\u6587\",\n        \"de_CH\": \"\u5fb7\u6587 (\u745e\u58eb)\",\n        \"de_DE\": \"\u5fb7\u6587 (\u5fb7\u570b)\",\n        \"el\": \"\u5e0c\u81d8\u6587\",\n        \"en\": \"\u82f1\u6587\",\n        \"en_CA\": \"\u82f1\u6587 (\u52a0\u62ff\u5927)\",\n        \"en_GB\": \"\u82f1\u6587 (\u82f1\u570b)\",\n        \"en_US\": \"\u82f1\u6587 (\u7f8e\u570b)\",\n        \"es\": \"\u897f\u73ed\u7259\u6587\",\n        \"et\": \"\u611b\u6c99\u5c3c\u4e9e\u6587\",\n        \"fr\": \"\u6cd5\u6587\",\n        \"fr_CA\": \"\u6cd5\u6587 (\u52a0\u62ff\u5927)\",\n        \"fr_FR\": \"\u6cd5\u6587 (\u6cd5\u570b)\",\n        \"fi\": \"\u82ac\u862d\u6587\",\n        \"he\": \"\u5e0c\u4f2f\u4f86\u6587\",\n        \"hi\": \"\u5317\u5370\u5ea6\u6587\",\n        \"hr\": \"\u514b\u7f85\u57c3\u897f\u4e9e\u6587\",\n        \"hu\": \"\u5308\u7259\u5229\u6587\",\n        \"is\": \"\u51b0\u5cf6\u6587\",\n        \"it\": \"\u7fa9\u5927\u5229\u6587\",\n        \"ko\": \"\u97d3\u6587\",\n        \"lt\": \"\u7acb\u9676\u5b9b\u6587\",\n        \"lv\": \"\u62c9\u812b\u7dad\u4e9e\u6587\",\n        \"nb\": \"\u632a\u5a01\u6587 (\u5df4\u514b\u6469)\",\n        \"nl\": \"\u8377\u862d\u6587\",\n        \"pl\": \"\u6ce2\u862d\u6587\",\n        \"pt\": \"\u8461\u8404\u7259\u6587\",\n        \"ro\": \"\u7f85\u99ac\u5c3c\u4e9e\u6587\",\n        \"ru\": \"\u4fc4\u6587\",\n        \"sk\": \"\u65af\u6d1b\u4f10\u514b\u6587\",\n        \"sl\": \"\u65af\u6d1b\u7dad\u5c3c\u4e9e\u6587\",\n        \"sr\": \"\u585e\u723e\u7dad\u4e9e\u6587\",\n        \"sv\": \"\u745e\u5178\u6587\",\n        \"tr\": \"\u571f\u8033\u5176\u6587\",\n        \"vi\": \"\u8d8a\u5357\u6587\",\n        \"zh\": \"\u4e2d\u6587\",\n        \"zh_TW\": \"\u4e2d\u6587 (\u7e41\u9ad4)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "\u6587\u5b57\u7d50\u675f"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "\u7d50\u675f"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "\u63db\u884c"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "\u6b78\u4f4d\u5b57\u5143"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "\u5ffd\u7565\u4e0b\u4e00\u500b\u6309\u9375"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "\u5ffd\u7565\u6309\u9375"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "\u986f\u793a\u5167\u5bb9\u9078\u55ae"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "\u9078\u64c7\u555f\u7528\u6216\u505c\u7528\u9ede\u5b57\u8aaa\u660e\u6587\u5b57"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "\u9ede\u5b57\u5b57\u5e55\u5df2\u555f\u7528\u3002"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "\u9ede\u5b57\u5b57\u5e55\u5df2\u505c\u7528\u3002"
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "\u4e0d\u5340\u5206\u5927\u5c0f\u5beb\u3002"
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "\u5340\u5206\u5927\u5c0f\u5beb\u3002"
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "\u8fd4\u56de"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "\u5f80\u524d"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "\u91cd\u65b0\u6574\u7406"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "\u5207\u63db\u5168\u87a2\u5e55"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "\u8996\u7a97\u7e3d\u89bd"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "\u8abf\u4f4e\u4eae\u5ea6"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "\u8abf\u9ad8\u4eae\u5ea6"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "\u975c\u97f3"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "\u8abf\u4f4e\u97f3\u91cf"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "\u8abf\u9ad8\u97f3\u91cf"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "ChromeVox \u9762\u677f"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "ChromeVox \u9078\u55ae"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "ChromeVox \u6559\u5b78\u8ab2\u7a0b"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "ChromeVox \u9078\u55ae"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "ChromeVox \u9078\u9805"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "\u505c\u7528 ChromeVox"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(\u904b\u4f5c\u4e2d)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "\u5c0e\u5411"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "\u8a9e\u97f3"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "\u5206\u9801"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "\u52d5\u4f5c"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "\u6c92\u6709\u9078\u55ae\u9805\u76ee\u3002"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "\u56de\u5831\u554f\u984c"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox \u66f4\u65b0\u6210\u529f"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "\u6309\u4e0b ChromeVox \u7684 O \u9375\u3001N \u9375\uff0c\u5373\u53ef\u77ad\u89e3\u6700\u65b0\u529f\u80fd"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "\u986f\u793a\u66f4\u65b0\u6ce8\u610f\u4e8b\u9805"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "\u95dc\u9589 ChromeVox \u6559\u5b78\u8ab2\u7a0b"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "\u8fd4\u56de"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "\u7e7c\u7e8c"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "\u6b61\u8fce\u4f7f\u7528 ChromeVox\uff01"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "\u4f60\u662f\u7b2c\u4e00\u6b21\u4f7f\u7528 ChromeVox \u4e92\u52d5\u6717\u8b80\u55ce\uff1f\u672c\u6559\u5b78\u8ab2\u7a0b\u63d0\u4f9b\u4e86\u7c21\u8981\u7684\u57fa\u672c\u64cd\u4f5c\u8aaa\u660e\uff0c\u53ef\u5354\u52a9\u4f60\u958b\u59cb\u4f7f\u7528 ChromeVox\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "\u5982\u8981\u524d\u5f80\u4e0b\u4e00\u9801\uff0c\u8acb\u6309\u4e0b Enter \u9375\uff1b\u5982\u8981\u8fd4\u56de\u4e0a\u4e00\u9801\uff0c\u8acb\u6309\u4e0b Backspace \u9375\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "\u958b\u555f\u3001\u95dc\u9589\u53ca\u505c\u6b62"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "\u5982\u8981\u66ab\u6642\u505c\u6b62 ChromeVox \u4e92\u52d5\u6717\u8b80\uff0c\u8acb\u6309\u4e0b Control \u9375\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "\u5982\u8981\u958b\u555f\u6216\u95dc\u9589 ChromeVox\uff0c\u8acb\u4f7f\u7528 Control + Alt + Z \u9375"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "ChromeVox \u8f14\u52a9\u9375"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "\u4f7f\u7528 ChromeVox \u6642\uff0c\u641c\u5c0b\u9375\u7684\u529f\u7528\u662f\u8f14\u52a9\u9375\u3002\u5927\u591a\u6578 ChromeVox \u5feb\u901f\u9375\u90fd\u662f\u4f7f\u7528\u641c\u5c0b\u9375\u642d\u914d\u5176\u4ed6\u6309\u9375\u3002\u6b64\u5916\uff0c\u700f\u89bd\u6642\u4e5f\u6703\u7528\u5230\u65b9\u5411\u9375\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "Chromebook \u7684\u641c\u5c0b\u9375\u4f4d\u65bc\u5de6\u5074 Shift \u9375\u7684\u6b63\u4e0a\u65b9\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "\u5728\u672c\u6559\u5b78\u8ab2\u7a0b\u671f\u9593\uff0c\u6309\u4efb\u610f\u9375\u7686\u53ef\u8b93\u7cfb\u7d71\u8aaa\u51fa\u6309\u9375\u540d\u7a31\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "\u57fa\u672c\u700f\u89bd\u64cd\u4f5c"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "\u5982\u8981\u79fb\u81f3\u7db2\u9801\u4e0a\u7684\u4e0b\u4e00\u500b\u9805\u76ee\uff0c\u8acb\u6309\u4e0b\u641c\u5c0b\u9375 + \u5411\u53f3\u9375\uff0c\u6309\u4e0b\u641c\u5c0b\u9375 + \u5411\u5de6\u9375\u5247\u53ef\u8fd4\u56de\u4e0a\u4e00\u500b\u9805\u76ee\u3002\u5982\u8981\u524d\u5f80\u4e0b\u4e00\u884c\uff0c\u8acb\u6309\u4e0b\u641c\u5c0b\u9375 + \u5411\u4e0b\u9375\uff1b\u5982\u8981\u524d\u5f80\u4e0a\u4e00\u884c\uff0c\u8acb\u4f7f\u7528\u641c\u5c0b\u9375 + \u5411\u4e0a\u9375\u3002\u5230\u9054\u60a8\u8981\u9ede\u9078\u7684\u9805\u76ee\u6642\uff0c\u8acb\u6309\u4e0b\u641c\u5c0b\u9375 + \u7a7a\u683c\u9375\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "\u73fe\u5728\u8acb\u4f7f\u7528\u641c\u5c0b\u9375 + \u5411\u53f3\u9375\u5c0b\u627e [\u7e7c\u7e8c] \u6309\u9215\uff0c\u7136\u5f8c\u6309\u4e0b\u641c\u5c0b\u9375 + \u7a7a\u683c\u9375\u9ede\u9078\u8a72\u6309\u9215\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "\u8df3\u8e8d\u6307\u4ee4"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "\u4f7f\u7528\u8df3\u8f49\u6307\u4ee4\u53ef\u76f4\u63a5\u5728\u7279\u5b9a\u985e\u578b\u7684\u5143\u7d20\u4e4b\u9593\u79fb\u52d5\u3002\u5982\u8981\u8df3\u5230\u4e0b\u4e00\u500b\u6a19\u984c\uff0c\u8acb\u6309\u4e0b\u641c\u5c0b\u9375 + H \u9375\uff1b\u5982\u8981\u8df3\u5230\u4e0b\u4e00\u500b\u6a19\u984c\uff0c\u8acb\u6309\u4e0b\u641c\u5c0b\u9375 + Shift \u9375 + H \u9375\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "\u9019\u662f\u7b2c\u4e8c\u500b\u6a19\u984c\u3002\u8acb\u6309\u4e0b\u641c\u5c0b\u9375 + H \u9375\u6216\u641c\u5c0b\u9375 + Shift \u9375 + H \u9375\uff0c\u524d\u5f80\u4e0b\u4e00\u500b\u6a19\u984c"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "\u9019\u662f\u6700\u5f8c\u4e00\u500b\u6a19\u984c\u3002\u6309\u4e0b\u641c\u5c0b\u9375 + H \u9375\u53ef\u8df3\u5230\u7b2c\u4e00\u500b\u6a19\u984c\uff0c\u6309\u4e0b\u641c\u5c0b\u9375 + Shift \u9375 + H \u9375\u5247\u53ef\u524d\u5f80\u672c\u9801\u7684\u7b2c\u4e8c\u500b\u6a19\u984c\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "\u6307\u4ee4\u9078\u55ae"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "\u5982\u8981\u63a2\u7d22\u6240\u6709 ChromeVox \u6307\u4ee4\u548c\u5feb\u901f\u9375\uff0c\u8acb\u6309\u4e0b\u641c\u5c0b\u9375 + \u53e5\u865f\u9375\uff0c\u7136\u5f8c\u4f7f\u7528\u65b9\u5411\u9375\u700f\u89bd\u9078\u55ae\uff0c\u6700\u5f8c\u6309\u4e0b Enter \u9375\u5373\u53ef\u4e0b\u9054\u6307\u4ee4\u3002\u5982\u8981\u8fd4\u56de\u9019\u88e1\uff0c\u8acb\u6309\u4e0b\u641c\u5c0b\u9375 + O \u9375\uff0c\u518d\u6309\u4e0b T \u9375\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "\u5be6\u7528\u7684 Chrome \u5feb\u901f\u9375"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "\u4ee5\u4e0b\u9019\u4e9b\u5feb\u901f\u9375\u4e26\u975e ChromeVox \u6307\u4ee4\uff0c\u4f46\u4ecd\u7136\u5f88\u5be6\u7528\uff0c\u53ef\u5354\u52a9\u60a8\u5584\u7528 Chrome\u3002\n\u5982\u8981\u524d\u5f80\u4e0b\u4e00\u500b\u64cd\u4f5c\u9805\u76ee (\u4f8b\u5982\u6309\u9215\u548c\u9023\u7d50)\uff0c\u8acb\u6309\u4e0b Tab \u9375\uff1b\u5982\u8981\u8fd4\u56de\u4e0a\u4e00\u500b\u64cd\u4f5c\u9805\u76ee\uff0c\u8acb\u6309\u4e0b Shift + Tab \u9375\u3002\n\u5982\u8981\u9032\u5165 Chrome \u700f\u89bd\u5668\u7684\u7db2\u5740\u65b9\u584a (\u53c8\u7a31\u70ba\u7db2\u5740\u5217)\uff0c\u8acb\u6309\u4e0b Control + L \u9375\u3002\n\u5982\u8981\u81ea\u52d5\u958b\u555f\u4e26\u524d\u5f80\u65b0\u5206\u9801\uff0c\u8acb\u6309\u4e0b Control + T \u9375 (\u6e38\u6a19\u6703\u79fb\u81f3\u7db2\u5740\u5217)\u3002\n\u5982\u8981\u95dc\u9589\u5206\u9801\uff0c\u8acb\u6309\u4e0b Control + W \u9375\u3002\n\u5982\u8981\u79fb\u81f3\u4e0b\u4e00\u500b\u958b\u555f\u7684\u5206\u9801\uff0c\u8acb\u4f7f\u7528 Control + Tab \u9375\u3002\n\u5982\u8981\u958b\u555f Chrome \u700f\u89bd\u5668\u9078\u55ae\uff0c\u8acb\u6309\u4e0b Alt + F \u9375\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "\u5982\u8981\u8df3\u5230\u756b\u9762\u4e0a\u7684\u5176\u4ed6\u90e8\u5206 (\u4f8b\u5982\u5de5\u5177\u5217\u6216\u7cfb\u7d71\u5323)\uff0c\u8acb\u6309\u4e0b Control + Forward \u9375\u3002Chromebook \u7684 Forward \u9375\u4f4d\u65bc\u6578\u5b57 2 \u9375\u7684\u6b63\u4e0a\u65b9\u3002"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "\u77ad\u89e3\u8a73\u60c5"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "\u606d\u559c\uff01\u4f60\u5df2\u9806\u5229\u5b78\u5b8c\u57fa\u672c\u7684 ChromeVox \u4f7f\u7528\u65b9\u6cd5\u3002\u63d0\u9192\u4f60\uff0c\u4f60\u96a8\u6642\u53ef\u4ee5\u6309\u4e0b\u641c\u5c0b\u9375 + \u53e5\u865f\u9375\u958b\u555f ChromeVox \u6307\u4ee4\u9078\u55ae\u3002\u5982\u8981\u9032\u4e00\u6b65\u77ad\u89e3 ChromeVox \u548c Chrome \u4f5c\u696d\u7cfb\u7d71\uff0c\u8acb\u53c3\u95b1\u4e0b\u5217\u6587\u7ae0\u3002\n\u5982\u8981\u7d50\u675f\u6559\u5b78\u8ab2\u7a0b\uff0c\u8acb\u4f7f\u7528 ChromeVox \u627e\u5230 [\u95dc\u9589] \u6309\u9215\uff0c\u6309\u4e00\u4e0b\u5373\u53ef\u7d50\u675f\u3002"
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "\u4f60\u5df2\u66f4\u65b0\u81f3 ChromeVox 63\uff01"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "\u9019\u500b\u65b0\u7248\u672c\u6709\u4e00\u4e9b\u5f88\u68d2\u7684\u8b8a\u66f4\uff0c\u8aaa\u660e\u5982\u4e0b\uff1a"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "\u79fb\u9664 ChromeVox \u50b3\u7d71\u6a21\u5f0f\u5207\u63db\u529f\u80fd\uff1a\u73fe\u5df2\u7121\u6cd5\u900f\u904e\u9375\u76e4\u5207\u63db\u56de ChromeVox \u50b3\u7d71\u6a21\u5f0f\u3002"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "\u652f\u63f4 RTF \u683c\u5f0f\uff1aChromeVox \u73fe\u5728\u652f\u63f4 RTF \u683c\u5f0f\u6b04\u4f4d\uff0c\u5305\u62ec\u8df3\u8f49\u6307\u4ee4\u3001\u9ede\u5b57\u6e38\u6a19\u8def\u5f91\u3001\u9078\u53d6\u7b49\u7b49\u3002"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Android \u61c9\u7528\u7a0b\u5f0f Chrome \u7248\uff1a\u5982\u679c\u4f60\u7684\u88dd\u7f6e\u4e0a\u6709 Play \u5546\u5e97\uff0c\u53ef\u900f\u904e Android \u61c9\u7528\u7a0b\u5f0f\u6436\u5148\u9ad4\u9a57 ChromeVox\u3002\u53ea\u8981\u5f9e Play \u5546\u5e97\u4e0b\u8f09 Google Chrome Canary \u7248\uff0c\u5373\u53ef\u9ad4\u9a57\u5be6\u9a57\u529f\u80fd\u3002"
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "\u548c\u4ee5\u524d\u4e00\u6a23\uff0c\u6211\u5011\u7aed\u8aa0\u6b61\u8fce\u4f60\u63d0\u4f9b\u610f\u898b\u3002\u53ea\u8981\u76f4\u63a5\u6309\u4e0b\u641c\u5c0b\u9375 + A \u9375\uff0c\u518d\u6309\u4e0b I \u9375\u5373\u53ef\u66a2\u6240\u6b32\u8a00\u3002"
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "ChromeVox \u6307\u4ee4\u53c3\u8003"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Chromebook \u9375\u76e4\u5feb\u901f\u9375"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "\u4f7f\u7528 Chromebook \u89f8\u63a7\u87a2\u5e55\u5354\u52a9\u5de5\u5177\u529f\u80fd"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "\u5fd9\u788c"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "\u5fd9\u788c"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "\u9810\u8a2d"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "\u9810\u8a2d"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "\u97f3\u6548"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox \u6703\u4f7f\u7528\u97f3\u6548\u63d0\u4f9b\u5fc5\u8981\u8cc7\u8a0a\u548c\u984d\u5916\u8cc7\u8a0a\u3002\u53ea\u8981\u77ad\u89e3\u5404\u7a2e\u97f3\u6548\u6240\u4ee3\u8868\u7684\u610f\u7fa9\uff0c\u5373\u53ef\u5584\u7528\u9019\u4e9b\u97f3\u6548\u52a0\u5feb\u700f\u89bd\u901f\u5ea6\u3002\u719f\u6089\u9019\u7a2e\u64cd\u4f5c\u6a21\u5f0f\u5f8c\uff0c\u4f60\u53ef\u4ee5\u9078\u64c7\u95dc\u9589\u8a73\u7d30\u8a9e\u97f3\u8aaa\u660e\uff0c\u5b8c\u5168\u9760\u97f3\u6548\u5c31\u80fd\u638c\u63e1\u95dc\u65bc\u7db2\u9801\u7684\u5404\u9805\u5fc5\u8981\u8cc7\u8a0a\u3002\u5b8c\u6574\u7684\u97f3\u6548\u53ca\u5176\u610f\u7fa9\u6e05\u55ae\u5982\u4e0b\u3002"
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "\u5f37\u5236\u56de\u61c9\u8b66\u793a"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "\u975e\u5f37\u5236\u56de\u61c9\u8b66\u793a"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "\u6309\u9215"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "\u672a\u52fe\u9078\u7684\u6838\u53d6\u65b9\u584a"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "\u5df2\u52fe\u9078\u7684\u6838\u53d6\u65b9\u584a"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "\u53ef\u7de8\u8f2f\u7684\u6587\u5b57\u6b04\u4f4d"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "\u6309\u9375\u7121\u6548"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "\u9023\u7d50"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "\u6e05\u55ae\u65b9\u584a\u6216\u4e0b\u62c9\u5f0f\u65b9\u584a"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "\u7db2\u9801\u8f09\u5165\u4e2d"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "\u5f48\u51fa\u5f0f\u6309\u9215"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "\u6ed1\u687f"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "\u5728\u7db2\u9801\u3001\u5c0d\u8a71\u65b9\u584a\u6216\u5176\u4ed6\u5bb9\u5668\u4e2d\uff0c\u5f9e\u958b\u982d\u8df3\u5230\u7d50\u5c3e\u6216\u5f9e\u7d50\u5c3e\u8df3\u5230\u958b\u982d"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "\u8abf\u6697\u87a2\u5e55"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "\u53d6\u6d88\u8abf\u6697\u87a2\u5e55"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "\u95dc\u9589\u8a9e\u97f3\u529f\u80fd"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "\u958b\u555f\u8a9e\u97f3\u529f\u80fd"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "\u5c07\u8a9e\u97f3\u529f\u80fd\u5207\u63db\u70ba\u958b\u555f\u6216\u95dc\u9589"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "\u5728 6 \u9ede\u8207 8 \u9ede\u9ede\u5b57\u4e4b\u9593\u5207\u63db"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "\u932f\u5b57\u958b\u982d"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "\u932f\u5b57\u7d50\u5c3e"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "\u6587\u6cd5\u932f\u8aa4\u958b\u982d"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "\u6587\u6cd5\u932f\u8aa4\u7d50\u5c3e"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "\u76f8\u7b26\u6587\u5b57\u958b\u982d"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "\u76f8\u7b26\u6587\u5b57\u7d50\u5c3e"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "\u7c97\u9ad4\u958b\u982d"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "\u7c97\u9ad4\u7d50\u5c3e"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "\u659c\u9ad4\u958b\u982d"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "\u659c\u9ad4\u7d50\u5c3e"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "\u5e95\u7dda\u958b\u982d"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "\u5e95\u7dda\u7d50\u5c3e"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "\u522a\u9664\u7dda\u958b\u982d"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "\u522a\u9664\u7dda\u7d50\u5c3e"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "\u9023\u7d50\u958b\u982d"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "\u9023\u7d50\u7d50\u5c3e"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "\u8acb\u5728\u72c0\u614b\u5323\u7684\u5354\u52a9\u5de5\u5177\u4e4b\u4e0b\u555f\u7528\u87a2\u5e55\u5c0f\u9375\u76e4\uff0c\u4ee5\u4f7f\u7528\u64f4\u5145\u9ede\u5b57\u6307\u4ee4\u3002"
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "\u7121\u6a19\u984c"
+  }
+}

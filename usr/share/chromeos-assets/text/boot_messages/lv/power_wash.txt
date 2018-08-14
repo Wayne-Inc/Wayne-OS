@@ -1,0 +1,4 @@
+﻿
+Pašlaik darbojas funkcija Powerwash...
+
+Funkcija Powerwash tiek aktivizēta, ja tiek atklātas kritiskas kļūdas vai ja izvēlaties atiestatīt ierīci. Šādi operētājsistēma Chrome OS tiks atiestatīta, un pēc brīža varēsiet turpināt darbu.

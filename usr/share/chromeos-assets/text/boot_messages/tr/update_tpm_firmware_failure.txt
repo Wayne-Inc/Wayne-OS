@@ -1,0 +1,6 @@
+Bir şeyler ters gitti ve güncelleme yapılamadı.
+
+Cihazınızı kurtarmanız gerekebilir. Chrome OS kurtarmayla ilgili daha fazla
+bilgi edinmek için şu adresi ziyaret edin: https://www.google.com/chromeos/recovery
+
+Cihazı yeniden başlatmak için boşluk çubuğuna basın.

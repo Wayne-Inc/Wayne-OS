@@ -1,0 +1,5 @@
+Něco se pokazilo a aktualizace se nezdařila.
+
+Je možné, že zařízení bude potřeba obnovit. Další informace o obnovení systému ChromeOS naleznete na stránce https://www.google.com/chromeos/recovery
+
+Stisknutím mezerníku zařízení restartujete.

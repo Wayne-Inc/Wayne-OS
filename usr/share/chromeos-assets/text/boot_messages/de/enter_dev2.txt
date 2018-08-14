@@ -1,0 +1,4 @@
+﻿
+Das System wird auf den Entwicklermodus vorbereitet.
+Dieser Vorgang kann einen Moment dauern.
+Schalten Sie den Computer nicht aus, bevor das System neu gestartet wurde.

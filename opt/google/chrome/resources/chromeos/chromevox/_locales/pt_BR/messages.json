@@ -1,0 +1,3082 @@
+﻿{
+  "LOCALE": {
+    "message": "pt-BR"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox: dando voz ao Google Chrome"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Parar voz"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "Ativar/desativar modo aderente"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "Tecla de prefixo"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "Ir para o pr\u00f3ximo item focaliz\u00e1vel"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "Ir para o item focaliz\u00e1vel anterior"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "Navegar para tr\u00e1s"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "Navegar para a frente"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Mover para a esquerda"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "Mover para a direita"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "Ir para tr\u00e1s durante a leitura cont\u00ednua"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "Ir para a frente durante a leitura cont\u00ednua"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Diminuir granularidade da navega\u00e7\u00e3o"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "Aumentar granularidade de navega\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "Clicar no item atual"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Clicar no item atual"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Anunciar o URL associado a um link"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Anunciar o t\u00edtulo da p\u00e1gina atual"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Anunciar o URL da p\u00e1gina atual"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "Iniciar a leitura na posi\u00e7\u00e3o atual"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "Abrir menus do ChromeVox"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "Ocultar ajuda do ChromeVox"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Pressione a seta para cima ou para baixo para revisar os comandos, ou pressione Enter para ativar"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "Abrir tutorial do ChromeVox"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "Encontrar na p\u00e1gina do ChromeVox"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "Abrir p\u00e1gina de op\u00e7\u00f5es"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "Abre o modo de aprendizado"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Desacelerar ritmo da voz"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "Acelerar ritmo da voz"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Diminuir tom de voz"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "Aumentar tom de voz"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Diminuir volume da voz"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "Aumentar volume da voz"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "Mostrar lista de formul\u00e1rios"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "Mostrar lista de cabe\u00e7alhos"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "Mostrar lista de links"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "Mostrar lista de tabelas"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "Mostrar lista de pontos de refer\u00eancia"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "Linha anterior da tabela"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "Pr\u00f3xima linha de tabela"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "Coluna anterior da tabela"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "Pr\u00f3xima coluna da tabela"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Anunciar cabe\u00e7alhos da c\u00e9lula atual"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Anunciar coordenadas da c\u00e9lula atual"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Fazer estimativa do cabe\u00e7alho da linha da c\u00e9lula atual"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Fazer estimativa do cabe\u00e7alho da coluna da c\u00e9lula atual"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "Ir para o in\u00edcio da tabela"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "Ir para o fim da tabela"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "Ir para o in\u00edcio da linha atual"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "Ir para o fim da linha atual"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "Ir para o in\u00edcio da coluna atual"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "Ir para o fim da coluna atual"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "Pr\u00f3ximo cabe\u00e7alho de n\u00edvel 1"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "Cabe\u00e7alho de n\u00edvel 1 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "Pr\u00f3ximo cabe\u00e7alho de n\u00edvel 2"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "Cabe\u00e7alho de n\u00edvel 2 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "Pr\u00f3ximo cabe\u00e7alho de n\u00edvel 3"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "Cabe\u00e7alho de n\u00edvel 3 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "Pr\u00f3ximo cabe\u00e7alho de n\u00edvel 4"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "Cabe\u00e7alho de n\u00edvel 4 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "Pr\u00f3ximo cabe\u00e7alho de n\u00edvel 5"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "Cabe\u00e7alho de n\u00edvel 5 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "Pr\u00f3ximo cabe\u00e7alho de n\u00edvel 6"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "Cabe\u00e7alho de n\u00edvel 6 anterior"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "Pr\u00f3xima caixa de combina\u00e7\u00e3o"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "Caixa de combina\u00e7\u00e3o anterior"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "Pr\u00f3xima \u00e1rea de texto edit\u00e1vel"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "\u00c1rea de texto edit\u00e1vel anterior"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "Pr\u00f3ximo campo do formul\u00e1rio"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "Campo de formul\u00e1rio anterior"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "Pr\u00f3ximo gr\u00e1fico"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "Gr\u00e1fico anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "Pr\u00f3ximo cabe\u00e7alho"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "Cabe\u00e7alho anterior"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "Pr\u00f3ximo item da lista"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "Item anterior da lista"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "Pr\u00f3ximo atalho"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "Atalho anterior"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "Pr\u00f3ximo link"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "Link anterior"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "Pr\u00f3xima lista"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "Lista anterior"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "Pr\u00f3xima express\u00e3o matem\u00e1tica"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "Express\u00e3o matem\u00e1tica anterior"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "Pr\u00f3xima m\u00eddia"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "M\u00eddia anterior"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "Pr\u00f3xima cita\u00e7\u00e3o em bloco"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "Cita\u00e7\u00e3o em bloco anterior"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "Pr\u00f3ximo bot\u00e3o de op\u00e7\u00e3o"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "Bot\u00e3o de op\u00e7\u00e3o anterior"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "Pr\u00f3ximo controle deslizante"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "Controle deslizante anterior"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "Pr\u00f3xima tabela"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "Pr\u00f3ximo link visitado"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "Tabela anterior"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Link anterior visitado"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "Pr\u00f3ximo bot\u00e3o"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "Bot\u00e3o anterior"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "Pr\u00f3xima caixa de sele\u00e7\u00e3o"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "Caixa de sele\u00e7\u00e3o anterior"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "Pr\u00f3ximo ponto de refer\u00eancia"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "Ponto de refer\u00eancia anterior"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "Depurar ponto de partida"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Anuncia uma breve descri\u00e7\u00e3o da situa\u00e7\u00e3o atual"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Anuncia uma descri\u00e7\u00e3o completa da posi\u00e7\u00e3o atual"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "Op\u00e7\u00f5es do ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Tela virtual em braille"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "Simula a sa\u00edda de uma tela em braille atualiz\u00e1vel\n        no painel do ChromeVox na parte superior da tela."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "Linhas:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "C\u00e9lulas em cada linha:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "O estilo de exibi\u00e7\u00e3o atual est\u00e1 intercalado."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "O estilo de exibi\u00e7\u00e3o atual est\u00e1 definido como lado a lado."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Alterar o estilo de exibi\u00e7\u00e3o para intercalado."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Alterar estilo de exibi\u00e7\u00e3o para lado a lado."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "Use as op\u00e7\u00f5es abaixo para personalizar o ChromeVox. As altera\u00e7\u00f5es t\u00eam efeito imediato."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "Use o mouse para alterar o foco."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "Exibir o contexto de um item antes de outras informa\u00e7\u00f5es (como o nome dele)."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "Aprimore sites espec\u00edficos (como a Pesquisa Google)."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "Ativar descri\u00e7\u00f5es detalhadas."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Ler p\u00e1gina automaticamente ap\u00f3s o carregamento."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Ao reproduzir \u00e1udio\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "Reproduzir no volume normal mesmo se o ChromeVox estiver falando"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "Reproduzir em um volume mais baixo quando o ChromeVox estiver falando"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "Pausar reprodu\u00e7\u00e3o quando o ChromeVox estiver falando"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "Ao editar um texto, coloque o cursor entre os caracteres (como o Mac OS X)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Vozes"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Selecione a voz atual:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Braille"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "Alternar para braille de oito pontos"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "Alternar para braille de seis pontos"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "Selecione uma tabela em braille de seis pontos:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, Grade $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), grau $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "Selecione uma tabela em braille de oito pontos:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "Ativar quebra de palavra"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Atalhos do teclado"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "Alterar o mapa de teclado atual, selecionando uma op\u00e7\u00e3o na lista abaixo."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Redefinir keymap atual"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "Personalizar atalhos de teclado para os comandos usados com frequ\u00eancia, digitando-os nos campos correspondentes abaixo."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "Teclas modificadoras."
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "Teclas modificadoras do ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "Modo de aprendizado do ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Pressione qualquer tecla para saber o nome dela. Ctrl+W fecha o modo de aprendizado."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "guia criada"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$, tab",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "Janela, guia $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "Janela an\u00f4nima, guia $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "Menu $1$ aberto",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "menu fechado"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "Caixa de sele\u00e7\u00e3o $1$ marcada",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "marcada"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "Caixa de sele\u00e7\u00e3o $1$ n\u00e3o marcada",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "n\u00e3o selecionada"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$, ativado",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$, desativado",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "Bot\u00e3o de op\u00e7\u00e3o $1$ selecionado",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "selecionado"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "Bot\u00e3o de op\u00e7\u00e3o $1$ desmarcado",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "unselected"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "Menu $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "Item de menu $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "Item de menu $1$, com submenu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "Janela $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "Caixa de texto $2$ $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "Caixa de texto $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "Caixa de texto de senha $2$ $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "Caixa de texto de senha $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "Bot\u00e3o $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "Caixa de texto $2$ $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "Caixa de texto: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "Caixa de listagem $2$ $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "Caixa de listagem $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "Link $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "Guia $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "Controle deslizante $1$ $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ". selecionado"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", sele\u00e7\u00e3o cancelada"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$ de $2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " n\u00edvel $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "Velocidade $1$ por cento",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "Tom $1$ por cento",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "Volume $1$ por cento",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "Caixa de di\u00e1logo fechada."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "$1$ fechado.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "Di\u00e1logo introduzido"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "removido:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "Modo aderente ativado"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "Modo aderente desativado"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Ajuda do teclado"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Menu de contexto"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "Lista de $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "Use as teclas de seta para cima e para baixo para navegar ou digite para pesquisar."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "Saiu"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "Final da c\u00e9lula."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "Nenhum URL encontrado"
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "Saindo da tabela."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "Saindo da grade."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "Dentro da tabela"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Nenhuma tabela encontrada."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "N\u00e3o est\u00e1 dentro da tabela."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "N\u00e3o no modo de tabela."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "Nenhuma c\u00e9lula abaixo."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Nenhuma c\u00e9lula acima."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Nenhuma c\u00e9lula \u00e0 direita."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "Nenhuma c\u00e9lula \u00e0 esquerda."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "C\u00e9lula vazia."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Expandido."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Cabe\u00e7alho de linha:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Cabe\u00e7alho da linha vazio"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Cabe\u00e7alho da coluna:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Cabe\u00e7alho de coluna vazio"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "Nenhum cabe\u00e7alho"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Cabe\u00e7alhos vazios"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "Linha $1$ de $2$, Coluna $3$ de $4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "Tabela $1$: $2$ por $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "tab $1$: $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "linha $1$ coluna $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "l$1$c$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "Nenhuma caixa de sele\u00e7\u00e3o a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "Nenhuma caixa de sele\u00e7\u00e3o anterior."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "Nenhum campo de texto edit\u00e1vel a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "Nenhum campo de texto edit\u00e1vel anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "Nenhum cabe\u00e7alho a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "Nenhum cabe\u00e7alho anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "Nenhum cabe\u00e7alho de n\u00edvel 1 a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "Nenhum cabe\u00e7alho anterior de n\u00edvel 1."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "Nenhum cabe\u00e7alho de n\u00edvel 2 a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "Nenhum cabe\u00e7alho anterior de n\u00edvel 2."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "Nenhum cabe\u00e7alho de n\u00edvel 3 a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "Nenhum cabe\u00e7alho anterior de n\u00edvel 3."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "Nenhum cabe\u00e7alho de n\u00edvel 4 a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "Nenhum cabe\u00e7alho anterior de n\u00edvel 4."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "Nenhum cabe\u00e7alho de n\u00edvel 5 a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "Nenhum cabe\u00e7alho anterior de n\u00edvel 5."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "Nenhum cabe\u00e7alho de n\u00edvel 6 a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "Nenhum cabe\u00e7alho anterior de n\u00edvel 6."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "Nenhum item a seguir que n\u00e3o seja link."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "Nenhum link anterior que n\u00e3o seja um link."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "Nenhuma \u00e2ncora a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "Nenhuma \u00e2ncora anterior."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "Nenhum link a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "N\u00e3o h\u00e1 link anterior."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "Nenhuma tabela a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "Nenhuma tabela anterior."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "N\u00e3o h\u00e1 pr\u00f3ximo link visitado."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "N\u00e3o h\u00e1 link anterior visitado."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "Nenhuma express\u00e3o matem\u00e1tica a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "Nenhuma express\u00e3o matem\u00e1tica anterior."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "Nenhum widget de m\u00eddia a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "Nenhum widget de m\u00eddia anterior."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "Nenhuma lista a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "Nenhuma lista anterior."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "Nenhum item a seguir na lista."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "Nenhum item a seguir na lista."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "Nenhum bloco de texto a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "Nenhum bloco de texto anterior."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "Nenhum campo de formul\u00e1rio a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "Nenhum campo de formul\u00e1rio anterior."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "Nenhum ponto de salto a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "No previous jump point."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "Nenhum ponto de refer\u00eancia ARIA a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "Nenhum ponto de refer\u00eancia ARIA anterior."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "Nenhuma caixa mista a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "Nenhuma caixa mista anterior."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "Nenhum bot\u00e3o a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "Nenhum bot\u00e3o anterior."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "Nenhum gr\u00e1fico a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "Nenhum gr\u00e1fico anterior."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "Nenhum controle deslizante a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "Nenhum controle deslizante anterior."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "Nenhum bot\u00e3o de op\u00e7\u00e3o a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "Nenhum bot\u00e3o de op\u00e7\u00e3o anterior."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "Nenhuma se\u00e7\u00e3o a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "Nenhuma se\u00e7\u00e3o anterior."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "Nenhum controle a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "Nenhum controle anterior."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "foi clicado"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "clicado duas vezes"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "Nenhum cabe\u00e7alho."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "Nenhum link."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "N\u00e3o h\u00e1 formul\u00e1rios."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "Nenhuma tabela."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "Nenhum ponto de refer\u00eancia ARIA."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "Nenhum salto."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$ de $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "possui submenu"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "possui pop-up"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+popup"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "Min $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "min:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "M\u00e1ximo $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "max:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "Alerta"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "alrt"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "Di\u00e1logo de alerta"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "alrt dlg"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "Bot\u00e3o"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "btn"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "Caixa de sele\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Caixa de combina\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "Di\u00e1logo"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "dlg"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "Grade"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "grd"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "C\u00e9lula"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "linha $1$ coluna $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Link"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "lnk"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "Caixa de listagem"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "lstbx"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "Registro"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "log"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Letreiro"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "marquee"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Menu"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "mnu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Barra de menu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Item de menu"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Caixa de sele\u00e7\u00e3o de item de menu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Bot\u00e3o de op\u00e7\u00e3o de item de menu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "Bot\u00e3o pop-up"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Barra de progresso"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Indicador de progresso"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "Bot\u00e3o de op\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Grupo de bot\u00f5es de op\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Barra de rolagem"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Slide"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "slider"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "Bot\u00e3o de rota\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "Status"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "sts"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Guia"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "tab"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "Tabela"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "tabela"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "Lista de guias"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "Painel da guia"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Caixa de texto"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "Timer"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "tmr"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "Barra de ferramentas"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "Dica"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "\u00c1rvore"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "tree"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "Item de \u00e1rvore"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "Artigo"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "article"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "Aplicativo"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "app"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Banner"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "bnr"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Cabe\u00e7alho da coluna"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "Complementar"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "complementar"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Informa\u00e7\u00f5es sobre o conte\u00fado"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "Defini\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "def"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Diret\u00f3rio"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "dir"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Documento"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "doc"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Formul\u00e1rio"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "formul\u00e1rio"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Grupo"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "grp"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Cabe\u00e7alho"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "Imagem"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "img"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "Lista"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "Item da lista"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Principal"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "main"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Math"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "matem\u00e1tica"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Navega\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Nota"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "note"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Regi\u00e3o"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "rgn"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Cabe\u00e7alho de linha"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "Pesquisar"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "pesquisar"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Separador"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "Medidor"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "medidor"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Preenchimento autom\u00e1tico em linha"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "Lista de preenchimento autom\u00e1tico"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Preenchimento autom\u00e1tico em linha e lista"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "Marcado"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "N\u00e3o marcado"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "Parcialmente marcado"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Desativado"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "Expandido"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "Recolhido"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "Entrada inv\u00e1lida"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "Erro gramatical detectado"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "grammatical mistake"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "Erro ortogr\u00e1fico detectado"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "misspelled"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "Multilinha"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "Sele\u00e7\u00e3o m\u00faltipla"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "mult sel"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Pressionado"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "N\u00e3o pressionado"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "Parcialmente pressionado"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Somente leitura"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "rdonly"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "Obrigat\u00f3ria"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Selecionado"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "N\u00e3o selecionado"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Link visitado"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "Visitado"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "Cabe\u00e7alho 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "Cabe\u00e7alho 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "Cabe\u00e7alho 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "Cabe\u00e7alho 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "Cabe\u00e7alho 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "Cabe\u00e7alho 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "Item da lista"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "Lista ordenada"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Caixa de combina\u00e7\u00e3o"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "\u00c1rea de texto"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "tabela"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tbl"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "Lista"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Se\u00e7\u00e3o"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Navega\u00e7\u00e3o"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "Artigo"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "article"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "Lateral"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "aside"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Grupo de cabe\u00e7alhos"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Cabe\u00e7alho"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "hdr"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "Rodap\u00e9"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "ftr"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Tempo"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "Mark"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "marcar"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "V\u00eddeo"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "v\u00eddeo"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "\u00c1udio"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "\u00e1udio"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "Seletor de cores"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "Seletor de cores"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "Controle de data e hora"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "data hora"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Controle de hora"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "time"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "Controle de data e hora"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "data hora"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "Controle de data"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "date"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Editar texto, entrada de e-mail"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@ed 8dot"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "Sele\u00e7\u00e3o de arquivo"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "file"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "Controle de m\u00eas"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "m\u00eas"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "Editar apenas texto num\u00e9rico"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "Texto de altera\u00e7\u00e3o de senha"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "Redefinir"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "reset"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Editar texto, entrada de pesquisa"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Texto de edi\u00e7\u00e3o"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Editar texto, entrada de URL"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "urled 8dot"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Controle de semana do ano"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "week"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Link interno"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Em branco"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "Espa\u00e7o"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "com $1$ itens",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "com {COUNT,plural, =1{# item}one{# itens}other{# itens}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}one{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "com submenu"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "possui pop-up"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "possui pop-up"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "Cole\u00e7\u00e3o de $1$ com $2$ itens",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Entrar"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "Espa\u00e7o"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Backspace"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Guia"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Para a esquerda"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Para cima"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "Para a direita"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Seta para baixo"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Link desconhecido"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "Ativar ou desativar ChromeVox."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "O ChromeVox est\u00e1 desativado."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "Alternar ChromeVox classic."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "Elemento diferente anterior."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "Pr\u00f3ximo elemento diferente."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "Elemento semelhante anterior."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "Pr\u00f3ximo elemento semelhante."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "N\u00e3o h\u00e1 mais elementos semelhantes."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "N\u00e3o h\u00e1 mais elementos diferentes."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "Entrar na explora\u00e7\u00e3o de grupo"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Explorando grupos"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Objeto"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Grupo"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "Tabela"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Linha"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "Coluna"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Linha"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "Coluna"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "linha"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "col"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "Math ML Tree"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "Layout Math ML"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "Token Math ML"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "Math ML Leaf"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "Visual"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "Personalizado"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "Linha"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "Senten\u00e7a"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "Palavra"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Caractere"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "Localizar na p\u00e1gina."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Inserir uma consulta de pesquisa."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "Saiu da localiza\u00e7\u00e3o na p\u00e1gina."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "N\u00e3o h\u00e1 mais resultados."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "Teclas modificadoras"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "Navega\u00e7\u00e3o no ChromeVox"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Informa\u00e7\u00f5es"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "Comandos de ajuda"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Controle de voz"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "Vis\u00e3o geral"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "Tabelas"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "Comandos de avan\u00e7o e retorno"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Braille"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Desenvolvedor"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Mapa de teclado cl\u00e1ssico"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Pr\u00f3ximo mapa de teclado"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "Keymap plano"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "Mapa de teclado experimental"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "Ativar registros TTS"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "Iniciar sele\u00e7\u00e3o"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "Concluir sele\u00e7\u00e3o"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "A sele\u00e7\u00e3o \u00e9 "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "Iniciar ou finalizar sele\u00e7\u00e3o."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "copiar $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "recortar $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "colar $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "selecionado"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "unselected"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "adicionados a sele\u00e7\u00e3o"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "removido da sele\u00e7\u00e3o"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "e depois"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "seguido de"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "Teclas modificadoras do ChromeVox"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "$1$ j\u00e1 est\u00e1 atribu\u00eddo a um comando.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Math"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "matem\u00e1tica"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Sem matem\u00e1tica interna"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "AM PM"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "horas"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "minutos"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "segundos"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "mil\u00e9simos de segundo"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "AM"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "PM"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "week"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "Janeiro"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "Fevereiro"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "Mar\u00e7o"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "Abril"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "Maio"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "Junho"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "Julho"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "Agosto"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "Setembro"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "Outubro"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "Novembro"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "Dezembro"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "Sem pontua\u00e7\u00e3o"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "Alguns sinais de pontua\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "Todos os sinais de pontua\u00e7\u00e3o"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Pressione Enter para aceitar, Esc para cancelar, seta para baixo para ir para o pr\u00f3ximo e seta para cima para ir para o anterior."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "clic\u00e1vel"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "Caractere anterior"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "Pr\u00f3ximo caractere"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "Palavra anterior"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "Pr\u00f3xima palavra"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "Frase anterior"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "Pr\u00f3xima frase"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "Linha anterior"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "Pr\u00f3xima linha"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "Objeto anterior"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "Pr\u00f3ximo objeto"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "Grupo anterior"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "Pr\u00f3ximo grupo"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "Ponto de refer\u00eancia"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Nenhum modificador foi pressionado. Pressione e mantenha pressionado um ou mais modificadores. Levante os dedos uma vez e voc\u00ea ouvir\u00e1 as teclas definidas. Pressione \"Tab\" para sair."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "$1$ \u00e9 agora o novo modificador do ChromeVox.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ foi redefinido.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "Comutado para $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "Vai para a parte superior da p\u00e1gina"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "Vai para a parte inferior da p\u00e1gina"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "Retornar para o topo"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "Avan\u00e7ar para baixo"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "Percorrer eco de pontua\u00e7\u00e3o"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Percorrer eco de digita\u00e7\u00e3o"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "Pausa todos os widgets de m\u00eddia em execu\u00e7\u00e3o no momento"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "Abrir descri\u00e7\u00e3o longa em uma nova p\u00e1gina"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "Nenhuma descri\u00e7\u00e3o longa"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Imagem com descri\u00e7\u00e3o longa"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$ a $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$-$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "$1$ itens selecionados",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "sld $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "sele\u00e7\u00e3o cancelada"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "eco de caractere"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "eco de palavra"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "eco de caractere e de palavra"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "sem eco de digita\u00e7\u00e3o"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "insere conte\u00fado estruturado, como tabelas"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "sai de conte\u00fado estruturado, como tabelas"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "inser\u00e7\u00e3o de $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "linha estrutural"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "linha"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Alternar tipo de linha entre estrutural e layout"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "tabela"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "navega\u00e7\u00e3o padr\u00e3o"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "matem\u00e1tica"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "Alternar a interpreta\u00e7\u00e3o de express\u00f5es matem\u00e1ticas entre estrutural e sem\u00e2ntica"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Interpreta\u00e7\u00e3o sem\u00e2ntica ativada"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Interpreta\u00e7\u00e3o sem\u00e2ntica desativada"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Pressione Alt+Shift+A para analisar os alertas"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "N\u00e3o h\u00e1 artigos a seguir."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "N\u00e3o h\u00e1 artigos anteriores."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "O feedback falado do ChromeVox est\u00e1 pronto"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox pronto"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "Earcons ativados"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Earcons desativados"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "Ativa ou desativa o feedback sonoro (earcons)."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "Fala a hora e a data atuais."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "P:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "Exclu\u00eddo"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Executar a\u00e7\u00e3o padr\u00e3o"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{ponto de exclama\u00e7\u00e3o}one{# ponto de exclama\u00e7\u00e3o}other{# pontos de exclama\u00e7\u00e3o}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{espa\u00e7o}one{# espa\u00e7os}other{# espa\u00e7os}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{acento grave}one{# acentos graves}other{# acentos graves}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{til}one{# sinais de til}other{# sinais de til}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{sinal de arroba}one{# sinais de arroba}other{# sinais de arroba}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{sinal de cerquilha}one{# sinais de cerquilha}other{# sinais de cerquilha}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{cifr\u00e3o}one{# sinais de cifr\u00e3o}other{# sinais de cifr\u00e3o}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{porcentagem}one{# sinais de porcentagem}other{# sinais de porcentagem}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{acento circunflexo}one{# acentos circunflexos}other{# acentos circunflexos}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{sinal de \"E\" comercial}one{# sinais de \"E\" comercial}other{# sinais de \"E\" comercial}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{asterisco}one{# asteriscos}other{# asteriscos}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{par\u00eanteses de abertura}one{# par\u00eanteses de abertura}other{# par\u00eanteses de abertura}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{par\u00eantese de fechamento}one{# par\u00eanteses de fechamento}other{# par\u00eanteses de fechamento}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{tra\u00e7o}one{# tra\u00e7os}other{# tra\u00e7os}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{sublinhado}one{# sublinhados}other{# sublinhados}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{sinal de igual}one{# sinais de igual}other{# sinais de igual}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{sinal de mais}one{# sinais de mais}other{# sinais de mais}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{colchete esquerdo}one{# colchetes esquerdos}other{# colchetes esquerdos}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{colchete direito}one{# colchetes direitos}other{# colchetes direitos}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{chave esquerda}one{# chaves esquerdas}other{# chaves esquerdas}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{chave direita}one{# chaves direitas}other{# chaves direitas}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{barra vertical}one{# barras verticais}other{# barras verticais}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{sinal de ponto-e-v\u00edrgula}one{# sinais de ponto-e-v\u00edrgula}other{# sinais de ponto-e-v\u00edrgula}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{um sinal de dois-pontos}one{# sinais de dois-pontos}other{# sinais de dois-pontos}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{v\u00edrgula}one{# v\u00edrgulas}other{# v\u00edrgulas}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{ponto}=3{retic\u00eancias}one{# pontos}other{# pontos}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{sinal de menor que}one{# sinais de menor que}other{# sinais de menor que}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{sinal maior que}one{# sinais de maior que}other{# sinais de maior que}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{barra}one{# barras}other{# barras}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{ponto de interroga\u00e7\u00e3o}one{# pontos de interroga\u00e7\u00e3o}other{# pontos de interroga\u00e7\u00e3o}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{aspas}one{# sinais de aspas}other{# sinais de aspas}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{ap\u00f3strofo}one{# ap\u00f3strofos}other{# ap\u00f3strofos}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{tabula\u00e7\u00e3o}one{# tabula\u00e7\u00f5es}other{# tabula\u00e7\u00f5es}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{barra invertida}one{# barras invertidas}other{# barras invertidas}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{marcador}one{# marcador}other{# marcadores}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "Clique no item abaixo da chave de roteamento $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "Movimentar para tr\u00e1s"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "Mover para a frente"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "Linha Braille anterior"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "Pr\u00f3xima linha Braille"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "Mover exibi\u00e7\u00e3o braille para o topo da p\u00e1gina"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "Mover exibi\u00e7\u00e3o braille para o fim da p\u00e1gina"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "ponto $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "pontos $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ chord",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "Ver gr\u00e1fico como Braille"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "tem chave de acesso: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "access key:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"\u00e1rabe\",\n        \"bg\": \"b\u00falgaro\",\n        \"ca\": \"catal\u00e3o\",\n        \"cs\": \"tcheco\",\n        \"da\": \"dinamarqu\u00eas\",\n        \"de\": \"alem\u00e3o\",\n        \"de_CH\": \"alem\u00e3o (Su\u00ed\u00e7a)\",\n        \"de_DE\": \"alem\u00e3o (Alemanha)\",\n        \"el\": \"grego\",\n        \"en\": \"ingl\u00eas\",\n        \"en_CA\": \"ingl\u00eas (Canad\u00e1)\",\n        \"en_GB\": \"ingl\u00eas (Reino Unido)\",\n        \"en_US\": \"ingl\u00eas (Estados Unidos)\",\n        \"es\": \"espanhol\",\n        \"et\": \"estoniano\",\n        \"fr\": \"franc\u00eas\",\n        \"fr_CA\": \"franc\u00eas (Canad\u00e1)\",\n        \"fr_FR\": \"franc\u00eas (Fran\u00e7a)\",\n        \"fi\": \"finland\u00eas\",\n        \"he\": \"hebraico\",\n        \"hi\": \"hindi\",\n        \"hr\": \"croata\",\n        \"hu\": \"h\u00fangaro\",\n        \"is\": \"island\u00eas\",\n        \"it\": \"italiano\",\n        \"ko\": \"coreano\",\n        \"lt\": \"lituano\",\n        \"lv\": \"let\u00e3o\",\n        \"nb\": \"bokm\u00e5l noruegu\u00eas\",\n        \"nl\": \"holand\u00eas\",\n        \"pl\": \"polon\u00eas\",\n        \"pt\": \"portugu\u00eas\",\n        \"ro\": \"romeno\",\n        \"ru\": \"russo\",\n        \"sk\": \"eslovaco\",\n        \"sl\": \"esloveno\",\n        \"sr\": \"s\u00e9rvio\",\n        \"sv\": \"sueco\",\n        \"tr\": \"turco\",\n        \"vi\": \"vietnamita\",\n        \"zh\": \"chin\u00eas\",\n        \"zh_TW\": \"chin\u00eas (Han tradicional)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Fim do texto"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "End"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "linha nova"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "retorna"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "Ignorando o uso da tecla \"Pr\u00f3ximo\""
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Ignorar a tecla"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "Mostrar menu de contexto"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Alternar para legendas em braille"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Legendas em Braille ativadas."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Legendas em Braille desativadas."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "N\u00e3o diferencia mai\u00fasculas de min\u00fasculas."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "Diferencia mai\u00fasculas de min\u00fasculas."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "voltar"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "avan\u00e7ar"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "atualizar"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "alternar para o modo tela cheia"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "vis\u00e3o geral da janela"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "Diminuir o brilho"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "Aumentar o brilho"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "desativar o som"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "diminuir o volume"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "aumentar o volume"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "Painel do ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "Menus do ChromeVox"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "Tutorial do ChromeVox"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "Menus do ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "Op\u00e7\u00f5es do ChromeVox"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "Desativar ChromeVox"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(ativo)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Pular"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Voz"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "Guias"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "A\u00e7\u00f5es"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "N\u00e3o h\u00e1 itens."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Informar um problema"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox atualizado"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Pressione \"ChromeVox\" \"o\", \"n\" para conhecer as novidades"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "Mostrar notas de atualiza\u00e7\u00e3o"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "Fecha o tutorial do ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "Anterior"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "Pr\u00f3xima"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "Bem-vindo ao ChromeVox."
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "Est\u00e1 usando o feedback falado do ChromeVox pela primeira vez? Este tutorial r\u00e1pido explica os fundamentos para come\u00e7ar a usar o ChromeVox."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "Para avan\u00e7ar, pressione Enter. Para voltar, pressione Backspace."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "Ativar, desativar e interromper"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "Para interromper temporariamente a fala do ChromeVox, pressione a tecla Control."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "Para ativar ou desativar o ChromeVox, use Control+Alt+Z."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "A tecla modificadora do ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "No ChromeVox, a tecla de pesquisa \u00e9 a tecla modificadora. A maioria dos atalhos do ChromeVox come\u00e7a com ela. As teclas de seta tamb\u00e9m s\u00e3o usadas para navega\u00e7\u00e3o."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "No Chromebook, a tecla Pesquisa fica imediatamente acima da tecla Shift do lado esquerdo."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "Durante este tutorial, pressione qualquer tecla para ouvir o nome dela."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Navega\u00e7\u00e3o b\u00e1sica"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "Para avan\u00e7ar entre os itens de uma p\u00e1gina, pressione Pesquisa + seta para a direita ou Pesquisa + seta para a esquerda para retroceder. Para ir para a pr\u00f3xima linha, pressione Pesquisa + seta para baixo. Para ir para a linha anterior, use Pesquisa + seta para cima. Se voc\u00ea chegar a um item no qual deseja clicar, pressione Pesquisa + espa\u00e7o."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "Tente usar Pesquisa + seta para a direita agora para localizar o bot\u00e3o \"Avan\u00e7ar\" e pressione Pesquisa + espa\u00e7o para clicar nele."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "Comandos de avan\u00e7o e retorno"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Use comandos de avan\u00e7o e retorno para acessar tipos espec\u00edficos de elementos. Para avan\u00e7ar entre cabe\u00e7alhos, pressione Pesquisa + H ou pressione Pesquisa + Shift + H para retroceder."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "Este \u00e9 o segundo t\u00edtulo. Continue pressionando a tecla de pesquisa+H ou a tecla de pesquisa+Shift+H"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "Este \u00e9 o \u00faltimo t\u00edtulo. Pressione a tecla de pesquisa+H para ir para o primeiro t\u00edtulo, ou tecla de pesquisa+Shift+H para ir para o segundo t\u00edtulo desta p\u00e1gina."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Menus de comando"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "Para explorar todos os comandos e atalhos do ChromeVox, pressione a tecla de pesquisa + ponto final. Depois, use as teclas de seta para navegar pelos menus e Enter para ativar um comando. Para retornar a este local, pressione a tecla de pesquisa+o e depois a tecla t."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Atalhos \u00fateis do Chrome"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "Os pr\u00f3ximos atalhos n\u00e3o s\u00e3o comandos do ChromeVox, mas ainda s\u00e3o muito \u00fateis para aproveitar ao m\u00e1ximo o Chrome.\nPara avan\u00e7ar por itens acion\u00e1veis, como bot\u00f5es e links, pressione a tecla Tab. Para retroceder, pressione Shift+Tab. \nPara digitar na caixa de endere\u00e7o do navegador Chrome, tamb\u00e9m chamada de omnibox, pressione Control + L. \nPara abrir e acessar uma nova guia automaticamente, pressione Control+T. O cursor estar\u00e1 na omnibox. \nPara fechar uma guia, pressione Ctrl+W. \nPara avan\u00e7ar entre as guias abertas, use Control+Tab. \nPara abrir o menu do navegador Chrome, pressione Alt+F."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "Para ir para outras partes da tela, como barras de ferramentas ou a bandeja do sistema, pressione Control+Avan\u00e7ar. Em um Chromebook, a tecla Avan\u00e7ar fica imediatamente acima da tecla n\u00famero 2."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "Saiba mais"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Parab\u00e9ns! Voc\u00ea aprendeu os fundamentos para usar o ChromeVox. Abra o menu de comandos do ChromeVox a qualquer momento pressionando \"Pesquisa\" + ponto final. Para saber ainda mais sobre o ChromeVox e o Chrome OS, acesse os artigos a seguir.\nSe voc\u00ea n\u00e3o quer mais ver o tutorial, use o ChromeVox para navegar at\u00e9 o bot\u00e3o \"Fechar\" e clique nele."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "Voc\u00ea recebeu a atualiza\u00e7\u00e3o para o ChromeVox 63."
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "Trouxemos algumas mudan\u00e7as incr\u00edveis nesta nova vers\u00e3o. Veja as novidades:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "ChromeVox Classic removido. O bot\u00e3o do teclado para voltar para o ChromeVox Classic foi removido."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "Compatibilidade com rich text. O ChromeVox agora \u00e9 compat\u00edvel com campos rich text, incluindo comandos jump, roteamento de cursor braille, sele\u00e7\u00e3o e muito mais."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Apps para Android no Chrome. Se a Play Store estiver instalada no seu dispositivo, d\u00ea uma olhada no ChromeVox com aplicativos para Android. Teste o suporte experimental fazendo o download do Google Chrome Canary na Play Store."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Como sempre, voc\u00ea pode enviar seus coment\u00e1rios diretamente para n\u00f3s pressionando \"Pesquisa\"+ \"a\" e depois a tecla \"i\". Estamos ansiosos para saber sua opini\u00e3o."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "Refer\u00eancia de comandos do ChromeVox"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Atalhos do teclado do Chromebook"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "Usar recursos de acessibilidade da tela sens\u00edvel ao toque do Chromebook"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "ocupado"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "ocupado"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "padr\u00e3o"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "padr\u00e3o"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "Sons"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "O ChromeVox utiliza sons para fornecer informa\u00e7\u00f5es adicionais e essenciais. Use esses sons para navegar mais rapidamente, aprendendo o que cada som significa. Quando se sentir mais confort\u00e1vel, desative as descri\u00e7\u00f5es detalhadas na fala e use-as para receber informa\u00e7\u00f5es essenciais sobre a p\u00e1gina. Veja esta lista completa de sons e o que eles significam."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Um alerta em uma janela modal"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Um alerta n\u00e3o modal"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Um bot\u00e3o"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "Uma caixa de sele\u00e7\u00e3o desmarcada"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "Uma caixa de sele\u00e7\u00e3o marcada"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Um campo de texto edit\u00e1vel"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "Um pressionamento de teclas inv\u00e1lido"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Um link"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "Uma caixa de listagem ou uma caixa de combina\u00e7\u00e3o"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "Um carregamento de p\u00e1gina em andamento"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Um bot\u00e3o pop-up"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "Um controle deslizante"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Quebra do come\u00e7o ao fim ou do fim ao come\u00e7o dentro de uma p\u00e1gina, caixa de di\u00e1logo ou outro cont\u00eainer"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "Escurece a tela"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "Desfaz o escurecimento da tela"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Fala desativada"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Fala ativada"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "Ativa ou desativa a fala"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "Alternar entre Braille de 6 e 8 pontos"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "In\u00edcio do erro de digita\u00e7\u00e3o"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Fim do erro de digita\u00e7\u00e3o"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "In\u00edcio do erro de gram\u00e1tica"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Fim do erro de gram\u00e1tica"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "In\u00edcio da correspond\u00eancia de texto"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Fim da correspond\u00eancia de texto"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "In\u00edcio do negrito"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Fim do negrito"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "In\u00edcio do it\u00e1lico"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "Fim do it\u00e1lico"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "In\u00edcio do sublinhado"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Fim do sublinhado"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "In\u00edcio do tachado"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "Fim do tachado"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "In\u00edcio do link"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Fim do link"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "Na bandeja de status, ative o teclado na tela em Acessibilidade para usar comandos de braile estendidos."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "Sem t\u00edtulo"
+  },
+  "CHROMEVOX_WARNING_NO_CURRENT_RANGE": {
+    "message": "Nenhum foco. Pressione Ctrl+T para abrir uma nova guia."
+  },
+  "CHROMEVOX_HINT_CHECKABLE": {
+    "message": "Pressione Pesquisar+Espa\u00e7o para alternar."
+  },
+  "CHROMEVOX_HINT_CLICKABLE": {
+    "message": "Pressione Pesquisar+Espa\u00e7o para ativar."
+  },
+  "CHROMEVOX_HINT_AUTOCOMPLETE_LIST": {
+    "message": "Pressione a seta para cima ou para baixo para ver op\u00e7\u00f5es de preenchimento autom\u00e1tico."
+  },
+  "CHROMEVOX_HINT_AUTOCOMPLETE_INLINE": {
+    "message": "Digite para preencher automaticamente."
+  },
+  "CHROMEVOX_HINT_TABLE": {
+    "message": "Pressione Pesquisar+Ctrl+Alt com as setas para navegar por c\u00e9lula."
+  },
+  "CHROMEVOX_HINT_MENU": {
+    "message": "Pressione a seta para cima ou para baixo para navegar ou pressione Enter para ativar."
+  }
+}

@@ -1,0 +1,4 @@
+Aktualizaci nelze spustit, protože je baterie příliš vybitá.
+
+Připojte Chromebook ke zdroji napájení. Jakmile bude baterie dostatečně nabitá, aktualizace se automaticky
+spustí.

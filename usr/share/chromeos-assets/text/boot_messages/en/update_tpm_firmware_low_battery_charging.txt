@@ -1,0 +1,6 @@
+Battery too low for update.
+
+Charging...
+
+The update will automatically begin as soon as the battery has
+enough charge.

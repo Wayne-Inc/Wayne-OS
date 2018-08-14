@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "no"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox \u2013 gir Chrome en stemme"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Stopp tale"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "Sl\u00e5 av eller p\u00e5 trege taster"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "Prefikstast"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "G\u00e5 til neste fokuserbare element"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "G\u00e5 til forrige fokuserbare element"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "Naviger bakover"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "Naviger fremover"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Flytt til venstre"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "Flytt til h\u00f8yre"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "Hopp bakover under kontinuerlig lesing"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "Hopp fremover under kontinuerlig lesing"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Reduser detaljniv\u00e5et p\u00e5 navigeringen"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "\u00d8k detaljniv\u00e5et for navigeringen"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "Gj\u00f8r noe med det aktuelle elementet"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Klikk p\u00e5 det aktuelle elementet"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Kunngj\u00f8r nettadressen bak en link"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Kunngj\u00f8r tittelen p\u00e5 den n\u00e5v\u00e6rende siden"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Kunngj\u00f8r nettadressen til den n\u00e5v\u00e6rende siden"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "Begynn \u00e5 lese fra n\u00e5v\u00e6rende plassering"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "\u00c5pne ChromeVox-menyene"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "Skjul hjelp for ChromeVox"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Trykk opp eller ned for \u00e5 se gjennom kommandoene, og trykk p\u00e5 Enter for \u00e5 sl\u00e5 p\u00e5"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "\u00c5pne ChromeVox-veiledningen"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "S\u00f8k p\u00e5 siden med ChromeVox"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "\u00c5pne siden med alternativer"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "\u00c5pne l\u00e6remodus"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Reduser talehastigheten"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "\u00d8k talehastigheten"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Reduser stemmeleiet"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "\u00d8k stemmeleiet"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Reduser talevolumet"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "\u00d8k talevolumet"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "Vis skjemalisten"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "Vis overskriftsliste"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "Vis linklisten"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "Vis tabellisten"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "Vis liste over landemerker"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "Forrige tabellrad"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "Neste tabellrad"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "Forrige tabellkolonne"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "Neste tabellkolonne"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Kunngj\u00f8r overskriftene i den n\u00e5v\u00e6rende cellen"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Les opp gjeldende cellekoordinater"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Gjett radoverskriften i den n\u00e5v\u00e6rende cellen"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Gjett kolonneoverskriften i den n\u00e5v\u00e6rende cellen"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "G\u00e5 til \u00f8verst i tabellen"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "G\u00e5 til slutten av tabellen"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "G\u00e5 til begynnelsen av n\u00e5v\u00e6rende rad"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "G\u00e5 til slutten av den gjeldende raden"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "G\u00e5 til begynnelsen av den n\u00e5v\u00e6rende kolonnen"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "G\u00e5 til slutten av den gjeldende kolonnen"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "Neste overskrift p\u00e5 niv\u00e5 1"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "Forrige overskrift p\u00e5 niv\u00e5 1"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "Neste overskrift p\u00e5 niv\u00e5 2"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "Forrige overskrift p\u00e5 niv\u00e5 2"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "Neste overskrift p\u00e5 niv\u00e5 3"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "Forrige overskrift p\u00e5 niv\u00e5 3"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "Neste overskrift p\u00e5 niv\u00e5 4"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "Forrige overskrift p\u00e5 niv\u00e5 4"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "Neste overskrift p\u00e5 niv\u00e5 5"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "Forrige overskrift p\u00e5 niv\u00e5 5"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "Neste overskrift p\u00e5 niv\u00e5 6"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "Forrige overskrift p\u00e5 niv\u00e5 6"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "Neste kombinasjonsfelt"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "Forrige kombinasjonsfelt"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "Neste redigerbare tekstomr\u00e5de"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "Forrige redigerbare tekstomr\u00e5de"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "Neste skjemafelt"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "Forrige skjemafelt"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "Neste illustrasjon"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "Forrige illustrasjon"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "Neste overskrift"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "Forrige overskrift"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "Neste listepunkt"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "Forrige listeelement"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "Neste hopp"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "Forrige hopp"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "Neste link"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "Forrige link"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "Neste liste"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "Forrige liste"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "Neste matteuttrykk"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "Forrige matteuttrykk"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "Neste media"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "Forrige media"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "Neste blokksitat-element"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "Forrige blokksitat"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "Neste alternativknapp"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "Forrige alternativknapp"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "Neste glidebryter"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "Forrige glidebryter"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "Neste tabell"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "Neste bes\u00f8kte link"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "Forrige tabell"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Tidligere bes\u00f8kt link"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "Neste-knappen"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "Forrige-knappen"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "Neste avmerkingsrute"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "Forrige avmerkingsrute"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "Neste landemerke"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "Forrige landemerke"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "Feils\u00f8k referansem\u00e5lingen"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Kunngj\u00f8r en kort beskrivelse av den gjeldende posisjonen"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Kunngj\u00f8r en fullstendig beskrivelse av den gjeldende posisjonen"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "Alternativer for ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Virtuell leselist"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "Simulerer utdataene fra en leselist som kan oppdateres,\n        i ChromeVox-panelet \u00f8verst p\u00e5 skjermen."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "Linjer:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "Celler i hver linje:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "N\u00e5v\u00e6rende visningsstil er innfelt."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "N\u00e5v\u00e6rende visningsstil er side om side."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Endre visningsstilen til innfelt."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Endre visningsstilen til side om side."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "Bruk alternativene nedenfor for \u00e5 tilpasse ChromeVox. Endringene trer i kraft umiddelbart."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "Bruk musen til \u00e5 endre fokuset."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "Vis konteksten for elementet f\u00f8r annen informasjon (for eksempel navnet)."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "Forbedre bestemte nettsteder (som Google S\u00f8k)."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "Sl\u00e5 p\u00e5 omfattende beskrivelser."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Les siden automatisk n\u00e5r den er lastet inn."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Ved avspilling av lyd:"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "Spill av med normalt volum selv n\u00e5r ChromeVox snakker"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "Spill av med lavere volum n\u00e5r ChromeVox snakker"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "Sett avspillingen p\u00e5 pause n\u00e5r ChromeVox snakker"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "Plasser mark\u00f8ren mellom tegn n\u00e5r du redigerer tekst (som i Mac OS X)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Stemmer"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Velg n\u00e5v\u00e6rende stemme:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Punktskrift"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "Bytt til 8-punkts punktskrift"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "Bytt til 6-punkts punktskrift"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "Bytt til en tabell for 6-punkts punktskrift:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, klasse $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), grad $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "Velg en tabell for 8-punkts punktskrift:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "Sl\u00e5 p\u00e5 tekstbryting"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Hurtigtaster"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "Endre det gjeldende tastaturoppsettet ved \u00e5 velge et alternativ fra listen nedenfor."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Tilbakestill gjeldende tastaturoppsett"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "Tilpass hurtigtaster for kommandoer du bruker ofte, ved \u00e5 skrive dem inn i de tilh\u00f8rende feltene nedenfor."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "Modifikatortaster"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "ChromeVox-modifikatortast"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "L\u00e6remodus for ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Trykk p\u00e5 en hvilken som helst tast for \u00e5 finne ut hva den heter. Du kan lukke l\u00e6remodusen ved \u00e5 trykke p\u00e5 Ctrl+W."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "fanen er opprettet"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$-fane",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "vinduet med $1$-fanen",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "inkognitovinduet med $1$-fanen",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "$1$-menyen er \u00e5pen",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "menyen er lukket"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "$1$-ruten er avmerket",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "merket av"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, avmerkingsruten er ikke avmerket",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "ikke avmerket"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$-bryteren er p\u00e5",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$-bryteren er av",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, alternativknappen valgt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "valgt"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "Alternativknappen $1$ er ikke valgt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "fjernet fra utvalget"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, meny",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, menyelement",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, menyelement, med undermeny",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, vindu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, tekstfelt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, tekstfelt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, tekstfelt for passord",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, tekstfelt for passord",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, knapp",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, kombinasjonsfelt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, kombinasjonsfelt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, listefelt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, listefelt",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, link",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$-fane",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "$1$ $2$-glidebryter",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", valgt"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", ikke valgt"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$ av $2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " niv\u00e5 $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "Hastighet \u2013 $1$ prosent",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "Stemmeleie \u2013 $1$ prosent",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "Volum \u2013 $1$ prosent",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "Lukket dialogen."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "Avsluttet $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "\u00c5pnet dialogen"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "fjernet:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "Trege taster er sl\u00e5tt p\u00e5"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "Trege taster er sl\u00e5tt av"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Tastaturhjelp"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Hurtigmeny"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "$1$-liste.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "Bruk piltastene for opp og ned for \u00e5 bla gjennom, eller skriv inn tekst for \u00e5 s\u00f8ke."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "Lukket"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "Slutten av cellen."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "Fant ingen nettadresse"
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "Forlater tabellen."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "Forlater rutenettet."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "Inne i tabellen"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Fant ingen tabell."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Ikke inne i tabellen."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Tabellmodus er ikke aktiv."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "Det finnes ikke noen celler nedenfor."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Det finnes ikke noen celler ovenfor."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Det finnes ingen celler til h\u00f8yre."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "Det er ingen celler igjen."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "Tom celle."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Sammensl\u00e5tte celler."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Radoverskrift:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Tom radoverskrift"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Kolonneoverskrift:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Tom kolonneoverskrift"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "Ingen overskrifter"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Tomme overskrifter"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "Rad $1$ av $2$, kolonne $3$ av $4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "Tabell $1$, $2$ ganger $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "tbl $1$ $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "rad $1$ kolonne $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "r$1$k$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "Det er ikke flere avmerkingsruter."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "Det finnes ingen tidligere avmerkingsruter."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "Det finnes ingen flere redigerbare tekstomr\u00e5der."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "Det finnes ingen tidligere redigerbare tekstomr\u00e5der."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "Det finnes ikke flere overskrifter."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "Det finnes ingen tidligere overskrifter."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "Det fins ikke flere overskrifter p\u00e5 niv\u00e5 1."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "Det finnes ikke tidligere overskrifter p\u00e5 niv\u00e5 1."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "Det finnes ikke flere overskrifter p\u00e5 niv\u00e5 2."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "Det finnes ikke tidligere overskrifter p\u00e5 niv\u00e5 2."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "Det finnes ikke flere overskrifter p\u00e5 niv\u00e5 3."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "Det finnes ikke tidligere overskrifter p\u00e5 niv\u00e5 3."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "Det finnes ikke flere overskrifter p\u00e5 niv\u00e5 4."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "Det finnes ikke tidligere overskrifter p\u00e5 niv\u00e5 4."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "Det finnes ikke flere overskrifter p\u00e5 niv\u00e5 5."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "Det finnes ikke tidligere overskrifter p\u00e5 niv\u00e5 5."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "Det finnes ikke flere overskrifter p\u00e5 niv\u00e5 6."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "Det finnes ikke tidligere overskrifter p\u00e5 niv\u00e5 6."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "Det finnes ingen p\u00e5f\u00f8lgende elementer som ikke er linker."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "Det finnes ingen tidligere elementer som ikke er linker."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "Det er ikke flere ankere."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "Det finnes ingen tidligere ankere."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "Det finnes ikke flere linker."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "Det finnes ingen tidligere linker."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "Det finnes ikke flere tabeller."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "Det finnes ingen tidligere tabeller."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "Ingen neste bes\u00f8kte link."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "Ingen tidligere bes\u00f8kt link."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "Det finnes ingen neste matteuttrykk."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "Det finnes ingen tidligere matteuttrykk."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "Det finnes ingen neste mediamodul."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "Det finnes ingen tidligere mediemoduler."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "Det finnes ikke flere lister."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "Det finnes ingen tidligere lister."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "Det finnes ikke flere listeelementer."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "Det finnes ingen tidligere listeelementer."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "Det finnes ikke flere blokksitat-elementer."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "Det finnes ingen tidligere blokksitat-elementer."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "Det finnes ikke flere skjemafelt."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "Det fins ikke noe foreg\u00e5ende skjemafelt."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "Det finnes ingen flere punkter \u00e5 g\u00e5 til."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "Det finnes ingen tidligere punkter \u00e5 g\u00e5 til."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "Det finnes ikke flere ARIA-landemerker."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "Det finnes ingen tidligere ARIA-landemerker."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "Det finnes ikke flere kombinasjonsfelt."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "Det finnes ingen tidligere kombinasjonsbokser."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "Det finnes ikke flere knapper."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "Det fins ingen foreg\u00e5ende knapp."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "Det finnes ikke flere illustrasjoner."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "Det finnes ingen tidligere bilder."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "Det fins ikke flere glidebrytere."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "Det fins ingen tidligere glidebrytere."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "Det finnes ikke flere alternativknapper."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "Det finnes ingen tidligere alternativknapper."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "Det finnes ingen neste del."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "Det finnes ingen forrige del."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "Det finnes ingen neste kontroll."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "Det finnes ingen forrige kontroll."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "Ble klikket p\u00e5"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "ble dobbeltklikket p\u00e5"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "Det fins ingen overskrifter."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "Det fins ingen linker."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "Det finnes ingen skjemaer."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "Det finnes ingen tabeller."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "Det finnes ingen ARIA-landmerker."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "Det finnes ingenting \u00e5 g\u00e5 til."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$ av $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "har undermeny"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "har forgrunnsvindu"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+forgrunnsvindu"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "Minimum $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "min.: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "Maksimum $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "maks.: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "Varsel"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "alrt"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "Varseldialog"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "alrt dlg"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "Knapp"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "btn"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "Avmerkingsrute"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Kombinasjonsboks"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "Dialog"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "dlg"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "Rutenett"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "grd"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "Rutenettcelle"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "rad $1$ kolonne $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Link"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "lnk"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "Listeboks:"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "lstbx"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "Logg"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "logg"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Rulletekst"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "marquee"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Meny"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "mnu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Menyrad"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Menyelement"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Avmerkingsrute for menyelement"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Alternativknapp for menyelement"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "Knapp med forgrunnsvindu"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Fremdriftsrad"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Fremdriftsindikator"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "Alternativknapp"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Gruppe med alternativknapper"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Rullefelt"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Glidebryter"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "sldr"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "Verdisettingsknapp"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "Status"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "sts"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Fane"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "tab"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "Tabell"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "tabell"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "Faneliste"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "Fanepanel"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Tekstboks"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "Tidtaker"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "tmr"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "Verkt\u00f8yrad"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "Verkt\u00f8ytips"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "Tre"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "tree"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "Treelementet"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "Artikkel"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "article"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "App"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "app"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Banner"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "bnr"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Kolonneoverskrift"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "Komplement\u00e6r"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "komplement\u00e6r"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Innholdsinformasjon"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "Definisjon"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "def"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Katalog"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "dir"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Dokument"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "doc"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Skjema"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "skjema"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Gruppe"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "grp"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Overskrift"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "Bilde"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "img"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "Liste"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "Listeelement"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Hovedelement"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "main"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Matematikk"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "math"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Navigering"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Merknad"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "note"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Region"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "rgn"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Radoverskrift"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "S\u00f8k"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "s\u00f8k"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Skillelinje"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "M\u00e5ler"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "m\u00e5ler"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Innebygd autofullf\u00f8ring"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "Autofullf\u00f8ringsliste"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Autofullf\u00f8ring \u2013 innebygd og liste"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "Avmerket"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "Ikke avmerket"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "Delvis avmerket"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Deaktivert"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "Utvidet"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "Skjult"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "Ugyldig inndata"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "En grammatisk feil er oppdaget"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "grammatical mistake"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "En stavefeil er oppdaget"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "feilstavet"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "Flere linjer"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "Flervalg"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "flervalg"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Trykket p\u00e5"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Ikke trykket p\u00e5"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "Delvis trykket p\u00e5"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Skrivebeskyttet"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "rdonly"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "P\u00e5krevd"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Valgt"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Ikke valgt"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Bes\u00f8kt link."
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "Bes\u00f8kt."
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "Overskrift 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "Overskrift 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "Overskrift 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "Overskrift 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "Overskrift 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "Overskrift 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "Listeelement"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "Nummerert liste"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Kombinasjonsboks"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "Tekstomr\u00e5de"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "tabell"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tbl"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "Liste"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Del"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Navigering"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "Artikkel"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "article"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "Aside-tag"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "aside"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Overskriftsgruppe"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Topptekst"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "hdr"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "Bunntekst"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "ftr"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Klokkeslett"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "Mark-tag"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "mark"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Video"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "video"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "Lyd"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "lyd"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "Fargevelger"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "fargevelger"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "Kontroll av dato/tidspunkt"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "date time"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Tidskontroll"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "time"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "Kontroll av dato/tidspunkt"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "date time"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "Datokontroll"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "date"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Rediger tekst \u2013 e-postinnhold"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@endre 8 p"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "Filvalg"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "file"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "M\u00e5nedskontroll"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "m\u00e5ned"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "Rediger bare tallene i teksten"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "Tekst for redigering av passord"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "Tilbakestill"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "reset"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Rediger tekst \u2013 s\u00f8keord"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Rediger teksten"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Rediger tekst \u2013 nettadresseoppf\u00f8ring"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "endre URL 8 p"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Kontroll av ukenummer"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "uke"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Intern link"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Tom"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "Mellomrom"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "med $1$ elementer",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "med {COUNT,plural, =1{# element}other{# elementer}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$ %",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "med undermeny"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "har forgrunnsvindu"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "har forgrunnsvindu"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "Samling av $1$ med $2$ elementer",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "Mellomrom"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Tilbake-tasten"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Tab"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Venstre"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Opp"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "H\u00f8yre"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Ned"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Ukjent link"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "Velg om ChromeVox skal v\u00e6re p\u00e5 eller av."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "N\u00e5 er ChromeVox sl\u00e5tt av."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "Sl\u00e5 klassisk ChromeVox p\u00e5 eller av."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "Forrige ulike element."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "Neste ulike element."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "Forrige lignende element."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "Neste lignende element."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "Det er ingen flere lignende elementer."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "Det er ingen flere ulike elementer."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "Kj\u00f8r gruppeutforsking"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Utforsking av grupper"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Objekt"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Gruppe"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "Tabell"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Rad"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "Kolonne"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Rad"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "Kolonne"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "rad"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "kol."
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "MathML-tre"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "MathML-utforming"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "MathML-token"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "MathML-blad"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "Visuell"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "Tilpasset"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "Linje"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "Setning"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "Ord"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Tegn"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "Finn p\u00e5 siden."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Angi et s\u00f8keord."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "Lukket \u00abfinn p\u00e5 siden\u00bb."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "Det er ingen flere resultater."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "Modifikatortaster"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "ChromeVox-navigering"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Informasjon"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "Kommandoer for Hjelp"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Kontroll av tale"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "Oversikt"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "Tabeller"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "G\u00e5 til-kommandoer"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Punktskrift"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Utvikler"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Klassisk tastaturoppsett"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Next-tastaturoppsett"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "Flatt tastaturoppsett"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "Eksperimentelt tastaturoppsett"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "Sl\u00e5 p\u00e5 TTS-loggf\u00f8ring"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "Start markeringen"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "Avslutt markeringen"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "Utvalget er "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "Start eller avslutt utvalget."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "kopi\u00e9r $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "klipp ut $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "lim inn $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "valgt"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "fjernet fra utvalget"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "lagt til i utvalget"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "fjernet fra utvalget"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "deretter"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "etterfulgt av"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "ChromeVox-modifikator"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "$1$ er allerede tilordnet en kommando.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Matematikk"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "math"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Utenfor matematisk uttrykk"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "AM/PM"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "timer"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "minutter"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "sekunder"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "millisekunder"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "AM"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "PM"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "uke"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "Januar"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "Februar"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "Mars"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "April"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "Mai"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "Juni"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "Juli"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "August"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "September"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "Oktober"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "November"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "Desember"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "Ingen tegnsetting"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "Noe tegnsetting"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "All tegnsetting"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Trykk p\u00e5 Enter for \u00e5 godta, Esc for \u00e5 avbryte, ned for neste eller opp for forrige."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "klikkbart"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "Forrige tegn"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "Neste tegn"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "Forrige ord"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "Neste ord"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "Forrige setning"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "Neste setning"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "Forrige linje"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "Neste linje"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "Forrige objekt"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "Neste objekt"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "Forrige gruppe"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "Neste gruppe"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "Landemerke"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Du har ikke trykt p\u00e5 noen modifikatorer. Trykk p\u00e5 og hold inne \u00e9n eller flere modifikatorer. Slipp dem n\u00e5r du er ferdig for \u00e5 h\u00f8re tastene du har trykket p\u00e5. Trykk p\u00e5 tabulatortasten for \u00e5 avslutte."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "$1$ er n\u00e5 den nye ChromeVox-modifikatoren.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ er tilbakestilt.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "Byttet til $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "G\u00e5r til begynnelsen av siden"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "G\u00e5 til nederst p\u00e5 siden"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "Legges sammen \u00f8verst"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "Legges sammen nederst"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "Sl\u00e5 av eller p\u00e5 tegnsettingsekko"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Sl\u00e5 av eller p\u00e5 innskrivingsekko"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "Setter alle mediemoduler som spilles av, p\u00e5 pause"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "\u00c5pne lange beskrivelser i en ny fane"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "Ingen lang beskrivelse"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Bilde med lang beskrivelse"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$ til $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$\u2013$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "valgte $1$ elementer",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "sld $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "utvalget ble t\u00f8mt"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "tegnekko"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "ordekko"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "tegn- og ordekko"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "uten inntastingsekko"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "\u00e5pne strukturert innhold, for eksempel tabeller"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "avslutt strukturert innhold, for eksempel tabeller"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "angitt $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "strukturlinje"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "linje"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Veksle linjetypen mellom strukturell og utforming"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "tabell"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "standardnavigasjon"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "math"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "Bytt mellom strukturell og semantisk tolkning av matematiske uttrykk"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Semantikk p\u00e5"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Semantikk av"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\", \"\u00e6\": \"\u00e6rlig\", \"\u00f8\": \"\u00f8sten\", \"\u00e5\": \"\u00c5se\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Trykk p\u00e5 Alt+Shift+A for \u00e5 gjennomg\u00e5 varslene"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "Det finnes ikke flere artikler."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "Ingen tidligere artikler."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "Muntlig tilbakemelding med ChromeVox er klar"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox er klar"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "Lydsignaler er p\u00e5"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Lydsignaler er av"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "Sl\u00e5 tilbakemelding via lydsignaler av eller p\u00e5."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "Snakk inn n\u00e5v\u00e6rende dato og klokkeslett."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "S:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "Slettet"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Utf\u00f8r standardhandling"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{utropstegn}other{# utropstegn}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{mellomrom}other{# mellomrom}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{venstreaksent}other{# venstreaksenter}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{TILDE}other{# tilder}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{kr\u00f8llalfa}other{# kr\u00f8llalfategn}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{firkanttegn}other{# firkanttegn}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{dollar}other{# dollartegn}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{prosent}other{# prosenttegn}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{circumflekstegn}other{# circumflekstegn}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{og-tegn}other{# og-tegn}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{asterisk}other{# asterisker}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{venstreparentes}other{# venstreparenteser}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{h\u00f8yreparentes}other{# h\u00f8yreparenteser}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{tankestrek}other{# tankestreker}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{understrek}other{# understreker}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{likhetstegn}other{# likhetstegn}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{pluss}other{# plusstegn}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{venstre hakeparentes}other{# venstre hakeparenteser}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{h\u00f8yre hakeparentes}other{# h\u00f8yre hakeparenteser}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{venstre klammeparentes}other{# venstre klammeparenteser}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{h\u00f8yre klammeparentes}other{# h\u00f8yre klammeparenteser}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{loddrett strek}other{# loddrette streker}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{semikolon}other{# semikolontegn}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{kolon}other{# kolontegn}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{komma}other{# kommaer}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{punktum}=3{ellipse}other{# punktum}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{mindre enn}other{# mindre enn-tegn}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{st\u00f8rre enn}other{# st\u00f8rre enn-tegn}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{skr\u00e5strek}other{# skr\u00e5streker}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{sp\u00f8rsm\u00e5lstegn}other{# sp\u00f8rsm\u00e5lstegn}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{anf\u00f8rselstegn}other{# anf\u00f8rselstegn}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{apostrof}other{# apostrofer}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{tabulator}other{# tabulatorer}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{omvendt skr\u00e5strek}other{# omvendte skr\u00e5streker}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{punkttegn}other{# punkttegn}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "Klikk p\u00e5 elementet under rutertasten $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "Panorer bakover"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "Panorer frem"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "Punktskrift \u2013 forrige linje"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "Punktskrift \u2013 neste linje"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "Flytt leselisten til toppen av siden"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "Flytt leselisten til nederst p\u00e5 siden"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "punkt $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "punkter $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ akkord",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "Se grafikk som punktskrift"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "har tilgangstast, $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "tilgangsn\u00f8kkel: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"Arabisk\",\n        \"bg\": \"Bulgarsk\",\n        \"ca\": \"Katalansk\",\n        \"cs\": \"Tsjekkisk\",\n        \"da\": \"Dansk\",\n        \"de\": \"Tysk\",\n        \"de_CH\": \"Tysk (Sveits)\",\n        \"de_DE\": \"Tysk (Tyskland)\",\n        \"el\": \"Gresk\",\n        \"en\": \"Engelsk\",\n        \"en_CA\": \"Engelsk (Canada)\",\n        \"en_GB\": \"Engelsk (Storbritannia)\",\n        \"en_US\": \"Engelsk (USA)\",\n        \"es\": \"Spansk\",\n        \"et\": \"Estisk\",\n        \"fr\": \"Fransk\",\n        \"fr_CA\": \"Fransk (Canada)\",\n        \"fr_FR\": \"Fransk (Frankrike)\",\n        \"fi\": \"Finsk\",\n        \"he\": \"Hebraisk\",\n        \"hi\": \"Hindi\",\n        \"hr\": \"Kroatisk\",\n        \"hu\": \"Ungarsk\",\n        \"is\": \"Islandsk\",\n        \"it\": \"Italiensk\",\n        \"ko\": \"Koreansk\",\n        \"lt\": \"Litauisk\",\n        \"lv\": \"Latvisk\",\n        \"nb\": \"Norsk bokm\u00e5l\",\n        \"nl\": \"Nederlandsk\",\n        \"pl\": \"Polsk\",\n        \"pt\": \"Portugisisk\",\n        \"ro\": \"Rumensk\",\n        \"ru\": \"Russisk\",\n        \"sk\": \"Slovakisk\",\n        \"sl\": \"Slovensk\",\n        \"sr\": \"Serbisk\",\n        \"sv\": \"Svensk\",\n        \"tr\": \"Tyrkisk\",\n        \"vi\": \"Vietnamesisk\",\n        \"zh\": \"Kinesisk\",\n        \"zh_TW\": \"Kinesisk (tradisjonell han)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Slutt p\u00e5 teksten"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "End"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "ny linje"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "retur"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "Ignorerer neste tastetrykk"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Pass\u00e9r-tast"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "Vis den kontekstuelle menyen"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Sl\u00e5 punktskriftteksting av eller p\u00e5"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Punktskrift-teksting er sl\u00e5tt p\u00e5."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Punktskrift-teksting er sl\u00e5tt av."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "Skiller ikke mellom store og sm\u00e5 bokstaver."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "Skiller mellom store og sm\u00e5 bokstaver."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "tilbake"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "fremover"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "last inn p\u00e5 nytt"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "sl\u00e5 av/p\u00e5 fullskjerm"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "vindusoversikt"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "Lysstyrke ned"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "Lysstyrke opp"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "kutt lyden"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "volum ned"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "volum opp"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "ChromeVox-panelet"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "ChromeVox-menyer"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "ChromeVox-veiledning"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "ChromeVox-menyer"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "Alternativer for ChromeVox"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "Sl\u00e5 av ChromeVox"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(aktiv)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Hopp"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Tale"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "Faner"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "Handlinger"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "Ingen elementer."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Rapport\u00e9r et problem"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox er oppdatert"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Trykk p\u00e5 ChromeVox O, N for \u00e5 finne ut hva som er nytt"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "Vis oppdateringsmerknader"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "Lukk ChromeVox-veiledningen"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "Forrige"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "Neste"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "Velkommen til ChromeVox!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "Bruker du taletilbakemelding med ChromeVox for f\u00f8rste gang? Denne kjappe veiledningen forklarer det grunnleggende om hvordan du tar i bruk ChromeVox."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "Trykk p\u00e5 Enter for \u00e5 g\u00e5 videre eller p\u00e5 tilbaketasten for \u00e5 g\u00e5 tilbake."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "P\u00e5, av og stopp"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "For \u00e5 stoppe talemeldingene fra ChromeVox midlertidig, trykk p\u00e5 Control-tasten."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "For \u00e5 sl\u00e5 ChromeVox p\u00e5 eller av, trykk p\u00e5 Control+Alt+Z."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "Modifikatorn\u00f8kkelen for ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "S\u00f8ketasten er modifikatortasten i ChromeVox. De fleste tastesnarveiene i ChromeVox starter med s\u00f8ketasten. Du bruker ogs\u00e5 piltastene for \u00e5 navigere."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "S\u00f8ketasten p\u00e5 Chromebook er plassert rett over den venstre Shift-tasten."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "I denne veiledningen kan du trykke p\u00e5 en hvilken som helst tast for \u00e5 h\u00f8re navnet p\u00e5 den."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Grunnleggende navigering"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "For \u00e5 g\u00e5 frem eller tilbake mellom elementer p\u00e5 en side, trykk p\u00e5 S\u00f8k+h\u00f8yrepilen eller S\u00f8k+venstrepilen. For \u00e5 g\u00e5 til neste linje, trykk p\u00e5 S\u00f8k+nedoverpilen. For \u00e5 se forrige linje, trykk p\u00e5 S\u00f8k+oppoverpilen. Hvis du kommer til et element du vil klikke p\u00e5, kan du trykke p\u00e5 S\u00f8k+mellomrom."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "Bruk S\u00f8k+h\u00f8yrepilen for \u00e5 finne Neste-knappen, og trykk p\u00e5 S\u00f8k+mellomrom for \u00e5 klikke p\u00e5 den."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "G\u00e5 til-kommandoer"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Du kan bruke \u00abg\u00e5 til\u00bb-kommandoer for \u00e5 g\u00e5 til spesifikke elementtyper. For \u00e5 g\u00e5 fra overskrift til overskrift, trykk p\u00e5 S\u00f8k+H. For \u00e5 g\u00e5 tilbake, trykk p\u00e5 S\u00f8k+Shift+H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "Dette er den andre overskriften. G\u00e5 videre ved \u00e5 trykke p\u00e5 S\u00f8k+H eller S\u00f8k+Shift+H"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "Dette er den siste overskriften. Trykk p\u00e5 S\u00f8k+H for \u00e5 g\u00e5 til den f\u00f8rste overskriften eller p\u00e5 S\u00f8k+Shift+H for \u00e5 g\u00e5 til den andre overskriften p\u00e5 denne siden."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Kommandomenyer"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "For \u00e5\u00a0se alle kommandoene og hurtigtastene i ChromeVox, trykk p\u00e5 S\u00f8k+punktum. Bruk deretter piltastene til \u00e5 navigere i menyene og Enter til \u00e5 aktivere kommandoer. Trykk p\u00e5 S\u00f8k+O og deretter T for \u00e5 komme tilbake hit."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Nyttige hurtigtaster i Chrome"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "De neste hurtigtastene er ikke ChromeVox-spesifikke kommandoer, men er likevel nyttige for \u00e5 f\u00e5 mest mulig ut av Chrome.\nFor \u00e5 navigere fremover gjennom elementer som knapper og linker, trykk p\u00e5 Tab-tasten. For \u00e5 navigere bakover, trykk p\u00e5 Shift+Tab.\nFor \u00e5 skrive i adressefeltet i Chrome-nettleseren (ogs\u00e5 kalt multifunksjonsfeltet), trykk p\u00e5 Control+L.\nFor \u00e5 \u00e5pne og automatisk g\u00e5 til nye faner, trykk p\u00e5 Control+T. Mark\u00f8ren er da i multifunksjonsfeltet.\nFor \u00e5 lukke en fane, trykk p\u00e5 Control+W.\nFor \u00e5 navigere mellom \u00e5pne faner, trykk p\u00e5 Control+Tab.\nFor \u00e5 \u00e5pne Chrome-menyen, trykk p\u00e5 Alt+F."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "For \u00e5 g\u00e5 til andre deler av skjermen \u2013 f.eks. verkt\u00f8yradene eller systemfeltet \u2013 trykk p\u00e5 Control+Fremover. Fremover-tasten p\u00e5 Chromebook er plassert rett over 2-tasten."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "Les mer"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Gratulerer!\u00a0Du har g\u00e5tt gjennom den grunnleggende informasjonen for \u00e5 bruke ChromeVox. Husk at du kan \u00e5pne kommandomenyen i ChromeVox n\u00e5r som helst ved \u00e5 trykke p\u00e5 s\u00f8ketasten+punktum. For \u00e5 finne ut mer om ChromeVox og Chrome OS, les artiklene nedenfor.\nHvis du er ferdig med veiledningen, kan du bruke ChromeVox til \u00e5 navigere til Lukk-knappen og klikke p\u00e5 den."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "ChromeVox er oppdatert til versjon 63!"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "Vi har gjort noen spennende endringer i denne nye utgaven \u2013 dette er nytt:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "Classic er fjernet. Tasten for \u00e5 bytte tilbake til ChromeVox Classic er fjernet."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "St\u00f8tte for rik tekst. N\u00e5 st\u00f8tter ChromeVox felt med rik tekst, inkludert hoppekommandoer, mark\u00f8rstyring for punktskrift, merking med mer."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Android-apper for Chrome. Hvis du har Play Butikk p\u00e5 enheten din, kan du ta en sniktitt p\u00e5 ChromeVox med Android-apper. Pr\u00f8v den eksperimentelle st\u00f8tten ved \u00e5 laste ned Google Chrome Canary fra Play-butikken."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Du kan sende oss tilbakemelding direkte ved \u00e5 trykke p\u00e5 s\u00f8ketasten+A og deretter I. Vi ser frem til \u00e5 h\u00f8re fra deg."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "Kommandoer i ChromeVox"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Hurtigtaster p\u00e5 Chromebook"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "Bruk tilgjengelighetsfunksjonene for ber\u00f8ringsskjermen p\u00e5 Chromebook"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "opptatt"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "opptatt"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "standard"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "standard"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "Lyder"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox bruker lyder for \u00e5 gi deg viktig informasjon og tilleggsinformasjon. Hvis du l\u00e6rer hva hver lyd betyr, kan du bruke dem til \u00e5 navigere raskere. N\u00e5r du er mer komfortabel, kan du sl\u00e5 av de omfattende beskrivelsene i tale og bruke dem for \u00e5 f\u00e5 viktig informasjon om siden. Her er en komplett liste over lyder og hva de betyr."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Et modalt varsel"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Et ikke-modalt varsel"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "En knapp"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "En avmerkingsboks uten hake"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "En avmerkingsboks med hake"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Et tekstfelt som kan endres"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "Et ugyldig tastetrykk"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "En link"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "En listeboks eller et kombinasjonsfelt"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "En sideinnlasting p\u00e5g\u00e5r"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "En forgrunnsknapp"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "En glidebryter"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "G\u00e5 fra begynnelsen til slutten eller fra slutten til begynnelsen av en side, dialogboks eller annen beholder"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "Gj\u00f8r skjermen m\u00f8rk"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "Gj\u00f8r skjermen lysere"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Sl\u00e5 av tale"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Sl\u00e5 p\u00e5 tale"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "Sl\u00e5 tale p\u00e5 eller av"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "Bytt mellom 6- og 8-punkts punktskrift"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "Begynnelse p\u00e5 stavefeil"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Slutt p\u00e5 stavefeil"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "Begynnelse p\u00e5 grammatikkfeil"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Slutt p\u00e5 grammatikkfeil"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "Begynnelse p\u00e5 samsvarende tekst"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Slutt p\u00e5 samsvarende tekst"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "Begynnelse p\u00e5 fet skrift"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Slutt p\u00e5 fet skrift"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "Begynnelse p\u00e5 kursiv"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "Slutt p\u00e5 kursiv"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "Begynnelse p\u00e5 understrek"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Slutt p\u00e5 understrek"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "Begynnelse p\u00e5 gjennomstreking"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "Slutt p\u00e5 gjennomstreking"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "Begynnelsen av linken"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Slutten av linken"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "Sl\u00e5 p\u00e5 skjermtastaturet under statusfeltet for \u00e5 bruke utvidede punktskriftskommandoer."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "Ingen tittel"
+  }
+}

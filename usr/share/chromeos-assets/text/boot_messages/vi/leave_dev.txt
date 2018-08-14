@@ -1,0 +1,4 @@
+﻿
+Hệ thống của bạn khởi động lần cuối trong Chế độ nhà phát triển.
+Đang trở về Chế độ chuẩn (đã xác minh)...
+Khi hoàn tất, hệ thống sẽ khởi động lại.

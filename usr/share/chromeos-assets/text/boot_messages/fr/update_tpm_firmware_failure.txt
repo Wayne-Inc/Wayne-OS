@@ -1,0 +1,6 @@
+La mise à jour n'a pas été installée, car une erreur s'est produite.
+
+Il est possible que vous deviez restaurer votre appareil. Pour en savoir plus sur la restauration de
+Chrome OS, consultez la page https://www.google.com/chromeos/recovery.
+
+Appuyez sur la barre d'espace pour lancer le redémarrage.

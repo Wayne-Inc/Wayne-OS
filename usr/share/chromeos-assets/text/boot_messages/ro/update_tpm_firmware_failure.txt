@@ -1,0 +1,6 @@
+A apărut o eroare și actualizarea nu a reușit.
+
+Poate fi necesar să recuperezi dispozitivul. Pentru mai multe informații
+despre recuperarea sistemului de operare Chrome, accesează: https://www.google.com/chromeos/recovery
+
+Apasă bara de spațiu pentru a reporni.

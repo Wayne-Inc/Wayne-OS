@@ -1,0 +1,9 @@
+﻿
+Systém prechádza do režimu vývojára.
+Miestne údaje sa vymažú.
+
+Úpravy vykonané v systéme nie sú podporované spoločnosťou Google, môžu spôsobiť
+problémy s hardvérom a môžu zrušiť platnosť záruky.
+
+Ak chcete túto akciu zrušiť, vypnite počítač a prepnite prepínač režimu vývojára späť
+na overený režim.

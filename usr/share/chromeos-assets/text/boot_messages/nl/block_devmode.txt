@@ -1,0 +1,5 @@
+﻿
+De eigenaar van het apparaat heeft de ontwikkelaarsmodus uitgeschakeld voor dit apparaat. Vraag de eigenaar van het apparaat de beperking te verwijderen als je de ontwikkelaarsmodus wilt gebruiken.
+
+
+Druk op de schakelaar voor de ontwikkelaarsmodus en start het apparaat opnieuw op om terug te keren naar de geverifieerde modus.

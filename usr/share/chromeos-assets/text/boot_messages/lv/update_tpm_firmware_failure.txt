@@ -1,0 +1,6 @@
+Radās problēma, un neizdevās veikt atjaunināšanu.
+
+Iespējams, jums ir jāatkopj ierīce. Plašāku informāciju par
+ChromeOS atkopšanu skatiet šeit: https://www.google.com/chromeos/recovery.
+
+Lai atkārtoti palaistu ierīci, nospiediet atstarpes taustiņu.

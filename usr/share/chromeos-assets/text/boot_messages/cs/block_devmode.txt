@@ -1,0 +1,5 @@
+﻿
+Vlastník tohoto zařízení režim pro vývojáře zakázal. Chcete-li režim vývojáře použít, požádejte vlastníka zařízení, aby toto omezení odstranil.
+
+
+Chcete-li se vrátit do ověřeného režimu, přepněte přepínač režimu pro vývojáře a restartujte zařízení.

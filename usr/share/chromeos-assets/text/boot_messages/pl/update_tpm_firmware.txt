@@ -1,0 +1,3 @@
+Instaluję aktualizację…
+
+Nie wyłączaj urządzenia. Po zakończeniu instalacji urządzenie automatycznie uruchomi się ponownie.

@@ -1,0 +1,4 @@
+﻿
+Sistem je bil nazadnje zagnan v razvijalskem načinu.
+Vračanje v običajni (preverjeni) način ...
+Ko bo postopek končan, se bo sistem znova zagnal.

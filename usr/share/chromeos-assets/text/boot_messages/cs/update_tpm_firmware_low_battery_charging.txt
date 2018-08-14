@@ -1,0 +1,6 @@
+Aktualizaci nelze spustit, protože je baterie příliš vybitá.
+
+Nabíjení...
+
+Jakmile bude baterie dostatečně nabitá, aktualizace se automaticky
+spustí.

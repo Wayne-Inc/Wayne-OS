@@ -1,0 +1,4 @@
+Az akkumulátor töltöttségi szintje túl alacsony a frissítéshez.
+
+Csatlakoztassa a Chromebookot áramforráshoz. A frissítés automatikusan elkezdődik,
+amint az akkumulátor eléri a megfelelő töltöttségi szintet.

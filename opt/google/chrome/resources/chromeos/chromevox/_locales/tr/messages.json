@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "tr"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox - Chrome'un Sesi"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Konu\u015fmay\u0131 durdur"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "Yap\u0131\u015fkan modu etkinle\u015ftir/devre d\u0131\u015f\u0131 b\u0131rak"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "\u00d6n ek tu\u015fu"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "Odaklanabilir sonraki \u00f6\u011feye atla"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "Odaklanabilir \u00f6nceki \u00f6\u011feye atla"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "Geri git"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "\u0130leri git"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Sola git"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "Sa\u011fa git"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "S\u00fcrekli okuma s\u0131ras\u0131nda geriye do\u011fru atla"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "S\u00fcrekli okuma s\u0131ras\u0131nda ileriye do\u011fru atla"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Gezinme hassasiyetini azalt"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "Gezinme hassasiyetini art\u0131r"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "Mevcut \u00f6\u011fe \u00fczerinde i\u015flem yap"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Mevcut \u00f6\u011feyi t\u0131kla"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Bir ba\u011flant\u0131n\u0131n arkas\u0131ndaki URL'yi s\u00f6yle"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Mevcut sayfan\u0131n ba\u015fl\u0131\u011f\u0131n\u0131 s\u00f6yle"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Mevcut sayfan\u0131n URL'sini s\u00f6yle"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "Mevcut konumdan okumaya ba\u015fla"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "ChromeVox men\u00fclerini a\u00e7"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "ChromeVox yard\u0131m\u0131n\u0131 gizle"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Komutlar\u0131 g\u00f6rmek i\u00e7in yukar\u0131 veya a\u015fa\u011f\u0131 tu\u015flar\u0131na, etkinle\u015ftirmek i\u00e7in enter tu\u015funa bas\u0131n"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "ChromeVox e\u011fiticiyi a\u00e7"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "ChromeVox sayfada bul"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "Se\u00e7enekler sayfas\u0131n\u0131 a\u00e7"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "\u00d6\u011frenme modunu a\u00e7ar"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Konu\u015fma h\u0131z\u0131n\u0131 d\u00fc\u015f\u00fcr"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "Konu\u015fma h\u0131z\u0131n\u0131 art\u0131r"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Sesi kal\u0131nla\u015ft\u0131r"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "Sesi incelt"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Konu\u015fma ses d\u00fczeyini d\u00fc\u015f\u00fcr"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "Konu\u015fma ses d\u00fczeyini art\u0131r"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "Form listesini g\u00f6ster"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "Ba\u015fl\u0131klar listesini g\u00f6ster"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "Ba\u011flant\u0131 listesini g\u00f6ster"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "Tablo listesini g\u00f6ster"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "\u00d6nemli nokta listesini g\u00f6ster"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "\u00d6nceki tablo sat\u0131r\u0131"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "Sonraki tablo sat\u0131r\u0131"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "\u00d6nceki tablo s\u00fctunu"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "Sonraki tablo s\u00fctunu"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Mevcut h\u00fccrenin \u00fcst bilgilerini s\u00f6yle"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Ge\u00e7erli h\u00fccre koordinatlar\u0131n\u0131 s\u00f6yle"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Mevcut h\u00fccrenin sat\u0131r \u00fcst bilgisini tahmin et"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Mevcut h\u00fccrenin s\u00fctun \u00fcst bilgisini tahmin et"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "Tablonun ba\u015f\u0131na git"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "Tablonun sonuna git"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "Mevcut sat\u0131r\u0131n ba\u015f\u0131na git"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "Mevcut sat\u0131r\u0131n sonuna git"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "Mevcut s\u00fctunun ba\u015flang\u0131c\u0131na git"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "Mevcut s\u00fctunun sonuna git"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "Sonraki 1. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "\u00d6nceki 1. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "Sonraki 2. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "\u00d6nceki 2. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "Sonraki 3. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "\u00d6nceki 3. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "Sonraki 2. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "\u00d6nceki 4. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "Sonraki 5. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "\u00d6nceki 5. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "Sonraki 6. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "\u00d6nceki 6. d\u00fczey ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "Sonraki birle\u015fik kutu"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "\u00d6nceki birle\u015fik kutu"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "D\u00fczenlenebilir sonraki metin alan\u0131"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "D\u00fczenlenebilir \u00f6nceki metin alan\u0131"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "Sonraki form alan\u0131"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "\u00d6nceki form alan\u0131"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "Sonraki grafik"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "\u00d6nceki grafik"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "Sonraki ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "\u00d6nceki ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "Sonraki liste \u00f6\u011fesi"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "\u00d6nceki liste \u00f6\u011fesi"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "Sonraki atlama"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "\u00d6nceki atlama"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "Sonraki ba\u011flant\u0131"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "\u00d6nceki ba\u011flant\u0131"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "Sonraki liste"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "\u00d6nceki liste"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "Sonraki matematik tu\u015fu"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "\u00d6nceki matematik tu\u015fu"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "Sonraki medya tu\u015fu"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "\u00d6nceki medya tu\u015fu"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "Sonraki blok al\u0131nt\u0131"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "\u00d6nceki blok al\u0131nt\u0131"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "Sonraki radyo d\u00fc\u011fmesi"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "\u00d6nceki radyo d\u00fc\u011fmesi"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "Sonraki kayd\u0131rma \u00e7ubu\u011fu"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "\u00d6nceki kayd\u0131rma \u00e7ubu\u011fu"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "Sonraki tablo"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "Ziyaret edilmi\u015f olan sonraki ba\u011flant\u0131"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "\u00d6nceki tablo"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Ziyaret edilmi\u015f olan \u00f6nceki ba\u011flant\u0131"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "Sonraki d\u00fc\u011fmesi"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "\u00d6nceki d\u00fc\u011fmesi"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "Sonraki onay kutusu"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "\u00d6nceki onay kutusu"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "Sonraki \u00f6nemli nokta"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "\u00d6nceki \u00f6nemli nokta"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "Hata ay\u0131klama de\u011ferlendirmesi"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Mevcut konumun k\u0131sa a\u00e7\u0131klamas\u0131n\u0131 s\u00f6yler"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Mevcut konumun tam a\u00e7\u0131klamas\u0131n\u0131 s\u00f6yler"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "ChromeVox Se\u00e7enekleri"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Sanal Braille Ekran\u0131"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "Ekran\u0131n \u00fcst k\u0131sm\u0131ndaki ChromeVox panelinde yenilenebilir bir braille ekran\u0131n \u00e7\u0131kt\u0131s\u0131n\u0131 sim\u00fcle eder."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "Sat\u0131r say\u0131s\u0131:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "Her sat\u0131rdaki h\u00fccre say\u0131s\u0131:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Mevcut g\u00f6r\u00fcnt\u00fcleme stili \u00fcst \u00fcste (interleave)."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Mevcut g\u00f6r\u00fcnt\u00fcleme stili yan yanad\u0131r."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "G\u00f6r\u00fcnt\u00fcleme stilini \u00fcst \u00fcste (interleave) olarak de\u011fi\u015ftirin."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "G\u00f6r\u00fcnt\u00fcleme stilini yan yana olarak de\u011fi\u015ftir."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "ChromeVox'u \u00f6zelle\u015ftirmek i\u00e7in a\u015fa\u011f\u0131daki se\u00e7enekleri kullan\u0131n. De\u011fi\u015fiklikler an\u0131nda ge\u00e7erli olur."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "Oda\u011f\u0131 de\u011fi\u015ftirmek i\u00e7in fareyi kullan."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "Bir \u00f6\u011fenin ba\u011flam\u0131n\u0131 di\u011fer bilgilerden (\u00f6rne\u011fin, \u00f6\u011fenin ad\u0131) \u00f6nce g\u00f6r\u00fcnt\u00fcleyin."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "(Google Arama gibi) belirli siteleri geli\u015ftir."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "Ayr\u0131nt\u0131l\u0131 a\u00e7\u0131klamalar\u0131 etkinle\u015ftir."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Y\u00fcklenmesi bittikten sonra sayfay\u0131 otomatik olarak oku."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "Ses \u00e7alarken\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "ChromeVox konu\u015furken bile normal ses seviyesinde \u00e7al"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "ChromeVox konu\u015furken daha d\u00fc\u015f\u00fck ses seviyesinde \u00e7al"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "ChromeVox konu\u015furken \u00e7almay\u0131 duraklat"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "Metin d\u00fczenlerken karakterler aras\u0131na imle\u00e7 koy (Mac OS X'teki gibi)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Sesler"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Ge\u00e7erli sesi se\u00e7in:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Braille"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "8 noktal\u0131 braille'e ge\u00e7"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "6 noktal\u0131 braille'e ge\u00e7"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "6 noktal\u0131 bir braille tablosu se\u00e7in:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, $2$. Derece",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), $3$. Derece",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "8 noktal\u0131 bir braille tablosu se\u00e7in:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "Kelime kayd\u0131rmay\u0131 etkinle\u015ftir"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Klavye k\u0131sayollar\u0131"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "A\u015fa\u011f\u0131daki listeden bir se\u00e7ene\u011fi belirleyerek mevcut tu\u015f e\u015fle\u015fmesini de\u011fi\u015ftirin."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Ge\u00e7erli tu\u015f e\u015fle\u015fmesini s\u0131f\u0131rla"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "S\u0131k kullan\u0131lan komutlara ait k\u0131sayollar\u0131, kar\u015f\u0131l\u0131k gelen alanlara yazarak klavye k\u0131sayollar\u0131n\u0131 \u00f6zelle\u015ftirin."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "De\u011fi\u015ftirici tu\u015flar"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "ChromeVox de\u011fi\u015ftirici tu\u015f"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "ChromeVox \u00d6\u011frenme Modu"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Ad\u0131n\u0131 \u00f6\u011frenmek i\u00e7in herhangi bir tu\u015fa bas\u0131n. Ctrl+W, \u00f6\u011frenme modunu kapat\u0131r."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "sekme olu\u015fturuldu"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$, sekme",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "pencere $1$ sekmesi",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "gizli mod penceresi $1$ sekmesi",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "$1$ men\u00fcs\u00fc a\u00e7\u0131ld\u0131",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "men\u00fc kapand\u0131"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "$1$ onay kutusu i\u015faretli",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "i\u015faretli"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$ adl\u0131 onay kutusu i\u015faretli de\u011fil",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "se\u00e7ili de\u011fil"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$, a\u00e7",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$, kapat",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, radyo d\u00fc\u011fmesi se\u00e7ili",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "se\u00e7ildi"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, radyo d\u00fc\u011fmesi se\u00e7ili de\u011fil",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "se\u00e7ili de\u011fil"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, men\u00fc",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, men\u00fc \u00f6\u011fesi",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, men\u00fc \u00f6\u011fesi, alt men\u00fcye sahip",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, pencere",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, metin kutusu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, metin kutusu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, \u015fifre metin kutusu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, \u015fifre metin kutusu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, d\u00fc\u011fme",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, birle\u015fik kutu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, birle\u015fik kutu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, liste kutusu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, liste kutusu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, ba\u011flant\u0131",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, sekme",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "$1$ $2$ kayd\u0131rma \u00e7ubu\u011fu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", se\u00e7ili"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", se\u00e7ili de\u011fil"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " toplam: $2$, \u00f6\u011fe: $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$ / $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " seviye: $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "H\u0131z y\u00fczde $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "Ses kal\u0131nl\u0131\u011f\u0131 y\u00fczde $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "Ses d\u00fczeyi y\u00fczde $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "\u0130leti\u015fim kutusundan \u00e7\u0131k\u0131ld\u0131."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "$1$ kapsay\u0131c\u0131s\u0131ndan \u00e7\u0131k\u0131ld\u0131.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "\u0130leti\u015fim kutusuna girildi"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "kald\u0131r\u0131ld\u0131:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "Yap\u0131\u015fkan mod etkinle\u015ftirildi"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "Yap\u0131\u015fkan mod devre d\u0131\u015f\u0131 b\u0131rak\u0131ld\u0131"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Klavye Yard\u0131m\u0131"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Ba\u011flam Men\u00fcs\u00fc"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "$1$ listesi.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "G\u00f6z atmak i\u00e7in yukar\u0131 veya a\u015fa\u011f\u0131 tu\u015flar\u0131n\u0131 kullan\u0131n ya da arama yapmak i\u00e7in aranan metni yaz\u0131n."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "\u00c7\u0131k\u0131ld\u0131"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "H\u00fccrenin sonu."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "URL bulunamad\u0131."
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "Tablodan \u00e7\u0131k\u0131l\u0131yor."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "Tablodan \u00e7\u0131k\u0131l\u0131yor."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "Tablo i\u00e7inde"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Tablo bulunamad\u0131."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Tablonun i\u00e7inde de\u011fil."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Tablo modunda de\u011fil."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "A\u015fa\u011f\u0131da h\u00fccre yok."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Yukar\u0131da h\u00fccre yok."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Sa\u011fda h\u00fccre yok."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "Solda h\u00fccre yok."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "Bo\u015f h\u00fccre."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Farkl\u0131 sat\u0131ra veya s\u00fctuna ge\u00e7ildi."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Sat\u0131r \u00fcst bilgisi:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Bo\u015f sat\u0131r \u00fcst bilgisi"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "S\u00fctun \u00fcst bilgisi:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Bo\u015f s\u00fctun \u00fcst bilgisi"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "\u00dcst bilgi yok."
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Bo\u015f \u00fcst bilgiler"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "Sat\u0131r: $1$ / $2$, S\u00fctun: $3$ / $4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "$1$ tablosu, $2$ x $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "tbl $1$ $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "$1$. sat\u0131r, $2$. s\u00fctun",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "sa$1$s\u00fc$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "Sonraki onay kutusu yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "\u00d6nceki onay kutusu yok."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "D\u00fczenlenebilir sonraki metin alan\u0131 yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "D\u00fczenlenebilir \u00f6nceki metin alan\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "Sonraki ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "\u00d6nceki ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "Sonraki 1. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "\u00d6nceki 1. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "Sonraki 2. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "\u00d6nceki 2. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "Sonraki 3. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "\u00d6nceki 3. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "Sonraki 4. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "\u00d6nceki 4. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "Sonraki 5. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "\u00d6nceki 5. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "Sonraki 6. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "\u00d6nceki 6. d\u00fczey ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "Ba\u011flant\u0131 olmayan sonraki \u00f6\u011fe yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "Ba\u011flant\u0131 olmayan \u00f6nceki \u00f6\u011fe yok."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "Sonraki ba\u011flant\u0131 yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "\u00d6nceki ba\u011flant\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "Sonraki ba\u011flant\u0131 yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "\u00d6nceki ba\u011flant\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "Sonraki tablo yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "\u00d6nceki tablo yok."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "Ziyaret edilmi\u015f ba\u015fka sonraki ba\u011flant\u0131 yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "Ziyaret edilmi\u015f ba\u015fka \u00f6nceki ba\u011flant\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "Sonraki matematik ifadesi yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "\u00d6nceki matematik ifadesi yok."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "Sonraki medya widget'\u0131 yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "\u00d6nceki media widget'\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "Sonraki liste yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "\u00d6nceki liste yok."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "Sonraki liste \u00f6\u011fesi yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "\u00d6nceki liste \u00f6\u011fesi yok."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "Sonraki blok al\u0131nt\u0131 yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "\u00d6nceki blok al\u0131nt\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "Sonraki form alan\u0131 yok"
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "\u00d6nceki form alan\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "Sonraki atlama noktas\u0131 yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "\u00d6nceki atlama noktas\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "Sonraki ARIA \u00f6nemli noktas\u0131 yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "\u00d6nceki ARIA \u00f6nemli noktas\u0131 yok."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "Sonraki birle\u015fik giri\u015f kutusu yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "\u00d6nceki birle\u015fik giri\u015f kutusu yok"
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "Sonraki d\u00fc\u011fme yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "\u00d6nceki d\u00fc\u011fme yok."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "Sonraki grafik yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "\u00d6nceki grafik yok."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "Sonraki kayd\u0131rma \u00e7ubu\u011fu yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "\u00d6nceki kayd\u0131rma \u00e7ubu\u011fu yok."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "Sonraki radyo d\u00fc\u011fmesi yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "\u00d6nceki radyo d\u00fc\u011fmesi yok."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "Sonraki b\u00f6l\u00fcm yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "\u00d6nceki b\u00f6l\u00fcm yok."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "Sonraki denetim yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "\u00d6nceki denetim yok."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "T\u0131kland\u0131"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "\u00e7ift t\u0131kland\u0131"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "Ba\u015fl\u0131k yok."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "Ba\u011flant\u0131 yok."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "Form yok."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "Tablo yok."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "ARIA \u00f6nemli noktas\u0131 yok."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "Atlama yok."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "toplam: $2$, \u00f6\u011fe: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$ / $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "alt men\u00fcs\u00fc var"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "pop-up'\u0131 var"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+popup"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "En az $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "en az:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "En \u00e7ok: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "en \u00e7ok:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "Uyar\u0131"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "alrt"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "Uyar\u0131 ileti\u015fim kutusu"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "alrt dlg"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "D\u00fc\u011fme"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "btn"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "Onay kutusu"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "chk"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Birle\u015fik giri\u015f kutusu"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "\u0130leti\u015fim Kutusu"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "dlg"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "Tablo"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "grd"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "H\u00fccre"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "cll"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "$1$. sat\u0131r, $2$. s\u00fctun",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Ba\u011flant\u0131"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "lnk"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "Liste kutusu"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "lstbx"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "G\u00fcnl\u00fck"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "log"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Marquee"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "marquee"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Men\u00fc"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "mnu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Men\u00fc \u00e7ubu\u011fu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "mnubr"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Men\u00fc \u00f6\u011fesi"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "mnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Men\u00fc \u00f6\u011fesi onay kutusu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "chkmnuitm"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Men\u00fc \u00f6\u011fesi radyo d\u00fc\u011fmesi"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "rdmnuitm"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "Pop-up d\u00fc\u011fme"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "popbtn"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "\u0130lerleme \u00e7ubu\u011fu"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "\u0130lerleme g\u00f6stergesi"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "pgbar"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "Radyo d\u00fc\u011fmesi"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "rbtn"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Radyo d\u00fc\u011fmesi grubu"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "rdgrp"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Kayd\u0131rma \u00e7ubu\u011fu"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "scbr"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Kayd\u0131rma \u00e7ubu\u011fu"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "sldr"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "D\u00f6nme d\u00fc\u011fmesi"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "spnbtn"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "Durum"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "sts"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Sekme"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "tab"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "Tablo"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "tablo"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "Sekme listesi"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "tablst"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "Sekme paneli"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "tabpnl"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Metin kutusu"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "Zamanlay\u0131c\u0131"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "tmr"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "Ara\u00e7 \u00e7ubu\u011fu"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "tlbar"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "\u0130pucu"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "tltip"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "Tree"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "tree"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "A\u011fa\u00e7 \u00f6\u011fesi"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "tritm"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "Makale"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "article"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "Uygulama"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "app"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Banner"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "bnr"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "S\u00fctun \u00fcst bilgisi"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "colhdr"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "Tamamlay\u0131c\u0131"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "tamamlay\u0131c\u0131"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "\u0130\u00e7erik bilgileri"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "cntntinfo"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "Tan\u0131m"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "def"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Dizin"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "dir"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Dok\u00fcman"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "doc"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Form"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "form"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Grup"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "grp"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Ba\u015fl\u0131k"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "hdng"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "Resim"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "img"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "Liste"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "Liste \u00f6\u011fesi"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Ana"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "main"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Matematik"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "math"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Gezinme"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Notlar"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "note"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "B\u00f6lge"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "rgn"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Sat\u0131r \u00fcst bilgisi"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "rwhdr"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "Ara"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "ara"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Ay\u0131r\u0131c\u0131"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "seprtr"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "\u00d6l\u00e7\u00fcm arac\u0131"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "\u00f6l\u00e7\u00fcm arac\u0131"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Sat\u0131r i\u00e7i otomatik tamamlama"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "autoinl"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "Otomatik tamamlama listesi"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "autolst"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Sat\u0131r i\u00e7i ve liste otomatik tamamlama"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "autoinl+lst"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "\u0130\u015faretli"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "\u0130\u015faretli de\u011fil"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "K\u0131smen i\u015faretli"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Devre d\u0131\u015f\u0131"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "Geni\u015fletilmi\u015f"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "Daralt\u0131lm\u0131\u015f"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "Ge\u00e7ersiz giri\u015f"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "Dil bilgisi hatas\u0131 alg\u0131land\u0131"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "grammatical mistake"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "Yaz\u0131m hatas\u0131 alg\u0131land\u0131"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "misspelled"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "\u00c7ok sat\u0131rl\u0131"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "multln"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "\u00c7oklu se\u00e7im"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "\u00e7okls\u00e7m"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Bas\u0131ld\u0131"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Bas\u0131lmad\u0131"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "K\u0131smen bas\u0131ld\u0131"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Salt okunur"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "rdonly"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "Gerekli"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "rq"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Se\u00e7ili"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Se\u00e7ili de\u011fil"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Ziyaret edilmi\u015f ba\u011flant\u0131"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "vlnk"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "Ziyaret edildi"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "vtd"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "Ba\u015fl\u0131k 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "h1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "Ba\u015fl\u0131k 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "h2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "Ba\u015fl\u0131k 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "h3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "Ba\u015fl\u0131k 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "h4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "Ba\u015fl\u0131k 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "h5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "Ba\u015fl\u0131k 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "h6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "Liste \u00f6\u011fesi"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "lstitm"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "S\u0131ral\u0131 Liste"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Birle\u015fik giri\u015f kutusu"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "cbo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "Metin alan\u0131"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "mled"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "tablo"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tbl"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "Liste"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "lst"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "B\u00f6l\u00fcm"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sctn"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Gezinme"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "nav"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "Makale"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "article"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "Kenar"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "aside"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Ba\u015fl\u0131k grubu"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "hdnggrp"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "\u00dcst bilgi"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "hdr"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "Alt bilgi"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "ftr"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Zaman"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "\u0130\u015faretle"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "mark"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Video"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "video"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "Ses"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "ses"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "Renk se\u00e7ici"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "renk se\u00e7ici"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "Tarih/saat denetimi"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "date time"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Zaman kontrol\u00fc"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "time"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "Tarih/saat denetimi"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "date time"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "Tarih denetimi"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "date"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "Metni d\u00fczenle, e-posta giri\u015fi"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@8nkt dz"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "Dosya se\u00e7imi"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "file"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "Ay denetimi"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "ay"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "Yaln\u0131zca say\u0131sal d\u00fczenleme metni"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "#ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "\u015eifre d\u00fczenleme metni"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "pwded"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "S\u0131f\u0131rla"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "reset"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "Metni d\u00fczenle, arama giri\u015fi"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "srched"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "Metni d\u00fczenle"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "ed"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "Metni d\u00fczenle, URL giri\u015fi"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "8nkt urldz"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Y\u0131l\u0131n haftas\u0131 denetimi"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "week"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Dahili ba\u011flant\u0131"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "intlnk"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Bo\u015f"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "Bo\u015fluk"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "$1$ \u00f6\u011feli",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "{COUNT,plural, =1{# \u00f6\u011feyle}other{# \u00f6\u011feyle}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "%$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "%$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "alt men\u00fc i\u00e7erir"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "pop-up'\u0131 var"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "pop-up'\u0131 var"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "$2$ \u00f6\u011feye sahip $1$ koleksiyonu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "Bo\u015fluk"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Geri al tu\u015fu"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Sekme"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "Sola"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "Yukar\u0131"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "Sa\u011fa"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "A\u015fa\u011f\u0131"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Bilinmeyen ba\u011flant\u0131"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "ChromeVox'u etkinle\u015ftirin veya devre d\u0131\u015f\u0131 b\u0131rak\u0131n."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "ChromeVox \u015fu anda etkin."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "ChromeVox klasi\u011fi a\u00e7/kapat."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "\u00d6nceki farkl\u0131 \u00f6\u011fe."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "Sonraki farkl\u0131 \u00f6\u011fe."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "\u00d6nceki benzer \u00f6\u011fe."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "Sonraki benzer \u00f6\u011fe."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "Ba\u015fka benzer \u00f6\u011fe yok."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "Ba\u015fka farkl\u0131 \u00f6\u011fe yok."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "Grup ke\u015ffine ge\u00e7"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Gruplar ke\u015ffediliyor"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Nesne"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Grup"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "Tablo"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "Sat\u0131r"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "S\u00fctun"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "Sat\u0131r"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "S\u00fctun"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "sat\u0131r"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "s\u00fctun"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "Matematik ML A\u011fac\u0131"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "Matematik ML D\u00fczeni"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "Matematik ML Jetonu"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "Matematik ML Yapra\u011f\u0131"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "G\u00f6rsel"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "\u00d6zel"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "Sat\u0131r"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "C\u00fcmle"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "Kelime"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Karakter"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "Sayfada bul."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Arama sorgusunu girin."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "Sayfada bulma \u00f6zelli\u011finden \u00e7\u0131k\u0131ld\u0131."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "Ba\u015fka sonu\u00e7 yok."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "De\u011fi\u015ftirici Tu\u015flar"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "ChromeVox Gezinme"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Bilgiler"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "Yard\u0131m Komutlar\u0131"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Konu\u015fmay\u0131 Denetleme"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "Genel bak\u0131\u015f"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "Tablolar"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "Atlama Komutlar\u0131"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Braille"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Geli\u015ftirici"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Klasik tu\u015f e\u015fle\u015fmesi"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Sonraki tu\u015f e\u015fleme"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "D\u00fcz tu\u015f e\u015fleme"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "Deneysel tu\u015f e\u015fleme"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "TTS g\u00fcnl\u00fck kayd\u0131n\u0131 etkinle\u015ftir"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "Se\u00e7me ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "Se\u00e7me sonu"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "Yap\u0131lan se\u00e7im: "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "Se\u00e7imi ba\u015flat veya bitir."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "kopyala: $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "kes: $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "yap\u0131\u015ft\u0131r: $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "se\u00e7ildi"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "se\u00e7ili de\u011fil"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "se\u00e7ime eklendi"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "se\u00e7imden kald\u0131r\u0131ld\u0131"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "sonra"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "ard\u0131ndan"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "ChromeVox de\u011fi\u015ftirici"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "$1$ tu\u015fu zaten bir komuta atanm\u0131\u015f.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Matematik"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "math"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Matematik sembol kullan\u0131m\u0131nda de\u011fil"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "\u00d6\u00d6 \u00d6S"
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "saat"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "dakika"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "saniye"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "milisaniye"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "\u00d6\u00d6"
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "\u00d6S"
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "week"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "Ocak"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "\u015eubat"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "Mart"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "Nisan"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "May\u0131s"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "Haziran"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "Temmuz"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "A\u011fustos"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "Eyl\u00fcl"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "Ekim"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "Kas\u0131m"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "Aral\u0131k"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "Noktalama i\u015fareti yok"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "Baz\u0131 noktalama i\u015faretleri"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "T\u00fcm noktalama i\u015faretleri"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Kabul etmek i\u00e7in enter veya iptal etmek i\u00e7in escape tu\u015funa, ileri gitmek i\u00e7in a\u015fa\u011f\u0131 ve geri gitmek i\u00e7in yukar\u0131 tu\u015flar\u0131na bas\u0131n."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "t\u0131klanabilir"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "clk"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "\u00d6nceki Karakter"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "Sonraki Karakter"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "\u00d6nceki Kelime"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "Sonraki Kelime"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "\u00d6nceki C\u00fcmle"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "Sonraki C\u00fcmle"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "\u00d6nceki Sat\u0131r"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "Sonraki Sat\u0131r"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "\u00d6nceki Nesne"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "Sonraki Nesne"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "\u00d6nceki Grup"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "Sonraki Grup"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "\u00d6nemli Nokta"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Herhangi bir de\u011fi\u015ftiriciye bas\u0131lmad\u0131; l\u00fctfen en az bir de\u011fi\u015ftiriciyi bas\u0131l\u0131 tutun; tamamland\u0131\u011f\u0131nda parmaklar\u0131n\u0131z\u0131 kald\u0131r\u0131n; tu\u015flar\u0131n ayarland\u0131\u011f\u0131n\u0131 duyacaks\u0131n\u0131z. \u00c7\u0131kmak i\u00e7in Sekme'ye bas\u0131n."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "$1$ art\u0131k yeni ChromeVox de\u011fi\u015ftirici.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ s\u0131f\u0131rland\u0131.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "$1$ tu\u015f e\u015fle\u015fmesine ge\u00e7ildi.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "Sayfan\u0131n en \u00fcst k\u0131sm\u0131na atlar"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "Sayfan\u0131n en alt k\u0131sm\u0131na atlar"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "\u00dcste d\u00f6ner"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "Alta d\u00f6ner"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "Noktalama yans\u0131tmay\u0131 d\u00f6ng\u00fcsel yap"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Yazma yans\u0131tmay\u0131 d\u00f6ng\u00fcsel yap"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "\u015eu anda oynat\u0131lan t\u00fcm medya widget'lar\u0131n\u0131 duraklat\u0131r"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "Uzun a\u00e7\u0131klamay\u0131 yeni sekmede a\u00e7"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "Uzun a\u00e7\u0131klama yok"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Uzun a\u00e7\u0131klamal\u0131 resim"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "$1$-$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$-$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "$1$ \u00f6\u011fe se\u00e7ildi",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "sld $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "se\u00e7im temizlendi"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "karakter yans\u0131tma"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "kelime yans\u0131tma"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "karakter ve kelime yans\u0131tma"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "yazma yans\u0131tmas\u0131 yok"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "tablo gibi yap\u0131sal i\u00e7eri\u011fe gir"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "tablo gibi yap\u0131sal i\u00e7erikten \u00e7\u0131k"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "$1$ girildi",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "yap\u0131sal sat\u0131r"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "sat\u0131r"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Yap\u0131sal veya d\u00fczen sat\u0131r t\u00fcr\u00fc aras\u0131nda ge\u00e7i\u015f yap"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "tablo"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "varsay\u0131lan gezinme"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "math"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "Matematik ifadelerde yap\u0131sal ve anlamsal yorum aras\u0131nda ge\u00e7i\u015f yap"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Anlamsal yorum a\u00e7\u0131k"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Anlamsal yorum kapal\u0131"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"adana\", \"b\": \"bolu\", \"c\": \"ceyhan\", \"\u00e7\": \"\u00e7anakkale\", \"d\": \"denizli\", \"e\": \"edirne\", \"f\": \"fatsa\", \"g\": \"giresun\", \"\u011f\": \"yumu\u015fak ge\", \"h\": \"hatay\", \"\u0131\": \"\u0131sparta\", \"i\": \"izmir\", \"j\": \"jandarma\", \"k\": \"kayseri\", \"l\": \"l\u00fcleburgaz\", \"m\": \"mu\u015f\", \"n\": \"ni\u011fde\", \"o\": \"ordu\",\"p\": \"polatl\u0131\", \"r\": \"rize\", \"s\": \"sinop\", \"\u015f\": \"\u015f\u0131rnak\", \"t\": \"tokat\", \"u\": \"u\u015fak\", \"\u00fc\": \"\u00fcnye\", \"v\": \"van\", \"y\": \"yozgat\", \"z\": \"zonguldak\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Uyar\u0131lar\u0131 incelemek i\u00e7in Alt+\u00dcstKrktr+A tu\u015funa bas\u0131n"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "Sonraki makale yok."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "\u00d6nceki makale yok."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "ChromeVox sesli geri bildirim haz\u0131r"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox haz\u0131r"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "Ses sinyalleri a\u00e7\u0131k"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Ses sinyalleri kapal\u0131"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "Sesli geri bildirimi (ses sinyalleri) a\u00e7 veya kapat."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "Ge\u00e7erli saati ve tarihi s\u00f6yle."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "A:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "Silindi"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Varsay\u0131lan i\u015flemi ger\u00e7ekle\u015ftir"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{\u00fcnlem}other{# \u00fcnlem}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{bo\u015fluk}other{# bo\u015fluk}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{aksan i\u015fareti}other{# aksan i\u015fareti}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{YAKLA\u015eIK \u0130\u015eARET\u0130}other{# yakla\u015f\u0131k i\u015fareti}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{kuyruklu a i\u015fareti}other{# kuyruklu a i\u015fareti}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{pound i\u015fareti}other{# pound i\u015fareti}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{dolar i\u015fareti}other{# dolar i\u015fareti}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{y\u00fczde i\u015fareti}other{# y\u00fczde i\u015fareti}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{d\u00fczeltme i\u015fareti}other{# d\u00fczeltme i\u015fareti}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{ve i\u015fareti}other{# ve i\u015fareti}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{y\u0131ld\u0131z i\u015fareti}other{# y\u0131ld\u0131z i\u015fareti}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{a\u00e7 parantez}other{# a\u00e7 parantez}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{kapa parantez}other{# kapa parantez}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{k\u0131sa \u00e7izgi}other{# k\u0131sa \u00e7izgi}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{alt \u00e7izgi}other{# alt \u00e7izgi}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{e\u015fit i\u015fareti}other{# e\u015fit i\u015fareti}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{art\u0131 i\u015fareti}other{# art\u0131 i\u015fareti}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{sol k\u00f6\u015feli ayra\u00e7}other{# sol k\u00f6\u015feli ayra\u00e7}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{sa\u011f k\u00f6\u015feli ayra\u00e7}other{# sa\u011f k\u00f6\u015feli ayra\u00e7}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{sol k\u00fcme parantezi}other{# sol k\u00fcme parantezi}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{sa\u011f k\u00fcme parantezi}other{# sa\u011f k\u00fcme parantezi}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{dikey \u00e7izgi i\u015fareti}other{# dikey \u00e7izgi i\u015fareti}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{noktal\u0131 virg\u00fcl}other{# noktal\u0131 virg\u00fcl}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{iki nokta}other{# iki nokta}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{virg\u00fcl}other{# virg\u00fcl}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{nokta}=3{\u00fc\u00e7 nokta}other{# nokta}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{k\u00fc\u00e7\u00fckt\u00fcr i\u015fareti}other{# k\u00fc\u00e7\u00fckt\u00fcr i\u015fareti}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{b\u00fcy\u00fckt\u00fcr i\u015fareti}other{# b\u00fcy\u00fckt\u00fcr i\u015fareti}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{e\u011fik \u00e7izgi}other{# e\u011fik \u00e7izgi}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{soru i\u015fareti}other{# soru i\u015fareti}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{t\u0131rnak i\u015fareti}other{# t\u0131rnak i\u015fareti}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{kesme i\u015fareti}other{# kesme i\u015fareti}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{sekme}other{# sekme}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{ters e\u011fik \u00e7izgi}other{# ters e\u011fik \u00e7izgi}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{madde i\u015fareti}other{# madde i\u015fareti}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "$1$ y\u00f6nlendirme tu\u015funun alt\u0131ndaki \u00f6\u011feyi t\u0131klay\u0131n",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "Geriye do\u011fru kayd\u0131r"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "\u0130leri kayd\u0131r"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "Braille \u00f6nceki Sat\u0131r"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "Braille sonraki Sat\u0131r"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "Braille ekran\u0131n\u0131 sayfan\u0131n \u00fcst\u00fcne ta\u015f\u0131"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "Braille ekran\u0131n\u0131 sayfan\u0131n alt\u0131na ta\u015f\u0131"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "nokta $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "noktalar $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "$1$ grubu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "Grafi\u011fi Braille Olarak G\u00f6ster"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "eri\u015fim tu\u015fu var, $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "eri\u015fim tu\u015fu:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"Arap\u00e7a\",\n        \"bg\": \"Bulgarca\",\n        \"ca\": \"Katalanca\",\n        \"cs\": \"\u00c7ek\u00e7e\",\n        \"da\": \"Danca\",\n        \"de\": \"Almanca\",\n        \"de_CH\": \"Almanca (\u0130svi\u00e7re)\",\n        \"de_DE\": \"Almanca (Almanya)\",\n        \"el\": \"Yunanca\",\n        \"en\": \"\u0130ngilizce\",\n        \"en_CA\": \"\u0130ngilizce (Kanada)\",\n        \"en_GB\": \"\u0130ngilizce (\u0130ngiltere)\",\n        \"en_US\": \"\u0130ngilizce (ABD)\",\n        \"es\": \"\u0130spanyolca\",\n        \"et\": \"Estonca\",\n        \"fr\": \"Frans\u0131zca\",\n        \"fr_CA\": \"Frans\u0131zca (Kanada)\",\n        \"fr_FR\": \"Frans\u0131zca (Fransa)\",\n        \"fi\": \"Fince\",\n        \"he\": \"\u0130branice\",\n        \"hi\": \"Hint Dili\",\n        \"hr\": \"H\u0131rvat\u00e7a\",\n        \"hu\": \"Macarca\",\n        \"is\": \"\u0130zlandaca\",\n        \"it\": \"\u0130talyanca\",\n        \"ko\": \"Korece\",\n        \"lt\": \"Litvanca\",\n        \"lv\": \"Letonca\",\n        \"nb\": \"Norve\u00e7\u00e7e Bokm\u00e5l\",\n        \"nl\": \"Felemenk\u00e7e\",\n        \"pl\": \"Leh\u00e7e\",\n        \"pt\": \"Portekizce\",\n        \"ro\": \"Rumence\",\n        \"ru\": \"Rus\u00e7a\",\n        \"sk\": \"Slovak\u00e7a\",\n        \"sl\": \"Slovence\",\n        \"sr\": \"S\u0131rp\u00e7a\",\n        \"sv\": \"\u0130sve\u00e7\u00e7e\",\n        \"tr\": \"T\u00fcrk\u00e7e\",\n        \"vi\": \"Vietnamca\",\n        \"zh\": \"\u00c7ince\",\n        \"zh_TW\": \"\u00c7ince (Geleneksel Han)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Metnin sonu"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "End"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "yeni sat\u0131r"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "sat\u0131r ba\u015f\u0131"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "Bas\u0131lacak bir sonraki tu\u015f yoksay\u0131lacak"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Ge\u00e7i\u015f tu\u015fu"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "\u0130\u00e7erik men\u00fcs\u00fcn\u00fc g\u00f6ster"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Braille altyaz\u0131lar\u0131n\u0131 a\u00e7/kapat"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Braille altyaz\u0131lar\u0131 etkinle\u015ftirildi."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Braille altyaz\u0131lar\u0131 devre d\u0131\u015f\u0131 b\u0131rak\u0131ld\u0131."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "B\u00fcy\u00fck/k\u00fc\u00e7\u00fck harf kullan\u0131m\u0131 yoksay\u0131l\u0131yor."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "B\u00fcy\u00fck/k\u00fc\u00e7\u00fck harfe duyarl\u0131."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "geri"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "ileri"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "yenile"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "tam ekrana ge\u00e7"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "pencere genel bak\u0131\u015f\u0131"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "Parlakl\u0131\u011f\u0131 azalt"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "Parlakl\u0131\u011f\u0131 art\u0131r"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "sesi kapat"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "sesi k\u0131s"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "sesi a\u00e7"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "ChromeVox Paneli"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "ChromeVox Men\u00fcleri"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "ChromeVox E\u011fiticisi"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "ChromeVox Men\u00fcleri"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "ChromeVox Se\u00e7enekleri"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "ChromeVox'u devre d\u0131\u015f\u0131 b\u0131rak"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(etkin)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Git"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Konu\u015fma"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "Sekmeler"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "\u0130\u015flemler"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "\u00d6\u011fe yok."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Sorun bildir"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox G\u00fcncellendi"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Yenilikler hakk\u0131nda bilgi edinmek i\u00e7in ChromeVox o, n tu\u015flar\u0131na bas\u0131n"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "G\u00fcncelleme notlar\u0131n\u0131 g\u00f6ster"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "ChromeVox E\u011fiticisi'ni kapat"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "\u00d6nceki"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "Sonraki"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "ChromeVox'a Ho\u015f Geldiniz!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "ChromeVox s\u00f6zl\u00fc geri bildirimini ilk kez mi kullan\u0131yorsunuz? Bu h\u0131zl\u0131 e\u011fiticide, ChromeVox'\u0131 kullanmaya ba\u015flamak i\u00e7in gereken temel bilgiler a\u00e7\u0131klanmaktad\u0131r."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "\u0130lerlemek i\u00e7in enter tu\u015funa, geri gitmek i\u00e7in geri tu\u015funa bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "A\u00e7ma, Kapatma ve Durdurma"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "ChromeVox'un konu\u015fmas\u0131n\u0131 ge\u00e7ici olarak durdurmak i\u00e7in Control tu\u015funa bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "ChromeVox'u a\u00e7mak veya kapatmak i\u00e7in Control+Alt+Z tu\u015flar\u0131n\u0131 kullan\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "ChromeVox de\u011fi\u015ftirici tu\u015fu"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "ChromeVox'ta, de\u011fi\u015ftirici tu\u015f Arama tu\u015fudur. \u00c7o\u011fu ChromeVox k\u0131sayolu Arama tu\u015fu ile ba\u015flar. Gezinme i\u00e7in ok tu\u015flar\u0131n\u0131 da kullan\u0131rs\u0131n\u0131z."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "Chromebook'ta, Arama tu\u015fu sol \u00dcst Karakter tu\u015funun hemen \u00fczerindedir."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "Bu e\u011fitici s\u0131ras\u0131nda herhangi bir tu\u015fun ad\u0131n\u0131 duymak i\u00e7in ilgili tu\u015fa bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Temel Gezinme"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "Bir sayfadaki \u00f6\u011feler aras\u0131nda ilerlemek i\u00e7in Arama + Sa\u011f Ok veya geriye atlamak i\u00e7in Arama + Sol Ok tu\u015flar\u0131na bas\u0131n. Sonraki sat\u0131ra gitmek i\u00e7in Arama + A\u015fa\u011f\u0131 Ok tu\u015flar\u0131na bas\u0131n. \u00d6nceki sat\u0131ra gitmek i\u00e7in Arama + Yukar\u0131 Ok tu\u015flar\u0131n\u0131 kullan\u0131n. T\u0131klamak istedi\u011finiz bir \u00f6\u011feye ula\u015f\u0131rsan\u0131z Arama + Bo\u015fluk tu\u015flar\u0131na bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "\u015eimdi Arama + Sa\u011f Ok tu\u015flar\u0131n\u0131 kullanarak Sonraki d\u00fc\u011fmesini bulmay\u0131 deneyin, daha sonra d\u00fc\u011fmeyi t\u0131klamak i\u00e7in Arama + Bo\u015fluk tu\u015flar\u0131na bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "Atlama Komutlar\u0131"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Belirli \u00f6\u011fe t\u00fcrlerine atlamak i\u00e7in atlama komutlar\u0131n\u0131 kullan\u0131n. Ba\u015fl\u0131klar aras\u0131nda ileriye atlamak i\u00e7in Arama + H tu\u015flar\u0131na, geriye atlamak i\u00e7in de Arama + \u00dcst Karakter + H tu\u015flar\u0131na bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "Bu ikinci ba\u015fl\u0131k. Devam etmek i\u00e7in Ara+H veya Ara+\u00dcst Karakter+H tu\u015flar\u0131na bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "Bu son ba\u015fl\u0131k. Bu sayfadaki ilk ba\u015fl\u0131\u011fa d\u00f6nmek i\u00e7in Ara+H tu\u015flar\u0131na ya da ikinci ba\u015fl\u0131\u011fa gitmek i\u00e7in Ara+\u00dcst Karakter+H tu\u015flar\u0131na bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Komut Men\u00fcleri"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "T\u00fcm ChromeVox komutlar\u0131n\u0131 ve k\u0131sayollar\u0131n\u0131 ke\u015ffetmek i\u00e7in Ara + Nokta tu\u015flar\u0131na bas\u0131n ve men\u00fcde gezinmek i\u00e7in Ok tu\u015flar\u0131n\u0131 kullan\u0131n. Ard\u0131ndan Komutu etkinle\u015ftirmek i\u00e7in Enter'a bas\u0131n. Ara + o ve ard\u0131ndan t tu\u015funa basarak buraya d\u00f6n\u00fcn."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Yararl\u0131 Chrome K\u0131sayollar\u0131"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "Sonraki birka\u00e7 k\u0131sayol ChromeVox komutu de\u011fildir, ancak yine de Chrome'dan en iyi \u015fekilde yararlanman\u0131za \u00e7ok yard\u0131mc\u0131 olur.\nD\u00fc\u011fmeler ve ba\u011flant\u0131lar gibi i\u015flem yap\u0131labilir \u00f6\u011felerde ileriye do\u011fru gezinmek i\u00e7in Sekme tu\u015funa bas\u0131n. Geriye gitmek i\u00e7in \u00dcst Karakter+Sekme tu\u015flar\u0131na bas\u0131n.\n\u00c7ok ama\u00e7l\u0131 adres \u00e7ubu\u011fu olarak adland\u0131r\u0131lan Chrome taray\u0131c\u0131 adres kutusuna girmek i\u00e7in Control+L tu\u015flar\u0131na bas\u0131n.\nYeni bir sekme a\u00e7mak ve otomatik olarak o sekmeye gitmek i\u00e7in Control+T tu\u015flar\u0131na bas\u0131n. \u0130mleciniz \u00e7ok ama\u00e7l\u0131 adres \u00e7ubu\u011funa yerle\u015ftirilir.\nBir sekmeyi kapatmak i\u00e7in Control+W tu\u015flar\u0131na bas\u0131n.\nA\u00e7\u0131k sekmeler aras\u0131nda ileriye do\u011fru gitmek i\u00e7in Control+Sekme tu\u015flar\u0131n\u0131 kullan\u0131n.\nChrome taray\u0131c\u0131 men\u00fcs\u00fcn\u00fc a\u00e7mak i\u00e7in Alt+F tu\u015flar\u0131na bas\u0131n."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "Ara\u00e7 \u00e7ubuklar\u0131 veya sistem tepsisi gibi ekran\u0131n di\u011fer b\u00f6l\u00fcmlerine atlamak i\u00e7in Control+\u0130leri tu\u015flar\u0131na bas\u0131n. Chromebook'larda \u0130leri tu\u015fu, 2 say\u0131 tu\u015funun hemen \u00fczerinde yer al\u0131r."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "Daha Fazla Bilgi Edinin"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Tebrikler! ChromeVox (beta) kullan\u0131m\u0131yla ilgili temel bilgileri ba\u015far\u0131yla \u00f6\u011frendiniz. ChromeVox komut men\u00fcs\u00fcn\u00fc Arama+Nokta tu\u015flar\u0131na basarak istedi\u011finiz zaman a\u00e7abilece\u011finizi unutmay\u0131n. ChromeVox ve Chrome OS hakk\u0131nda daha da fazla bilgi edinmek i\u00e7in a\u015fa\u011f\u0131daki makaleleri ziyaret edin.\nE\u011fiticiyle i\u015finiz bitti\u011finde, ChromeVox'\u0131 kullanarak Kapat d\u00fc\u011fmesine gidin ve d\u00fc\u011fmeyi t\u0131klay\u0131n."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "ChromeVox 63 s\u00fcr\u00fcm\u00fcne g\u00fcncellendi!"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "Bu yeni s\u00fcr\u00fcmde heyecan verici baz\u0131 de\u011fi\u015fiklikler yapt\u0131k. De\u011fi\u015fiklikleri burada bulabilirsiniz:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "Classic kald\u0131r\u0131ld\u0131. ChromeVox Classic'e ge\u00e7i\u015f i\u00e7in kullan\u0131lan klavye ge\u00e7i\u015f tu\u015fu kald\u0131r\u0131ld\u0131."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "Zengin metin deste\u011fi. ChromeVox art\u0131k atlama komutlar\u0131, braille imle\u00e7 y\u00f6nlendirmesi, se\u00e7im ve daha bir\u00e7ok zengin metin alanlar\u0131n\u0131 destekliyor."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Chrome i\u00e7in Android uygulamalar\u0131. Cihaz\u0131n\u0131zda Play Store varsa Android uygulamalar\u0131 ile ChromeVox'a \u00f6nceden g\u00f6z at\u0131n. Play Store'dan Google Chrome Canary s\u00fcr\u00fcm\u00fcn\u00fc indirerek deneysel deste\u011fi deneyin."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Her zaman oldu\u011fu gibi Arama+a ve ard\u0131ndan i tu\u015flar\u0131na basarak geri bildiriminizi bize do\u011frudan g\u00f6nderebilirsiniz. D\u00fc\u015f\u00fcncelerinizi \u00f6\u011frenmeyi \u00e7ok isteriz."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "ChromeVox Komut Referans\u0131"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Chromebook klavye k\u0131sayollar\u0131"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "Chromebook dokunmatik ekran eri\u015filebilirlik \u00f6zelliklerini kullanma"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "me\u015fgul"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "me\u015fgul"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "varsay\u0131lan"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "varsay\u0131lan"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "Ses"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox gerekli bilgilerin yan\u0131 s\u0131ra ek bilgiler sa\u011flamak i\u00e7in sesleri kullan\u0131r. Hangi sesin ne anlama geldi\u011fini \u00f6\u011frendi\u011finizde bu seslerden faydalanarak daha h\u0131zl\u0131 gezinebilirsiniz. Kullanmaya al\u0131\u015ft\u0131ktan sonra konu\u015fma formundaki ayr\u0131nt\u0131l\u0131 a\u00e7\u0131klamalar\u0131 kapatabilir ve ses \u00f6zelli\u011fini, sayfayla ilgili gerekli bilgileri almak i\u00e7in kullanabilirsiniz. A\u015fa\u011f\u0131da seslerin ve ne anlama geldiklerinin kapsaml\u0131 bir listesini bulabilirsiniz."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "Modal uyar\u0131"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "Modal olmayan uyar\u0131"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "D\u00fc\u011fme"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "\u0130\u015faretlenmemi\u015f onay kutusu"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "\u0130\u015faretlenmi\u015f onay kutusu"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "D\u00fczenlenebilir metin alan\u0131"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "Ge\u00e7ersiz tu\u015fa basma"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Ba\u011flant\u0131"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "Liste kutusu veya birle\u015fik kutu"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "Sayfa y\u00fckleme i\u015flemi devam ediyor"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Pop-up d\u00fc\u011fme"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "Kayd\u0131rma \u00e7ubu\u011fu"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Bir sayfa, ileti\u015fim veya kapsay\u0131c\u0131 i\u00e7inde ba\u015ftan sona veya sondan ba\u015fa sarma"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "Ekran\u0131 kapat"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "Ekran\u0131 a\u00e7"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Konu\u015fma kapal\u0131"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Konu\u015fma a\u00e7\u0131k"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "Konu\u015fmay\u0131 a\u00e7\u0131n veya kapat\u0131n"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "6 ve 8 noktal\u0131 braille aras\u0131nda ge\u00e7i\u015f yapar"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "Yaz\u0131m hatas\u0131 ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Yaz\u0131m hatas\u0131 sonu"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "Dil bilgisi hatas\u0131 ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Dil bilgisi hatas\u0131 sonu"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "E\u015fle\u015fen metin ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "E\u015fle\u015fen metin sonu"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "Kal\u0131n metin ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Kal\u0131n metin sonu"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "\u0130talik metin ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "\u0130talik metin sonu"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "Alt\u0131 \u00e7izili metin ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Alt\u0131 \u00e7izili metin sonu"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "\u00dcst\u00fc \u00e7izili metin ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "\u00dcst\u00fc \u00e7izili metin sonu"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "Ba\u011flant\u0131 ba\u015flang\u0131c\u0131"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Ba\u011flant\u0131 sonu"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "Geni\u015fletilmi\u015f braille komutlar\u0131n\u0131 kullanmak i\u00e7in l\u00fctfen durum tepsisi, eri\u015filebilirlik se\u00e7ene\u011finin alt\u0131ndaki dokunmatik klavyeyi etkinle\u015ftirin."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "Ba\u015fl\u0131ks\u0131z"
+  }
+}

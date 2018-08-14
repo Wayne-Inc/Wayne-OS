@@ -1,0 +1,4 @@
+﻿
+Powerwash läuft...
+
+Powerwashes werden gestartet, wenn kritische Fehler erkannt werden oder Sie Ihr Gerät zurücksetzen. Dadurch wird Chrome OS auf die Werkseinstellungen zurückgesetzt und Sie können im Handumdrehen weiterarbeiten.

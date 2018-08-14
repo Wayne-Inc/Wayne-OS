@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html id="angular-bootstrap" ng-csp>
+<head>
+    <meta charset="utf-8">
+    <title>Connectivity Diagnostics</title>
+    <link href="css/index.css" rel="stylesheet">
+    <script type="text/javascript" src="js/ccd.js"></script>
+</head>
+<body id="ccd-app" cm-focus-helper class="no-focus-outline">
+<div ng-include="'partials/banner.ng'" ng-controller="ccd.controllers.BannerController as headerCtrl"></div>
+<div id="page-body-container">
+  <div ng-view class="angular-view"></div>
+</div>
+<div ng-include="'partials/footer.ng'" ng-controller="ccd.controllers.FooterCtrl as footerCtrl"></div>
+</body>
+</html>

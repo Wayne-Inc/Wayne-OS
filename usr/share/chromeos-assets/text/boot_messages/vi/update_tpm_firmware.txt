@@ -1,0 +1,4 @@
+Đang cài đặt bản cập nhật...
+
+Vui lòng không tắt thiết bị. Thiết bị sẽ tự động khởi động lại
+khi quá trình cập nhật hoàn tất.

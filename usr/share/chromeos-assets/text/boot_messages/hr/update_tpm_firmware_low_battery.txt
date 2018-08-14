@@ -1,0 +1,4 @@
+Baterija nije dovoljno napunjena za ažuriranje.
+
+Priključite Chromebook na izvor napajanja. 
+Ažuriranje će se automatski pokrenuti čim se baterija dovoljno napuni.

@@ -1,0 +1,3061 @@
+﻿{
+  "LOCALE": {
+    "message": "ro"
+  },
+  "CHROMEVOX_NAME": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_DESCRIPTION": {
+    "message": "ChromeVox - Voce pentru Chrome"
+  },
+  "CHROMEVOX_STOP_SPEECH_KEY": {
+    "message": "Opre\u0219te vorbirea"
+  },
+  "CHROMEVOX_TOGGLE_STICKY_MODE": {
+    "message": "Activeaz\u0103/dezactiveaz\u0103 modul taste persistente"
+  },
+  "CHROMEVOX_PREFIX_KEY": {
+    "message": "Tast\u0103 prefix"
+  },
+  "CHROMEVOX_HANDLE_TAB_NEXT": {
+    "message": "Salt la elementul focalizabil urm\u0103tor"
+  },
+  "CHROMEVOX_HANDLE_TAB_PREV": {
+    "message": "Salt la elementul focalizabil anterior"
+  },
+  "CHROMEVOX_BACKWARD": {
+    "message": "Naviga\u021bi \u00eenapoi"
+  },
+  "CHROMEVOX_FORWARD": {
+    "message": "Naviga\u021bi \u00eenainte"
+  },
+  "CHROMEVOX_LEFT": {
+    "message": "Deplaseaz\u0103 spre st\u00e2nga"
+  },
+  "CHROMEVOX_RIGHT": {
+    "message": "Deplaseaz\u0103 spre dreapta"
+  },
+  "CHROMEVOX_SKIP_BACKWARD": {
+    "message": "Trece\u021bi \u00eenapoi \u00een timpul lecturii continue"
+  },
+  "CHROMEVOX_SKIP_FORWARD": {
+    "message": "Trece\u021bi \u00eenainte \u00een timpul lecturii continue"
+  },
+  "CHROMEVOX_PREVIOUS_GRANULARITY": {
+    "message": "Sc\u0103de\u021bi granularitatea de navigare"
+  },
+  "CHROMEVOX_NEXT_GRANULARITY": {
+    "message": "Cre\u0219te\u021bi granularitatea de navigare"
+  },
+  "CHROMEVOX_ACT_ON_CURRENT_ITEM": {
+    "message": "Ac\u021biona\u021bi asupra elementului curent"
+  },
+  "CHROMEVOX_FORCE_CLICK_ON_CURRENT_ITEM": {
+    "message": "Da\u021bi clic pe elementul curent"
+  },
+  "CHROMEVOX_READ_LINK_URL": {
+    "message": "Anun\u021b\u0103 adresa URL la care trimite un link"
+  },
+  "CHROMEVOX_READ_CURRENT_TITLE": {
+    "message": "Anun\u021b\u0103 titlul paginii curente"
+  },
+  "CHROMEVOX_READ_CURRENT_URL": {
+    "message": "Anun\u021b\u0103 adresa URL a paginii curente"
+  },
+  "CHROMEVOX_READ_FROM_HERE": {
+    "message": "\u00cencepe\u021bi s\u0103 citi\u021bi din pozi\u021bia curent\u0103"
+  },
+  "CHROMEVOX_SHOW_POWER_KEY": {
+    "message": "Deschide meniurile ChromeVox"
+  },
+  "CHROMEVOX_HIDE_POWER_KEY": {
+    "message": "Ascunde\u021bi ajutorul pentru ChromeVox"
+  },
+  "CHROMEVOX_POWER_KEY_HELP": {
+    "message": "Ap\u0103sa\u021bi \u00een sus sau \u00een jos pentru a examina comenzile, ap\u0103sa\u021bi pe enter pentru activare"
+  },
+  "CHROMEVOX_HELP": {
+    "message": "Deschide\u021bi programul de instruire ChromeVox"
+  },
+  "CHROMEVOX_TOGGLE_SEARCH_WIDGET": {
+    "message": "G\u0103se\u0219te \u00een pagin\u0103 cu ChromeVox"
+  },
+  "CHROMEVOX_SHOW_OPTIONS_PAGE": {
+    "message": "Deschide\u021bi pagina de op\u021biuni"
+  },
+  "CHROMEVOX_SHOW_KB_EXPLORER_PAGE": {
+    "message": "Deschide modul de \u00eenv\u0103\u021bare"
+  },
+  "CHROMEVOX_DECREASE_TTS_RATE": {
+    "message": "Sc\u0103de\u021bi viteza de vorbire"
+  },
+  "CHROMEVOX_INCREASE_TTS_RATE": {
+    "message": "Cre\u0219te\u021bi viteza de vorbire"
+  },
+  "CHROMEVOX_DECREASE_TTS_PITCH": {
+    "message": "Sc\u0103de\u021bi \u00een\u0103l\u021bimea sunetului"
+  },
+  "CHROMEVOX_INCREASE_TTS_PITCH": {
+    "message": "Cre\u0219te\u021bi \u00een\u0103l\u021bimea sunetului"
+  },
+  "CHROMEVOX_DECREASE_TTS_VOLUME": {
+    "message": "Sc\u0103de\u021bi volumul vocii"
+  },
+  "CHROMEVOX_INCREASE_TTS_VOLUME": {
+    "message": "Cre\u0219te\u021bi volumul vocii"
+  },
+  "CHROMEVOX_SHOW_FORMS_LIST": {
+    "message": "Afi\u0219a\u021bi lista de formulare"
+  },
+  "CHROMEVOX_SHOW_HEADINGS_LIST": {
+    "message": "Afi\u0219a\u021bi lista de titluri"
+  },
+  "CHROMEVOX_SHOW_LINKS_LIST": {
+    "message": "Afi\u0219a\u021bi lista de linkuri"
+  },
+  "CHROMEVOX_SHOW_TABLES_LIST": {
+    "message": "Afi\u0219a\u021bi lista de tabele"
+  },
+  "CHROMEVOX_SHOW_LANDMARKS_LIST": {
+    "message": "Afi\u0219a\u021bi lista de repere"
+  },
+  "CHROMEVOX_PREVIOUS_ROW": {
+    "message": "R\u00e2ndul anterior din tabel"
+  },
+  "CHROMEVOX_NEXT_ROW": {
+    "message": "R\u00e2ndul urm\u0103tor din tabel"
+  },
+  "CHROMEVOX_PREVIOUS_COL": {
+    "message": "Coloana anterioar\u0103 din tabel"
+  },
+  "CHROMEVOX_NEXT_COL": {
+    "message": "Coloana urm\u0103toare din tabel"
+  },
+  "CHROMEVOX_ANNOUNCE_HEADERS": {
+    "message": "Anun\u021b\u0103 anteturile celulei curente"
+  },
+  "CHROMEVOX_SPEAK_TABLE_LOCATION": {
+    "message": "Anun\u021b\u0103 coordonatele celulei curente"
+  },
+  "CHROMEVOX_GUESS_ROW_HEADER": {
+    "message": "Face\u021bi o \u00eencercare la antetul r\u00e2ndului pentru celula curent\u0103"
+  },
+  "CHROMEVOX_GUESS_COL_HEADER": {
+    "message": "Face\u021bi o \u00eencercare la antetul coloanei pentru celula curent\u0103"
+  },
+  "CHROMEVOX_SKIP_TO_BEGINNING": {
+    "message": "Accesa\u021bi \u00eenceputul tabelului"
+  },
+  "CHROMEVOX_SKIP_TO_END": {
+    "message": "Accesa\u021bi finalul tabelului"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_BEGINNING": {
+    "message": "Accesa\u021bi \u00eenceputul r\u00e2ndului curent"
+  },
+  "CHROMEVOX_SKIP_TO_ROW_END": {
+    "message": "Accesa\u021bi finalul r\u00e2ndului curent"
+  },
+  "CHROMEVOX_SKIP_TO_COL_BEGINNING": {
+    "message": "Accesa\u021bi \u00eenceputul coloanei curente"
+  },
+  "CHROMEVOX_SKIP_TO_COL_END": {
+    "message": "Accesa\u021bi finalul coloanei curente"
+  },
+  "CHROMEVOX_NEXT_HEADING1": {
+    "message": "Titlul de nivel 1 urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING1": {
+    "message": "Titlul de nivel 1 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING2": {
+    "message": "Titlul de nivel 2 urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING2": {
+    "message": "Titlul de nivel 2 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING3": {
+    "message": "Urm\u0103torul titlu de nivel 3"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING3": {
+    "message": "Titlul de nivel 3 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING4": {
+    "message": "Titlul de nivel 4 urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING4": {
+    "message": "Titlul de nivel 4 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING5": {
+    "message": "Titlul de nivel 5 urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING5": {
+    "message": "Titlul de nivel 5 anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING6": {
+    "message": "Titlul de nivel 6 urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING6": {
+    "message": "Titlul de nivel 6 anterior"
+  },
+  "CHROMEVOX_NEXT_COMBO_BOX": {
+    "message": "Caseta combo urm\u0103toare"
+  },
+  "CHROMEVOX_PREVIOUS_COMBO_BOX": {
+    "message": "Caseta combo anterioar\u0103"
+  },
+  "CHROMEVOX_NEXT_EDIT_TEXT": {
+    "message": "Urm\u0103toarea zon\u0103 de text editabil"
+  },
+  "CHROMEVOX_PREVIOUS_EDIT_TEXT": {
+    "message": "Zona de text editabil anterioar\u0103"
+  },
+  "CHROMEVOX_NEXT_FORM_FIELD": {
+    "message": "C\u00e2mpul urm\u0103tor din formular"
+  },
+  "CHROMEVOX_PREVIOUS_FORM_FIELD": {
+    "message": "C\u00e2mpul anterior din formular"
+  },
+  "CHROMEVOX_NEXT_GRAPHIC": {
+    "message": "Graficul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_GRAPHIC": {
+    "message": "Graficul anterior"
+  },
+  "CHROMEVOX_NEXT_HEADING": {
+    "message": "Titlul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_HEADING": {
+    "message": "Titlul anterior"
+  },
+  "CHROMEVOX_NEXT_LIST_ITEM": {
+    "message": "Elementul urm\u0103tor din list\u0103"
+  },
+  "CHROMEVOX_PREVIOUS_LIST_ITEM": {
+    "message": "Elementul anterior din list\u0103"
+  },
+  "CHROMEVOX_NEXT_JUMP": {
+    "message": "Saltul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_JUMP": {
+    "message": "Saltul anterior"
+  },
+  "CHROMEVOX_NEXT_LINK": {
+    "message": "Linkul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_LINK": {
+    "message": "Linkul anterior"
+  },
+  "CHROMEVOX_NEXT_LIST": {
+    "message": "Lista urm\u0103toare"
+  },
+  "CHROMEVOX_PREVIOUS_LIST": {
+    "message": "Lista anterioar\u0103"
+  },
+  "CHROMEVOX_NEXT_MATH": {
+    "message": "Expresia matematic\u0103 urm\u0103toare"
+  },
+  "CHROMEVOX_PREVIOUS_MATH": {
+    "message": "Expresia matematic\u0103 anterioar\u0103"
+  },
+  "CHROMEVOX_NEXT_MEDIA": {
+    "message": "Con\u021binut media urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_MEDIA": {
+    "message": "Con\u021binut media anterior"
+  },
+  "CHROMEVOX_NEXT_BLOCKQUOTE": {
+    "message": "Citatul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_BLOCKQUOTE": {
+    "message": "Citatul anterior"
+  },
+  "CHROMEVOX_NEXT_RADIO": {
+    "message": "Butonul radio urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_RADIO": {
+    "message": "Butonul radio anterior"
+  },
+  "CHROMEVOX_NEXT_SLIDER": {
+    "message": "Glisorul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_SLIDER": {
+    "message": "Glisorul anterior"
+  },
+  "CHROMEVOX_NEXT_TABLE": {
+    "message": "Tabelul urm\u0103tor"
+  },
+  "CHROMEVOX_NEXT_VISITED_LINK": {
+    "message": "Urm\u0103torul link accesat"
+  },
+  "CHROMEVOX_PREVIOUS_TABLE": {
+    "message": "Tabelul anterior"
+  },
+  "CHROMEVOX_PREVIOUS_VISITED_LINK": {
+    "message": "Link accesat anterior"
+  },
+  "CHROMEVOX_NEXT_BUTTON": {
+    "message": "Butonul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_BUTTON": {
+    "message": "Butonul anterior"
+  },
+  "CHROMEVOX_NEXT_CHECKBOX": {
+    "message": "Caseta de selectare urm\u0103toare"
+  },
+  "CHROMEVOX_PREVIOUS_CHECKBOX": {
+    "message": "Caseta de selectare anterioar\u0103"
+  },
+  "CHROMEVOX_NEXT_LANDMARK": {
+    "message": "Reperul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_LANDMARK": {
+    "message": "Reperul anterior"
+  },
+  "CHROMEVOX_BENCHMARK": {
+    "message": "Testare pentru depanare"
+  },
+  "CHROMEVOX_ANNOUNCE_POSITION": {
+    "message": "Anun\u021b\u0103 o scurt\u0103 descriere a pozi\u021biei curente"
+  },
+  "CHROMEVOX_FULLY_DESCRIBE": {
+    "message": "Anun\u021b\u0103 o descriere complet\u0103 a pozi\u021biei curente"
+  },
+  "CHROMEVOX_OPTIONS_PAGE_TITLE": {
+    "message": "Op\u021biuni ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY": {
+    "message": "Afi\u0219aj braille virtual"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_DETAILS": {
+    "message": "Simuleaz\u0103 ie\u0219irea unui afi\u0219aj braille actualizabil\n        \u00een panoul ChromeVox din partea de sus a ecranului."
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_ROWS": {
+    "message": "R\u00e2nduri:"
+  },
+  "CHROMEVOX_OPTIONS_VIRTUAL_BRAILLE_DISPLAY_COLUMNS": {
+    "message": "Celule pe fiecare r\u00e2nd:"
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Stilul de afi\u0219are actual este intercalat."
+  },
+  "CHROMEVOX_OPTIONS_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Stilul de afi\u0219are actual este al\u0103turat."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_INTERLEAVE": {
+    "message": "Schimb\u0103 stilul de afi\u0219are la intercalat."
+  },
+  "CHROMEVOX_OPTIONS_CHANGE_CURRENT_DISPLAY_STYLE_SIDE_BY_SIDE": {
+    "message": "Schimb\u0103 stilul de afi\u0219are la al\u0103turat."
+  },
+  "CHROMEVOX_OPTIONS_PAGE_SUMMARY": {
+    "message": "Folosi\u021bi op\u021biunile de mai jos pentru a personaliza ChromeVox. Modific\u0103rile intr\u0103 \u00een vigoare imediat."
+  },
+  "CHROMEVOX_OPTIONS_MOUSE_FOCUS_FOLLOWS": {
+    "message": "Utiliza\u021bi mouse-ul pentru a schimba focalizarea."
+  },
+  "CHROMEVOX_OPTIONS_OUTPUT_CONTEXT_FIRST": {
+    "message": "Afi\u0219eaz\u0103 contextul unui element \u00eenaintea altor informa\u021bii (cum ar fi numele s\u0103u)."
+  },
+  "CHROMEVOX_OPTIONS_SITE_SPECIFIC_ENHANCEMENTS": {
+    "message": "\u00cembun\u0103t\u0103\u021be\u0219te experien\u021ba utilizatorilor pe anumite site-uri, cum ar fi C\u0103utarea Google."
+  },
+  "CHROMEVOX_OPTIONS_VERBOSITY_VERBOSE": {
+    "message": "Activa\u021bi descrierile detaliate."
+  },
+  "CHROMEVOX_OPTIONS_AUTO_READ": {
+    "message": "Cite\u0219te automat pagina dup\u0103 ce se \u00eencarc\u0103."
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_DESCRIPTION": {
+    "message": "C\u00e2nd se red\u0103 con\u021binut audio\u2026"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_NORMAL": {
+    "message": "Red\u0103 la un volum normal chiar dac\u0103 ChromeVox vorbe\u0219te"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_duck": {
+    "message": "Red\u0103 la un volum redus c\u00e2nd ChromeVox vorbe\u0219te"
+  },
+  "CHROMEVOX_OPTIONS_AUDIO_suspend": {
+    "message": "\u00centrerupe redarea c\u00e2nd ChromeVox vorbe\u0219te"
+  },
+  "CHROMEVOX_OPTIONS_CURSOR_BETWEEN_CHARACTERS": {
+    "message": "La editarea textului plasa\u021bi cursorul \u00eentre caractere (ca \u00een Mac OS X)."
+  },
+  "CHROMEVOX_OPTIONS_VOICES": {
+    "message": "Voci"
+  },
+  "CHROMEVOX_OPTIONS_VOICES_DESCRIPTION": {
+    "message": "Selecteaz\u0103 vocea actual\u0103:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE": {
+    "message": "Braille"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_6": {
+    "message": "Comuta\u021bi la tabelul Braille cu 8 puncte"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_TABLE_TYPE_8": {
+    "message": "Comuta\u021bi la tabelul Braille cu 6 puncte"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_6": {
+    "message": "Selecteaz\u0103 un tabel braille cu 6 puncte:"
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_GRADE": {
+    "message": "$1$, nivelul $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT": {
+    "message": "$1$ ($2$)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_TABLE_NAME_WITH_VARIANT_AND_GRADE": {
+    "message": "$1$ ($2$), nivelul $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_DESCRIPTION_8": {
+    "message": "Selecteaz\u0103 un tabel braille cu 8 puncte:"
+  },
+  "CHROMEVOX_OPTIONS_BRAILLE_WORD_WRAP": {
+    "message": "Activeaz\u0103 \u00eencadrarea cuvintelor"
+  },
+  "CHROMEVOX_OPTIONS_KEYBOARD_SHORTCUTS": {
+    "message": "Comenzi rapide de la tastatur\u0103"
+  },
+  "CHROMEVOX_OPTIONS_KEYMAP_DESCRIPTION": {
+    "message": "Schimba\u021bi harta tastelor actual\u0103 select\u00e2nd o op\u021biune din lista de mai jos."
+  },
+  "CHROMEVOX_OPTIONS_SELECT_KEYS": {
+    "message": "Reseta\u021bi harta actual\u0103 a tastelor"
+  },
+  "CHROMEVOX_OPTIONS_SHORTCUTS_DESCRIPTION": {
+    "message": "Personaliza\u021bi comenzi rapide de la tastatur\u0103 pentru comenzile folosite frecvent, prin introducerea acestora \u00een c\u00e2mpurile corespunz\u0103toare de mai jos."
+  },
+  "CHROMEVOX_OPTIONS_MODIFIER_KEYS": {
+    "message": "Taste de modificare"
+  },
+  "CHROMEVOX_OPTIONS_CVOX_MODIFIER_KEY": {
+    "message": "Tasta de modificare ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_TITLE": {
+    "message": "Modul de \u00eenv\u0103\u021bare din ChromeVox"
+  },
+  "CHROMEVOX_KBEXPLORER_INSTRUCTIONS": {
+    "message": "Apas\u0103 pe orice tast\u0103 pentru a afla numele acesteia. Combina\u021bia Ctrl + W va \u00eenchide modul de \u00eenv\u0103\u021bare."
+  },
+  "CHROMEVOX_CHROME_TAB_CREATED": {
+    "message": "fil\u0103 creat\u0103"
+  },
+  "CHROMEVOX_CHROME_TAB_SELECTED": {
+    "message": "$1$, fil\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_NORMAL_WINDOW_SELECTED": {
+    "message": "fila ferestrei $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_INCOGNITO_WINDOW_SELECTED": {
+    "message": "fila ferestrei incognito $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_OPENED": {
+    "message": "Meniu $1$ deschis",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHROME_MENU_CLOSED": {
+    "message": "meniu \u00eenchis"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_CHECKED": {
+    "message": "Caset\u0103 de validare $1$ bifat\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_CHECKED_STATE": {
+    "message": "bifat\u0103"
+  },
+  "CHROMEVOX_DESCRIBE_CHECKBOX_UNCHECKED": {
+    "message": "$1$, caset\u0103 de selectare nebifat\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHECKBOX_UNCHECKED_STATE": {
+    "message": "nebifat\u0103"
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_ON": {
+    "message": "$1$, activeaz\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SWITCH_OFF": {
+    "message": "$1$, dezactiveaz\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_SELECTED": {
+    "message": "$1$, buton radio selectat",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_SELECTED_STATE": {
+    "message": "selectate"
+  },
+  "CHROMEVOX_DESCRIBE_RADIO_UNSELECTED": {
+    "message": "$1$, buton radio deselectat",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_RADIO_UNSELECTED_STATE": {
+    "message": "neselectat"
+  },
+  "CHROMEVOX_DESCRIBE_MENU": {
+    "message": "$1$, meniu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM": {
+    "message": "$1$, element din meniu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_MENU_ITEM_WITH_SUBMENU": {
+    "message": "$1$, element din meniu cu submeniu",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_WINDOW": {
+    "message": "$1$, fereastr\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TEXTBOX": {
+    "message": "$1$, $2$, caset\u0103 text",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_TEXTBOX": {
+    "message": "$1$, caset\u0103 text",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_PASSWORD": {
+    "message": "$1$, $2$, caset\u0103 text pentru parol\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_PASSWORD": {
+    "message": "$1$, caset\u0103 text pentru parol\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_BUTTON": {
+    "message": "$1$, buton",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_COMBOBOX": {
+    "message": "$1$, $2$, caset\u0103 combo",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_COMBOBOX": {
+    "message": "$1$, caset\u0103 combo",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LISTBOX": {
+    "message": "$1$, $2$, caset\u0103 list\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_UNNAMED_LISTBOX": {
+    "message": "$1$, caset\u0103 list\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_LINK": {
+    "message": "$1$, link",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_TAB": {
+    "message": "$1$, fil\u0103",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SLIDER": {
+    "message": "Glisor $1$ $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_SELECTED": {
+    "message": ", selectat"
+  },
+  "CHROMEVOX_DESCRIBE_UNSELECTED": {
+    "message": ", deselectat"
+  },
+  "CHROMEVOX_DESCRIBE_INDEX": {
+    "message": " $1$ din $2$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_INDEX_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_DESCRIBE_DEPTH": {
+    "message": " nivelul $1$ ",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_RATE": {
+    "message": "Rat\u0103 de $1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_PITCH": {
+    "message": "\u00cen\u0103l\u021bime a sunetului de $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ANNOUNCE_VOLUME": {
+    "message": "Volum $1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_EXITING_DIALOG": {
+    "message": "S-a ie\u0219it din caseta de dialog."
+  },
+  "CHROMEVOX_EXITED_CONTAINER": {
+    "message": "S-a ie\u0219it din $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ENTERING_DIALOG": {
+    "message": "A\u021bi intrat \u00een caseta de dialog"
+  },
+  "CHROMEVOX_LIVE_REGIONS_REMOVED": {
+    "message": "eliminate:"
+  },
+  "CHROMEVOX_STICKY_MODE_ENABLED": {
+    "message": "Modul persistent este activat"
+  },
+  "CHROMEVOX_STICKY_MODE_DISABLED": {
+    "message": "Modul persistent este dezactivat"
+  },
+  "CHROMEVOX_KEYBOARD_HELP_INTRO": {
+    "message": "Ajutor tastatur\u0103"
+  },
+  "CHROMEVOX_CONTEXT_MENU_INTRO": {
+    "message": "Meniu contextual"
+  },
+  "CHROMEVOX_CHOICE_WIDGET_NAME": {
+    "message": "List\u0103 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CHOICE_WIDGET_HELP": {
+    "message": "Folosi\u021bi tastele s\u0103geat\u0103 \u00een sus \u0219i \u00een jos pentru a naviga sau introduce\u021bi text pentru a c\u0103uta."
+  },
+  "CHROMEVOX_CHOICE_WIDGET_EXITED": {
+    "message": "S-a ie\u0219it"
+  },
+  "CHROMEVOX_END_OF_CELL": {
+    "message": "Sf\u00e2r\u0219itul celulei."
+  },
+  "CHROMEVOX_NO_URL_FOUND": {
+    "message": "Nu a fost g\u0103sit\u0103 nicio adres\u0103 URL."
+  },
+  "CHROMEVOX_LEAVING_TABLE": {
+    "message": "Se iese din tabel."
+  },
+  "CHROMEVOX_LEAVING_GRID": {
+    "message": "Se iese din gril\u0103."
+  },
+  "CHROMEVOX_INSIDE_TABLE": {
+    "message": "\u00cen interiorul tabelului"
+  },
+  "CHROMEVOX_NO_TABLES": {
+    "message": "Nu a fost g\u0103sit niciun tabel."
+  },
+  "CHROMEVOX_NOT_INSIDE_TABLE": {
+    "message": "Nu v\u0103 afla\u021bi \u00een interiorul tabelului."
+  },
+  "CHROMEVOX_NOT_IN_TABLE_MODE": {
+    "message": "Nu e\u0219ti \u00een modul tabel."
+  },
+  "CHROMEVOX_NO_CELL_BELOW": {
+    "message": "Nu exist\u0103 celule mai jos."
+  },
+  "CHROMEVOX_NO_CELL_ABOVE": {
+    "message": "Nu exist\u0103 celule mai sus."
+  },
+  "CHROMEVOX_NO_CELL_RIGHT": {
+    "message": "Nu exist\u0103 celule \u00een dreapta."
+  },
+  "CHROMEVOX_NO_CELL_LEFT": {
+    "message": "Nu exist\u0103 celule \u00een st\u00e2nga."
+  },
+  "CHROMEVOX_EMPTY_CELL": {
+    "message": "Celul\u0103 goal\u0103."
+  },
+  "CHROMEVOX_SPANNED": {
+    "message": "Extins\u0103."
+  },
+  "CHROMEVOX_ROW_HEADER": {
+    "message": "Antet de r\u00e2nd:"
+  },
+  "CHROMEVOX_EMPTY_ROW_HEADER": {
+    "message": "Antet de r\u00e2nd gol"
+  },
+  "CHROMEVOX_COLUMN_HEADER": {
+    "message": "Antet de coloan\u0103:"
+  },
+  "CHROMEVOX_EMPTY_COLUMN_HEADER": {
+    "message": "Antet de coloan\u0103 gol"
+  },
+  "CHROMEVOX_NO_HEADERS": {
+    "message": "Niciun antet"
+  },
+  "CHROMEVOX_EMPTY_HEADERS": {
+    "message": "Anteturi goale"
+  },
+  "CHROMEVOX_TABLE_LOCATION": {
+    "message": "R\u00e2ndul $1$ din $2$, coloana $3$ din $4$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY": {
+    "message": "Tabelul $1$, $2$ cu $3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_TABLE_SUMMARY_BRL": {
+    "message": "tab $1$ $2$x$3$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY": {
+    "message": "r\u00e2ndul $1$ coloana $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_CELL_SUMMARY_BRL": {
+    "message": "r$1$c$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_NO_NEXT_CHECKBOX": {
+    "message": "Nu exist\u0103 o caset\u0103 de selectare urm\u0103toare."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CHECKBOX": {
+    "message": "Nu exist\u0103 o caset\u0103 de selectare anterioar\u0103."
+  },
+  "CHROMEVOX_NO_NEXT_EDIT_TEXT": {
+    "message": "Nu exist\u0103 un c\u00e2mp de text editabil urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_EDIT_TEXT": {
+    "message": "Nu exist\u0103 un c\u00e2mp de text editabil anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING": {
+    "message": "Nu exist\u0103 un titlu urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING": {
+    "message": "Nu exist\u0103 un titlu anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_1": {
+    "message": "Nu exist\u0103 un titlu de nivel 1 urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_1": {
+    "message": "Nu exist\u0103 un titlu de nivel 1 anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_2": {
+    "message": "Nu exist\u0103 un titlu de nivel 2 urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_2": {
+    "message": "Nu exist\u0103 un titlu de nivel 2 anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_3": {
+    "message": "Nu exist\u0103 un titlu de nivel 3 urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_3": {
+    "message": "Nu exist\u0103 un titlu de nivel 3 anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_4": {
+    "message": "Nu exist\u0103 un titlu de nivel 4 urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_4": {
+    "message": "Nu exist\u0103 un titlu de nivel 4 anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_5": {
+    "message": "Nu exist\u0103 un titlu de nivel 5 urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_5": {
+    "message": "Nu exist\u0103 un titlu de nivel 5 anterior."
+  },
+  "CHROMEVOX_NO_NEXT_HEADING_6": {
+    "message": "Nu exist\u0103 un titlu de nivel 6 urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_HEADING_6": {
+    "message": "Nu exist\u0103 un titlu de nivel 6 anterior."
+  },
+  "CHROMEVOX_NO_NEXT_NOT_LINK": {
+    "message": "Nu exist\u0103 un element urm\u0103tor care nu este link."
+  },
+  "CHROMEVOX_NO_PREVIOUS_NOT_LINK": {
+    "message": "Nu exist\u0103 un element anterior care nu este link."
+  },
+  "CHROMEVOX_NO_NEXT_ANCHOR": {
+    "message": "Nu exist\u0103 o ancor\u0103 urm\u0103toare."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ANCHOR": {
+    "message": "Nu exist\u0103 o ancor\u0103 anterioar\u0103."
+  },
+  "CHROMEVOX_NO_NEXT_LINK": {
+    "message": "Nu exist\u0103 un link urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LINK": {
+    "message": "Nu exist\u0103 un link anterior."
+  },
+  "CHROMEVOX_NO_NEXT_TABLE": {
+    "message": "Nu exist\u0103 un tabel urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_TABLE": {
+    "message": "Nu exist\u0103 un tabel anterior."
+  },
+  "CHROMEVOX_NO_NEXT_VISITED_LINK": {
+    "message": "Nu exist\u0103 un link accesat urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_VISITED_LINK": {
+    "message": "Nu exist\u0103 niciun link accesat anterior."
+  },
+  "CHROMEVOX_NO_NEXT_MATH": {
+    "message": "Nu exist\u0103 o expresie matematic\u0103 urm\u0103toare."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MATH": {
+    "message": "Nu exist\u0103 o expresie matematic\u0103 anterioar\u0103."
+  },
+  "CHROMEVOX_NO_NEXT_MEDIA_WIDGET": {
+    "message": "Niciun widget media urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_MEDIA_WIDGET": {
+    "message": "Niciun widget media anterior."
+  },
+  "CHROMEVOX_NO_NEXT_LIST": {
+    "message": "Nu exist\u0103 o list\u0103 urm\u0103toare."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST": {
+    "message": "Nu exist\u0103 o list\u0103 anterioar\u0103."
+  },
+  "CHROMEVOX_NO_NEXT_LIST_ITEM": {
+    "message": "Nu exist\u0103 un element de list\u0103 urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LIST_ITEM": {
+    "message": "Nu exist\u0103 un element de list\u0103 anterior."
+  },
+  "CHROMEVOX_NO_NEXT_BLOCKQUOTE": {
+    "message": "Nu exist\u0103 un blockquote urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BLOCKQUOTE": {
+    "message": "Nu exist\u0103 un blockquote anterior."
+  },
+  "CHROMEVOX_NO_NEXT_FORM_FIELD": {
+    "message": "Nu exist\u0103 un c\u00e2mp de formular urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_FORM_FIELD": {
+    "message": "Nu exist\u0103 un c\u00e2mp de formular anterior."
+  },
+  "CHROMEVOX_NO_NEXT_JUMP": {
+    "message": "Nu exist\u0103 un punct de accesare direct\u0103 urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_JUMP": {
+    "message": "Nu exist\u0103 un punct de accesare direct\u0103 anterior."
+  },
+  "CHROMEVOX_NO_NEXT_LANDMARK": {
+    "message": "Nu exist\u0103 un reper ARIA urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_LANDMARK": {
+    "message": "Nu exist\u0103 un reper ARIA anterior."
+  },
+  "CHROMEVOX_NO_NEXT_COMBO_BOX": {
+    "message": "Nu exist\u0103 o caset\u0103 combo urm\u0103toare."
+  },
+  "CHROMEVOX_NO_PREVIOUS_COMBO_BOX": {
+    "message": "Nu exist\u0103 o caset\u0103 combo anterioar\u0103."
+  },
+  "CHROMEVOX_NO_NEXT_BUTTON": {
+    "message": "Nu exist\u0103 un buton urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_BUTTON": {
+    "message": "Nu exist\u0103 un buton anterior."
+  },
+  "CHROMEVOX_NO_NEXT_GRAPHIC": {
+    "message": "Nu exist\u0103 un grafic urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_GRAPHIC": {
+    "message": "Nu exist\u0103 un grafic anterior."
+  },
+  "CHROMEVOX_NO_NEXT_SLIDER": {
+    "message": "Nu exist\u0103 un glisor urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SLIDER": {
+    "message": "Nu exist\u0103 un glisor anterior."
+  },
+  "CHROMEVOX_NO_NEXT_RADIO_BUTTON": {
+    "message": "Nu exist\u0103 un buton radio urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_RADIO_BUTTON": {
+    "message": "Nu exist\u0103 un buton radio anterior."
+  },
+  "CHROMEVOX_NO_NEXT_SECTION": {
+    "message": "Nu exist\u0103 o sec\u021biune urm\u0103toare."
+  },
+  "CHROMEVOX_NO_PREVIOUS_SECTION": {
+    "message": "Nu exist\u0103 o sec\u021biune anterioar\u0103."
+  },
+  "CHROMEVOX_NO_NEXT_CONTROL": {
+    "message": "Nu exist\u0103 o comand\u0103 urm\u0103toare."
+  },
+  "CHROMEVOX_NO_PREVIOUS_CONTROL": {
+    "message": "Nu exist\u0103 o comand\u0103 anterioar\u0103."
+  },
+  "CHROMEVOX_ELEMENT_CLICKED": {
+    "message": "A\u021bi dat clic"
+  },
+  "CHROMEVOX_ELEMENT_DOUBLE_CLICKED": {
+    "message": "a\u021bi dat dublu clic"
+  },
+  "CHROMEVOX_POWERKEY_NO_HEADINGS": {
+    "message": "Nu exist\u0103 titluri."
+  },
+  "CHROMEVOX_POWERKEY_NO_LINKS": {
+    "message": "Nu exist\u0103 linkuri."
+  },
+  "CHROMEVOX_POWERKEY_NO_FORMS": {
+    "message": "Nu exist\u0103 formulare."
+  },
+  "CHROMEVOX_POWERKEY_NO_TABLES": {
+    "message": "Nu exist\u0103 tabele."
+  },
+  "CHROMEVOX_POWERKEY_NO_LANDMARKS": {
+    "message": "Nu exist\u0103 repere ARIA."
+  },
+  "CHROMEVOX_POWERKEY_NO_JUMPS": {
+    "message": "Nu exist\u0103 puncte de accesare direct\u0103."
+  },
+  "CHROMEVOX_LIST_POSITION": {
+    "message": "$1$ din $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_POSITION_BRL": {
+    "message": "$1$/$2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_HAS_SUBMENU": {
+    "message": "are submeniu"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP": {
+    "message": "are fereastr\u0103 pop-up"
+  },
+  "CHROMEVOX_ARIA_HAS_POPUP_BRL": {
+    "message": "+fereastr\u0103 pop-up"
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN": {
+    "message": "Min. $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MIN_BRL": {
+    "message": "min.:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX": {
+    "message": "Max. $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ARIA_VALUE_MAX_BRL": {
+    "message": "max.:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_ALERT": {
+    "message": "Alert\u0103"
+  },
+  "CHROMEVOX_ROLE_ALERT_BRL": {
+    "message": "alert\u0103"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG": {
+    "message": "Caset\u0103 de dialog de alert\u0103"
+  },
+  "CHROMEVOX_ROLE_ALERTDIALOG_BRL": {
+    "message": "caset\u0103 de dialog alert\u0103"
+  },
+  "CHROMEVOX_ROLE_BUTTON": {
+    "message": "Buton"
+  },
+  "CHROMEVOX_ROLE_BUTTON_BRL": {
+    "message": "buton"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX": {
+    "message": "Caset\u0103 de selectare"
+  },
+  "CHROMEVOX_ROLE_CHECKBOX_BRL": {
+    "message": "caset\u0103 de selectare"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX": {
+    "message": "Caset\u0103 combo"
+  },
+  "CHROMEVOX_ROLE_COMBOBOX_BRL": {
+    "message": "caset\u0103 combo"
+  },
+  "CHROMEVOX_ROLE_DIALOG": {
+    "message": "Dialog"
+  },
+  "CHROMEVOX_ROLE_DIALOG_BRL": {
+    "message": "caset\u0103 de dialog"
+  },
+  "CHROMEVOX_ROLE_GRID": {
+    "message": "Gril\u0103"
+  },
+  "CHROMEVOX_ROLE_GRID_BRL": {
+    "message": "gril\u0103"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL": {
+    "message": "Celul\u0103"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_BRL": {
+    "message": "celul\u0103 din gril\u0103"
+  },
+  "CHROMEVOX_ROLE_GRIDCELL_POS": {
+    "message": "r\u00e2ndul $1$, coloana $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ROLE_LINK": {
+    "message": "Link"
+  },
+  "CHROMEVOX_ROLE_LINK_BRL": {
+    "message": "link"
+  },
+  "CHROMEVOX_ROLE_LISTBOX": {
+    "message": "Caset\u0103 list\u0103"
+  },
+  "CHROMEVOX_ROLE_LISTBOX_BRL": {
+    "message": "caset\u0103 list\u0103"
+  },
+  "CHROMEVOX_ROLE_LOG": {
+    "message": "Jurnal"
+  },
+  "CHROMEVOX_ROLE_LOG_BRL": {
+    "message": "jurnal"
+  },
+  "CHROMEVOX_ROLE_MARQUEE": {
+    "message": "Text derulant"
+  },
+  "CHROMEVOX_ROLE_MARQUEE_BRL": {
+    "message": "text derulant"
+  },
+  "CHROMEVOX_ROLE_MENU": {
+    "message": "Meniu"
+  },
+  "CHROMEVOX_ROLE_MENU_BRL": {
+    "message": "meniu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR": {
+    "message": "Bar\u0103 de meniu"
+  },
+  "CHROMEVOX_ROLE_MENUBAR_BRL": {
+    "message": "bar\u0103 meniu"
+  },
+  "CHROMEVOX_ROLE_MENUITEM": {
+    "message": "Element din meniu"
+  },
+  "CHROMEVOX_ROLE_MENUITEM_BRL": {
+    "message": "element meniu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX": {
+    "message": "Caset\u0103 de selectare pentru element de meniu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMCHECKBOX_BRL": {
+    "message": "caset\u0103 de selectare element meniu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO": {
+    "message": "Buton radio pentru element de meniu"
+  },
+  "CHROMEVOX_ROLE_MENUITEMRADIO_BRL": {
+    "message": "buton radio element meniu"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON": {
+    "message": "Buton pop-up"
+  },
+  "CHROMEVOX_ROLE_POPUP_BUTTON_BRL": {
+    "message": "buton pop-up"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR": {
+    "message": "Bara de progres"
+  },
+  "CHROMEVOX_ROLE_PROGRESSBAR_BRL": {
+    "message": "bar\u0103 de progres"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR": {
+    "message": "Indicator de progres"
+  },
+  "CHROMEVOX_ROLE_PROGRESS_INDICATOR_BRL": {
+    "message": "bar\u0103 de progres"
+  },
+  "CHROMEVOX_ROLE_RADIO": {
+    "message": "Buton radio"
+  },
+  "CHROMEVOX_ROLE_RADIO_BRL": {
+    "message": "buton radio"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP": {
+    "message": "Grup buton radio"
+  },
+  "CHROMEVOX_ROLE_RADIOGROUP_BRL": {
+    "message": "grup radio"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR": {
+    "message": "Bar\u0103 de defilare"
+  },
+  "CHROMEVOX_ROLE_SCROLLBAR_BRL": {
+    "message": "bar\u0103 de derulare"
+  },
+  "CHROMEVOX_ROLE_SLIDER": {
+    "message": "Glisor"
+  },
+  "CHROMEVOX_ROLE_SLIDER_BRL": {
+    "message": "cursor"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON": {
+    "message": "Buton numeric"
+  },
+  "CHROMEVOX_ROLE_SPINBUTTON_BRL": {
+    "message": "buton rotire"
+  },
+  "CHROMEVOX_ROLE_STATUS": {
+    "message": "Stare"
+  },
+  "CHROMEVOX_ROLE_STATUS_BRL": {
+    "message": "stare"
+  },
+  "CHROMEVOX_ROLE_TAB": {
+    "message": "Fil\u0103"
+  },
+  "CHROMEVOX_ROLE_TAB_BRL": {
+    "message": "fil\u0103"
+  },
+  "CHROMEVOX_ROLE_TABLE": {
+    "message": "Tabel"
+  },
+  "CHROMEVOX_ROLE_TABLE_BRL": {
+    "message": "tabel"
+  },
+  "CHROMEVOX_ROLE_TABLIST": {
+    "message": "List\u0103 de file"
+  },
+  "CHROMEVOX_ROLE_TABLIST_BRL": {
+    "message": "list\u0103 de file"
+  },
+  "CHROMEVOX_ROLE_TABPANEL": {
+    "message": "Panou file"
+  },
+  "CHROMEVOX_ROLE_TABPANEL_BRL": {
+    "message": "panou de file"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX": {
+    "message": "Caset\u0103 de text"
+  },
+  "CHROMEVOX_ROLE_TEXTBOX_BRL": {
+    "message": "caset\u0103 text"
+  },
+  "CHROMEVOX_ROLE_TIMER": {
+    "message": "Temporizator"
+  },
+  "CHROMEVOX_ROLE_TIMER_BRL": {
+    "message": "temporizator"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR": {
+    "message": "Bar\u0103 de instrumente"
+  },
+  "CHROMEVOX_ROLE_TOOLBAR_BRL": {
+    "message": "bar\u0103 de instrumente"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP": {
+    "message": "Balon explicativ"
+  },
+  "CHROMEVOX_ROLE_TOOLTIP_BRL": {
+    "message": "balon explicativ"
+  },
+  "CHROMEVOX_ROLE_TREE": {
+    "message": "Arbore"
+  },
+  "CHROMEVOX_ROLE_TREE_BRL": {
+    "message": "arbore"
+  },
+  "CHROMEVOX_ROLE_TREEITEM": {
+    "message": "Element arbore"
+  },
+  "CHROMEVOX_ROLE_TREEITEM_BRL": {
+    "message": "element arbore"
+  },
+  "CHROMEVOX_ROLE_ARTICLE": {
+    "message": "Articol"
+  },
+  "CHROMEVOX_ROLE_ARTICLE_BRL": {
+    "message": "articol"
+  },
+  "CHROMEVOX_ROLE_APPLICATION": {
+    "message": "Aplica\u021bie"
+  },
+  "CHROMEVOX_ROLE_APPLICATION_BRL": {
+    "message": "aplica\u021bie"
+  },
+  "CHROMEVOX_ROLE_BANNER": {
+    "message": "Banner"
+  },
+  "CHROMEVOX_ROLE_BANNER_BRL": {
+    "message": "banner"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER": {
+    "message": "Antet de coloan\u0103"
+  },
+  "CHROMEVOX_ROLE_COLUMNHEADER_BRL": {
+    "message": "antet coloan\u0103"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY": {
+    "message": "Complementar"
+  },
+  "CHROMEVOX_ROLE_COMPLEMENTARY_BRL": {
+    "message": "complementar"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO": {
+    "message": "Informa\u021bii privind con\u021binutul"
+  },
+  "CHROMEVOX_ROLE_CONTENTINFO_BRL": {
+    "message": "informa\u021bii con\u021binut"
+  },
+  "CHROMEVOX_ROLE_DEFINITION": {
+    "message": "Defini\u021bie"
+  },
+  "CHROMEVOX_ROLE_DEFINITION_BRL": {
+    "message": "defini\u021bie"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY": {
+    "message": "Catalog"
+  },
+  "CHROMEVOX_ROLE_DIRECTORY_BRL": {
+    "message": "director"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT": {
+    "message": "Document"
+  },
+  "CHROMEVOX_ROLE_DOCUMENT_BRL": {
+    "message": "document"
+  },
+  "CHROMEVOX_ROLE_FORM": {
+    "message": "Formular"
+  },
+  "CHROMEVOX_ROLE_FORM_BRL": {
+    "message": "formular"
+  },
+  "CHROMEVOX_ROLE_GROUP": {
+    "message": "Grup"
+  },
+  "CHROMEVOX_ROLE_GROUP_BRL": {
+    "message": "grup"
+  },
+  "CHROMEVOX_ROLE_HEADING": {
+    "message": "Titlu"
+  },
+  "CHROMEVOX_ROLE_HEADING_BRL": {
+    "message": "titlu"
+  },
+  "CHROMEVOX_ROLE_IMG": {
+    "message": "Imagine"
+  },
+  "CHROMEVOX_ROLE_IMG_BRL": {
+    "message": "imagine"
+  },
+  "CHROMEVOX_ROLE_LIST": {
+    "message": "List\u0103"
+  },
+  "CHROMEVOX_ROLE_LIST_BRL": {
+    "message": "list\u0103"
+  },
+  "CHROMEVOX_ROLE_LISTITEM": {
+    "message": "Element din list\u0103"
+  },
+  "CHROMEVOX_ROLE_LISTITEM_BRL": {
+    "message": "element list\u0103"
+  },
+  "CHROMEVOX_ROLE_MAIN": {
+    "message": "Principal"
+  },
+  "CHROMEVOX_ROLE_MAIN_BRL": {
+    "message": "principal"
+  },
+  "CHROMEVOX_ROLE_MATH": {
+    "message": "Matematic\u0103"
+  },
+  "CHROMEVOX_ROLE_MATH_BRL": {
+    "message": "matematic\u0103"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION": {
+    "message": "Navigare"
+  },
+  "CHROMEVOX_ROLE_NAVIGATION_BRL": {
+    "message": "navigare"
+  },
+  "CHROMEVOX_ROLE_NOTE": {
+    "message": "Not\u0103"
+  },
+  "CHROMEVOX_ROLE_NOTE_BRL": {
+    "message": "not\u0103"
+  },
+  "CHROMEVOX_ROLE_REGION": {
+    "message": "Regiune"
+  },
+  "CHROMEVOX_ROLE_REGION_BRL": {
+    "message": "regiune"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER": {
+    "message": "Antet de r\u00e2nd"
+  },
+  "CHROMEVOX_ROLE_ROWHEADER_BRL": {
+    "message": "antet r\u00e2nd"
+  },
+  "CHROMEVOX_ROLE_SEARCH": {
+    "message": "Caut\u0103"
+  },
+  "CHROMEVOX_ROLE_SEARCH_BRL": {
+    "message": "c\u0103uta\u021bi"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR": {
+    "message": "Separator"
+  },
+  "CHROMEVOX_ROLE_SEPARATOR_BRL": {
+    "message": "separator"
+  },
+  "CHROMEVOX_ROLE_METER": {
+    "message": "Instrument de m\u0103surare"
+  },
+  "CHROMEVOX_ROLE_METER_BRL": {
+    "message": "instrument de m\u0103surare"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE": {
+    "message": "Completare automat\u0103 inline"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_INLINE_BRL": {
+    "message": "completare automat\u0103 inline"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST": {
+    "message": "Completare automat\u0103 list\u0103"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_LIST_BRL": {
+    "message": "completare automat\u0103 list\u0103"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH": {
+    "message": "Completare automat\u0103 inline \u0219i list\u0103"
+  },
+  "CHROMEVOX_ARIA_AUTOCOMPLETE_BOTH_BRL": {
+    "message": "completare automat\u0103 inline+list\u0103"
+  },
+  "CHROMEVOX_CHECKED_TRUE": {
+    "message": "Verificat"
+  },
+  "CHROMEVOX_CHECKED_FALSE": {
+    "message": "Nebifat"
+  },
+  "CHROMEVOX_CHECKED_MIXED": {
+    "message": "Verificat par\u021bial"
+  },
+  "CHROMEVOX_ARIA_DISABLED_TRUE": {
+    "message": "Dezactivat"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_TRUE": {
+    "message": "Extins"
+  },
+  "CHROMEVOX_ARIA_EXPANDED_FALSE": {
+    "message": "Restr\u00e2ns"
+  },
+  "CHROMEVOX_ARIA_INVALID_TRUE": {
+    "message": "Intrare nevalid\u0103"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR": {
+    "message": "Gre\u0219eal\u0103 de gramatic\u0103 detectat\u0103"
+  },
+  "CHROMEVOX_ARIA_INVALID_GRAMMAR_BRL": {
+    "message": "gre\u0219eal\u0103 gramatical\u0103"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING": {
+    "message": "Gre\u0219eal\u0103 de scriere detectat\u0103"
+  },
+  "CHROMEVOX_ARIA_INVALID_SPELLING_BRL": {
+    "message": "scris gre\u0219it"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE": {
+    "message": "Mai multe linii"
+  },
+  "CHROMEVOX_ARIA_MULTILINE_TRUE_BRL": {
+    "message": "linii multiple"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE": {
+    "message": "Selectare multipl\u0103"
+  },
+  "CHROMEVOX_ARIA_MULTISELECTABLE_TRUE_BRL": {
+    "message": "selectare multipl\u0103"
+  },
+  "CHROMEVOX_ARIA_PRESSED_TRUE": {
+    "message": "Ap\u0103sat"
+  },
+  "CHROMEVOX_ARIA_PRESSED_FALSE": {
+    "message": "Neap\u0103sat"
+  },
+  "CHROMEVOX_ARIA_PRESSED_MIXED": {
+    "message": "Ap\u0103sat par\u021bial"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE": {
+    "message": "Numai \u00een citire"
+  },
+  "CHROMEVOX_ARIA_READONLY_TRUE_BRL": {
+    "message": "numai \u00een citire"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE": {
+    "message": "Solicitate"
+  },
+  "CHROMEVOX_ARIA_REQUIRED_TRUE_BRL": {
+    "message": "obligatoriu"
+  },
+  "CHROMEVOX_ARIA_SELECTED_TRUE": {
+    "message": "Selectat"
+  },
+  "CHROMEVOX_ARIA_SELECTED_FALSE": {
+    "message": "Neselectat"
+  },
+  "CHROMEVOX_VISITED_LINK": {
+    "message": "Link accesat"
+  },
+  "CHROMEVOX_VISITED_LINK_BRL": {
+    "message": "link accesat"
+  },
+  "CHROMEVOX_VISITED_STATE": {
+    "message": "Accesat"
+  },
+  "CHROMEVOX_VISITED_STATE_BRL": {
+    "message": "accesat"
+  },
+  "CHROMEVOX_TAG_H1": {
+    "message": "Titlu 1"
+  },
+  "CHROMEVOX_TAG_H1_BRL": {
+    "message": "titlu 1"
+  },
+  "CHROMEVOX_TAG_H2": {
+    "message": "Titlu 2"
+  },
+  "CHROMEVOX_TAG_H2_BRL": {
+    "message": "titlu 2"
+  },
+  "CHROMEVOX_TAG_H3": {
+    "message": "Titlu 3"
+  },
+  "CHROMEVOX_TAG_H3_BRL": {
+    "message": "titlu 3"
+  },
+  "CHROMEVOX_TAG_H4": {
+    "message": "Titlu 4"
+  },
+  "CHROMEVOX_TAG_H4_BRL": {
+    "message": "titlu 4"
+  },
+  "CHROMEVOX_TAG_H5": {
+    "message": "Titlu 5"
+  },
+  "CHROMEVOX_TAG_H5_BRL": {
+    "message": "titlu 5"
+  },
+  "CHROMEVOX_TAG_H6": {
+    "message": "Titlu 6"
+  },
+  "CHROMEVOX_TAG_H6_BRL": {
+    "message": "titlu 6"
+  },
+  "CHROMEVOX_TAG_LI": {
+    "message": "Element din list\u0103"
+  },
+  "CHROMEVOX_TAG_LI_BRL": {
+    "message": "element list\u0103"
+  },
+  "CHROMEVOX_TAG_OL": {
+    "message": "List\u0103 ordonat\u0103"
+  },
+  "CHROMEVOX_TAG_OL_BRL": {
+    "message": "list\u0103"
+  },
+  "CHROMEVOX_TAG_SELECT": {
+    "message": "Caset\u0103 combo"
+  },
+  "CHROMEVOX_TAG_SELECT_BRL": {
+    "message": "caset\u0103 combo"
+  },
+  "CHROMEVOX_TAG_TEXTAREA": {
+    "message": "Zon\u0103 de text"
+  },
+  "CHROMEVOX_TAG_TEXTAREA_BRL": {
+    "message": "zon\u0103 text"
+  },
+  "CHROMEVOX_TAG_TABLE": {
+    "message": "tabel"
+  },
+  "CHROMEVOX_TAG_TABLE_BRL": {
+    "message": "tabel"
+  },
+  "CHROMEVOX_TAG_UL": {
+    "message": "List\u0103"
+  },
+  "CHROMEVOX_TAG_UL_BRL": {
+    "message": "list\u0103"
+  },
+  "CHROMEVOX_TAG_SECTION": {
+    "message": "Sec\u021biune"
+  },
+  "CHROMEVOX_TAG_SECTION_BRL": {
+    "message": "sec\u021biune"
+  },
+  "CHROMEVOX_TAG_NAV": {
+    "message": "Navigare"
+  },
+  "CHROMEVOX_TAG_NAV_BRL": {
+    "message": "navigare"
+  },
+  "CHROMEVOX_TAG_ARTICLE": {
+    "message": "Articol"
+  },
+  "CHROMEVOX_TAG_ARTICLE_BRL": {
+    "message": "articol"
+  },
+  "CHROMEVOX_TAG_ASIDE": {
+    "message": "Separat"
+  },
+  "CHROMEVOX_TAG_ASIDE_BRL": {
+    "message": "separat"
+  },
+  "CHROMEVOX_TAG_HGROUP": {
+    "message": "Grup de titluri"
+  },
+  "CHROMEVOX_TAG_HGROUP_BRL": {
+    "message": "grup de titluri"
+  },
+  "CHROMEVOX_TAG_HEADER": {
+    "message": "Antet"
+  },
+  "CHROMEVOX_TAG_HEADER_BRL": {
+    "message": "antet"
+  },
+  "CHROMEVOX_TAG_FOOTER": {
+    "message": "Not\u0103 de subsol"
+  },
+  "CHROMEVOX_TAG_FOOTER_BRL": {
+    "message": "not\u0103 subsol"
+  },
+  "CHROMEVOX_TAG_TIME": {
+    "message": "Or\u0103"
+  },
+  "CHROMEVOX_TAG_MARK": {
+    "message": "Marcaj"
+  },
+  "CHROMEVOX_TAG_MARK_BRL": {
+    "message": "marcaj"
+  },
+  "CHROMEVOX_TAG_VIDEO": {
+    "message": "Video"
+  },
+  "CHROMEVOX_TAG_VIDEO_BRL": {
+    "message": "video"
+  },
+  "CHROMEVOX_TAG_AUDIO": {
+    "message": "Audio"
+  },
+  "CHROMEVOX_TAG_AUDIO_BRL": {
+    "message": "audio"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR": {
+    "message": "Selector de culoare"
+  },
+  "CHROMEVOX_INPUT_TYPE_COLOR_BRL": {
+    "message": "selector de culoare"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME": {
+    "message": "Comand\u0103 pentru dat\u0103/or\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_BRL": {
+    "message": "dat\u0103 or\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME": {
+    "message": "Comand\u0103 pentru or\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_TIME_BRL": {
+    "message": "or\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL": {
+    "message": "Comand\u0103 pentru dat\u0103/or\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATETIME_LOCAL_BRL": {
+    "message": "dat\u0103 or\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE": {
+    "message": "Comand\u0103 pentru dat\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_DATE_BRL": {
+    "message": "dat\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL": {
+    "message": "C\u00e2mp pentru editare text de tip e-mail"
+  },
+  "CHROMEVOX_INPUT_TYPE_EMAIL_BRL": {
+    "message": "@ed 8pct"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE": {
+    "message": "Selectare fi\u0219ier"
+  },
+  "CHROMEVOX_INPUT_TYPE_FILE_BRL": {
+    "message": "fi\u0219ier"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH": {
+    "message": "Comand\u0103 pentru lun\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_MONTH_BRL": {
+    "message": "lun\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER": {
+    "message": "C\u00e2mp text de editare exclusiv numeric"
+  },
+  "CHROMEVOX_INPUT_TYPE_NUMBER_BRL": {
+    "message": "num\u0103r"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD": {
+    "message": "C\u00e2mp text de editare a parolei"
+  },
+  "CHROMEVOX_INPUT_TYPE_PASSWORD_BRL": {
+    "message": "parol\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET": {
+    "message": "Reseteaz\u0103"
+  },
+  "CHROMEVOX_INPUT_TYPE_RESET_BRL": {
+    "message": "reseta\u021bi"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH": {
+    "message": "C\u00e2mp pentru editare text de tip c\u0103utare"
+  },
+  "CHROMEVOX_INPUT_TYPE_SEARCH_BRL": {
+    "message": "c\u0103utare"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT": {
+    "message": "C\u00e2mp text de editare"
+  },
+  "CHROMEVOX_INPUT_TYPE_TEXT_BRL": {
+    "message": "caset\u0103 text"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL": {
+    "message": "C\u00e2mp editare text de tip adres\u0103 URL"
+  },
+  "CHROMEVOX_INPUT_TYPE_URL_BRL": {
+    "message": "urled 8pct"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK": {
+    "message": "Comand\u0103 pentru s\u0103pt\u0103m\u00e2na din an"
+  },
+  "CHROMEVOX_INPUT_TYPE_WEEK_BRL": {
+    "message": "s\u0103pt\u0103m\u00e2n\u0103"
+  },
+  "CHROMEVOX_INTERNAL_LINK": {
+    "message": "Link intern"
+  },
+  "CHROMEVOX_INTERNAL_LINK_BRL": {
+    "message": "link intern"
+  },
+  "CHROMEVOX_TEXT_BOX_BLANK": {
+    "message": "Necompletat\u0103"
+  },
+  "CHROMEVOX_TEXT_BOX_WHITESPACE": {
+    "message": "Spa\u021biu"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED": {
+    "message": "cu $1$ elemente",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_NOT_PLURALIZED_BRL": {
+    "message": "+$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS": {
+    "message": "cu {COUNT,plural, =1{# element}few{# elemente}other{# de elemente}}"
+  },
+  "CHROMEVOX_LIST_WITH_ITEMS_BRL": {
+    "message": "+{COUNT,plural, =1{#}few{#}other{#}}"
+  },
+  "CHROMEVOX_STATE_PERCENT": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STATE_PERCENT_BRL": {
+    "message": "$1$%",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_HAS_SUBMENU": {
+    "message": "cu submeniu"
+  },
+  "CHROMEVOX_HAS_POPUP": {
+    "message": "are fereastr\u0103 pop-up"
+  },
+  "CHROMEVOX_HAS_POPUP_BRL": {
+    "message": "are fereastr\u0103 pop-up"
+  },
+  "CHROMEVOX_COLLECTION": {
+    "message": "Colec\u021bia $1$ cu $2$ elemente",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_ENTER_KEY": {
+    "message": "Enter"
+  },
+  "CHROMEVOX_SPACE_KEY": {
+    "message": "Spa\u021biu"
+  },
+  "CHROMEVOX_BACKSPACE_KEY": {
+    "message": "Backspace"
+  },
+  "CHROMEVOX_TAB_KEY": {
+    "message": "Fil\u0103"
+  },
+  "CHROMEVOX_LEFT_KEY": {
+    "message": "St\u00e2nga"
+  },
+  "CHROMEVOX_UP_KEY": {
+    "message": "\u00cen sus"
+  },
+  "CHROMEVOX_RIGHT_KEY": {
+    "message": "Dreapta"
+  },
+  "CHROMEVOX_DOWN_KEY": {
+    "message": "Jos"
+  },
+  "CHROMEVOX_UNKNOWN_LINK": {
+    "message": "Link necunoscut"
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX_ACTIVE": {
+    "message": "Comuta\u021bi ChromeVox la activ sau inactiv."
+  },
+  "CHROMEVOX_CHROMEVOX_INACTIVE": {
+    "message": "Acum, ChromeVox este inactiv."
+  },
+  "CHROMEVOX_TOGGLE_CHROMEVOX": {
+    "message": "Activeaz\u0103/dezactiveaz\u0103 ChromeVox classic."
+  },
+  "CHROMEVOX_PAUSE": {
+    "message": ", "
+  },
+  "CHROMEVOX_PREVIOUS_DIFFERENT_ELEMENT": {
+    "message": "Elementul diferit anterior."
+  },
+  "CHROMEVOX_NEXT_DIFFERENT_ELEMENT": {
+    "message": "Elementul diferit urm\u0103tor."
+  },
+  "CHROMEVOX_PREVIOUS_SIMILAR_ELEMENT": {
+    "message": "Elementul similar anterior."
+  },
+  "CHROMEVOX_NEXT_SIMILAR_ELEMENT": {
+    "message": "Elementul similar urm\u0103tor."
+  },
+  "CHROMEVOX_NO_MORE_SIMILAR_ELEMENTS": {
+    "message": "Nu mai exist\u0103 elemente similare."
+  },
+  "CHROMEVOX_NO_MORE_DIFFERENT_ELEMENTS": {
+    "message": "Nu mai exist\u0103 elemente diferite."
+  },
+  "CHROMEVOX_ENTER_CSS_SPACE": {
+    "message": "Trece la explorarea grupului"
+  },
+  "CHROMEVOX_ENTER_GROUP_EXPLORATION": {
+    "message": "Explorarea grupurilor"
+  },
+  "CHROMEVOX_OBJECT_STRATEGY": {
+    "message": "Obiect"
+  },
+  "CHROMEVOX_GROUP_STRATEGY": {
+    "message": "Grup"
+  },
+  "CHROMEVOX_TABLE_STRATEGY": {
+    "message": "Tabel"
+  },
+  "CHROMEVOX_ROW_GRANULARITY": {
+    "message": "R\u00e2nd"
+  },
+  "CHROMEVOX_COLUMN_GRANULARITY": {
+    "message": "Coloan\u0103"
+  },
+  "CHROMEVOX_ROLE_ROW": {
+    "message": "R\u00e2nd"
+  },
+  "CHROMEVOX_ROLE_COLUMN": {
+    "message": "Coloan\u0103"
+  },
+  "CHROMEVOX_ROLE_ROW_BRL": {
+    "message": "r\u00e2nd"
+  },
+  "CHROMEVOX_ROLE_COLUMN_BRL": {
+    "message": "coloan\u0103"
+  },
+  "CHROMEVOX_MATHML_TREE_GRANULARITY": {
+    "message": "Arbore Math ML"
+  },
+  "CHROMEVOX_MATHML_LAYOUT_GRANULARITY": {
+    "message": "Aspect Math ML"
+  },
+  "CHROMEVOX_MATHML_TOKEN_GRANULARITY": {
+    "message": "Indicativ Math ML"
+  },
+  "CHROMEVOX_MATHML_LEAF_GRANULARITY": {
+    "message": "Frunz\u0103 Math ML"
+  },
+  "CHROMEVOX_VISUAL_STRATEGY": {
+    "message": "Vizual"
+  },
+  "CHROMEVOX_CUSTOM_STRATEGY": {
+    "message": "Personalizeaz\u0103"
+  },
+  "CHROMEVOX_LINE_GRANULARITY": {
+    "message": "R\u00e2nd"
+  },
+  "CHROMEVOX_SENTENCE_GRANULARITY": {
+    "message": "Propozi\u021bie"
+  },
+  "CHROMEVOX_WORD_GRANULARITY": {
+    "message": "Cuv\u00e2nt"
+  },
+  "CHROMEVOX_CHARACTER_GRANULARITY": {
+    "message": "Caracter"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO": {
+    "message": "G\u0103se\u0219te \u00een pagin\u0103"
+  },
+  "CHROMEVOX_SEARCH_WIDGET_INTRO_HELP": {
+    "message": "Introduce\u021bi o interogare de c\u0103utare."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_OUTRO": {
+    "message": "S-a ie\u0219it din G\u0103se\u0219te \u00een pagin\u0103."
+  },
+  "CHROMEVOX_SEARCH_WIDGET_NO_RESULTS": {
+    "message": "Nu exist\u0103 alte rezultate."
+  },
+  "CHROMEVOX_MODIFIER_KEYS": {
+    "message": "Taste de modificare"
+  },
+  "CHROMEVOX_NAVIGATION": {
+    "message": "Navigare ChromeVox"
+  },
+  "CHROMEVOX_INFORMATION": {
+    "message": "Informa\u021bii"
+  },
+  "CHROMEVOX_HELP_COMMANDS": {
+    "message": "Comenzi pentru ajutor"
+  },
+  "CHROMEVOX_CONTROLLING_SPEECH": {
+    "message": "Comenzi pentru vorbire"
+  },
+  "CHROMEVOX_OVERVIEW": {
+    "message": "Prezentare general\u0103"
+  },
+  "CHROMEVOX_TABLES": {
+    "message": "Tabele"
+  },
+  "CHROMEVOX_JUMP_COMMANDS": {
+    "message": "Comenzi de accesare"
+  },
+  "CHROMEVOX_BRAILLE": {
+    "message": "Braille"
+  },
+  "CHROMEVOX_DEVELOPER": {
+    "message": "Dezvoltator"
+  },
+  "CHROMEVOX_KEYMAP_CLASSIC": {
+    "message": "Harta clasic\u0103 a tastelor"
+  },
+  "CHROMEVOX_KEYMAP_NEXT": {
+    "message": "Hart\u0103 de taste Next"
+  },
+  "CHROMEVOX_KEYMAP_FLAT": {
+    "message": "Hart\u0103 taste plat\u0103"
+  },
+  "CHROMEVOX_KEYMAP_EXPERIMENTAL": {
+    "message": "Hart\u0103 taste experimental\u0103"
+  },
+  "CHROMEVOX_ENABLE_TTS_LOG": {
+    "message": "Activa\u021bi \u00eenregistrarea TTS"
+  },
+  "CHROMEVOX_BEGIN_SELECTION": {
+    "message": "S-a \u00eenceput selectarea"
+  },
+  "CHROMEVOX_END_SELECTION": {
+    "message": "\u00cencheia\u021bi selectarea"
+  },
+  "CHROMEVOX_SELECTION_IS": {
+    "message": "Selec\u021bia este "
+  },
+  "CHROMEVOX_TOGGLE_SELECTION": {
+    "message": "\u00cencepe sau \u00eencheie selec\u021bia."
+  },
+  "CHROMEVOX_COPY": {
+    "message": "copiaz\u0103 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CUT": {
+    "message": "decupeaz\u0103 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_PASTE": {
+    "message": "insereaz\u0103 $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED": {
+    "message": "selectate"
+  },
+  "CHROMEVOX_UNSELECTED": {
+    "message": "neselectat"
+  },
+  "CHROMEVOX_ADDED_TO_SELECTION": {
+    "message": "ad\u0103ugate la selec\u021bie"
+  },
+  "CHROMEVOX_REMOVED_FROM_SELECTION": {
+    "message": "eliminate din selec\u021bie"
+  },
+  "CHROMEVOX_THEN": {
+    "message": "apoi"
+  },
+  "CHROMEVOX_FOLLOWED_BY": {
+    "message": "urmat\u0103 de"
+  },
+  "CHROMEVOX_MODIFIER_KEY": {
+    "message": "modificator ChromeVox"
+  },
+  "CHROMEVOX_KEY_CONFLICT": {
+    "message": "$1$ este deja atribuit\u0103 pentru o comand\u0103.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_MATH_EXPR": {
+    "message": "Matematic\u0103"
+  },
+  "CHROMEVOX_MATH_EXPR_BRL": {
+    "message": "matematic\u0103"
+  },
+  "CHROMEVOX_NOT_INSIDE_MATH": {
+    "message": "Nu este \u00een expresie matematic\u0103"
+  },
+  "CHROMEVOX_TIMEWIDGET_AMPM": {
+    "message": "a.m. p.m."
+  },
+  "CHROMEVOX_TIMEWIDGET_HOURS": {
+    "message": "ore"
+  },
+  "CHROMEVOX_TIMEWIDGET_MINUTES": {
+    "message": "minute"
+  },
+  "CHROMEVOX_TIMEWIDGET_SECONDS": {
+    "message": "secunde"
+  },
+  "CHROMEVOX_TIMEWIDGET_MILLISECONDS": {
+    "message": "milisecunde"
+  },
+  "CHROMEVOX_TIMEWIDGET_AM": {
+    "message": "a.m."
+  },
+  "CHROMEVOX_TIMEWIDGET_PM": {
+    "message": "p.m."
+  },
+  "CHROMEVOX_DATEWIDGET_WEEK": {
+    "message": "s\u0103pt\u0103m\u00e2n\u0103"
+  },
+  "CHROMEVOX_DATEWIDGET_JANUARY": {
+    "message": "Ianuarie"
+  },
+  "CHROMEVOX_DATEWIDGET_FEBRUARY": {
+    "message": "Februarie"
+  },
+  "CHROMEVOX_DATEWIDGET_MARCH": {
+    "message": "Martie"
+  },
+  "CHROMEVOX_DATEWIDGET_APRIL": {
+    "message": "Aprilie"
+  },
+  "CHROMEVOX_DATEWIDGET_MAY": {
+    "message": "Mai"
+  },
+  "CHROMEVOX_DATEWIDGET_JUNE": {
+    "message": "Iunie"
+  },
+  "CHROMEVOX_DATEWIDGET_JULY": {
+    "message": "Iulie"
+  },
+  "CHROMEVOX_DATEWIDGET_AUGUST": {
+    "message": "August"
+  },
+  "CHROMEVOX_DATEWIDGET_SEPTEMBER": {
+    "message": "Septembrie"
+  },
+  "CHROMEVOX_DATEWIDGET_OCTOBER": {
+    "message": "Octombrie"
+  },
+  "CHROMEVOX_DATEWIDGET_NOVEMBER": {
+    "message": "Noiembrie"
+  },
+  "CHROMEVOX_DATEWIDGET_DECEMBER": {
+    "message": "Decembrie"
+  },
+  "CHROMEVOX_NO_PUNCTUATION": {
+    "message": "Niciun semn de punctua\u021bie"
+  },
+  "CHROMEVOX_SOME_PUNCTUATION": {
+    "message": "Unele semne de punctua\u021bie"
+  },
+  "CHROMEVOX_ALL_PUNCTUATION": {
+    "message": "Toate semnele de punctua\u021bie"
+  },
+  "CHROMEVOX_SEARCH_HELP_ITEM": {
+    "message": "Ap\u0103sa\u021bi pe Enter pentru a accepta sau pe Escape pentru a anula, pe s\u0103geata \u00een jos pentru \u00cenainte \u0219i pe s\u0103geata \u00een sus pentru \u00cenapoi."
+  },
+  "CHROMEVOX_CLICKABLE": {
+    "message": "pe care se poate da clic"
+  },
+  "CHROMEVOX_CLICKABLE_BRL": {
+    "message": "pe care se poate da clic"
+  },
+  "CHROMEVOX_PREVIOUS_CHARACTER": {
+    "message": "Caracterul anterior"
+  },
+  "CHROMEVOX_NEXT_CHARACTER": {
+    "message": "Caracterul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_WORD": {
+    "message": "Cuv\u00e2nt anterior"
+  },
+  "CHROMEVOX_NEXT_WORD": {
+    "message": "Cuv\u00e2ntul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_SENTENCE": {
+    "message": "Propozi\u021bia anterioar\u0103"
+  },
+  "CHROMEVOX_NEXT_SENTENCE": {
+    "message": "Propozi\u021bia urm\u0103toare"
+  },
+  "CHROMEVOX_PREVIOUS_LINE": {
+    "message": "R\u00e2ndul anterior"
+  },
+  "CHROMEVOX_NEXT_LINE": {
+    "message": "R\u00e2ndul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_OBJECT": {
+    "message": "Obiectul anterior"
+  },
+  "CHROMEVOX_NEXT_OBJECT": {
+    "message": "Obiectul urm\u0103tor"
+  },
+  "CHROMEVOX_PREVIOUS_GROUP": {
+    "message": "Grupul anterior"
+  },
+  "CHROMEVOX_NEXT_GROUP": {
+    "message": "Grupul urm\u0103tor"
+  },
+  "CHROMEVOX_ROLE_LANDMARK": {
+    "message": "Reper"
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_ERROR": {
+    "message": "Nu a fost ap\u0103sat niciun modificator; ap\u0103sa\u021bi \u0219i men\u021bine\u021bi ap\u0103sat pe unul sau mai mul\u021bi modificatori; dup\u0103 efectuare, ridica\u021bi degetele \u0219i ve\u021bi auzi tastele setate. Ap\u0103sa\u021bi pe tasta Tab pentru a ie\u0219i."
+  },
+  "CHROMEVOX_MODIFIER_ENTRY_SET": {
+    "message": "$1$ este noul modificator ChromeVox.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_RESET": {
+    "message": "$1$ a fost resetat\u0103.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_KEYMAP_SWITCH": {
+    "message": "S-a comutat la $1$.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_JUMP_TO_TOP": {
+    "message": "Naviga\u021bi la \u00eenceputul paginii"
+  },
+  "CHROMEVOX_JUMP_TO_BOTTOM": {
+    "message": "Naviga\u021bi la sf\u00e2r\u0219itul paginii"
+  },
+  "CHROMEVOX_WRAPPED_TO_TOP": {
+    "message": "\u00cencadrare sus"
+  },
+  "CHROMEVOX_WRAPPED_TO_BOTTOM": {
+    "message": "\u00cencadrare jos"
+  },
+  "CHROMEVOX_CYCLE_PUNCTUATION_ECHO": {
+    "message": "Repet\u0103 ecoul la punctua\u021bie"
+  },
+  "CHROMEVOX_CYCLE_TYPING_ECHO": {
+    "message": "Repet\u0103 ecoul la tastare"
+  },
+  "CHROMEVOX_PAUSE_ALL_MEDIA": {
+    "message": "\u00centrerupe toate widgeturile care redau con\u021binut media"
+  },
+  "CHROMEVOX_OPEN_LONG_DESC": {
+    "message": "Deschide\u021bi descrierea lung\u0103 \u00eentr-o fil\u0103 nou\u0103"
+  },
+  "CHROMEVOX_NO_LONG_DESC": {
+    "message": "F\u0103r\u0103 descriere lung\u0103"
+  },
+  "CHROMEVOX_IMAGE_WITH_LONG_DESC": {
+    "message": "Imagine cu descriere lung\u0103"
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE": {
+    "message": "De la $1$ la $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_VALUE_BRL": {
+    "message": "$1$ \u2013 $2$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE": {
+    "message": "$1$ elemente selectate",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_SELECTED_OPTIONS_STATE_BRL": {
+    "message": "$1$ selectate",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_CLEAR_PAGE_SELECTION": {
+    "message": "sec\u021biune eliminat\u0103"
+  },
+  "CHROMEVOX_CHARACTER_ECHO": {
+    "message": "ecou caracter"
+  },
+  "CHROMEVOX_WORD_ECHO": {
+    "message": "ecou cuv\u00e2nt"
+  },
+  "CHROMEVOX_CHARACTER_AND_WORD_ECHO": {
+    "message": "ecou caracter \u0219i cuv\u00e2nt"
+  },
+  "CHROMEVOX_NONE_ECHO": {
+    "message": "f\u0103r\u0103 ecou la tastare"
+  },
+  "CHROMEVOX_ENTER_CONTENT": {
+    "message": "intra\u021bi \u00een con\u021binut structurat, cum ar fi tabelele"
+  },
+  "CHROMEVOX_EXIT_CONTENT": {
+    "message": "se iese din con\u021binutul structurat, cum ar fi tabelele"
+  },
+  "CHROMEVOX_ENTER_CONTENT_SAY": {
+    "message": "s-a accesat $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_STRUCTURAL_LINE": {
+    "message": "linie de structur\u0103"
+  },
+  "CHROMEVOX_LAYOUT_LINE": {
+    "message": "r\u00e2nd"
+  },
+  "CHROMEVOX_TOGGLE_LINE_TYPE": {
+    "message": "Comuta\u021bi tipul de linie \u00eentre cel de structur\u0103 \u0219i cel de aspect"
+  },
+  "CHROMEVOX_TABLE_SHIFTER": {
+    "message": "tabel"
+  },
+  "CHROMEVOX_NAVIGATION_SHIFTER": {
+    "message": "navigare prestabilit\u0103"
+  },
+  "CHROMEVOX_MATH_SHIFTER": {
+    "message": "matematic\u0103"
+  },
+  "CHROMEVOX_TOGGLE_SEMANTICS": {
+    "message": "Comuta\u021bi interpretarea expresiilor matematice \u00eentre structural\u0103 \u0219i semantic\u0103"
+  },
+  "CHROMEVOX_SEMANTICS_ON": {
+    "message": "Interpretare semantic\u0103 activat\u0103"
+  },
+  "CHROMEVOX_SEMANTICS_OFF": {
+    "message": "Interpretare semantic\u0103 dezactivat\u0103"
+  },
+  "CHROMEVOX_PHONETIC_MAP": {
+    "message": "{\"a\": \"alpha\", \"b\": \"bravo\", \"c\": \"charlie\", \"d\": \"delta\", \"e\": \"echo\", \"f\": \"foxtrot\", \"g\": \"golf\", \"h\": \"hotel\", \"i\": \"india\", \"j\": \"juliet\",\"k\": \"kilo\", \"l\": \"lima\", \"m\": \"mike\", \"n\": \"november\", \"o\": \"oscar\",\"p\": \"papa\", \"q\": \"quebec\", \"r\": \"romeo\", \"s\": \"sierra\", \"t\": \"tango\", \"u\": \"uniform\", \"v\": \"victor\", \"w\": \"whiskey\",\"x\": \"xray\", \"y\": \"yankee\", \"z\": \"zulu\"}"
+  },
+  "CHROMEVOX_REVIEW_ALERTS": {
+    "message": "Ap\u0103sa\u021bi pe Alt+Shift+A pentru a examina alertele"
+  },
+  "CHROMEVOX_NO_NEXT_ARTICLE": {
+    "message": "Nu exist\u0103 un articol urm\u0103tor."
+  },
+  "CHROMEVOX_NO_PREVIOUS_ARTICLE": {
+    "message": "Nu exist\u0103 niciun articol anterior."
+  },
+  "CHROMEVOX_CHROMEVOX_INTRO": {
+    "message": "Feedbackul vocal ChromeVox este configurat"
+  },
+  "CHROMEVOX_INTRO_BRL": {
+    "message": "ChromeVox configurat"
+  },
+  "CHROMEVOX_EARCONS_ON": {
+    "message": "Semnalele audio sunt activate"
+  },
+  "CHROMEVOX_EARCONS_OFF": {
+    "message": "Semnalele audio sunt dezactivate"
+  },
+  "CHROMEVOX_TOGGLE_EARCONS": {
+    "message": "Activa\u021bi/dezactiva\u021bi feedbackul sonor (semnalele audio)."
+  },
+  "CHROMEVOX_SPEAK_TIME_AND_DATE": {
+    "message": "Roste\u0219te ora \u0219i data actuale."
+  },
+  "CHROMEVOX_MARK_AS_SEARCH_RESULT_BRL": {
+    "message": "C:$1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_TEXT_DELETED": {
+    "message": "\u0218ters"
+  },
+  "CHROMEVOX_PERFORM_DEFAULT_ACTION": {
+    "message": "Efectueaz\u0103 ac\u021biunea prestabilit\u0103"
+  },
+  "CHROMEVOX_EXCLAMATION": {
+    "message": "{COUNT,plural, =1{semn de exclamare}few{# semne de exclamare}other{# de semne de exclamare}}"
+  },
+  "CHROMEVOX_SPACE": {
+    "message": "{COUNT,plural, =1{spa\u021biu}few{# spa\u021bii}other{# de spa\u021bii}}"
+  },
+  "CHROMEVOX_BACKTICK": {
+    "message": "{COUNT,plural, =1{ghilimea simpl\u0103}few{# ghilimele simple}other{# de ghilimele simple}}"
+  },
+  "CHROMEVOX_TILDE": {
+    "message": "{COUNT,plural, =1{TILD\u0102}few{# tilde}other{# de tilde}}"
+  },
+  "CHROMEVOX_AT": {
+    "message": "{COUNT,plural, =1{arond}few{# aronduri}other{# de aronduri}}"
+  },
+  "CHROMEVOX_POUND": {
+    "message": "{COUNT,plural, =1{lir\u0103}few{# semne lir\u0103}other{# de semne de lir\u0103}}"
+  },
+  "CHROMEVOX_DOLLAR": {
+    "message": "{COUNT,plural, =1{dolar}few{# semne dolar}other{# de semne dolar}}"
+  },
+  "CHROMEVOX_PERCENT": {
+    "message": "{COUNT,plural, =1{procent}few{# semne de procent}other{# de semne de procent}}"
+  },
+  "CHROMEVOX_CARET": {
+    "message": "{COUNT,plural, =1{accent circumflex}few{# accente circumflexe}other{# de accente circumflexe}}"
+  },
+  "CHROMEVOX_AMPERSAND": {
+    "message": "{COUNT,plural, =1{semn de leg\u0103tur\u0103}few{# semne de leg\u0103tur\u0103}other{# de semne de leg\u0103tur\u0103}}"
+  },
+  "CHROMEVOX_ASTERISK": {
+    "message": "{COUNT,plural, =1{asterisc}few{# asteriscuri}other{# de asteriscuri}}"
+  },
+  "CHROMEVOX_OPEN_PAREN": {
+    "message": "{COUNT,plural, =1{parantez\u0103 deschis\u0103}few{# paranteze deschise}other{# de paranteze deschise}}"
+  },
+  "CHROMEVOX_CLOSE_PAREN": {
+    "message": "{COUNT,plural, =1{parantez\u0103 \u00eenchis\u0103}few{# paranteze \u00eenchise}other{# de paranteze \u00eenchise}}"
+  },
+  "CHROMEVOX_DASH": {
+    "message": "{COUNT,plural, =1{cratim\u0103}few{# cratime}other{# de cratime}}"
+  },
+  "CHROMEVOX_UNDERSCORE": {
+    "message": "{COUNT,plural, =1{caracter de subliniere}few{# caractere de subliniere}other{# de caractere de subliniere}}"
+  },
+  "CHROMEVOX_EQUALS": {
+    "message": "{COUNT,plural, =1{egal}few{# semne egal}other{# de semne egal}}"
+  },
+  "CHROMEVOX_PLUS": {
+    "message": "{COUNT,plural, =1{plus}few{# semne plus}other{# de semne plus}}"
+  },
+  "CHROMEVOX_LEFT_BRACKET": {
+    "message": "{COUNT,plural, =1{parantez\u0103 p\u0103trat\u0103 st\u00e2nga}few{# paranteze p\u0103trate st\u00e2nga}other{# de paranteze p\u0103trate st\u00e2nga}}"
+  },
+  "CHROMEVOX_RIGHT_BRACKET": {
+    "message": "{COUNT,plural, =1{parantez\u0103 p\u0103trat\u0103 dreapta}few{# paranteze p\u0103trate dreapta}other{# de paranteze p\u0103trate dreapta}}"
+  },
+  "CHROMEVOX_LEFT_BRACE": {
+    "message": "{COUNT,plural, =1{acolad\u0103 st\u00e2nga}few{# acolade st\u00e2nga}other{# de acolade st\u00e2nga}}"
+  },
+  "CHROMEVOX_RIGHT_BRACE": {
+    "message": "{COUNT,plural, =1{acolad\u0103 dreapta}few{# acolade dreapta}other{# de acolade dreapta}}"
+  },
+  "CHROMEVOX_PIPE": {
+    "message": "{COUNT,plural, =1{bar\u0103 vertical\u0103}few{# bare verticale}other{# de bare verticale}}"
+  },
+  "CHROMEVOX_SEMICOLON": {
+    "message": "{COUNT,plural, =1{semn punct \u0219i virgul\u0103}few{# semne punct \u0219i virgul\u0103}other{# de semne punct \u0219i virgul\u0103}}"
+  },
+  "CHROMEVOX_COLON": {
+    "message": "{COUNT,plural, =1{semn dou\u0103 puncte}few{# semne dou\u0103 puncte}other{# de semne dou\u0103 puncte}}"
+  },
+  "CHROMEVOX_COMMA": {
+    "message": "{COUNT,plural, =1{virgul\u0103}few{# virgule}other{# de virgule}}"
+  },
+  "CHROMEVOX_DOT": {
+    "message": "{COUNT,plural, =1{punct}=3{puncte de suspensie}few{# puncte}other{# de puncte}}"
+  },
+  "CHROMEVOX_LESS_THAN": {
+    "message": "{COUNT,plural, =1{semn mai mic}few{# semne mai mic}other{# de semne mai mic}}"
+  },
+  "CHROMEVOX_GREATER_THAN": {
+    "message": "{COUNT,plural, =1{semn mai mare}few{# semne mai mare}other{# de semne mai mare}}"
+  },
+  "CHROMEVOX_SLASH": {
+    "message": "{COUNT,plural, =1{bar\u0103 oblic\u0103 spre dreapta}few{# bare oblice spre dreapta}other{# de bare oblice spre dreapta}}"
+  },
+  "CHROMEVOX_QUESTION_MARK": {
+    "message": "{COUNT,plural, =1{semn de \u00eentrebare}few{# semne de \u00eentrebare}other{# de semne de \u00eentrebare}}"
+  },
+  "CHROMEVOX_QUOTE": {
+    "message": "{COUNT,plural, =1{ghilimea}few{# ghilimele}other{# de ghilimele}}"
+  },
+  "CHROMEVOX_APOSTROPHE": {
+    "message": "{COUNT,plural, =1{apostrof}few{# apostrofuri}other{# de apostrofuri}}"
+  },
+  "CHROMEVOX_TAB": {
+    "message": "{COUNT,plural, =1{tabulator}few{# tabulatori}other{# de tabulatori}}"
+  },
+  "CHROMEVOX_BACKSLASH": {
+    "message": "{COUNT,plural, =1{bar\u0103 oblic\u0103 invers\u0103}few{# bare oblice inverse}other{# de bare oblice inverse}}"
+  },
+  "CHROMEVOX_BULLET": {
+    "message": "{COUNT,plural, =1{marcator}few{# marcatori}other{# de marcatori}}"
+  },
+  "CHROMEVOX_BRAILLE_ROUTING": {
+    "message": "D\u0103 clic pe elementul de sub tasta de deplasare $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_PAN_LEFT": {
+    "message": "Deplaseaz\u0103 \u00eenapoi"
+  },
+  "CHROMEVOX_BRAILLE_PAN_RIGHT": {
+    "message": "Deplaseaz\u0103 \u00eenainte"
+  },
+  "CHROMEVOX_BRAILLE_LINE_UP": {
+    "message": "R\u00e2ndul Braille anterior"
+  },
+  "CHROMEVOX_BRAILLE_LINE_DOWN": {
+    "message": "R\u00e2ndul Braille urm\u0103tor"
+  },
+  "CHROMEVOX_BRAILLE_TOP": {
+    "message": "Deplaseaz\u0103 afi\u0219ajul Braille \u00een partea de sus a paginii"
+  },
+  "CHROMEVOX_BRAILLE_BOTTOM": {
+    "message": "Deplaseaz\u0103 afi\u0219ajul Braille \u00een partea de jos a paginii"
+  },
+  "CHROMEVOX_BRAILLE_DOT": {
+    "message": "punctul $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_DOTS": {
+    "message": "punctele $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_BRAILLE_CHORD": {
+    "message": "Grupul $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_VIEW_GRAPHIC_AS_BRAILLE": {
+    "message": "Vezi imaginea \u00een formatul Braille"
+  },
+  "CHROMEVOX_ACCESS_KEY": {
+    "message": "are tast\u0103 de acces, $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_ACCESS_KEY_BRL": {
+    "message": "tast\u0103 de acces: $1$",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "CHROMEVOX_LOCALE_DICT": {
+    "message": "{\"ar\": \"Arab\u0103\",\n        \"bg\": \"Bulgar\u0103\",\n        \"ca\": \"Catalan\u0103\",\n        \"cs\": \"Ceh\u0103\",\n        \"da\": \"Danez\u0103\",\n        \"de\": \"German\u0103\",\n        \"de_CH\": \"German\u0103 (Elve\u021bia)\",\n        \"de_DE\": \"German\u0103 (Germania)\",\n        \"el\": \"Greac\u0103\",\n        \"en\": \"Englez\u0103\",\n        \"en_CA\": \"Englez\u0103 (Canada)\",\n        \"en_GB\": \"Englez\u0103 (Regatul Unit)\",\n        \"en_US\": \"Englez\u0103 (Statele Unite ale Americii)\",\n        \"es\": \"Spaniol\u0103\",\n        \"et\": \"Eston\u0103\",\n        \"fr\": \"Francez\u0103\",\n        \"fr_CA\": \"Francez\u0103 (Canada)\",\n        \"fr_FR\": \"Francez\u0103 (Fran\u021ba)\",\n        \"fi\": \"Finlandez\u0103\",\n        \"he\": \"Ebraic\u0103\",\n        \"hi\": \"Hindi\",\n        \"hr\": \"Croat\u0103\",\n        \"hu\": \"Maghiar\u0103\",\n        \"is\": \"Islandez\u0103\",\n        \"it\": \"Italian\u0103\",\n        \"ko\": \"Coreean\u0103\",\n        \"lt\": \"Lituanian\u0103\",\n        \"lv\": \"Leton\u0103\",\n        \"nb\": \"Norvegian\u0103 (Bokm\u00e5l)\",\n        \"nl\": \"Neerlandez\u0103\",\n        \"pl\": \"Polonez\u0103\",\n        \"pt\": \"Portughez\u0103\",\n        \"ro\": \"Rom\u00e2n\u0103\",\n        \"ru\": \"Rus\u0103\",\n        \"sk\": \"Slovac\u0103\",\n        \"sl\": \"Sloven\u0103\",\n        \"sr\": \"S\u00e2rb\u0103\",\n        \"sv\": \"Suedez\u0103\",\n        \"tr\": \"Turc\u0103\",\n        \"vi\": \"Vietnamez\u0103\",\n        \"zh\": \"Chinez\u0103\",\n        \"zh_TW\": \"Chinez\u0103 (Han tradi\u021bional)\"}"
+  },
+  "CHROMEVOX_END_OF_TEXT_VERBOSE": {
+    "message": "Sf\u00e2r\u0219itul textului"
+  },
+  "CHROMEVOX_END_OF_TEXT_BRIEF": {
+    "message": "Sf\u00e2r\u0219it"
+  },
+  "CHROMEVOX_NEW_LINE": {
+    "message": "r\u00e2nd nou"
+  },
+  "CHROMEVOX_RETURN": {
+    "message": "sf\u00e2r\u0219it de r\u00e2nd"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY": {
+    "message": "Se ignor\u0103 urm\u0103toarea ap\u0103sare de tast\u0103"
+  },
+  "CHROMEVOX_PASS_THROUGH_KEY_DESCRIPTION": {
+    "message": "Ignor\u0103 tasta"
+  },
+  "CHROMEVOX_SHOW_CONTEXT_MENU": {
+    "message": "Afi\u0219eaz\u0103 meniul contextual"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS": {
+    "message": "Activa\u021bi/dezactiva\u021bi subtitr\u0103rile Braille"
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_ENABLED": {
+    "message": "Subtitr\u0103rile Braille sunt activate."
+  },
+  "CHROMEVOX_BRAILLE_CAPTIONS_DISABLED": {
+    "message": "Subtitr\u0103rile Braille sunt dezactivate."
+  },
+  "CHROMEVOX_IGNORING_CASE": {
+    "message": "Se ignor\u0103 scrierea cu minuscule/majuscule."
+  },
+  "CHROMEVOX_CASE_SENSITIVE": {
+    "message": "Distinge \u00eentre scrierea cu minuscule/majuscule."
+  },
+  "CHROMEVOX_BACK_KEY": {
+    "message": "\u00eenapoi"
+  },
+  "CHROMEVOX_FORWARD_KEY": {
+    "message": "\u00eenainte"
+  },
+  "CHROMEVOX_REFRESH_KEY": {
+    "message": "actualizeaz\u0103"
+  },
+  "CHROMEVOX_TOGGLE_FULL_SCREEN_KEY": {
+    "message": "activeaz\u0103/dezactiveaz\u0103 ecranul complet"
+  },
+  "CHROMEVOX_WINDOW_OVERVIEW_KEY": {
+    "message": "prezentarea ferestrei"
+  },
+  "CHROMEVOX_BRIGHTNESS_DOWN_KEY": {
+    "message": "reduce luminozitatea"
+  },
+  "CHROMEVOX_BRIGHTNESS_UP_KEY": {
+    "message": "m\u0103re\u0219te luminozitatea"
+  },
+  "CHROMEVOX_VOLUME_MUTE_KEY": {
+    "message": "dezactiveaz\u0103 sunetul"
+  },
+  "CHROMEVOX_VOLUME_DOWN_KEY": {
+    "message": "reduce volumul"
+  },
+  "CHROMEVOX_VOLUME_UP_KEY": {
+    "message": "m\u0103re\u0219te volumul"
+  },
+  "CHROMEVOX_PANEL_TITLE": {
+    "message": "Panoul ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENUS_TITLE": {
+    "message": "Meniuri ChromeVox"
+  },
+  "CHROMEVOX_PANEL_TUTORIAL_TITLE": {
+    "message": "Tutorial ChromeVox"
+  },
+  "CHROMEVOX_MENUS_TITLE": {
+    "message": "Meniuri ChromeVox"
+  },
+  "CHROMEVOX_OPTIONS": {
+    "message": "Op\u021biuni ChromeVox"
+  },
+  "CHROMEVOX_DISABLE_CHROMEVOX": {
+    "message": "Dezactiveaz\u0103 ChromeVox"
+  },
+  "CHROMEVOX_ACTIVE_TAB": {
+    "message": "(activ\u0103)"
+  },
+  "CHROMEVOX_PANEL_MENU_JUMP": {
+    "message": "Acceseaz\u0103"
+  },
+  "CHROMEVOX_PANEL_MENU_SPEECH": {
+    "message": "Voce"
+  },
+  "CHROMEVOX_PANEL_MENU_TABS": {
+    "message": "File"
+  },
+  "CHROMEVOX_PANEL_MENU_CHROMEVOX": {
+    "message": "ChromeVox"
+  },
+  "CHROMEVOX_PANEL_MENU_ACTIONS": {
+    "message": "Ac\u021biuni"
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_NONE": {
+    "message": "Niciun element."
+  },
+  "CHROMEVOX_PANEL_MENU_ITEM_REPORT_ISSUE": {
+    "message": "Semnala\u021bi o problem\u0103"
+  },
+  "CHROMEVOX_UPDATE_TITLE": {
+    "message": "ChromeVox a fost actualizat"
+  },
+  "CHROMEVOX_UPDATE_MESSAGE_NEW": {
+    "message": "Apas\u0103 pe ChromeVox o, n pentru a afla nout\u0103\u021bile"
+  },
+  "CHROMEVOX_SHOW_NEXT_UPDATE_DESCRIPTION": {
+    "message": "Afi\u0219eaz\u0103 notele privind actualizarea"
+  },
+  "CHROMEVOX_CLOSE_TUTORIAL": {
+    "message": "\u00cenchide tutorialul ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_PREVIOUS": {
+    "message": "\u00cenapoi"
+  },
+  "CHROMEVOX_TUTORIAL_NEXT": {
+    "message": "\u00cenainte"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_HEADING": {
+    "message": "Bun venit la ChromeVox!"
+  },
+  "CHROMEVOX_TUTORIAL_WELCOME_TEXT": {
+    "message": "Folose\u0219ti feedbackul rostit ChromeVox pentru prima dat\u0103? Acest tutorial rapid explic\u0103 no\u021biunile de baz\u0103 pentru a \u00eencepe s\u0103 folose\u0219ti ChromeVox."
+  },
+  "CHROMEVOX_TUTORIAL_ENTER_TO_ADVANCE": {
+    "message": "Pentru a avansa, apas\u0103 tasta Enter; pentru a reveni, apas\u0103 tasta Backspace."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF_HEADING": {
+    "message": "Activeaz\u0103, dezactiveaz\u0103 \u0219i opre\u0219te"
+  },
+  "CHROMEVOX_TUTORIAL_CONTROL": {
+    "message": "Pentru a opri temporar feedbackul rostit din ChromeVox, apas\u0103 pe tasta Ctrl."
+  },
+  "CHROMEVOX_TUTORIAL_ON_OFF": {
+    "message": "Pentru a activa sau a dezactiva ChromeVox, folose\u0219te Ctrl + Alt + Z."
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER_HEADING": {
+    "message": "Tasta de modificare ChromeVox"
+  },
+  "CHROMEVOX_TUTORIAL_MODIFIER": {
+    "message": "\u00cen ChromeVox, tasta de c\u0103utare este tasta de modificare. Majoritatea comenzilor rapide ChromeVox \u00eencep cu tasta de c\u0103utare. Vei folosi \u0219i tastele s\u0103geat\u0103 pentru navigare."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_SEARCH": {
+    "message": "Pe Chromebook, tasta de c\u0103utare se afl\u0103 imediat deasupra tastei Shift din st\u00e2nga."
+  },
+  "CHROMEVOX_TUTORIAL_ANY_KEY": {
+    "message": "\u00cen timpul acestui tutorial, apas\u0103 pe orice tast\u0103 pentru a-i auzi numele."
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION_HEADING": {
+    "message": "Navigarea de baz\u0103"
+  },
+  "CHROMEVOX_TUTORIAL_BASIC_NAVIGATION": {
+    "message": "Pentru a trece \u00eenainte de la un element din pagin\u0103 la altul, apas\u0103 pe tasta de c\u0103utare + s\u0103geata spre dreapta sau, pentru a trece \u00eenapoi, pe tasta de c\u0103utare + s\u0103geata spre st\u00e2nga. Pentru a trece pe r\u00e2ndul urm\u0103tor, apas\u0103 pe tasta de c\u0103utare + s\u0103geata \u00een jos. Pentru a reveni pe r\u00e2ndul anterior, apas\u0103 pe tasta de c\u0103utare + s\u0103geata \u00een sus. Dac\u0103 ajungi la un element pe care vrei s\u0103 dai clic, apas\u0103 pe tasta de c\u0103utare + tasta de spa\u021biu."
+  },
+  "CHROMEVOX_TUTORIAL_CLICK_NEXT": {
+    "message": "Acum folose\u0219te tasta de c\u0103utare + s\u0103geata spre dreapta pentru a g\u0103si butonul \u00cenainte, apoi apas\u0103 pe tasta de c\u0103utare + tasta de spa\u021biu pentru a da clic pe acesta."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_HEADING": {
+    "message": "Comenzi de accesare"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP": {
+    "message": "Folose\u0219te comenzile de navigare pentru a trece direct la anumite tipuri de elemente. Pentru a trece \u00eenainte de la un titlu la altul, apas\u0103 pe tasta de c\u0103utare + H sau, pentru a trece \u00eenapoi, apas\u0103 pe tasta de c\u0103utare + Shift + H."
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_SECOND_HEADING": {
+    "message": "Acesta este al doilea titlu. Continu\u0103; apas\u0103 pe tasta de c\u0103utare + H sau pe tasta de c\u0103utare + Shift + H"
+  },
+  "CHROMEVOX_TUTORIAL_JUMP_WRAP_HEADING": {
+    "message": "Acesta este ultimul titlu. Apas\u0103 pe tasta de c\u0103utare + H pentru a reveni la primul titlu sau pe tasta de c\u0103utare + Shift + H pentru a accesa cel de-al doilea titlu de pe pagin\u0103."
+  },
+  "CHROMEVOX_TUTORIAL_MENUS_HEADING": {
+    "message": "Meniuri de comenzi"
+  },
+  "CHROMEVOX_TUTORIAL_MENUS": {
+    "message": "Pentru a explora toate comenzile, inclusiv cele rapide, pentru ChromeVox, apas\u0103 pe tasta de c\u0103utare + tasta punct, apoi folose\u0219te tastele s\u0103geat\u0103 pentru a naviga \u00een meniuri \u0219i tasta Enter pentru a activa o comand\u0103. Revino aici ap\u0103s\u00e2nd pe tasta de c\u0103utare + o, apoi pe t."
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING": {
+    "message": "Comenzi rapide utile pentru Chrome"
+  },
+  "CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS": {
+    "message": "Urm\u0103toarele c\u00e2teva comenzi rapide nu sunt comenzi ChromeVox, dar sunt foarte utile pentru a folosi Chrome la poten\u021bial maxim.\nPentru a naviga \u00eenainte de la un element ac\u021bionabil la altul, cum ar fi butoane \u0219i linkuri, apas\u0103 pe tasta Tab. Pentru a naviga \u00eenapoi, apas\u0103 pe Shift + Tab.\nPentru a accesa caseta de adrese a browserului Chrome, numit\u0103 \u0219i caset\u0103 polivalent\u0103, apas\u0103 pe Ctrl + L.\nPentru a deschide \u0219i a accesa automat o fil\u0103 nou\u0103, apas\u0103 pe Ctrl + T. Cursorul se va afla \u00een caseta polivalent\u0103.\nPentru a \u00eenchide o fil\u0103, apas\u0103 pe Ctrl + W.\nPentru a trece \u00eenainte de la o fil\u0103 deschis\u0103 la alta, folose\u0219te Ctrl + Tab.\nPentru a deschide meniul browserului Chrome, apas\u0103 pe Alt + F."
+  },
+  "CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD": {
+    "message": "Pentru a trece la alte p\u0103r\u021bi ale ecranului, cum ar fi bare de instrumente sau bara de sistem, apas\u0103 pe Ctrl + tasta \u00cenainte. Pe Chromebook, tasta \u00cenainte se afl\u0103 imediat deasupra tastei 2."
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE_HEADING": {
+    "message": "Afla\u021bi mai multe"
+  },
+  "CHROMEVOX_TUTORIAL_LEARN_MORE": {
+    "message": "Felicit\u0103ri! Ai \u00eenv\u0103\u021bat no\u021biunile de baz\u0103 cu privire la folosirea ChromeVox. Re\u021bine c\u0103 po\u021bi deschide oric\u00e2nd meniul de comenzi ChromeVox ap\u0103s\u00e2nd pe tasta de c\u0103utare + tasta punct. Pentru a afla mai multe despre ChromeVox \u0219i sistemul de operare Chrome, acceseaz\u0103 urm\u0103toarele articole.\nDac\u0103 ai terminat tutorialul, folose\u0219te ChromeVox pentru a naviga la butonul \u00cenchide \u0219i d\u0103 clic pe el."
+  },
+  "CHROMEVOX_UPDATE_63_TITLE": {
+    "message": "ChromeVox a fost actualizat la versiunea 63!"
+  },
+  "CHROMEVOX_UPDATE_63_INTRO": {
+    "message": "Avem c\u00e2teva modific\u0103ri interesante \u00een noua versiune, iat\u0103 nout\u0103\u021bile:"
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_1": {
+    "message": "Versiunea clasic\u0103 a fost eliminat\u0103. Comanda de comutare de la tastatur\u0103 pentru revenirea la versiunea clasic\u0103 ChromeVox a fost eliminat\u0103."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_2": {
+    "message": "Compatibilitate cu textul \u00eembog\u0103\u021bit. ChromeVox accept\u0103 acum c\u00e2mpuri de text \u00eembog\u0103\u021bit, inclusiv comenzi de accesare, orientarea cursorului pentru textul braille, selectarea \u0219i altele."
+  },
+  "CHROMEVOX_UPDATE_63_ITEM_3": {
+    "message": "Aplica\u021bii Android pentru Chrome. Dac\u0103 ai Magazinul Play pe dispozitiv, \u00eencearc\u0103 \u00een avans ChromeVox cu aplica\u021bii Android. Testeaz\u0103 compatibilitatea experimental\u0103 desc\u0103rc\u00e2nd Google Chrome Canary din Magazinul Play."
+  },
+  "CHROMEVOX_UPDATE_63_OUTTRO": {
+    "message": "Ca de obicei, ne po\u021bi trimite feedback direct ap\u0103s\u00e2nd pe tasta de c\u0103utare + a, apoi pe i. Ne-ar face pl\u0103cere s\u0103 ne contactezi."
+  },
+  "CHROMEVOX_NEXT_COMMAND_REFERENCE": {
+    "message": "Referin\u021be pentru comenzile ChromeVox"
+  },
+  "CHROMEVOX_CHROME_KEYBOARD_SHORTCUTS": {
+    "message": "Comenzile rapide de la tastatur\u0103 pentru Chromebook"
+  },
+  "CHROMEVOX_TOUCHSCREEN_ACCESSIBILITY": {
+    "message": "Folose\u0219te func\u021biile de accesibilitate pentru ecranul tactil al Chromebookului"
+  },
+  "CHROMEVOX_BUSY_STATE": {
+    "message": "ocupat"
+  },
+  "CHROMEVOX_BUSY_STATE_BRL": {
+    "message": "ocupat"
+  },
+  "CHROMEVOX_DEFAULT_STATE": {
+    "message": "prestabilit"
+  },
+  "CHROMEVOX_DEFAULT_STATE_BRL": {
+    "message": "prestabilit"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_TITLE": {
+    "message": "Sunete"
+  },
+  "CHROMEVOX_TUTORIAL_EARCON_PAGE_BODY": {
+    "message": "ChromeVox folose\u0219te sunete pentru a-\u021bi oferi informa\u021bii esen\u021biale \u0219i suplimentare. Po\u021bi s\u0103 folose\u0219ti aceste sunete ca s\u0103 navighezi mai rapid, dac\u0103 \u00eenve\u021bi ce \u00eenseamn\u0103 fiecare sunet. Dup\u0103 ce te obi\u0219nuie\u0219ti cu ele, po\u021bi s\u0103 dezactivezi descrierile detaliate rostite \u0219i s\u0103 te bazezi pe ele pentru informa\u021biile esen\u021biale despre pagin\u0103. Iat\u0103 o list\u0103 complet\u0103 cu sunete \u0219i ce \u00eenseamn\u0103 fiecare."
+  },
+  "CHROMEVOX_ALERT_MODAL_EARCON_DESCRIPTION": {
+    "message": "O alert\u0103 \u00een fereastr\u0103 modal\u0103"
+  },
+  "CHROMEVOX_ALERT_NONMODAL_EARCON_DESCRIPTION": {
+    "message": "O alert\u0103 \u00een fereastr\u0103 non-modal\u0103"
+  },
+  "CHROMEVOX_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Un buton"
+  },
+  "CHROMEVOX_CHECK_OFF_EARCON_DESCRIPTION": {
+    "message": "O caset\u0103 de selectare nebifat\u0103"
+  },
+  "CHROMEVOX_CHECK_ON_EARCON_DESCRIPTION": {
+    "message": "O caset\u0103 de selectare bifat\u0103"
+  },
+  "CHROMEVOX_EDITABLE_TEXT_EARCON_DESCRIPTION": {
+    "message": "Un c\u00e2mp de text editabil"
+  },
+  "CHROMEVOX_INVALID_KEYPRESS_EARCON_DESCRIPTION": {
+    "message": "O ap\u0103sare de tast\u0103 nevalid\u0103"
+  },
+  "CHROMEVOX_LINK_EARCON_DESCRIPTION": {
+    "message": "Un link"
+  },
+  "CHROMEVOX_LISTBOX_EARCON_DESCRIPTION": {
+    "message": "O caset\u0103 de tip list\u0103 sau combo"
+  },
+  "CHROMEVOX_PAGE_START_LOADING_EARCON_DESCRIPTION": {
+    "message": "O \u00eenc\u0103rcare de pagin\u0103 \u00een curs"
+  },
+  "CHROMEVOX_POP_UP_BUTTON_EARCON_DESCRIPTION": {
+    "message": "Un buton pop-up"
+  },
+  "CHROMEVOX_SLIDER_EARCON_DESCRIPTION": {
+    "message": "Un glisor"
+  },
+  "CHROMEVOX_WRAP_EARCON_DESCRIPTION": {
+    "message": "Revine de la \u00eenceput la sf\u00e2r\u0219it sau de la sf\u00e2r\u0219it la \u00eenceput \u00eentr-o pagin\u0103, caset\u0103 de dialog sau alt container"
+  },
+  "CHROMEVOX_DARKEN_SCREEN": {
+    "message": "Dezactiveaz\u0103 ecranul"
+  },
+  "CHROMEVOX_UNDARKEN_SCREEN": {
+    "message": "Activeaz\u0103 ecranul"
+  },
+  "CHROMEVOX_SPEECH_OFF": {
+    "message": "Dezactiveaz\u0103 vorbirea"
+  },
+  "CHROMEVOX_SPEECH_ON": {
+    "message": "Activeaz\u0103 vorbirea"
+  },
+  "CHROMEVOX_SPEECH_ON_OFF_DESCRIPTION": {
+    "message": "Activeaz\u0103 sau dezactiveaz\u0103 vorbirea"
+  },
+  "CHROMEVOX_TOGGLE_BRAILLE_TABLE": {
+    "message": "Comut\u0103 \u00eentre braille cu 6 \u0219i 8 puncte"
+  },
+  "CHROMEVOX_MISSPELLING_START": {
+    "message": "\u00cenceputul cuv\u00e2ntului scris gre\u0219it"
+  },
+  "CHROMEVOX_MISSPELLING_END": {
+    "message": "Finalul cuv\u00e2ntului scris gre\u0219it"
+  },
+  "CHROMEVOX_GRAMMAR_START": {
+    "message": "\u00cenceputul erorii gramaticale"
+  },
+  "CHROMEVOX_GRAMMAR_END": {
+    "message": "Finalul erorii gramaticale"
+  },
+  "CHROMEVOX_TEXT_MATCH_START": {
+    "message": "\u00cenceputul potrivirii de text"
+  },
+  "CHROMEVOX_TEXT_MATCH_END": {
+    "message": "Finalul potrivirii de text"
+  },
+  "CHROMEVOX_BOLD_START": {
+    "message": "\u00cenceputul textului aldin"
+  },
+  "CHROMEVOX_BOLD_END": {
+    "message": "Finalul textului aldin"
+  },
+  "CHROMEVOX_ITALIC_START": {
+    "message": "\u00cenceputul textului cursiv"
+  },
+  "CHROMEVOX_ITALIC_END": {
+    "message": "Finalul textului cursiv"
+  },
+  "CHROMEVOX_UNDERLINE_START": {
+    "message": "\u00cenceputul textului subliniat"
+  },
+  "CHROMEVOX_UNDERLINE_END": {
+    "message": "Finalul textului subliniat"
+  },
+  "CHROMEVOX_LINE_THROUGH_START": {
+    "message": "\u00cenceputul textului t\u0103iat cu o linie"
+  },
+  "CHROMEVOX_LINE_THROUGH_END": {
+    "message": "Finalul textului t\u0103iat cu o linie"
+  },
+  "CHROMEVOX_LINK_START": {
+    "message": "\u00cenceputul linkului"
+  },
+  "CHROMEVOX_LINK_END": {
+    "message": "Finalul linkului"
+  },
+  "CHROMEVOX_ENABLE_VIRTUAL_KEYBOARD": {
+    "message": "Activeaz\u0103 tastatura pe ecran din bara de stare, func\u021bia de accesibilitate pentru a folosi comenzile braille extinse."
+  },
+  "CHROMEVOX_NO_TITLE": {
+    "message": "F\u0103r\u0103 titlu"
+  }
+}

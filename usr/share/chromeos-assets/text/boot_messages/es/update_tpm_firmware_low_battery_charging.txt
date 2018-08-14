@@ -1,0 +1,5 @@
+No tienes batería suficiente para instalar la actualización.
+
+Cargando...
+
+La actualización se iniciará automáticamente cuando la batería tenga suficiente carga.
